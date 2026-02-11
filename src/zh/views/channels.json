@@ -1,0 +1,13 @@
+{
+  "Channel health": "通道健康",
+  "Channel status snapshots from the gateway.": "来自网关的通道状态快照。",
+  "No snapshot yet.": "还没有快照。",
+  "Channel status and configuration.": "通道状态和配置。",
+  ">Configured<": ">配置<",
+  "\"Yes\"": "\"是\"",
+  "\"Active\"": "\"活跃\"",
+  "\"No\"": "\"否\"",
+  ">Running<": ">运行中<",
+  ">Connected<": ">已连接<",
+  ">Last inbound<": ">最后入站<"
+}

@@ -1,0 +1,23 @@
+{
+  "Compacting context...": "正在压缩上下文...",
+  "Context compacted": "上下文已压缩",
+  "Attachment preview": "附件预览",
+  "Remove attachment": "移除附件",
+  "Add a message or paste more images...": "添加消息或粘贴更多图片...",
+  "Message \\(↩ to send, Shift\\+↩ for line breaks, paste images\\)": "消息（回车发送，Shift + 回车换行，可粘贴图片）",
+  "Connect to the gateway to start chatting…": "连接到网关以开始聊天…",
+  "Loading chat…": "正在加载聊天…",
+  "Exit focus mode": "退出专注模式",
+  ">Queued ": ">队列 ",
+  "Image \\(": "图片 (",
+  "Remove queued message": "移除队列消息",
+  "New messages ": "新消息 ",
+  ">Message<": ">消息<",
+  "\"Stop\"": "\"停止\"",
+  "New session": "新会话",
+  "\"Queue\"": "\"队列\"",
+  "\"Send\"": "\"发送\"",
+  "Showing last ": "显示最后 ",
+  "\\} messages": "} 条消息",
+  "\\} hidden": "} 隐藏"
+}

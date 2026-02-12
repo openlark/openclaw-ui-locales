@@ -1,0 +1,16 @@
+{
+  "Disconnected from gateway.": "已断开与网关的连接。",
+
+  "\"Expand sidebar\"": "\"展开侧边栏\"",
+  "\"Collapse sidebar\"": "\"折叠侧边栏\"",
+
+  ">Health<": ">健康<",
+  "\"OK\"": "\"正常\"",
+  "\"Offline\"": "\"离线\"",
+  
+  ">Gateway Dashboard<": ">网关仪表板<",
+
+  ">Resources<": ">资源<",
+  "Docs \\(opens in new tab\\)": "文档（在新标签页中打开）",
+  ">Docs<": ">文档<"
+}

@@ -90,7 +90,8 @@
   "Distinct sessions in the range.": "范围内的不同会话。",
   "  Throughput": " 吞吐量",
   "  Error Rate": " 错误率",
-      
+
+  ">Usage<": ">使用<",
   "See where tokens go, when sessions spike, and what drives cost.": "查看令牌的去向、会话激增的时间以及成本的驱动因素。",
   ">Filters<": ">过滤器<",
   ">Loading<": ">加载中<",
@@ -102,13 +103,12 @@
   "  Daily ": " 每日 ",
   "Filter sessions \\(e.g. key:agent:main:cron\\* model:gpt-4o has:errors minTokens:2000\\)": "筛选会话（例如：key:agent:main:cron* model:gpt-4o has:errors minTokens:2000）",
   " Filter (client-side)": " 过滤（客户端）",
-  "} sessions match": "} 会话匹配",
+  "\\} sessions match": "} 会话匹配",
   "\\} sessions in range": "} 范围内的会话",
 
   "Tip: use filters or click bars to filter days.": "提示：使用筛选器或点击条来筛选日期。",
 
-
-  "  All": " 全部",
+  "  All ": " 全部 ",
   " Recently viewed": " 最近浏览",
   ">No sessions in range<": ">范围内没有会话<",
   ">No recent sessions<": ">最近没有会话<",

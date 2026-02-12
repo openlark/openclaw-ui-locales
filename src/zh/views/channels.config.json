@@ -18,9 +18,8 @@
   "No profile set. Click \"Edit Profile\" to add your name, bio, and avatar.": "未设置个人资料。点击“编辑个人资料”添加您的姓名、个人简介和头像。",
   "\"ok\"": "\"成功\"",
   "\"failed\"": "\"失败\"",
-  "\"Saving…\"": "\"正在保存…\"",
+  "\"Saving…\"": "\"保存中…\"",
   "\"Save\"": "\"保存\"",
-  "  Reload": " 重新加载",
   "  probe": " 探针",
   
   "macOS bridge status and channel configuration.": "macOS 桥接状态和通道配置。",

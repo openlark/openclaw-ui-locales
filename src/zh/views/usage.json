@@ -63,7 +63,7 @@
   ">Cache Write": ">缓存写入",
   ">Cache Read": ">缓存读取",
   
-  "Cache hit rate = cache read / \\(input + cache read\\). Higher is better.": "缓存命中率 = 缓存读取 / (输入 + 缓存读取)。越高越好。",
+  "Cache hit rate = cache read / \\(input \\+ cache read\\). Higher is better.": "缓存命中率 = 缓存读取 / (输入 + 缓存读取)。越高越好。",
   "Error rate = errors / total messages. Lower is better.": "错误率 = 错误数 / 总消息数。越低越好。",
   "Throughput shows tokens per minute over active time. Higher is better.": "吞吐量显示每分钟处理的代币数量。数值越高越好。",
   "Average tokens per message in this range.": "此范围内每条消息的平均令牌数。",
@@ -74,7 +74,7 @@
   "\\} msgs · ": "} 条消息 · ",
 
   ">Usage Overview<": ">使用概览<",
-  "Total user + assistant messages in range.": "范围内的用户助手消息总数。",
+  "Total user \\+ assistant messages in range.": "范围内的用户助手消息总数。",
   "\\} user · ": "} 个用户 · ",
   "\\} assistant": "} 个助手",
   "  Tool Calls": " 工具调用",

@@ -32,6 +32,8 @@ class App {
       // locale json file directory
       const localeJsonDir: string = `./src/${answers.language}`
 
+      if (!fs.existsSync(localeJsonDir)) return
+
       for (let i = 0; i < assetsFiles.length; i++) {
         const file: string = assetsFiles[i]
 
@@ -72,6 +74,8 @@ class App {
    * Read Directory
    */
   readDirectory(sourceDir: string, callback: Function) {
+    if (!fs.existsSync(sourceDir)) return
+
     fs.readdirSync(sourceDir).forEach(async (file: string) => {
       let sourceFile = path.join(sourceDir, file)
 

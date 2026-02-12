@@ -25,6 +25,12 @@ class App {
       const globalRoot: string = execSync('npm root -g').toString().trim()
       // Install the global path for OpenClaw
       const openclawDir: string = path.join(globalRoot, 'openclaw')
+
+      if (!fs.existsSync(openclawDir)) {
+        console.error(`OpenClaw is not installed`)
+        return
+      }
+
       // UI assets file path
       const openclawUIAssetsDir: string = path.join(openclawDir, '/dist/control-ui/assets')
       // Read UI assets file path folder directory
@@ -32,7 +38,10 @@ class App {
       // locale json file directory
       const localeJsonDir: string = `./src/${answers.language}`
 
-      if (!fs.existsSync(localeJsonDir)) return
+      if (!fs.existsSync(localeJsonDir)) {
+        console.error(`${localeJsonDir} path does not exist`)
+        return
+      }
 
       for (let i = 0; i < assetsFiles.length; i++) {
         const file: string = assetsFiles[i]

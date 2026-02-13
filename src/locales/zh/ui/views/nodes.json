@@ -11,12 +11,12 @@
   " · requested ": "· 请求",
   ">Tokens: none<": ">令牌：无<",
 
-  "label: \"Deny\"": "label: \"拒绝\"",
-  "label: \"Allowlist\"": "label: \"允许列表\"",
-  "label: \"Full\"": "label: \"全部\"",
-  "label: \"Off\"": "label: \"关\"",
-  "label: \"On miss\"": "label: \"错过\"",
-  "label: \"Always\"": "label: \"总是\"",
+  "\"Deny\"": "\"拒绝\"",
+  "\"Allowlist\"": "\"允许列表\"",
+  "\"Full\"": "\"全部\"",
+  "\"Off\"": "\"关\"",
+  "\"On miss\"": "\"错过\"",
+  "\"Always\"": "\"总是\"",
 
   ">Exec node binding<": ">执行节点绑定<",
   "  Pin agents to a specific node when using ": " 使用时将代理固定到特定节点 ",

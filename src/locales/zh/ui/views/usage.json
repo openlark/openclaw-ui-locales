@@ -33,15 +33,15 @@
   "\"cacheReadCost\",": "\"缓存读取成本\",",
   "\"cacheWriteCost\",": "\"缓存写入成本\",",
 
-  "label: \"agent:\",": "label: \"代理\",",
-  "label: \"channel:\",": "label: \"通道\",",
-  "label: \"provider:\",": "label: \"提供商\",",
-  "label: \"model:\",": "label: \"模型\",",
-  "label: \"tool:\",": "label: \"工具\",",
-  "label: \"has:errors:\",": "label: \"有错误\",",
-  "label: \"has:tools:\",": "label: \"有工具\",",
-  "label: \"minTokens:\",": "label: \"最小令牌\",",
-  "label: \"maxCost:\",": "label: \"最大成本\",",
+  "\"agent:\",": "\"代理\",",
+  "\"channel:\",": "\"通道\",",
+  "\"provider:\",": "\"提供商\",",
+  "\"model:\",": "\"模型\",",
+  "\"tool:\",": "\"工具\",",
+  "\"has:errors:\",": "\"有错误\",",
+  "\"has:tools:\",": "\"有工具\",",
+  "\"minTokens:\",": "\"最小令牌\",",
+  "\"maxCost:\",": "\"最大成本\",",
 
   ">Days:": ">天数：",
   "\"Remove filter\"": "\"取消过滤\"",
@@ -84,7 +84,7 @@
   "  Avg Tokens / Msg": " 平均每条消息的令牌数",
   ">Across ": ">共",
   "\\} messages": "} 条消息",
-  "Avg Cost / Msg": "平均每条消息成本",
+  "Avg Cost \/ Msg": "平均每条消息成本",
   "\\} total<": "} 总计<",
 
   "Distinct sessions in the range.": "范围内的不同会话。",
@@ -112,6 +112,5 @@
   " Recently viewed": " 最近浏览",
   ">No sessions in range<": ">范围内没有会话<",
   ">No recent sessions<": ">最近没有会话<",
-  "} shown": "} 显示"
-  
+  "\\} shown": "} 显示"
 }

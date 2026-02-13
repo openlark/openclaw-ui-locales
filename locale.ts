@@ -29,37 +29,48 @@ function main() {
       return
     }
 
-    // UI assets file path
-    const openclawUIAssetsDir: string = path.join(openclawDir, '/dist/control-ui/assets')
-    // Read UI assets file path folder directory
-    const assetsFiles: Array<string> = fs.readdirSync(openclawUIAssetsDir)
-    // locale json file directory
-    const localeJsonDir: string = `./src/locales/${answers.language}`
-
-    if (!fs.existsSync(localeJsonDir)) {
-      console.error(`${localeJsonDir} path does not exist`)
-      return
-    }
-
     await open(openclawDir)
 
-    for (let i = 0; i < assetsFiles.length; i++) {
-      const file: string = assetsFiles[i]
+    handleControlUIContents(openclawDir, answers)
 
-      // Find js file (index-xxxxxx.js)
-      if (path.extname(file) === '.js') {
-        const jsFileName: string = path.join(openclawUIAssetsDir, file)
-        let jsContent = fs.readFileSync(jsFileName, 'utf-8')
+  }).catch((error: any) => {
+    console.log(error)
+  })
 
-        fs.writeFileSync(jsFileName + `.${Date.now()}.bak`, jsContent)
+}
 
-        // Read locale folder directory
-        readDirectory(localeJsonDir, (srcFile: any) => {
-          // Find json file
-          if (path.extname(srcFile) === '.json') {
-            const jsonContent: string = fs.readFileSync(srcFile, 'utf-8')
+// hanlde /ui/ui/
+function handleControlUIContents(openclawDir: string, answers: any) {
+  // UI assets file path
+  const openclawUIAssetsDir: string = path.join(openclawDir, '/dist/control-ui/assets')
+  // Read UI assets file path folder directory
+  const assetsFiles: Array<string> = fs.readdirSync(openclawUIAssetsDir)
+  // locale json file directory
+  const localeJsonDir: string = `./src/locales/${answers.language}/ui`
 
-            if (jsonContent) {
+  if (!fs.existsSync(localeJsonDir)) {
+    console.error(`${localeJsonDir} path does not exist`)
+    return
+  }
+
+  for (let i = 0; i < assetsFiles.length; i++) {
+    const file: string = assetsFiles[i]
+
+    // Find js file (index-xxxxxx.js)
+    if (path.extname(file) === '.js') {
+      const jsFileName: string = path.join(openclawUIAssetsDir, file)
+      let jsContent = fs.readFileSync(jsFileName, 'utf-8')
+
+      fs.writeFileSync(jsFileName + `.${Date.now()}.bak`, jsContent)
+
+      // Read locale folder directory
+      readDirectory(localeJsonDir, (srcFile: any) => {
+        // Find json file
+        if (path.extname(srcFile) === '.json') {
+          const jsonContent: string = fs.readFileSync(srcFile, 'utf-8')
+
+          if (jsonContent) {
+            try {
               const json = JSON.parse(jsonContent)
               if (typeof json === 'object') {
                 for (const key in json) {
@@ -67,16 +78,15 @@ function main() {
                 }
               }
               console.log(`${srcFile} successed.`)
+            } catch (error) {
+              console.error(error)
             }
           }
-          fs.writeFileSync(jsFileName, jsContent)
-        })
-      }
+        }
+        fs.writeFileSync(jsFileName, jsContent)
+      })
     }
-  }).catch((error: any) => {
-    console.log(error)
-  })
-
+  }
 }
 
 /**

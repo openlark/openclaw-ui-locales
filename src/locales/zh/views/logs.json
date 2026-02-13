@@ -1,0 +1,12 @@
+{
+  ">Logs<": ">日志<",
+  "Gateway file logs \\(JSONL\\).": "网关文件日志（JSONL）。",
+  "\"filtered\"": "\"已过滤\"",
+  "\"visible\"": "\"可见\"",
+  " Export ": " 导出 ",
+  "\"Search logs\"": "\"搜索日志\"",
+  ">Auto-follow<": ">自动关注<",
+  "Log output truncated; showing latest chunk.": "日志输出被截断；显示最新部分。",
+  ">Last heartbeat<": ">最后的心跳<",
+  "No log entries.": "没有日志条目。"
+}

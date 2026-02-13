@@ -12,7 +12,8 @@ function main() {
     {
       type: 'list', name: 'language', message: 'Please select a language', choices: [
         { name: '简体中文', value: 'zh' },
-        { name: 'English', value: 'en' }
+        { name: '日本語', value: 'ja' },
+        { name: '한국어', value: 'ko' }
       ]
     }
   ]

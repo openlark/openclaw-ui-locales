@@ -11,7 +11,7 @@ flowchart LR
   A["聊天应用 + 插件"] --> B["网关"]
   B --> C["Pi代理"]
   B --> D["CLI"]
-  B --> E[""Web 控制界面"]
+  B --> E["Web 控制界面"]
   B --> F["macOS 应用"]
   B --> G["iOS 和 Android 节点"]
 ```
@@ -128,7 +128,7 @@ git clone https://github.com/openlark/openclaw-ui-locales.git
 cd openclaw-ui-locales
 
 npm install
-npm run dev
+npm run locale
 ```
 
 

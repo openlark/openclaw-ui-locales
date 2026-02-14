@@ -22,6 +22,7 @@ OpenClaw is a **self-hosted gateway** that connects your favorite chat apps — 
 ## How it works
 
 ```mermaid
+flowchart LR
   A["Chat apps + plugins"] --> B["Gateway"]
   B --> C["Pi agent"]
   B --> D["CLI"]

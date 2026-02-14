@@ -4,6 +4,8 @@
 
 <h1 align="center">OpenClaw UI Locales</h1>
 
+[简体中文](./README.md) • [English](./README_en.md)
+
 <p align="center">
   <strong>Eliminate language barriers and let OpenClaw serve you in the language you are most familiar with</strong>
 </p>

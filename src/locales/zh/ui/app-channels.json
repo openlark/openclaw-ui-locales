@@ -1,12 +1,10 @@
 {
-  "\"Refresh chat data\"": "\"刷新聊天数据\"",
-  "\"Disabled during onboarding\"": "\"在入职期间被禁用\"",
-  "\"Toggle assistant thinking/working output\"": "\"切换助手思考/工作输出\"",
-  "\"Toggle focus mode \\(hide sidebar \\+ page header\\)\"": "\"切换专注模式（隐藏侧边栏和页面头部）\"",
-  "\"System theme\"": "\"系统主题\"",
-  "\"System\"": "\"系统主题\"",
-  "\"Light theme\"": "\"浅色主题\"",
-  "\"Light\"": "\"浅色主题\"",
-  "\"Dark theme\"": "\"深色主题\"",
-  "\"Dark\"": "\"深色主题\""
+  "Profile update failed \\(": "个人资料更新失败 (",
+  "Profile publish failed on all relays.": "个人资料发布在所有中继服务器上均失败。",
+  "Profile published to relays.": "个人资料已发布至中继服务器。",
+  "Profile update failed: ": "个人资料更新失败： ",
+  "Profile import failed \\(": "个人资料导入失败 (",
+  "Profile imported from relays. Review and publish.": "个人资料已从Relays导入。请审核并发布。",
+  "Profile imported. Review and publish.": "个人资料已导入。请审核并发布。",
+  "Profile import failed: ": "个人资料导入失败： "
 }

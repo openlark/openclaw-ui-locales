@@ -1,11 +1,11 @@
 {
   "name": "openclaw-ui-locales",
-  "version": "0.2.0",
-  "description": "OpenClaw UI Locales,Supports Chinese version.",
+  "version": "0.2.1",
+  "description": "Eliminate language barriers and let OpenClaw serve you in the language you are most familiar with.",
   "private": true,
   "scripts": {
-    "locale": "bun run ./locale.ts",
-    "openclaw": "bun run ./install.ts"
+    "locale": "bun run ./scripts/locale.ts",
+    "openclaw": "bun run ./scripts/openclaw.ts"
   },
   "dependencies": {
     "inquirer": "8.2.5",

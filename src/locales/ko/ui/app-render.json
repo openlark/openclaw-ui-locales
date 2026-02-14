@@ -1,0 +1,16 @@
+{
+  "Disconnected from gateway.": "게이트웨이와의 연결이 끊어졌습니다.",
+
+  "\"Expand sidebar\"": "\"사이드바 확장\"",
+  "\"Collapse sidebar\"": "\"사이드바 축소\"",
+
+  ">Health<": ">상태<",
+  "\"OK\"": "\"정상\"",
+  "\"Offline\"": "\"오프라인\"",
+  
+  ">Gateway Dashboard<": ">게이트웨이 대시보드<",
+
+  ">Resources<": ">리소스<",
+  "Docs \\(opens in new tab\\)": "문서 (새 탭에서 열기)",
+  ">Docs<": ">문서<"
+}

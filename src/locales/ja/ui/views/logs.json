@@ -1,0 +1,12 @@
+{
+  ">Logs<": ">ログ<",
+  "Gateway file logs \\(JSONL\\).": "ゲートウェイファイルログ（JSONL）。",
+  "\"filtered\"": "\"フィルター済み\"",
+  "\"visible\"": "\"表示中\"",
+  " Export ": " エクスポート ",
+  "\"Search logs\"": "\"ログ検索\"",
+  ">Auto-follow<": ">自動フォロー<",
+  "Log output truncated; showing latest chunk.": "ログ出力は切り捨てられました。最新のチャンクを表示しています。",
+  ">Last heartbeat<": ">最終ハートビート<",
+  "No log entries.": "ログエントリがありません。"
+}

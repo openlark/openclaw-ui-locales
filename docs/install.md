@@ -2,7 +2,7 @@
 
 ## 系统要求
 
-- **Node >=22**（如果缺失，安装脚本会自动安装）
+- **[Node 22+](https://nodejs.org/zh-cn/download)**（如果缺失，安装脚本会自动安装）
 - macOS、Linux 或 Windows
 - 如果从源代码构建，只支持 pnpm
 
@@ -40,7 +40,7 @@ openclaw onboard --install-daemon
 
 ```bash
 pnpm add -g openclaw@latest
-# 批准 openclaw、node-llama-cpp、sharp 等依赖
+# 审批 openclaw、node-llama-cpp、sharp 等依赖
 pnpm approve-builds -g        
 openclaw onboard --install-daemon
 ```
@@ -96,4 +96,3 @@ openclaw gateway restart
 - **OPENCLAW_HOME** 用于基于用户目录的内部路径
 - **OPENCLAW_STATE_DIR** 用于可变状态存储位置
 - **OPENCLAW_CONFIG_PATH** 用于配置文件存储位置
-

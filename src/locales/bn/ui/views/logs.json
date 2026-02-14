@@ -1,0 +1,12 @@
+{
+  ">Logs<": ">লগ<",
+  "Gateway file logs \\(JSONL\\).": "গেটওয়ে ফাইল লগ (JSONL)।",
+  "\"filtered\"": "\"ফিল্টার করা হয়েছে\"",
+  "\"visible\"": "\"দৃশ্যমান\"",
+  " Export ": " এক্সপোর্ট ",
+  "\"Search logs\"": "\"লগ অনুসন্ধান করুন\"",
+  ">Auto-follow<": ">অটো-ফলো<",
+  "Log output truncated; showing latest chunk.": "লগ আউটপুট ছাঁটা হয়েছে; সর্বশেষ অংশ দেখানো হচ্ছে।",
+  ">Last heartbeat<": ">শেষ হার্টবিট<",
+  "No log entries.": "কোন লগ এন্ট্রি নেই।"
+}

@@ -12,8 +12,14 @@ function main() {
     {
       type: 'list', name: 'language', message: 'Please select a language', choices: [
         { name: '简体中文', value: 'zh' },
+        // 日语 Japanese
         { name: '日本語', value: 'ja' },
-        { name: '한국어', value: 'ko' }
+        // 韩语 Korean
+        { name: '한국어', value: 'ko' },
+        // 法语 French
+        { name: 'Français', value: 'fr' },
+        // 孟加拉语 Bangla
+        { name: 'বাংলা', value: 'bn' },
       ]
     }
   ]

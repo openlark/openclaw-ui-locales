@@ -53,7 +53,7 @@
   "\\} Usage<": "} 使用<",
   "\\} tokens<": "} 令牌<",
   
-  "\"Tokens\":\"Cost\"} by Type": "\"按类型的代币\" : \"按类型的费用\"}",
+  "\"Tokens\":\"Cost\"} by Type": "\"按类型的令牌\" : \"按类型的费用\"}",
   "\"Output: ": "\"输出：",
   "\"Input: ": "\"输入：",
   "\"Cache Write: ": "\"缓存写入：",
@@ -65,7 +65,7 @@
   
   "Cache hit rate = cache read / \\(input \\+ cache read\\). Higher is better.": "缓存命中率 = 缓存读取 / (输入 + 缓存读取)。越高越好。",
   "Error rate = errors / total messages. Lower is better.": "错误率 = 错误数 / 总消息数。越低越好。",
-  "Throughput shows tokens per minute over active time. Higher is better.": "吞吐量显示每分钟处理的代币数量。数值越高越好。",
+  "Throughput shows tokens per minute over active time. Higher is better.": "吞吐量显示每分钟处理的令牌数量。数值越高越好。",
   "Average tokens per message in this range.": "此范围内每条消息的平均令牌数。",
   "Average cost per message when providers report costs. Cost data is missing for some or all sessions in this range.": "当提供商报告成本时，每条消息的平均成本。在此范围内的某些或所有会话的成本数据缺失。",
   "Average cost per message when providers report costs.": "当供应商报告成本时，每条消息的平均成本。",
@@ -83,7 +83,6 @@
   "Total message/tool errors in range.": "范围内的总消息/工具错误数。",
   "  Avg Tokens / Msg": " 平均每条消息的令牌数",
   ">Across ": ">共",
-  "\\} messages": "} 条消息",
   "Avg Cost \/ Msg": "平均每条消息成本",
   "\\} total<": "} 总计<",
 

@@ -1,0 +1,10 @@
+{
+  "Profile update failed \\(": "প্রোফাইল আপডেট ব্যর্থ হয়েছে (",
+  "Profile publish failed on all relays.": "সমস্ত রিলে সার্ভারে প্রোফাইল প্রকাশ ব্যর্থ হয়েছে।",
+  "Profile published to relays.": "প্রোফাইল রিলে সার্ভারে প্রকাশিত হয়েছে।",
+  "Profile update failed: ": "প্রোফাইল আপডেট ব্যর্থ হয়েছে: ",
+  "Profile import failed \\(": "প্রোফাইল ইম্পোর্ট ব্যর্থ হয়েছে (",
+  "Profile imported from relays. Review and publish.": "প্রোফাইল রিলে থেকে ইম্পোর্ট করা হয়েছে। পর্যালোচনা করে প্রকাশ করুন।",
+  "Profile imported. Review and publish.": "প্রোফাইল ইম্পোর্ট করা হয়েছে। পর্যালোচনা করে প্রকাশ করুন।",
+  "Profile import failed: ": "প্রোফাইল ইম্পোর্ট ব্যর্থ হয়েছে: "
+}

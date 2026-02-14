@@ -1,0 +1,10 @@
+{
+  "Profile update failed \\(": "プロフィールの更新に失敗しました (",
+  "Profile publish failed on all relays.": "全てのリレーでのプロフィール公開に失敗しました。",
+  "Profile published to relays.": "プロフィールがリレーに公開されました。",
+  "Profile update failed: ": "プロフィールの更新に失敗しました： ",
+  "Profile import failed \\(": "プロフィールのインポートに失敗しました (",
+  "Profile imported from relays. Review and publish.": "プロフィールがリレーからインポートされました。確認して公開してください。",
+  "Profile imported. Review and publish.": "プロフィールがインポートされました。確認して公開してください。",
+  "Profile import failed: ": "プロフィールのインポートに失敗しました： "
+}

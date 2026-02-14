@@ -1,0 +1,12 @@
+{
+  "Channel health": "채널 상태",
+  "Channel status snapshots from the gateway.": "게이트웨이의 채널 상태 스냅샷.",
+  "No snapshot yet.": "아직 스냅샷이 없습니다.",
+  "Channel status and configuration.": "채널 상태 및 구성.",
+  "\"Yes\"": "\"예\"",
+  "\"Active\"": "\"활성\"",
+  "\"No\"": "\"아니요\"",
+  ">Running<": ">실행 중<",
+  ">Connected<": ">연결됨<",
+  ">Last inbound<": ">마지막 인바운드<"
+}

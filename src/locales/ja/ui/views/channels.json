@@ -1,0 +1,12 @@
+{
+  "Channel health": "チャンネルヘルス",
+  "Channel status snapshots from the gateway.": "ゲートウェイからのチャンネルステータススナップショット。",
+  "No snapshot yet.": "スナップショットはまだありません。",
+  "Channel status and configuration.": "チャンネルのステータスと設定。",
+  "\"Yes\"": "\"はい\"",
+  "\"Active\"": "\"アクティブ\"",
+  "\"No\"": "\"いいえ\"",
+  ">Running<": ">実行中<",
+  ">Connected<": ">接続済み<",
+  ">Last inbound<": ">最終受信<"
+}

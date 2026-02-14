@@ -1,0 +1,23 @@
+{
+  "Compacting context...": "コンテキストを圧縮中...",
+  "Context compacted": "コンテキストを圧縮しました",
+  "Attachment preview": "添付ファイルプレビュー",
+  "Remove attachment": "添付ファイルを削除",
+  "Add a message or paste more images...": "メッセージを追加するか、画像を貼り付けてください...",
+  "Message \\(↩ to send, Shift\\+↩ for line breaks, paste images\\)": "メッセージ（↩：送信、Shift+↩：改行、画像貼り付け可）",
+  "Connect to the gateway to start chatting…": "ゲートウェイに接続してチャットを開始してください…",
+  "Loading chat…": "チャットを読み込んでいます…",
+  "Exit focus mode": "フォーカスモードを終了",
+  ">Queued ": ">キュー済み ",
+  "Image \\(": "画像 (",
+  "Remove queued message": "キューされたメッセージを削除",
+  "New messages ": "新着メッセージ ",
+  ">Message<": ">メッセージ<",
+  "\"Stop\"": "\"停止\"",
+  "New session": "新規セッション",
+  "\"Queue\"": "\"キュー\"",
+  "\"Send\"": "\"送信\"",
+  "Showing last ": "最後の ",
+  "\\} messages": "} 件のメッセージを表示",
+  "\\} hidden": "} 件を非表示"
+}

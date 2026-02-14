@@ -1,0 +1,12 @@
+{
+  ">Logs<": ">로그<",
+  "Gateway file logs \\(JSONL\\).": "게이트웨이 파일 로그 (JSONL).",
+  "\"filtered\"": "\"필터링됨\"",
+  "\"visible\"": "\"표시됨\"",
+  " Export ": " 내보내기 ",
+  "\"Search logs\"": "\"로그 검색\"",
+  ">Auto-follow<": ">자동 팔로우<",
+  "Log output truncated; showing latest chunk.": "로그 출력이 잘렸습니다. 최신 부분을 표시합니다.",
+  ">Last heartbeat<": ">마지막 하트비트<",
+  "No log entries.": "로그 항목이 없습니다."
+}

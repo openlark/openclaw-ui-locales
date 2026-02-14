@@ -4,7 +4,7 @@
 
 <h1 align="center">OpenClaw UI Locales</h1>
 
-[简体中文](./README.md) • [English](./README_en.md)
+[简体中文](./README.md) | [English](./README_en.md)
 
 <p align="center">
   <strong>Eliminate language barriers and let OpenClaw serve you in the language you are most familiar with</strong>
@@ -20,7 +20,7 @@
 
 ## Overview
 
-**OpenClaw UI Locales** is a tool that provides Chinese, Japanese, and Korean language options for the OpenClaw Web control interface, allowing you to completely eliminate language barriers and operate your devices efficiently in the language you are most comfortable with.
+**OpenClaw UI Locales** is a tool that provides Chinese, Japanese, Korean, French, Bangla language options for the OpenClaw Web control interface, allowing you to completely eliminate language barriers and operate your devices efficiently in the language you are most comfortable with.
 
 ## Install
 
@@ -34,6 +34,11 @@ npm install
 npm run locale
 ```
 
+## Execution Interface Diagram
+
+<img src="./assets/locale.png" width="100%" alt="locale" />
+
+
 ## 💬 Community
 
 Join our community to connect with other users, get support, and share your experiences.
@@ -42,3 +47,26 @@ Join our community to connect with other users, get support, and share your expe
 | :---: | :---: | :---: |
 | <img src="https://j9d.cn/static/qr/wechat.png" width="150" alt="WeChat QR Code" /> | <img src="https://j9d.cn/static/qr/feishu.png" width="150" alt="Feishu QR Code" /> | <img src="https://j9d.cn/static/qr/dingtalk.png" width="150" alt="Dingtalk QR Code" /> |
 ---
+
+
+## Switching UI Interfaces to Different Languages
+
+### Simplified Chinese UI
+
+<img src="./assets/ui/zh.png" width="100%" alt="zh UI" />
+
+### Japanese UI
+
+<img src="./assets/ui/ja.png" width="100%" alt="ja UI" />
+
+### Korean UI
+
+<img src="./assets/ui/ko.png" width="100%" alt="ko UI" />
+
+### French UI
+
+<img src="./assets/ui/fr.png" width="100%" alt="fr UI" />
+
+### Bangla UI
+
+<img src="./assets/ui/bn.png" width="100%" alt="bn UI" />

@@ -1,0 +1,17 @@
+{
+  ">Snapshots<": ">スナップショット<",
+  "Status, health, and heartbeat data.": "ステータス、ヘルス、ハートビートデータ。",
+  " Security audit:": " セキュリティ監査：",
+  "\\}. Run": "}. 実行",
+  "> for details.": "> 詳細はこちら。",
+  ">Last heartbeat<": ">最終ハートビート<",
+  ">Manual RPC<": ">手動RPC<",
+  "Send a raw gateway method with JSON params.": "JSONパラメータを使用して生のゲートウェイメソッドを送信します。",
+  ">Method<": ">メソッド<",
+  ">Params \\(JSON\\)<": ">パラメータ (JSON)<",
+  ">Models<": ">モデル<",
+  ">Call<": ">呼び出し<",
+  "Catalog from models.list.": "models.list からのカタログ。",
+  ">Event Log<": ">イベントログ<",
+  "Latest gateway events.": "最新のゲートウェイイベント。"
+}

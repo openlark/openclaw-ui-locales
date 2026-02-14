@@ -1,0 +1,12 @@
+{
+  ">Logs<": ">Journaux<",
+  "Gateway file logs \\(JSONL\\).": "Journaux de fichiers de la passerelle (JSONL).",
+  "\"filtered\"": "\"filtré\"",
+  "\"visible\"": "\"visible\"",
+  " Export ": " Exporter ",
+  "\"Search logs\"": "\"Rechercher dans les journaux\"",
+  ">Auto-follow<": ">Suivi automatique<",
+  "Log output truncated; showing latest chunk.": "Sortie du journal tronquée ; affichage des dernières parties.",
+  ">Last heartbeat<": ">Dernier battement<",
+  "No log entries.": "Aucune entrée de journal."
+}

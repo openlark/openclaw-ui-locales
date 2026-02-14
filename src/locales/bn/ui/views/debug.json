@@ -1,0 +1,17 @@
+{
+  ">Snapshots<": ">স্ন্যাপশট<",
+  "Status, health, and heartbeat data.": "স্ট্যাটাস, স্বাস্থ্য এবং হার্টবিট ডেটা।",
+  " Security audit:": " নিরাপত্তা অডিট:",
+  "\\}. Run": "}. চালান",
+  "> for details.": "> বিস্তারিত জানতে।",
+  ">Last heartbeat<": ">শেষ হার্টবিট<",
+  ">Manual RPC<": ">ম্যানুয়াল RPC<",
+  "Send a raw gateway method with JSON params.": "JSON প্যারাম সহ একটি র গেটওয়ে মেথড পাঠান।",
+  ">Method<": ">মেথড<",
+  ">Params \\(JSON\\)<": ">প্যারাম (JSON)<",
+  ">Models<": ">মডেল<",
+  ">Call<": ">কল করুন<",
+  "Catalog from models.list.": "models.list থেকে ক্যাটালগ।",
+  ">Event Log<": ">ইভেন্ট লগ<",
+  "Latest gateway events.": "সর্বশেষ গেটওয়ে ইভেন্ট।"
+}

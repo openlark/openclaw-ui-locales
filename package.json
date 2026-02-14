@@ -1,6 +1,6 @@
 {
   "name": "openclaw-ui-locales",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Eliminate language barriers and let OpenClaw serve you in the language you are most familiar with.",
   "private": true,
   "scripts": {

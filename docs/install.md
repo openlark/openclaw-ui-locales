@@ -1,17 +1,15 @@
-# OpenClaw安装
+# OpenClaw Install
 
-## 系统要求
+##  System requirements
+- **[Node 22+](https://nodejs.org/zh-cn/download)** (the installer script will install it if missing)
+- macOS, Linux, or Windows
+- pnpm only if you build from source
 
-- **[Node 22+](https://nodejs.org/zh-cn/download)**（如果缺失，安装脚本会自动安装）
-- macOS、Linux 或 Windows
-- 如果从源代码构建，只支持 pnpm
+## Install methods
 
+### Installer script
 
-## 安装方法
-
-### 安装脚本
-
-下载命令行工具，通过 npm 全局安装，并启动入门向导。
+Downloads the CLI, installs it globally via npm, and launches the onboarding wizard.
 
 **macOS / Linux / WSL2**
 
@@ -27,7 +25,7 @@ iwr -useb https://openclaw.ai/install.ps1 | iex
 
 ### npm / pnpm 
 
-若已安装[Node 22+](https://nodejs.org/zh-cn/download)且希望自行管理安装：
+If you already have [Node 22+](https://nodejs.org/zh-cn/download) and prefer to manage the install yourself:
 
 **npm**
 
@@ -40,18 +38,18 @@ openclaw onboard --install-daemon
 
 ```bash
 pnpm add -g openclaw@latest
-# 审批 openclaw、node-llama-cpp、sharp 等依赖
+# approve openclaw, node-llama-cpp, sharp, etc.
 pnpm approve-builds -g        
 openclaw onboard --install-daemon
 ```
 
-### 从源代码安装
+### From Source
 
-适用于贡献者或希望从本地代码库运行的用户。
+For contributors or anyone who wants to run from a local checkout.
 
-1. **克隆并构建**
+1. **Clone and build**
 
-克隆 OpenClaw 仓库并构建：
+Clone the OpenClaw repo and build:
 
 ```bash
 git clone https://github.com/openclaw/openclaw.git
@@ -61,38 +59,37 @@ pnpm ui:build
 pnpm build
 ```
 
-2. **全局链接命令行工具**
+2. **Link the CLI**
 
-使 openclaw 命令全局可用：
+Make the openclaw command available globally:
 
-```bash
-pnpm link --global
+```bashp
+npm link --global
 ```
 
-或跳过链接步骤，在仓库目录内通过 pnpm openclaw ... 执行命令。
+Alternatively, skip the link and run commands via pnpm openclaw ... from inside the repo.
 
-3. **运行初始化程序**
+3. **Run onboarding**
 
 ```bash
 openclaw onboard --install-daemon
 ```
 
-## 安装后
-
-验证系统运行状态：
+## After install
+Verify everything is working:
 
 ```bash  
-# 检查配置问题
+# check for config issues
 openclaw doctor   
-# 网关状态    
+# gateway status    
 openclaw status         
-# 打开浏览器界面
-openclaw dashboard      
-# 网关重启
-openclaw gateway restart     
+# open the browser UI
+openclaw dashboard   
+# gateway restart 
+openclaw gateway restart      
 ```
 
-若需自定义运行时路径，请使用：
-- **OPENCLAW_HOME** 用于基于用户目录的内部路径
-- **OPENCLAW_STATE_DIR** 用于可变状态存储位置
-- **OPENCLAW_CONFIG_PATH** 用于配置文件存储位置
+If you need custom runtime paths, use:
+- **OPENCLAW_HOME** for home-directory based internal paths
+- **OPENCLAW_STATE_DIR** for mutable state location
+- **OPENCLAW_CONFIG_PATH** for config file location

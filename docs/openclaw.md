@@ -1,48 +1,60 @@
-# OpenClaw 🦞
+# OpenClaw
 
-[OpenClaw](https://openclaw.ai) 真正能做事的人工智能。您的跨平台个人助手。适用于任何操作系统的 AI 智能体 Gateway 网关，支持 WhatsApp、Telegram、Discord、iMessage 等。
+[OpenClaw](https://openclaw.ai), a truly capable artificial intelligence. Your cross-platform personal assistant. An AI agent Gateway suitable for any operating system, supporting WhatsApp, Telegram, Discord, iMessage, and more.
 
-发送消息，随时随地获取智能体响应。通过插件可添加 Mattermost 等更多渠道。
+Send a message, get an agent response from your pocket. Plugins add Mattermost and more.
 
-OpenClaw 通过单个 Gateway 网关进程将聊天应用连接到 Pi 等编程智能体。它为 OpenClaw 助手提供支持，并支持本地或远程部署。
+## What is OpenClaw?
 
+OpenClaw is a **self-hosted gateway** that connects your favorite chat apps — WhatsApp, Telegram, Discord, iMessage, and more — to AI coding agents like Pi. You run a single Gateway process on your own machine (or a server), and it becomes the bridge between your messaging apps and an always-available AI assistant.
 
-# 工作原理
+**Who is it for?** Developers and power users who want a personal AI assistant they can message from anywhere — without giving up control of their data or relying on a hosted service.
+
+**What makes it different?**
+
+- **Self-hosted**: runs on your hardware, your rules
+- **Multi-channel**: one Gateway serves WhatsApp, Telegram, Discord, and more simultaneously
+- **Agent-native**: built for coding agents with tool use, sessions, memory, and multi-agent routing
+- **Open source**: MIT licensed, community-driven
+
+**What do you need?** Node 22+, an API key (Anthropic recommended), and 5 minutes.
+
+## How it works
 
 ```mermaid
 flowchart LR
-  A["聊天应用 + 插件"] --> B["网关"]
-  B --> C["Pi代理"]
+  A["Chat apps + plugins"] --> B["Gateway"]
+  B --> C["Pi agent"]
   B --> D["CLI"]
-  B --> E["Web 控制界面"]
-  B --> F["macOS 应用"]
-  B --> G["iOS 和 Android 节点"]
+  B --> E["Web Control UI"]
+  B --> F["macOS app"]
+  B --> G["iOS and Android nodes"]
 ```
 
-Gateway 网关是会话、路由和渠道连接的唯一事实来源。
+The Gateway is the single source of truth for sessions, routing, and channel connections.
 
-# 核心功能
+## Key capabilities
 
-**多渠道 Gateway 网关**
+**Multi-channel gateway**
 
-通过单个 Gateway 网关进程连接 WhatsApp、Telegram、Discord 和 iMessage。
+WhatsApp, Telegram, Discord, and iMessage with a single Gateway process.
 
-**插件渠道**
+**Plugin channels**
 
-通过扩展包添加 Mattermost 等更多渠道。
+Add Mattermost and more with extension packages.
 
-**多智能体路由**
+**Multi-agent routing**
 
-按智能体、工作区或发送者隔离会话。
+Isolated sessions per agent, workspace, or sender.
 
-**媒体支持**
+**Media support**
 
-发送和接收图片、音频和文档。
+Send and receive images, audio, and documents.
 
-**Web 控制界面**
+**Web Control UI**
 
-浏览器仪表板，用于聊天、配置、会话和节点管理。
+Browser dashboard for chat, config, sessions, and nodes.
 
-**移动节点**
+**Mobile nodes**
 
- 配对 iOS 和 Android 节点，支持 Canvas。
+ Pair iOS and Android nodes with Canvas support.

@@ -7,64 +7,66 @@
 [简体中文](./README_zh.md) | [English](./README.md)
 
 <p align="center">
-  <strong>Boundless mastery, seamless communication</strong>
+  <strong>掌控无界，语言无碍</strong>
 </p>
+
 
 <p align="center">
-  <a href="./docs/openclaw.md">OpenClaw Introduction</a> •
-  <a href="./docs/install.md">OpenClaw Install</a> 
+  <a href="./docs/zh/openclaw.md">OpenClaw简介</a> •
+  <a href="./docs/zh/install.md">OpenClaw安装</a>  
 </p>
 
+## 概览
 
-## Overview
+**OpenClaw UI Locales**是专为OpenClaw Web控制界面打造的多语言切换工具，让您一键在中文、日语、韩语、法语、孟加拉语等语言间无缝切换，彻底告别语言障碍，始终用最熟悉的语言高效掌控设备。
 
-**OpenClaw UI Locales** is a multilingual switching tool designed specifically for the OpenClaw Web control interface, allowing you to seamlessly switch between languages such as Chinese, Japanese, Korean, French, Bengali, and more with just one click, completely eliminating language barriers and enabling you to efficiently control your device in the language you are most familiar with.
 
-## Install
+## 安装
 
 ```bash
-# Clone the repository
+# 克隆仓库
 git clone https://github.com/openlark/openclaw-ui-locales.git
 cd openclaw-ui-locales
-# Install dependencies
+
+# 安装依赖包
 npm install
-# Execute the command
+
+# 执行命令
 npm run locale
 ```
 
-## Execution Interface Diagram
+## 执行界面图
 
 <img src="./assets/locale.png" width="100%" alt="locale" />
 
 
-## 💬 Community
+## 💬 社区
 
-Join our community to connect with other users, get support, and share your experiences.
+加入我们的社区，与其他用户建立联系，获取支持，并分享您的经验。
 
-| Enterprise WeChat | Feishu  | Dingtalk |
+| 企业微信 | 飞书 | 钉钉 |
 | :---: | :---: | :---: |
 | <img src="https://j9d.cn/static/qr/wechat.png" width="150" alt="WeChat QR Code" /> | <img src="https://j9d.cn/static/qr/feishu.png" width="150" alt="Feishu QR Code" /> | <img src="https://j9d.cn/static/qr/dingtalk.png" width="150" alt="Dingtalk QR Code" /> |
 ---
 
+## 转换不同语言的UI界面
 
-## Switching UI Interfaces to Different Languages
-
-### Simplified Chinese UI
+### 简体中文版UI界面
 
 <img src="./assets/ui/zh.png" width="100%" alt="zh UI" />
 
-### Japanese UI
+### 日语UI界面
 
 <img src="./assets/ui/ja.png" width="100%" alt="ja UI" />
 
-### Korean UI
+### 韩语UI界面
 
 <img src="./assets/ui/ko.png" width="100%" alt="ko UI" />
 
-### French UI
+### 法语UI界面
 
 <img src="./assets/ui/fr.png" width="100%" alt="fr UI" />
 
-### Bangla UI
+### 孟加拉语UI界面
 
 <img src="./assets/ui/bn.png" width="100%" alt="bn UI" />

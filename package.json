@@ -1,6 +1,6 @@
 {
   "name": "openclaw-ui-locales",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "专为OpenClaw Web控制界面打造的多语言切换工具，让您一键在中文、日语、韩语、法语、孟加拉语等语言间无缝切换，彻底告别语言障碍，始终用最熟悉的语言高效掌控设备。",
   "private": true,
   "scripts": {
@@ -23,8 +23,7 @@
   },
   "keywords": [
     "openclaw-ui-locales",
-    "OpenClaw",
-    "bun",
+    "openclaw",
     "locales"
   ]
 }

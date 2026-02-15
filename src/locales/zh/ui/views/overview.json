@@ -29,7 +29,7 @@
   "Quick reminders for remote control setups.": "远程控制设置快速提醒。",
   "Tailscale serve": "Tailscale 服务",
   "Prefer serve mode to keep the gateway on loopback with tailnet auth.": "建议使用服务模式，以保持网关在回环模式下使用 Tailnet 认证。",
-  "Session hygiene": "会话卫生",
+  "Session hygiene": "会话管理",
   "Use /new or sessions.patch to reset context.": "使用 /new 或 sessions.patch 来重置上下文。",
   "Cron reminders": "定时提醒",
   "Use isolated sessions for recurring runs.": "对重复运行使用隔离会话。"

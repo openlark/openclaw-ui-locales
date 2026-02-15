@@ -5,7 +5,7 @@
   "\"Settings\"":"\"设置\"",
   "\"Agents\"":"\"代理\"",
   "\"Overview\"":"\"概览\"",
-  "\"Channels\"":"\"消息渠道\"",
+  "\"Channels\"":"\"渠道\"",
   "\"Instances\"":"\"实例\"",
   "\"Sessions\"":"\"会话\"",
   "\"Usage\"":"\"使用\"",
@@ -18,7 +18,7 @@
   
   "Manage agent workspaces, tools, and identities.":"管理代理工作区、工具和身份。",
   "Gateway status, entry points, and a fast health read.":"网关状态、入口点和快速健康读取。",
-  "Manage channels and settings.":"管理消息渠道和设置。",
+  "Manage channels and settings.":"管理渠道和设置。",
   "Presence beacons from connected clients and nodes.":"来自已连接客户端和节点的在线状态。",
   "Inspect active sessions and adjust per-session defaults.":"检查活跃会话并调整每个会话的默认值。",
   "Schedule wakeups and recurring agent runs.":"安排唤醒和定期代理运行。",

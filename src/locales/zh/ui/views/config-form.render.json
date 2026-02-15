@@ -2,7 +2,7 @@
   "\"Environment Variables\"": "\"环境变量\"",
   "Environment variables passed to the gateway process": "传递给网关进程的环境变量",
   "\"Updates\"": "\"更新 \"",
-  "Auto-update settings and release channel": "自动更新设置和发布通道",
+  "Auto-update settings and release channel": "自动更新设置和发布渠道",
   "Agent configurations, models, and identities": "代理配置、模型和身份",
   "API keys and authentication profiles": "API 密钥和认证配置文件",
   "Messaging channels (Telegram, Discord, Slack, etc.)": "消息频道（Telegram、Discord、Slack 等）",

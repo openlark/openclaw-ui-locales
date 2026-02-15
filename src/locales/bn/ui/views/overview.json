@@ -29,7 +29,7 @@
   "Quick reminders for remote control setups.": "রিমোট কন্ট্রোল সেটআপের জন্য দ্রুত অনুস্মারক।",
   "Tailscale serve": "Tailscale সার্ভ",
   "Prefer serve mode to keep the gateway on loopback with tailnet auth.": "tailnet অথ সহ লুপব্যাকে গেটওয়ে রাখতে সার্ভ মোড পছন্দ করুন।",
-  "Session hygiene": "সেশন হাইজিন",
+  "Session hygiene": "সাক্ষাৎকার পরিচালনা",
   "Use /new or sessions.patch to reset context.": "কনটেক্সট রিসেট করতে /new বা sessions.patch ব্যবহার করুন।",
   "Cron reminders": "ক্রন অনুস্মারক",
   "Use isolated sessions for recurring runs.": "পুনরাবৃত্ত রানের জন্য বিচ্ছিন্ন সেশন ব্যবহার করুন।"

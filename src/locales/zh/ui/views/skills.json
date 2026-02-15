@@ -1,4 +1,10 @@
 {
+  ">Skills<": ">技能<",
   "Bundled, managed, and workspace skills.": "捆绑、管理和工作区技能。",
-  "  Save key": " 保存Key"
+  "\"Search skills\"": "\"搜索技能\"",
+  "No skills found.": "未找到技能。",
+  "\\} shown": "} 项显示",
+  "\"Installing…\"": "\"安装中…\"",
+  ">API key<": ">API密钥<",
+  "  Save key": " 保存密钥"
 }

@@ -1,0 +1,45 @@
+{
+  "\"Deny\"": "\"拒绝\"",
+  "\"Allowlist\"": "\"白名单\"",
+  "\"Off\"": "\"关闭\"",
+  "\"On miss\"": "\"未命中时\"",
+  "\"Always\"": "\"始终\"",
+
+  ">Exec approvals<": ">执行审批<",
+  "Allowlist and approval policy for \\<span class=\"mono\">exec host=gateway/node\\</span>.": "<span class=\"mono\">exec host=gateway/node</span>的白名单和审批策略。",
+  "\"Load approvals\"": "\"审批加载\"",
+  "Load exec approvals to edit allowlists.":"加载执行审批以编辑白名单。",
+  "Gateway edits local approvals; node edits the selected node.": "网关编辑本地审批；节点编辑所选节点。",
+
+  ">Gateway<": ">网关<",
+  ">Node<": ">节点<",
+  ">Select node<": ">选择节点<",
+  "No nodes advertise exec approvals yet.": "目前尚无节点发布执行审批信息。",
+
+  ">Scope<": ">范围<",
+  "  Defaults": " 默认值",
+
+  "\"Default security mode.\"": "\"默认安全模式。\"",
+  "`Default: ": "`默认值: ",
+  "  Use default": "  使用默认值",
+  "\"Default prompt policy.\"": "\"默认提示策略。\"",
+  ">Ask<": ">询问<",
+  ">Ask fallback<": ">询问回退<",
+  "Applied when the UI prompt is unavailable.": "当界面提示不可用时应用。",
+  ">Fallback<": ">回退<",
+
+  ">Auto-allow skill CLIs<": ">自动允许技能CLIs<",
+  "Allow skill executables listed by the Gateway.": "允许网关列出的技能可执行文件。",
+  "\"on\" \\: \"off\"\\}": "\"开\" : \"关\"}",
+  ": `Override \\(": ": `覆盖 (",
+
+  
+  ">Allowlist<": ">白名单<",
+  "Case-insensitive glob patterns.": "不区分大小写的通配符模式。",
+  "  Add pattern": " 添加模式",
+  ">Pattern<": ">模式<",
+  "No allowlist entries yet.": "尚无白名单条目。",
+  "\"New pattern\"": "\"新模式\"",
+  ">Last used: ": ">最后使用:",
+  "  Remove": "  移除"
+}

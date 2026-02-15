@@ -1,0 +1,62 @@
+{
+  "No usage data for this session.": "此会话无使用数据。",
+  ">Messages<": ">消息<",
+  "\\} user · ": "} 个用户 · ",
+  "\\} assistant": "} 个助手",
+  ">Tool Calls<": ">工具调用<",
+  " tools<": " 工具<",
+  ">Errors<": ">错误<",
+  " tool results<": "工具结果<",
+  ">Duration<": ">持续时间<",
+
+  "\"No tool calls\"": "\"无工具调用\"",
+  "\"No model data\"": "\"无模型数据\"",
+
+  "\"Close session details\"": "\"关闭会话详情\"",
+
+  ">No timeline data<": ">无时间线数据<",
+  "\"No data in range\"": "\"范围内无数据\"",
+  ">Usage Over Time<": ">随时间使用情况<",
+  "  Per Turn": " 每回合",
+  " Cumulative": " 累计",
+  " Total": " 总计",
+  " By Type": " 按类型",
+  ">Tokens by Type<": ">按类型划分的令牌<",
+
+  "\"Assistant output tokens\"": "\"助手输出令牌\"",
+  ">Output": ">输出",
+  "\"User \\+ tool input tokens\"": "\"用户 + 工具输入令牌\"",
+  ">Input": ">输入",
+  "\"Tokens written to cache\"": "\"已将令牌写入缓存\"",
+  ">Cache Write ": ">缓存写入",
+  "\"Tokens read from cache\"": "\"从缓存读取的令牌\"",
+  ">Cache Read ": ">缓存读取",
+  ">Total: ": ">总计: ",
+  
+  ">No context data<": ">没有上下文数据<",
+  ">System Prompt Breakdown<": ">系统提示拆解\"",
+  "\"Collapse\"": "\"折叠\"",
+  "\"Expand all\"": "\"全部展开\"",
+  "\"Base context per message\"": "\"每条消息的基本上下文\"",
+
+  ">Sys ": ">系统 ",
+  ">Skills ": ">技能 ",
+  ">Tools ": ">工具 ",
+  ">Files ": ">文件 ",
+
+  " more<": " 更多< ",
+
+  ">Conversation<": ">对话<",
+  ">No messages<": ">没有消息<",
+
+  "\"Collapse All\"": "\"全部折叠\"",
+  "\"Expand All\"": "\"全部展开\"",
+
+  ">User<": ">用户<",
+  ">Assistant<": ">助手<",
+  ">Tool<": ">工具<",
+  ">Tool result<": ">工具结果<",
+
+  "\"Search conversation\"": "\"搜索对话\"",
+  "No messages match the filters.": "没有消息符合筛选条件。"
+}

@@ -21,7 +21,6 @@
   "Presence beacons in the last 5 minutes.": "过去5分钟内的在线状态。",
   ">Sessions<": ">会话<",
   "Recent session keys tracked by the gateway.": "网关跟踪的最近会话密钥。",
-  ">Cron<": ">定时任务<",
   "\"Enabled\"": "\"已启用\"",
   "\"Disabled\"": "\"已禁用\"",
   "Next wake": "下一次唤醒",

@@ -1,0 +1,18 @@
+{
+  ">Activity by Time<": ">按时间活动<",
+  " tokens<": " 令牌<",
+  "Estimates require session timestamps.": "估算需要会话时间戳。",
+  "No timeline data yet.": "尚无时间线数据。",
+  "Estimated from session spans (first/last activity). Time zone:": "根据会话时长（首次/最后一次活动）估算。时区：",
+  "\"Local\"\\}": "\"本地时间\"}",
+  ">Day of Week<": ">周<",
+  ">Hours<": ">小时<",
+  "\\} tokens": "} 令牌",
+  ">Midnight<": ">零时<",
+  ">4am<": ">凌晨4点<",
+  ">8am<": ">早上8点<",
+  ">Moon<": ">12点<",
+  ">4pm<": ">下午4点<",
+  ">8pm<": ">晚上8点<",
+  "Low → High token density": "低 → 高 令牌密度"
+}

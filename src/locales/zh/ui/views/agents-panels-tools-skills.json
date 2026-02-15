@@ -1,0 +1,31 @@
+{
+  "\"agent override\"": "\"代理覆盖\"",
+  "\"global default\"": "\"全局默认\"",
+  "\"default\"": "\"默认\"",
+
+  ">Tool Access<": ">工具访问<",
+  "  Profile \\+ per-tool overrides for this agent.": " 此代理的每个工具覆盖配置。",
+  "> enabled.": "> 已启用。",
+
+  "  Use All": "  使用全部",
+  "  Enable All": "  启用全部",
+  "  Disable All": "  禁用全部",
+  "  Reload Config": " 重新加载配置",
+
+  "Load the gateway config to adjust tool profiles.": "加载网关配置以调整工具配置文件。",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "此代理在配置中使用了显式白名单。工具覆盖项在“配置”选项卡中进行管理。",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "全局 tools.allow 已设置。代理覆盖无法启用被全局阻止的工具。",
+
+  ">Profile<": ">个人资料<",
+  ">Source<": ">源<",
+  ">unsaved<": ">未保存<",
+
+  ">Quick Presets<": ">快速预设<",
+  "  Inherit": " 继承",
+
+  "Per-agent skill allowlist and workspace skills.": "每个代理的技能白名单和工作区技能。",
+  "Load the gateway config to set per-agent skills.": "加载网关配置以设置每个代理的技能。",
+  "This agent uses a custom skill allowlist.": "该代理使用自定义技能白名单。",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "所有技能均已启用。禁用任何技能将为每个代理创建一个白名单。",
+  "Load skills for this agent to view workspace-specific entries.": "加载此代理的技能以查看特定工作区的条目。"
+}

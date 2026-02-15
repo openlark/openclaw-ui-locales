@@ -7,20 +7,18 @@
 [简体中文](./README.md) | [English](./README_en.md)
 
 <p align="center">
-  <strong>Eliminate language barriers and let OpenClaw serve you in the language you are most familiar with</strong>
+  <strong>Boundless mastery, seamless communication</strong>
 </p>
 
 <p align="center">
-  <a href="./docs/en/openclaw.md">OpenClaw</a> •
+  <a href="./docs/en/openclaw.md">OpenClaw Introduction</a> •
   <a href="./docs/en/install.md">OpenClaw Install</a> 
-  <a href="https://openclaw.ai" target="_blank">OpenClaw Website</a> 
-  <a href="https://docs.openclaw.ai" target="_blank">OpenClaw Doc</a> 
 </p>
 
 
 ## Overview
 
-**OpenClaw UI Locales** is a tool that provides Chinese, Japanese, Korean, French, Bangla language options for the OpenClaw Web control interface, allowing you to completely eliminate language barriers and operate your devices efficiently in the language you are most comfortable with.
+**OpenClaw UI Locales** is a multilingual switching tool designed specifically for the OpenClaw Web control interface, allowing you to seamlessly switch between languages such as Chinese, Japanese, Korean, French, Bengali, and more with just one click, completely eliminating language barriers and enabling you to efficiently control your device in the language you are most familiar with.
 
 ## Install
 

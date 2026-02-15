@@ -7,19 +7,18 @@
 [简体中文](./README.md) | [English](./README_en.md)
 
 <p align="center">
-  <strong>扫除语言障碍，让 OpenClaw 用你最熟悉的语言为你服务</strong>
+  <strong>掌控无界，语言无碍</strong>
 </p>
 
 
 <p align="center">
-  <a href="./docs/openclaw.md">OpenClaw</a> •
-  <a href="./docs/install.md">OpenClaw安装</a>  •
-  <a href="./docs/install.md">OpenClaw官网</a> 
+  <a href="./docs/openclaw.md">OpenClaw简介</a> •
+  <a href="./docs/install.md">OpenClaw安装</a>  
 </p>
 
 ## 概览
 
-**OpenClaw UI Locales**是一款为OpenClaw Web 控制界面提供中文、日语、韩语、法语、孟加拉语等语言转换，让您彻底告别语言障碍，以最熟悉的语言高效操控设备。
+**OpenClaw UI Locales**是专为OpenClaw Web控制界面打造的多语言切换工具，让您一键在中文、日语、韩语、法语、孟加拉语等语言间无缝切换，彻底告别语言障碍，始终用最熟悉的语言高效掌控设备。
 
 
 ## 安装

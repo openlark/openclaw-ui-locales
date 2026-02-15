@@ -1,6 +1,6 @@
 # OpenClaw 🦞
 
-OpenClaw 真正能做事的人工智能。您的跨平台个人助手。适用于任何操作系统的 AI 智能体 Gateway 网关，支持 WhatsApp、Telegram、Discord、iMessage 等。
+[OpenClaw](https://openclaw.ai) 真正能做事的人工智能。您的跨平台个人助手。适用于任何操作系统的 AI 智能体 Gateway 网关，支持 WhatsApp、Telegram、Discord、iMessage 等。
 
 发送消息，随时随地获取智能体响应。通过插件可添加 Mattermost 等更多渠道。
 

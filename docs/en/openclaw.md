@@ -1,6 +1,6 @@
 # OpenClaw
 
-OpenClaw, a truly capable artificial intelligence. Your cross-platform personal assistant. An AI agent Gateway suitable for any operating system, supporting WhatsApp, Telegram, Discord, iMessage, and more.
+[OpenClaw](https://openclaw.ai), a truly capable artificial intelligence. Your cross-platform personal assistant. An AI agent Gateway suitable for any operating system, supporting WhatsApp, Telegram, Discord, iMessage, and more.
 
 Send a message, get an agent response from your pocket. Plugins add Mattermost and more.
 

@@ -1,10 +1,22 @@
 
 import * as fs from 'fs'
 import * as path from 'path'
+import * as os from 'os'
 import { execSync } from 'child_process'
 import inquirer from 'inquirer'
 import { PromptModule } from 'inquirer'
 import open from 'open'
+
+interface OpenClawHanldeOptions {
+  // Enter Q&A data
+  answers: any,
+  // Current version number
+  version: string,
+  // Install the global path for OpenClaw
+  globalDir: string,
+  // OpenClaw main directory temporary folder
+  homeTmpDir: string
+}
 
 function main() {
   const prompt: PromptModule = inquirer.createPromptModule()
@@ -29,15 +41,26 @@ function main() {
     const globalRoot: string = execSync('npm root -g').toString().trim()
     // Install the global path for OpenClaw
     const openclawDir: string = path.join(globalRoot, 'openclaw')
+    // OpenClaw main directory temporary folder
+    const openclawHomeTmpdir: string = path.join(os.homedir(), '.openclaw', '__tmp')
 
     if (!fs.existsSync(openclawDir)) {
       console.error(`OpenClaw is not installed`)
       return
     }
 
-    await open(openclawDir)
+    // OpenClaw Version
+    const openclawVersion: string = execSync('openclaw -v').toString().trim()
 
-    handleControlUIContents(openclawDir, answers)
+    // await open(openclawDir)
+
+    // hanlde ControlUI
+    handleControlUIContents({
+      answers,
+      version: openclawVersion,
+      globalDir: openclawDir,
+      homeTmpDir: openclawHomeTmpdir
+    })
 
   }).catch((error: any) => {
     console.log(error)
@@ -46,28 +69,39 @@ function main() {
 }
 
 // hanlde /ui/ui/
-function handleControlUIContents(openclawDir: string, answers: any) {
-  // UI assets file path
-  const openclawUIAssetsDir: string = path.join(openclawDir, '/dist/control-ui/assets')
-  // Read UI assets file path folder directory
-  const assetsFiles: Array<string> = fs.readdirSync(openclawUIAssetsDir)
-  // locale json file directory
-  const localeJsonDir: string = `./src/locales/${answers.language}/ui`
+function handleControlUIContents(options: OpenClawHanldeOptions) {
+  // Locale json file directory
+  const localeJsonDir: string = `./src/locales/${options.answers.language}/ui`
 
   if (!fs.existsSync(localeJsonDir)) {
     console.error(`${localeJsonDir} path does not exist`)
     return
   }
 
+  // UI assets file path
+  const uiAssetsDir: string = path.join(options.globalDir, '/dist/control-ui/assets')
+  const uiAssetsTmpDir: string = path.join(options.homeTmpDir, options.version, 'ui')
+
+  // Read UI assets file path folder directory
+  const assetsFiles: Array<string> = fs.readdirSync(uiAssetsDir)
+
   for (let i = 0; i < assetsFiles.length; i++) {
     const file: string = assetsFiles[i]
 
     // Find js file (index-xxxxxx.js)
     if (path.extname(file) === '.js') {
-      const jsFileName: string = path.join(openclawUIAssetsDir, file)
-      let jsContent = fs.readFileSync(jsFileName, 'utf-8')
+      let jsFileName: string = path.join(uiAssetsDir, file)
+      const jsTmpFileName = path.join(uiAssetsTmpDir, file)
+      let readFileName: string = jsFileName
 
-      fs.writeFileSync(jsFileName + `.${Date.now()}.bak`, jsContent)
+      if (fs.existsSync(jsTmpFileName)) readFileName = jsTmpFileName
+      else {
+        createDirectory(uiAssetsTmpDir)
+
+        fs.copyFileSync(jsFileName, jsTmpFileName)
+      }
+
+      let jsContent = fs.readFileSync(readFileName, 'utf-8')
 
       // Read locale folder directory
       readDirectory(localeJsonDir, (srcFile: any) => {
@@ -89,6 +123,7 @@ function handleControlUIContents(openclawDir: string, answers: any) {
             }
           }
         }
+        
         fs.writeFileSync(jsFileName, jsContent)
       })
     }
@@ -107,6 +142,19 @@ function readDirectory(sourceDir: string, callback: Function) {
     if (fs.statSync(sourceFile).isDirectory()) readDirectory(sourceFile, callback)
     else typeof callback === 'function' && callback(sourceFile)
   })
+}
+
+/**
+ * Create directories
+ */
+function createDirectory(directory: string) {
+  if (fs.existsSync(directory)) return true
+  else {
+    if (createDirectory(path.dirname(directory))) {
+      fs.mkdirSync(directory)
+      return true
+    }
+  }
 }
 
 main()

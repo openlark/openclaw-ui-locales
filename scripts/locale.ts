@@ -32,6 +32,8 @@ function main() {
         { name: 'Français', value: 'fr' },
         // 德语 German 
         { name: 'Deutsch', value: 'de' },
+        // 意大利语 Italian 
+        { name: 'Italiano', value: 'it' },
         // 葡萄牙语 Portuguese
         { name: 'Português', value: 'pt' },
         // 西班牙语 Spanish

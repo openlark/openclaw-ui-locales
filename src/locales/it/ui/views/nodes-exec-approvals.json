@@ -1,0 +1,45 @@
+{
+  "\"Deny\"": "\"Nega\"",
+  "\"Allowlist\"": "\"Lista consentita\"",
+  "\"Off\"": "\"Spento\"",
+  "\"On miss\"": "\"In caso di mancata corrispondenza\"",
+  "\"Always\"": "\"Sempre\"",
+
+  ">Exec approvals<": ">Approvazioni esecuzione<",
+  "Allowlist and approval policy for \\<span class=\"mono\">exec host=gateway/node\\</span>.": "Lista consentita e policy di approvazione per \\<span class=\"mono\">exec host=gateway/node\\</span>.",
+  "\"Load approvals\"": "\"Carica approvazioni\"",
+  "Load exec approvals to edit allowlists.":"Carica le approvazioni di esecuzione per modificare le liste consentite.",
+  "Gateway edits local approvals; node edits the selected node.": "Il gateway modifica le approvazioni locali; il nodo modifica il nodo selezionato.",
+
+  ">Gateway<": ">Gateway<",
+  ">Node<": ">Nodo<",
+  ">Select node<": ">Seleziona nodo<",
+  "No nodes advertise exec approvals yet.": "Nessun nodo ha ancora pubblicizzato approvazioni di esecuzione.",
+
+  ">Scope<": ">Ambito<",
+  "  Defaults": "  Predefiniti",
+
+  "\"Default security mode.\"": "\"Modalità di sicurezza predefinita.\"",
+  "`Default: ": "`Predefinito: ",
+  "  Use default": "  Usa predefinito",
+  "\"Default prompt policy.\"": "\"Policy del prompt predefinita.\"",
+  ">Ask<": ">Chiedi<",
+  ">Ask fallback<": ">Chiedi fallback<",
+  "Applied when the UI prompt is unavailable.": "Applicata quando il prompt dell'interfaccia utente non è disponibile.",
+  ">Fallback<": ">Fallback<",
+
+  ">Auto-allow skill CLIs<": ">Abilita automaticamente le CLI delle skill<",
+  "Allow skill executables listed by the Gateway.": "Consenti gli eseguibili delle skill elencati dal Gateway.",
+  "\"on\" \\: \"off\"\\}": "\"on\" : \"off\"}",
+  ": `Override \\(": ": `Sovrascrittura (",
+
+  
+  ">Allowlist<": ">Lista consentita<",
+  "Case-insensitive glob patterns.": "Pattern glob senza distinzione tra maiuscole e minuscole.",
+  "  Add pattern": "  Aggiungi pattern",
+  ">Pattern<": ">Pattern<",
+  "No allowlist entries yet.": "Nessuna voce nella lista consentita.",
+  "\"New pattern\"": "\"Nuovo pattern\"",
+  ">Last used: ": ">Ultimo utilizzo: ",
+  "  Remove": "  Rimuovi"
+}

@@ -1,0 +1,31 @@
+{
+  "\"agent override\"": "\"override agente\"",
+  "\"global default\"": "\"predefinito globale\"",
+  "\"default\"": "\"predefinito\"",
+
+  ">Tool Access<": ">Accesso Strumenti<",
+  "  Profile \\+ per-tool overrides for this agent.": "  Profilo + override per-strumento per questo agente.",
+  "> enabled.": "> abilitato.",
+
+  "  Use All": "  Usa Tutti",
+  "  Enable All": "  Abilita Tutti",
+  "  Disable All": "  Disabilita Tutti",
+  "  Reload Config": "  Ricarica Configurazione",
+
+  "Load the gateway config to adjust tool profiles.": "Carica la configurazione del gateway per regolare i profili degli strumenti.",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "  Questo agente sta utilizzando una lista esplicita consentita nella configurazione. Gli override degli strumenti sono gestiti nella scheda Config.",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "  tools.allow globale è impostato. Gli override dell'agente non possono abilitare strumenti che sono bloccati globalmente.",
+
+  ">Profile<": ">Profilo<",
+  ">Source<": ">Fonte<",
+  ">unsaved<": ">non salvato<",
+
+  ">Quick Presets<": ">Preset Rapidi<",
+  "  Inherit": "  Eredita",
+
+  "Per-agent skill allowlist and workspace skills.": "Lista consentita delle competenze per agente e competenze dell'area di lavoro.",
+  "Load the gateway config to set per-agent skills.": "Carica la configurazione del gateway per impostare le competenze per agente.",
+  "This agent uses a custom skill allowlist.": "Questo agente utilizza una lista consentita di competenze personalizzata.",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "Tutte le competenze sono abilitate. Disabilitare qualsiasi competenza creerà una lista consentita per agente.",
+  "Load skills for this agent to view workspace-specific entries.": "Carica le competenze per questo agente per visualizzare le voci specifiche dell'area di lavoro."
+}

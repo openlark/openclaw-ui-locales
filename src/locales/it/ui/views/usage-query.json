@@ -1,0 +1,35 @@
+{
+  "\"label\",": "\"etichetta\",",
+  "\"agentId\",": "\"ID agente\",",
+  "\"channel\",": "\"canale\",",
+  "\"provider\",": "\"fornitore\",",
+  "\"model\",": "\"modello\",",
+  "\"updatedAt\",": "\"aggiornato il\",",
+  "\"durationMs\",": "\"durataMs\",",
+  "\"messages\",": "\"messaggi\",",
+  "\"errors\",": "\"errori\",",
+  "\"toolCalls\",": "\"chiamate strumenti\",",
+  "\"inputTokens\",": "\"token input\",",
+  "\"outputTokens\",": "\"token output\",",
+  "\"cacheReadTokens\",": "\"token lettura cache\",",
+  "\"cacheWriteTokens\",": "\"token scrittura cache\",",
+  "\"totalTokens\",": "\"token totali\",",
+  "\"totalCost\",": "\"costo totale\",",
+
+  "\"date\",": "\"data\",",
+  "\"inputCost\",": "\"costo input\",",
+  "\"outputCost\",": "\"costo output\",",
+  "\"cacheReadCost\",": "\"costo lettura cache\",",
+  "\"cacheWriteCost\",": "\"costo scrittura cache\",",
+
+  "\"agent:\",": "\"agente:\",",
+  "\"channel:\",": "\"canale:\",",
+  "\"provider:\",": "\"fornitore:\",",
+  "\"model:\",": "\"modello:\",",
+  "\"tool:\",": "\"strumento:\",",
+  "\"has:errors:\",": "\"ha:errori:\",",
+  "\"has:tools:\",": "\"ha:strumenti:\",",
+  "\"minTokens:\",": "\"tokenMinimi:\",",
+  "\"maxCost:\",": "\"costoMassimo:\","
+
+}

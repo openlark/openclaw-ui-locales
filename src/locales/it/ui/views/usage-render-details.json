@@ -1,0 +1,62 @@
+{
+  "No usage data for this session.": "Nessun dato di utilizzo per questa sessione.",
+  ">Messages<": ">Messaggi<",
+  "\\} user · ": "} utente · ",
+  "\\} assistant": "} assistente",
+  ">Tool Calls<": ">Chiamate Strumenti<",
+  " tools<": " strumenti<",
+  ">Errors<": ">Errori<",
+  " tool results<": " risultati strumenti<",
+  ">Duration<": ">Durata<",
+
+  "\"No tool calls\"": "\"Nessuna chiamata strumento\"",
+  "\"No model data\"": "\"Nessun dato modello\"",
+
+  "\"Close session details\"": "\"Chiudi dettagli sessione\"",
+
+  ">No timeline data<": ">Nessun dato timeline<",
+  "\"No data in range\"": "\"Nessun dato nell'intervallo\"",
+  ">Usage Over Time<": ">Utilizzo nel Tempo<",
+  "  Per Turn": "  Per Turno",
+  " Cumulative": " Cumulativo",
+  " Total": " Totale",
+  " By Type": " Per Tipo",
+  ">Tokens by Type<": ">Token per Tipo<",
+
+  "\"Assistant output tokens\"": "\"Token di output assistente\"",
+  ">Output": ">Output",
+  "\"User \\+ tool input tokens\"": "\"Token di input utente + strumento\"",
+  ">Input": ">Input",
+  "\"Tokens written to cache\"": "\"Token scritti in cache\"",
+  ">Cache Write ": ">Scrittura Cache ",
+  "\"Tokens read from cache\"": "\"Token letti dalla cache\"",
+  ">Cache Read ": ">Lettura Cache ",
+  ">Total: ": ">Totale: ",
+  
+  ">No context data<": ">Nessun dato contesto<",
+  ">System Prompt Breakdown<": ">Analisi Prompt di Sistema<",
+  "\"Collapse\"": "\"Comprimi\"",
+  "\"Expand all\"": "\"Espandi tutto\"",
+  "\"Base context per message\"": "\"Contesto base per messaggio\"",
+
+  ">Sys ": ">Sistema ",
+  ">Skills ": ">Competenze ",
+  ">Tools ": ">Strumenti ",
+  ">Files ": ">File ",
+
+  " more<": " altro<",
+
+  ">Conversation<": ">Conversazione<",
+  ">No messages<": ">Nessun messaggio<",
+
+  "\"Collapse All\"": "\"Comprimi tutto\"",
+  "\"Expand All\"": "\"Espandi tutto\"",
+
+  ">User<": ">Utente<",
+  ">Assistant<": ">Assistente<",
+  ">Tool<": ">Strumento<",
+  ">Tool result<": ">Risultato strumento<",
+
+  "\"Search conversation\"": "\"Cerca nella conversazione\"",
+  "No messages match the filters.": "Nessun messaggio corrisponde ai filtri."
+}

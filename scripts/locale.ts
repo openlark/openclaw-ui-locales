@@ -23,6 +23,7 @@ function main() {
   const questions: Array<any> = [
     {
       type: 'list', name: 'language', message: 'Please select a language', choices: [
+        // 中文 Chinese
         { name: '简体中文', value: 'zh' },
         // 日语 Japanese
         { name: '日本語', value: 'ja' },

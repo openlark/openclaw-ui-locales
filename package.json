@@ -1,7 +1,7 @@
 {
   "name": "openclaw-ui-locales",
-  "version": "0.2.7",
-  "description": "A multilingual switching tool designed specifically for the OpenClaw Web control interface, allowing you to seamlessly switch between Chinese, Japanese, Korean, French,, German, Portuguese, Spanish, Bangla, Vietnamese, Filipino, and other languages with just one click.",
+  "version": "0.2.8",
+  "description": "A multilingual switching tool specifically designed for the OpenClaw Web control interface. It allows you to seamlessly switch between over 10 languages with a single click.",
   "private": true,
   "scripts": {
     "locale": "bun run ./scripts/locale.ts",

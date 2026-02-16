@@ -6,7 +6,7 @@ import shell from 'shelljs'
 import latestVersion from 'latest-version'
 import compareVersion from 'compare-version'
 
-async function main() {
+export async function main() {
   // Check if OpenClaw is installed
   if (shell.which('openclaw')) {
     const latestV: string = await latestVersion('openclaw')

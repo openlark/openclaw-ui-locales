@@ -4,7 +4,7 @@
 
 <h1 align="center">OpenClaw UI Locales</h1>
 
-[简体中文](./README_zh.md) | [English](./README.md)
+  [English](./README.md)  |  简体中文  
 
 <p align="center">
   <strong>掌控无界，语言无碍</strong>
@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <a href="./docs/zh/openclaw.md">OpenClaw简介</a> •
+  <a href="./docs/zh/openclaw.md">OpenClaw简介</a>  • 
   <a href="./docs/zh/install.md">OpenClaw安装</a>  
 </p>
 

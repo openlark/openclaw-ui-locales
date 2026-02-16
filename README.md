@@ -4,7 +4,7 @@
 
 <h1 align="center">OpenClaw UI Locales</h1>
 
-[简体中文](./README_zh.md) | [English](./README.md)
+ English  |  [简体中文](./README_zh.md)
 
 <p align="center">
   <strong>Boundless mastery, seamless communication</strong>

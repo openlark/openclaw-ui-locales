@@ -8,6 +8,7 @@ package-lock.json
 *_pkg
 *.log
 *.zip
+bin
 dist
 
 .idea

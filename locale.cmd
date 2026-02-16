@@ -23,4 +23,4 @@ IF EXIST "%dp0%\bun.exe" (
 )
 
 REM Run TypeScript file
-"%_prog%" run "%dp0%\scripts\locale.ts" %*
+"%_prog%" run "%dp0%\scripts\index.ts" %*

@@ -9,27 +9,33 @@
   ">Description<": ">설명<",
   ">Agent ID<": ">에이전트 ID<",
   ">Schedule<": ">일정<",
+  ">Every<": ">매<",
+  ">At<": ">에<",
+  ">Cron<": ">크론<",
+
   ">Main<": ">메인<",
   ">Isolated<": ">격리됨<",
+
   ">Session<": ">세션<",
   ">Wake mode<": ">웨이크 모드<",
   ">Now<": ">지금<",
   ">Next heartbeat<": ">다음 하트비트<",
+
   ">Payload<": ">페이로드<",
   ">System event<": ">시스템 이벤트<",
   ">Agent turn<": ">에이전트 차례<",
   "\"System text\"": "\"시스템 텍스트\"",
   "\"Agent message\"": "\"에이전트 메시지\"",
+
   ">Delivery<": ">전달<",
-  "Announce summary \\(default\\)": "요약 공지 (기본값)",
+  "Announce summary ": "요약 공지 ",
   "None \\(internal\\)": "없음 (내부)",
   "Timeout \\(seconds\\)": "시간 초과 (초)",
-  "\"default\"": "\"기본값\"",
   ">Channel<": ">채널<",
   ">To<": ">받는 사람<",
   "1555… or chat id": "1555… 또는 채팅 ID",
+  
   "\"Add job\"": "\"작업 추가\"",
-
   ">Jobs<": ">작업<",
   "All scheduled jobs stored in the gateway.": "게이트웨이에 저장된 모든 예약 작업.",
   "No jobs yet.": "아직 작업이 없습니다.",
@@ -38,12 +44,11 @@
   "Select a job to inspect run history.": "실행 기록을 확인하려면 작업을 선택하세요.",
   "No runs yet.": "아직 실행 기록이 없습니다.",
   ">Run at<": ">실행 시간<",
-  ">Every<": ">매<",
   ">Unit<": ">단위<",
   ">Minutes<": ">분<",
   ">Days<": ">일<",
   ">Expression<": ">표현식<",
-  "Timezone (optional)": "시간대 (선택 사항)",
+  "Timezone \\(optional\\)": "시간대 (선택 사항)",
   ">Agent: ": ">에이전트: ",
   "\"enabled\"": "\"활성화됨\"",
   "\"disabled\"": "\"비활성화됨\"",
@@ -53,5 +58,7 @@
   ">Status<": ">상태<",
   ">Next<": ">다음<",
   ">Last<": ">마지막<",
-  ">Open run chat<": ">실행 채팅 열기<"
+  ">Open run chat<": ">실행 채팅 열기<",
+
+  "\"\\(select a job\\)\"": "\"(작업 선택)\""
 }

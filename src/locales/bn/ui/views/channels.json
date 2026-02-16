@@ -1,12 +1,11 @@
 {
   "Channel health": "চ্যানেলের স্বাস্থ্য",
-  "Channel status snapshots from the gateway.": "গেটওয়ে থেকে চ্যানেল স্ট্যাটাস স্ন্যাপশট।",
+  "Channel status snapshots from the gateway.": "গেটওয়ে থেকে চ্যানেলের অবস্থার স্ন্যাপশট।",
   "No snapshot yet.": "এখনো কোনো স্ন্যাপশট নেই।",
-  "Channel status and configuration.": "চ্যানেল স্ট্যাটাস এবং কনফিগারেশন।",
+  "Channel status and configuration.": "চ্যানেলের অবস্থা এবং কনফিগারেশন।",
   "\"Yes\"": "\"হ্যাঁ\"",
   "\"Active\"": "\"সক্রিয়\"",
   "\"No\"": "\"না\"",
   ">Running<": ">চলমান<",
-  ">Connected<": ">সংযুক্ত<",
-  ">Last inbound<": ">শেষ ইনবাউন্ড<"
+  ">Connected<": ">সংযুক্ত<"
 }

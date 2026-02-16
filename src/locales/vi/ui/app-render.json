@@ -1,0 +1,16 @@
+{
+  "Disconnected from gateway.": "Đã ngắt kết nối khỏi cổng.",
+
+  "\"Expand sidebar\"": "\"Mở rộng thanh bên\"",
+  "\"Collapse sidebar\"": "\"Thu gọn thanh bên\"",
+
+  ">Health<": ">Tình trạng<",
+  "\"OK\"": "\"Tốt\"",
+  "\"Offline\"": "\"Ngoại tuyến\"",
+  
+  ">Gateway Dashboard<": ">Bảng điều khiển Cổng<",
+
+  ">Resources<": ">Tài nguyên<",
+  "Docs \\(opens in new tab\\)": "Tài liệu (mở trong tab mới)",
+  ">Docs<": ">Tài liệu<"
+}

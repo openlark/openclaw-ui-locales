@@ -21,7 +21,6 @@
   "Presence beacons in the last 5 minutes.": "過去5分間のプレゼンスビーコン。",
   ">Sessions<": ">セッション<",
   "Recent session keys tracked by the gateway.": "ゲートウェイによって追跡された最近のセッションキー。",
-  ">Cron<": ">クーロン<",
   "\"Enabled\"": "\"有効\"",
   "\"Disabled\"": "\"無効\"",
   "Next wake": "次回ウェイク",
@@ -29,7 +28,7 @@
   "Quick reminders for remote control setups.": "リモートコントロール設定のクイックリマインダー。",
   "Tailscale serve": "Tailscale サーブ",
   "Prefer serve mode to keep the gateway on loopback with tailnet auth.": "テイルネット認証でゲートウェイをループバックに保つには、サーブモードを推奨します。",
-  "Session hygiene": "セッション管理",
+  "Session hygiene": "セッション衛生",
   "Use /new or sessions.patch to reset context.": "コンテキストをリセットするには、/new または sessions.patch を使用します。",
   "Cron reminders": "クーロンリマインダー",
   "Use isolated sessions for recurring runs.": "繰り返し実行には、分離されたセッションを使用します。"

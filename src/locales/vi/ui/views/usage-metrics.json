@@ -1,0 +1,18 @@
+{
+  ">Activity by Time<": ">Hoạt động theo Thời gian<",
+  " tokens<": " mã thông báo<",
+  "Estimates require session timestamps.": "Ước tính cần có dấu thời gian của phiên.",
+  "No timeline data yet.": "Chưa có dữ liệu dòng thời gian.",
+  "Estimated from session spans (first/last activity). Time zone:": "Ước tính từ khoảng thời gian phiên (hoạt động đầu tiên/cuối cùng). Múi giờ:",
+  "\"Local\"\\}": "\"Địa phương\"}",
+  ">Day of Week<": ">Thứ trong tuần<",
+  ">Hours<": ">Giờ<",
+  "\\} tokens": "} mã thông báo",
+  ">Midnight<": ">Nửa đêm<",
+  ">4am<": ">4 giờ sáng<",
+  ">8am<": ">8 giờ sáng<",
+  ">Moon<": ">12 giờ trưa<",
+  ">4pm<": ">4 giờ chiều<",
+  ">8pm<": ">8 giờ tối<",
+  "Low → High token density": "Mật độ mã thông báo Thấp → Cao"
+}

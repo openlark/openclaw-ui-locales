@@ -21,7 +21,6 @@
   "Presence beacons in the last 5 minutes.": "지난 5분간의 상태 신호.",
   ">Sessions<": ">세션<",
   "Recent session keys tracked by the gateway.": "게이트웨이가 추적한 최근 세션 키.",
-  ">Cron<": ">크론<",
   "\"Enabled\"": "\"활성화됨\"",
   "\"Disabled\"": "\"비활성화됨\"",
   "Next wake": "다음 웨이크업",

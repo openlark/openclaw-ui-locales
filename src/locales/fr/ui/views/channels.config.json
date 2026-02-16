@@ -1,30 +1,31 @@
 {
-  "Schema unavailable. Use Raw.": "Schéma indisponible. Utiliser la vue brute.",
+  "Schema unavailable. Use Raw.": "Schéma indisponible. Utilisez la vue brute.",
   "Channel config schema unavailable.": "Schéma de configuration du canal indisponible.",
   "Loading config schema…": "Chargement du schéma de configuration…",
   "Channel status and configuration.": "État et configuration du canal.",
+
   ">Configured<": ">Configuré<",
   ">Linked<": ">Lié<",
   ">Last start<": ">Dernier démarrage<",
   ">Last probe<": ">Dernière sonde<",
   ">Last connect<": ">Dernière connexion<",
   ">Last message<": ">Dernier message<",
-  ">Auth age<": ">Âge de l'auth<",
+  ">Last inbound<": ">Dernier entrant<",
+  ">Auth age<": ">Âge de l'authentification<",
   ">Mode<": ">Mode<",
   ">Credential<": ">Identifiant<",
   ">Public Key<": ">Clé publique<",
   ">Audience<": ">Audience<",
   ">Profile<": ">Profil<",
+
   "No profile set. Click \"Edit Profile\" to add your name, bio, and avatar.": "Aucun profil défini. Cliquez sur \"Modifier le profil\" pour ajouter votre nom, bio et avatar.",
   "\"Saving…\"": "\"Enregistrement…\"",
   "\"Save\"": "\"Enregistrer\"",
   "  probe": " sonde",
   
-  "macOS bridge status and channel configuration.": "État du pont macOS et configuration du canal.",
-  "Link WhatsApp Web and monitor connection health.": "Lier WhatsApp Web et surveiller l'état de la connexion.",
-  "Bot status and channel configuration.": "État du bot et configuration du canal.",
-  "Chat API webhook status and channel configuration.": "État du webhook API Chat et configuration du canal.",
-  "Socket mode status and channel configuration.": "État du mode socket et configuration du canal.",
-  "signal-cli status and channel configuration.": "État de signal-cli et configuration du canal.",
-  "Decentralized DMs via Nostr relays \\(NIP-04\\).": "Messages directs décentralisés via relais Nostr (NIP-04)."
+  "  Probe": "  Sonde",
+  "\"ok\" \\:": "\"ok\" :",
+  "\"failed\"": "\"échec\"",
+  
+  "Decentralized DMs via Nostr relays \\(NIP-04\\).": "Messages directs décentralisés via les relais Nostr (NIP-04)."
 }

@@ -1,0 +1,20 @@
+{
+  "Active session keys and per-session overrides.": "Mga aktibong session key at per-session override.",
+  "Active within \\(minutes\\)": "Aktibo sa loob (minuto)",
+  ">Include global<": ">Isama ang global<",
+  ">Include unknown<": ">Isama ang hindi kilala<",
+  "No sessions found.": "Walang nakitang session.",
+  "\"\\(optional\\)\"": "\"(opsyonal)\"",
+  "\\((multiple)\\)": "(maramihan)",
+  "  Delete": "  Burahin",
+  ">Limit<": ">Limitasyon<",
+  "`Store: ": "`Imbakan: ",
+  ">Label<": ">Label<",
+  ">Kind<": ">Uri<",
+  ">Updated<": ">Na-update<",
+  ">Tokens<": ">Mga Token<",
+  ">Thinking<": ">Nag-iisip<",
+  ">Verbose<": ">Madetalye<",
+  ">Reasoning<": ">Pangangatwiran<",
+  ">Actions<": ">Mga Aksyon<"
+}

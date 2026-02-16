@@ -21,7 +21,6 @@
   "Presence beacons in the last 5 minutes.": "গত ৫ মিনিটের মধ্যে উপস্থিতি সংকেত।",
   ">Sessions<": ">সেশন<",
   "Recent session keys tracked by the gateway.": "গেটওয়ে দ্বারা ট্র্যাক করা সাম্প্রতিক সেশন কী।",
-  ">Cron<": ">ক্রন<",
   "\"Enabled\"": "\"সক্রিয়\"",
   "\"Disabled\"": "\"নিষ্ক্রিয়\"",
   "Next wake": "পরবর্তী ওয়েকআপ",
@@ -29,7 +28,7 @@
   "Quick reminders for remote control setups.": "রিমোট কন্ট্রোল সেটআপের জন্য দ্রুত অনুস্মারক।",
   "Tailscale serve": "Tailscale সার্ভ",
   "Prefer serve mode to keep the gateway on loopback with tailnet auth.": "tailnet অথ সহ লুপব্যাকে গেটওয়ে রাখতে সার্ভ মোড পছন্দ করুন।",
-  "Session hygiene": "সাক্ষাৎকার পরিচালনা",
+  "Session hygiene": "সেশন ব্যবস্থাপনা",
   "Use /new or sessions.patch to reset context.": "কনটেক্সট রিসেট করতে /new বা sessions.patch ব্যবহার করুন।",
   "Cron reminders": "ক্রন অনুস্মারক",
   "Use isolated sessions for recurring runs.": "পুনরাবৃত্ত রানের জন্য বিচ্ছিন্ন সেশন ব্যবহার করুন।"

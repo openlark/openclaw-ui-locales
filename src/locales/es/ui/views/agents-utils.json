@@ -1,0 +1,49 @@
+{
+  "\"Files\"": "\"Archivos\"",
+  "\"Read file contents\"": "\"Leer contenido de archivos\"",
+  "\"Create or overwrite files\"": "\"Crear o sobrescribir archivos\"",
+  "\"Make precise edits\"": "\"Realizar ediciones precisas\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"Aplicar parches a archivos (OpenAI)\"",
+
+  "\"Runtime\"": "\"Entorno de ejecución\"",
+  "\"Run shell commands\"": "\"Ejecutar comandos de shell\"",
+  "\"Manage background processes\"": "\"Gestionar procesos en segundo plano\"",
+
+  "\"Web\"": "\"Web\"",
+  "\"Search the web\"": "\"Buscar en la web\"",
+  "\"Fetch web content\"": "\"Obtener contenido web\"",
+  
+  "\"Memory\"": "\"Memoria\"",
+  "\"Semantic search\"": "\"Búsqueda semántica\"",
+  "\"Read memory files\"": "\"Leer archivos de memoria\"",
+  "\"List sessions\"": "\"Listar sesiones\"",
+
+  "\"Session history\"": "\"Historial de sesiones\"",
+  "\"Send to session": "\"Enviar a sesión",
+  "\"Spawn sub-agent\"": "\"Generar subagente\"",
+  "\"Session status\"": "\"Estado de la sesión\"",
+
+  "\"UI\"": "\"Interfaz de usuario\"",
+  "\"Control web browser\"": "\"Controlar navegador web\"",
+  "\"Control canvases\"": "\"Controlar lienzos\"",
+
+  "\"Send messages\"": "\"Enviar mensajes\"",
+  
+  "\"Automation\"": "\"Automatización\"",
+  "\"Schedule tasks\"": "\"Programar tareas\"",
+
+  "\"Gateway control\"": "\"Control de puerta de enlace\"",
+  "\"Nodes \\+ devices\"": "\"Nodos + dispositivos\"",
+  "\"List agents\"": "\"Listar agentes\"",
+  
+  "\"Media\"": "\"Multimedia\"",
+  "\"Image understanding\"": "\"Comprensión de imágenes\"",
+
+  "\"Minimal\"": "\"Mínimo\"",
+  "\"Coding\"": "\"Programación\"",
+  "\"Messaging\"": "\"Mensajería\"",
+  "\"Full\"": "\"Completo\"",
+  
+  "\\} selected": "} seleccionado",
+  "\"all skills\"": "\"todas las habilidades\""
+}

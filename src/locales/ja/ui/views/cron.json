@@ -9,27 +9,33 @@
   ">Description<": ">説明<",
   ">Agent ID<": ">エージェントID<",
   ">Schedule<": ">スケジュール<",
+  ">Every<": ">間隔<",
+  ">At<": ">時刻<",
+  ">Cron<": ">クーロン<",
+
   ">Main<": ">メイン<",
   ">Isolated<": ">分離<",
+
   ">Session<": ">セッション<",
   ">Wake mode<": ">ウェイクモード<",
   ">Now<": ">今すぐ<",
   ">Next heartbeat<": ">次回ハートビート<",
+
   ">Payload<": ">ペイロード<",
   ">System event<": ">システムイベント<",
   ">Agent turn<": ">エージェントターン<",
   "\"System text\"": "\"システムテキスト\"",
   "\"Agent message\"": "\"エージェントメッセージ\"",
+
   ">Delivery<": ">配信<",
-  "Announce summary \\(default\\)": "サマリーを通知（デフォルト）",
+  "Announce summary ": "サマリーを通知 ",
   "None \\(internal\\)": "なし（内部）",
   "Timeout \\(seconds\\)": "タイムアウト（秒）",
-  "\"default\"": "\"デフォルト\"",
   ">Channel<": ">チャンネル<",
   ">To<": ">宛先<",
   "1555… or chat id": "1555… またはチャットID",
+  
   "\"Add job\"": "\"ジョブを追加\"",
-
   ">Jobs<": ">ジョブ<",
   "All scheduled jobs stored in the gateway.": "ゲートウェイに保存されている全てのスケジュール済みジョブ。",
   "No jobs yet.": "ジョブはまだありません。",
@@ -38,12 +44,11 @@
   "Select a job to inspect run history.": "ジョブを選択して実行履歴を確認します。",
   "No runs yet.": "実行履歴はまだありません。",
   ">Run at<": ">実行時刻<",
-  ">Every<": ">間隔<",
   ">Unit<": ">単位<",
   ">Minutes<": ">分<",
   ">Days<": ">日<",
   ">Expression<": ">式<",
-  "Timezone (optional)": "タイムゾーン（オプション）",
+  "Timezone \\(optional\\)": "タイムゾーン（オプション）",
   ">Agent: ": ">エージェント: ",
   "\"enabled\"": "\"有効\"",
   "\"disabled\"": "\"無効\"",
@@ -53,5 +58,7 @@
   ">Status<": ">ステータス<",
   ">Next<": ">次回<",
   ">Last<": ">最終<",
-  ">Open run chat<": ">実行チャットを開く<"
+  ">Open run chat<": ">実行チャットを開く<",
+
+  "\"\\(select a job\\)\"": "\"（ジョブを選択）\""
 }

@@ -1,0 +1,45 @@
+{
+  "\"Deny\"": "\"Tanggihan\"",
+  "\"Allowlist\"": "\"Allowlist\"",
+  "\"Off\"": "\"Patayin\"",
+  "\"On miss\"": "\"Kapag hindi naabot\"",
+  "\"Always\"": "\"Palagi\"",
+
+  ">Exec approvals<": ">Mga pag-apruba ng Exec<",
+  "Allowlist and approval policy for \\<span class=\"mono\">exec host=gateway/node\\</span>.": "Allowlist at patakaran sa pag-apruba para sa <span class=\"mono\">exec host=gateway/node</span>.",
+  "\"Load approvals\"": "\"I-load ang mga approval\"",
+  "Load exec approvals to edit allowlists.":"I-load ang mga exec approval para i-edit ang mga allowlist.",
+  "Gateway edits local approvals; node edits the selected node.": "Ina-edit ng Gateway ang mga lokal na approval; ine-edit ng node ang napiling node.",
+
+  ">Gateway<": ">Gateway<",
+  ">Node<": ">Node<",
+  ">Select node<": ">Pumili ng node<",
+  "No nodes advertise exec approvals yet.": "Wala pang node na nag-aanunsiyo ng exec approvals.",
+
+  ">Scope<": ">Saklaw<",
+  "  Defaults": "  Mga Default",
+
+  "\"Default security mode.\"": "\"Default na security mode.\"",
+  "`Default: ": "`Default: ",
+  "  Use default": "  Gamitin ang default",
+  "\"Default prompt policy.\"": "\"Default na patakaran sa prompt.\"",
+  ">Ask<": ">Magtanong<",
+  ">Ask fallback<": ">Magtanong ng fallback<",
+  "Applied when the UI prompt is unavailable.": "Inilalapat kapag ang UI prompt ay hindi available.",
+  ">Fallback<": ">Fallback<",
+
+  ">Auto-allow skill CLIs<": ">Auto-allow na skill CLI<",
+  "Allow skill executables listed by the Gateway.": "Payagan ang mga skill executable na nakalista ng Gateway.",
+  "\"on\" \\: \"off\"\\}": "\"on\" : \"off\"}",
+  ": `Override \\(": ": `Override (",
+
+  
+  ">Allowlist<": ">Allowlist<",
+  "Case-insensitive glob patterns.": "Case-insensitive na glob pattern.",
+  "  Add pattern": "  Magdagdag ng pattern",
+  ">Pattern<": ">Pattern<",
+  "No allowlist entries yet.": "Wala pang allowlist entries.",
+  "\"New pattern\"": "\"Bagong pattern\"",
+  ">Last used: ": ">Huling ginamit: ",
+  "  Remove": "  Alisin"
+}

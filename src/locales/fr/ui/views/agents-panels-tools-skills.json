@@ -1,0 +1,31 @@
+{
+  "\"agent override\"": "\"remplacement agent\"",
+  "\"global default\"": "\"défaut global\"",
+  "\"default\"": "\"défaut\"",
+
+  ">Tool Access<": ">Accès aux outils<",
+  "  Profile \\+ per-tool overrides for this agent.": "  Profil + remplacements par outil pour cet agent.",
+  "> enabled.": "> activé.",
+
+  "  Use All": "  Tout utiliser",
+  "  Enable All": "  Tout activer",
+  "  Disable All": "  Tout désactiver",
+  "  Reload Config": "  Recharger la configuration",
+
+  "Load the gateway config to adjust tool profiles.": "Chargez la configuration de la passerelle pour ajuster les profils d'outils.",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "  Cet agent utilise une liste d'autorisation explicite dans la configuration. Les remplacements d'outils sont gérés dans l'onglet Configuration.",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "  L'option globale tools.allow est définie. Les remplacements agent ne peuvent pas activer les outils globalement bloqués.",
+
+  ">Profile<": ">Profil<",
+  ">Source<": ">Source<",
+  ">unsaved<": ">non enregistré<",
+
+  ">Quick Presets<": ">Préréglages rapides<",
+  "  Inherit": "  Hériter",
+
+  "Per-agent skill allowlist and workspace skills.": "Liste d'autorisation des compétences par agent et compétences de l'espace de travail.",
+  "Load the gateway config to set per-agent skills.": "Chargez la configuration de la passerelle pour définir les compétences par agent.",
+  "This agent uses a custom skill allowlist.": "Cet agent utilise une liste d'autorisation de compétences personnalisée.",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "Toutes les compétences sont activées. Désactiver une compétence créera une liste d'autorisation par agent.",
+  "Load skills for this agent to view workspace-specific entries.": "Chargez les compétences pour cet agent afin de voir les entrées spécifiques à l'espace de travail."
+}

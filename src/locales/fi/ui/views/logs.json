@@ -1,0 +1,12 @@
+{
+  ">Logs<": ">Mga Log<",
+  "Gateway file logs \\(JSONL\\).": "Gateway file logs (JSONL).",
+  "\"filtered\"": "\"na-filter\"",
+  "\"visible\"": "\"nakikita\"",
+  " Export ": " I-export ",
+  "\"Search logs\"": "\"Maghanap sa logs\"",
+  ">Auto-follow<": ">Auto-follow<",
+  "Log output truncated; showing latest chunk.": "Pinutol ang output ng log; ipinapakita ang pinakabagong bahagi.",
+  ">Last heartbeat<": ">Huling heartbeat<",
+  "No log entries.": "Walang log entries."
+}

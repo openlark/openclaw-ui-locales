@@ -1,0 +1,23 @@
+{
+  "Compacting context...": "Compactando contexto...",
+  "Context compacted": "Contexto compactado",
+  "Attachment preview": "Pré-visualização de anexo",
+  "Remove attachment": "Remover anexo",
+  "Add a message or paste more images...": "Adicione uma mensagem ou cole mais imagens...",
+  "Message \\(↩ to send, Shift\\+↩ for line breaks, paste images\\)": "Mensagem (↩ para enviar, Shift+↩ para quebras de linha, cole imagens)",
+  "Connect to the gateway to start chatting…": "Conecte-se ao gateway para começar a conversar…",
+  "Loading chat…": "Carregando chat…",
+  "Exit focus mode": "Sair do modo foco",
+  ">Queued ": ">Na fila ",
+  "Image \\(": "Imagem (",
+  "Remove queued message": "Remover mensagem da fila",
+  "New messages ": "Novas mensagens ",
+  ">Message<": ">Mensagem<",
+  "\"Stop\"": "\"Parar\"",
+  "New session": "Nova sessão",
+  "\"Queue\"": "\"Fila\"",
+  "\"Send\"": "\"Enviar\"",
+  "Showing last ": "Mostrando as últimas ",
+  "\\} messages": "} mensagens",
+  "\\} hidden": "} ocultas"
+}

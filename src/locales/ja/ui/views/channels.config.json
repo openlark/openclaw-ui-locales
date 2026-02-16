@@ -3,28 +3,29 @@
   "Channel config schema unavailable.": "チャンネル設定スキーマが利用できません。",
   "Loading config schema…": "設定スキーマを読み込んでいます…",
   "Channel status and configuration.": "チャンネルのステータスと設定。",
+
   ">Configured<": ">設定済み<",
   ">Linked<": ">リンク済み<",
   ">Last start<": ">最終開始<",
   ">Last probe<": ">最終プローブ<",
   ">Last connect<": ">最終接続<",
   ">Last message<": ">最終メッセージ<",
+  ">Last inbound<": ">最終受信<",
   ">Auth age<": ">認証経過時間<",
   ">Mode<": ">モード<",
   ">Credential<": ">資格情報<",
   ">Public Key<": ">公開鍵<",
   ">Audience<": ">オーディエンス<",
   ">Profile<": ">プロフィール<",
+
   "No profile set. Click \"Edit Profile\" to add your name, bio, and avatar.": "プロフィールが設定されていません。「プロフィールを編集」をクリックして、名前、自己紹介、アバターを追加してください。",
   "\"Saving…\"": "\"保存中…\"",
   "\"Save\"": "\"保存\"",
   "  probe": " プローブ",
   
-  "macOS bridge status and channel configuration.": "macOSブリッジのステータスとチャンネル設定。",
-  "Link WhatsApp Web and monitor connection health.": "WhatsApp Webをリンクし、接続状態を監視します。",
-  "Bot status and channel configuration.": "ボットのステータスとチャンネル設定。",
-  "Chat API webhook status and channel configuration.": "チャットAPIウェブフックのステータスとチャンネル設定。",
-  "Socket mode status and channel configuration.": "ソケットモードのステータスとチャンネル設定。",
-  "signal-cli status and channel configuration.": "signal-cliのステータスとチャンネル設定。",
+  "  Probe": " プローブ",
+  "\"ok\" \\:": "\"成功\" :",
+  "\"failed\"": "\"失敗\"",
+  
   "Decentralized DMs via Nostr relays \\(NIP-04\\).": "Nostrリレー（NIP-04）を介した分散型ダイレクトメッセージ。"
 }

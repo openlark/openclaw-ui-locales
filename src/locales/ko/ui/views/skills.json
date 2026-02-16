@@ -1,4 +1,10 @@
 {
+  ">Skills<": ">스킬<",
   "Bundled, managed, and workspace skills.": "번들, 관리 및 작업 공간 스킬.",
+  "\"Search skills\"": "\"스킬 검색\"",
+  "No skills found.": "스킬을 찾을 수 없습니다.",
+  "\\} shown": "} 표시됨",
+  "\"Installing…\"": "\"설치 중…\"",
+  ">API key<": ">API 키<",
   "  Save key": " 키 저장"
 }

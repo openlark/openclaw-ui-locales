@@ -30,8 +30,18 @@ function main() {
         { name: '한국어', value: 'ko' },
         // 法语 French
         { name: 'Français', value: 'fr' },
+        // 德语 German 
+        { name: 'Deutsch', value: 'de' },
+        // 葡萄牙语 Portuguese
+        { name: 'Português', value: 'pt' },
+        // 西班牙语 Spanish
+        { name: 'Español', value: 'es' },
         // 孟加拉语 Bangla
         { name: 'বাংলা', value: 'bn' },
+        // 越南语 Vietnamese
+        { name: 'Tiếng Việt', value: 'vi' },
+        // 菲律宾语 Filipino
+        { name: 'Filipino', value: 'fi' },
       ]
     }
   ]
@@ -123,7 +133,7 @@ function handleControlUIContents(options: OpenClawHanldeOptions) {
             }
           }
         }
-        
+
         fs.writeFileSync(jsFileName, jsContent)
       })
     }

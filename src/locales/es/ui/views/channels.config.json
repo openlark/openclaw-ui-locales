@@ -1,0 +1,31 @@
+{
+  "Schema unavailable. Use Raw.": "Esquema no disponible. Use Raw.",
+  "Channel config schema unavailable.": "Esquema de configuración de canal no disponible.",
+  "Loading config schema…": "Cargando esquema de configuración…",
+  "Channel status and configuration.": "Estado y configuración del canal.",
+
+  ">Configured<": ">Configurado<",
+  ">Linked<": ">Vinculado<",
+  ">Last start<": ">Último inicio<",
+  ">Last probe<": ">Última prueba<",
+  ">Last connect<": ">Última conexión<",
+  ">Last message<": ">Último mensaje<",
+  ">Last inbound<": ">Última entrada<",
+  ">Auth age<": ">Antigüedad de autenticación<",
+  ">Mode<": ">Modo<",
+  ">Credential<": ">Credencial<",
+  ">Public Key<": ">Clave pública<",
+  ">Audience<": ">Audiencia<",
+  ">Profile<": ">Perfil<",
+
+  "No profile set. Click \"Edit Profile\" to add your name, bio, and avatar.": "No hay perfil establecido. Haga clic en \"Editar perfil\" para agregar su nombre, biografía y avatar.",
+  "\"Saving…\"": "\"Guardando…\"",
+  "\"Save\"": "\"Guardar\"",
+  "  probe": "  prueba",
+  
+  "  Probe": "  Probar",
+  "\"ok\" \\:": "\"ok\" :",
+  "\"failed\"": "\"falló\"",
+  
+  "Decentralized DMs via Nostr relays \\(NIP-04\\).": "MD descentralizados a través de relays Nostr (NIP-04)."
+}

@@ -29,7 +29,7 @@
   "No nodes with system.run available.": "没有可用 system.run 的节点。",
 
   ">Target<": ">目标<",
-  " Gateway edits local approvals; node edits the selected node.": "网关编辑本地审批流程；节点编辑所选节点。",
+  " Gateway edits local approvals; node edits the selected node.": "网关编辑本地许可流程；节点编辑所选节点。",
   
   ">Host<": ">主机<",
   ">Security<": ">安全<",

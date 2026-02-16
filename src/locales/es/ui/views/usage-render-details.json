@@ -1,0 +1,62 @@
+{
+  "No usage data for this session.": "No hay datos de uso para esta sesión.",
+  ">Messages<": ">Mensajes<",
+  "\\} user · ": "} usuario · ",
+  "\\} assistant": "} asistente",
+  ">Tool Calls<": ">Llamadas a Herramientas<",
+  " tools<": " herramientas<",
+  ">Errors<": ">Errores<",
+  " tool results<": " resultados de herramientas<",
+  ">Duration<": ">Duración<",
+
+  "\"No tool calls\"": "\"Sin llamadas a herramientas\"",
+  "\"No model data\"": "\"Sin datos de modelo\"",
+
+  "\"Close session details\"": "\"Cerrar detalles de la sesión\"",
+
+  ">No timeline data<": ">Sin datos de línea de tiempo<",
+  "\"No data in range\"": "\"Sin datos en el rango\"",
+  ">Usage Over Time<": ">Uso a lo Largo del Tiempo<",
+  "  Per Turn": "  Por Turno",
+  " Cumulative": " Acumulado",
+  " Total": " Total",
+  " By Type": " Por Tipo",
+  ">Tokens by Type<": ">Tokens por Tipo<",
+
+  "\"Assistant output tokens\"": "\"Tokens de salida del asistente\"",
+  ">Output": ">Salida",
+  "\"User \\+ tool input tokens\"": "\"Tokens de entrada de usuario + herramienta\"",
+  ">Input": ">Entrada",
+  "\"Tokens written to cache\"": "\"Tokens escritos en caché\"",
+  ">Cache Write ": ">Escritura en Caché ",
+  "\"Tokens read from cache\"": "\"Tokens leídos de caché\"",
+  ">Cache Read ": ">Lectura de Caché ",
+  ">Total: ": ">Total: ",
+  
+  ">No context data<": ">Sin datos de contexto<",
+  ">System Prompt Breakdown<": ">Desglose del Prompt del Sistema",
+  "\"Collapse\"": "\"Contraer\"",
+  "\"Expand all\"": "\"Expandir todo\"",
+  "\"Base context per message\"": "\"Contexto base por mensaje\"",
+
+  ">Sys ": ">Sis ",
+  ">Skills ": ">Habilidades ",
+  ">Tools ": ">Herramientas ",
+  ">Files ": ">Archivos ",
+
+  " more<": " más< ",
+
+  ">Conversation<": ">Conversación<",
+  ">No messages<": ">Sin mensajes<",
+
+  "\"Collapse All\"": "\"Contraer Todo\"",
+  "\"Expand All\"": "\"Expandir Todo\"",
+
+  ">User<": ">Usuario<",
+  ">Assistant<": ">Asistente<",
+  ">Tool<": ">Herramienta<",
+  ">Tool result<": ">Resultado de herramienta<",
+
+  "\"Search conversation\"": "\"Buscar en la conversación\"",
+  "No messages match the filters.": "Ningún mensaje coincide con los filtros."
+}

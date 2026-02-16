@@ -1,0 +1,62 @@
+{
+  "No usage data for this session.": "Sem dados de uso para esta sessão.",
+  ">Messages<": ">Mensagens<",
+  "\\} user · ": "} usuário · ",
+  "\\} assistant": "} assistente",
+  ">Tool Calls<": ">Chamadas de Ferramenta<",
+  " tools<": " ferramentas<",
+  ">Errors<": ">Erros<",
+  " tool results<": " resultados de ferramenta<",
+  ">Duration<": ">Duração<",
+
+  "\"No tool calls\"": "\"Nenhuma chamada de ferramenta\"",
+  "\"No model data\"": "\"Sem dados do modelo\"",
+
+  "\"Close session details\"": "\"Fechar detalhes da sessão\"",
+
+  ">No timeline data<": ">Sem dados de linha do tempo<",
+  "\"No data in range\"": "\"Sem dados no intervalo\"",
+  ">Usage Over Time<": ">Uso ao Longo do Tempo<",
+  "  Per Turn": "  Por Turno",
+  " Cumulative": " Acumulado",
+  " Total": " Total",
+  " By Type": " Por Tipo",
+  ">Tokens by Type<": ">Tokens por Tipo<",
+
+  "\"Assistant output tokens\"": "\"Tokens de saída do assistente\"",
+  ">Output": ">Saída",
+  "\"User \\+ tool input tokens\"": "\"Tokens de entrada do usuário + ferramenta\"",
+  ">Input": ">Entrada",
+  "\"Tokens written to cache\"": "\"Tokens gravados em cache\"",
+  ">Cache Write ": ">Gravação em Cache ",
+  "\"Tokens read from cache\"": "\"Tokens lidos do cache\"",
+  ">Cache Read ": ">Leitura de Cache ",
+  ">Total: ": ">Total: ",
+  
+  ">No context data<": ">Sem dados de contexto<",
+  ">System Prompt Breakdown<": ">Detalhamento do Prompt do Sistema<",
+  "\"Collapse\"": "\"Recolher\"",
+  "\"Expand all\"": "\"Expandir tudo\"",
+  "\"Base context per message\"": "\"Contexto base por mensagem\"",
+
+  ">Sys ": ">Sistema ",
+  ">Skills ": ">Habilidades ",
+  ">Tools ": ">Ferramentas ",
+  ">Files ": ">Arquivos ",
+
+  " more<": " mais< ",
+
+  ">Conversation<": ">Conversa<",
+  ">No messages<": ">Sem mensagens<",
+
+  "\"Collapse All\"": "\"Recolher Tudo\"",
+  "\"Expand All\"": "\"Expandir Tudo\"",
+
+  ">User<": ">Usuário<",
+  ">Assistant<": ">Assistente<",
+  ">Tool<": ">Ferramenta<",
+  ">Tool result<": ">Resultado da ferramenta<",
+
+  "\"Search conversation\"": "\"Pesquisar na conversa\"",
+  "No messages match the filters.": "Nenhuma mensagem corresponde aos filtros."
+}

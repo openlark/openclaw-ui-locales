@@ -1,0 +1,35 @@
+{
+  "\"label\",": "\"rótulo\",",
+  "\"agentId\",": "\"ID do agente\",",
+  "\"channel\",": "\"canal\",",
+  "\"provider\",": "\"provedor\",",
+  "\"model\",": "\"modelo\",",
+  "\"updatedAt\",": "\"atualizado em\",",
+  "\"durationMs\",": "\"duração em ms\",",
+  "\"messages\",": "\"mensagens\",",
+  "\"errors\",": "\"erros\",",
+  "\"toolCalls\",": "\"chamadas de ferramenta\",",
+  "\"inputTokens\",": "\"tokens de entrada\",",
+  "\"outputTokens\",": "\"tokens de saída\",",
+  "\"cacheReadTokens\",": "\"tokens de leitura de cache\",",
+  "\"cacheWriteTokens\",": "\"tokens de escrita em cache\",",
+  "\"totalTokens\",": "\"total de tokens\",",
+  "\"totalCost\",": "\"custo total\",",
+
+  "\"date\",": "\"data\",",
+  "\"inputCost\",": "\"custo de entrada\",",
+  "\"outputCost\",": "\"custo de saída\",",
+  "\"cacheReadCost\",": "\"custo de leitura de cache\",",
+  "\"cacheWriteCost\",": "\"custo de escrita em cache\",",
+
+  "\"agent:\",": "\"agente:\",",
+  "\"channel:\",": "\"canal:\",",
+  "\"provider:\",": "\"provedor:\",",
+  "\"model:\",": "\"modelo:\",",
+  "\"tool:\",": "\"ferramenta:\",",
+  "\"has:errors:\",": "\"tem:erros:\",",
+  "\"has:tools:\",": "\"tem:ferramentas:\",",
+  "\"minTokens:\",": "\"mínimo de tokens:\",",
+  "\"maxCost:\",": "\"custo máximo:\","
+
+}

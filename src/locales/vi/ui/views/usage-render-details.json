@@ -1,0 +1,62 @@
+{
+  "No usage data for this session.": "Không có dữ liệu sử dụng cho phiên này.",
+  ">Messages<": ">Tin nhắn<",
+  "\\} user · ": "} người dùng · ",
+  "\\} assistant": "} trợ lý",
+  ">Tool Calls<": ">Lệnh gọi Công cụ<",
+  " tools<": " công cụ<",
+  ">Errors<": ">Lỗi<",
+  " tool results<": " kết quả công cụ<",
+  ">Duration<": ">Thời lượng<",
+
+  "\"No tool calls\"": "\"Không có lệnh gọi công cụ\"",
+  "\"No model data\"": "\"Không có dữ liệu mô hình\"",
+
+  "\"Close session details\"": "\"Đóng chi tiết phiên\"",
+
+  ">No timeline data<": ">Không có dữ liệu dòng thời gian<",
+  "\"No data in range\"": "\"Không có dữ liệu trong phạm vi\"",
+  ">Usage Over Time<": ">Mức sử dụng theo Thời gian<",
+  "  Per Turn": "  Mỗi lượt",
+  " Cumulative": "  Tích lũy",
+  " Total": "  Tổng cộng",
+  " By Type": "  Theo loại",
+  ">Tokens by Type<": ">Mã thông báo theo loại<",
+
+  "\"Assistant output tokens\"": "\"Mã thông báo đầu ra của trợ lý\"",
+  ">Output": ">Đầu ra",
+  "\"User \\+ tool input tokens\"": "\"Mã thông báo đầu vào của người dùng + công cụ\"",
+  ">Input": ">Đầu vào",
+  "\"Tokens written to cache\"": "\"Mã thông báo đã ghi vào bộ nhớ đệm\"",
+  ">Cache Write ": ">Ghi bộ nhớ đệm ",
+  "\"Tokens read from cache\"": "\"Mã thông báo đã đọc từ bộ nhớ đệm\"",
+  ">Cache Read ": ">Đọc bộ nhớ đệm ",
+  ">Total: ": ">Tổng: ",
+  
+  ">No context data<": ">Không có dữ liệu ngữ cảnh<",
+  ">System Prompt Breakdown<": ">Phân tích Lời nhắc Hệ thống",
+  "\"Collapse\"": "\"Thu gọn\"",
+  "\"Expand all\"": "\"Mở rộng tất cả\"",
+  "\"Base context per message\"": "\"Ngữ cảnh cơ sở mỗi tin nhắn\"",
+
+  ">Sys ": ">Hệ thống ",
+  ">Skills ": ">Kỹ năng ",
+  ">Tools ": ">Công cụ ",
+  ">Files ": ">Tệp ",
+
+  " more<": " thêm< ",
+
+  ">Conversation<": ">Cuộc trò chuyện<",
+  ">No messages<": ">Không có tin nhắn<",
+
+  "\"Collapse All\"": "\"Thu gọn Tất cả\"",
+  "\"Expand All\"": "\"Mở rộng Tất cả\"",
+
+  ">User<": ">Người dùng<",
+  ">Assistant<": ">Trợ lý<",
+  ">Tool<": ">Công cụ<",
+  ">Tool result<": ">Kết quả công cụ<",
+
+  "\"Search conversation\"": "\"Tìm kiếm cuộc trò chuyện\"",
+  "No messages match the filters.": "Không có tin nhắn nào khớp với bộ lọc."
+}

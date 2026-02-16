@@ -1,0 +1,10 @@
+{
+  "Profile update failed \\(": "Profilaktualisierung fehlgeschlagen (",
+  "Profile publish failed on all relays.": "Profilveröffentlichung auf allen Relays fehlgeschlagen.",
+  "Profile published to relays.": "Profil auf Relays veröffentlicht.",
+  "Profile update failed: ": "Profilaktualisierung fehlgeschlagen: ",
+  "Profile import failed \\(": "Profilimport fehlgeschlagen (",
+  "Profile imported from relays. Review and publish.": "Profil von Relays importiert. Überprüfen und veröffentlichen.",
+  "Profile imported. Review and publish.": "Profil importiert. Überprüfen und veröffentlichen.",
+  "Profile import failed: ": "Profilimport fehlgeschlagen: "
+}

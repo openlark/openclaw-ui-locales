@@ -1,0 +1,85 @@
+{
+  ">Token Usage<": ">Mức sử dụng Mã thông báo<",
+  ">to<": ">đến<",
+  "\"Today\"": "\"Hôm nay\"",
+  "\"7d\"": "\"7 ngày\"",
+  "\"30d\"": "\"30 ngày\"",
+  ">All<": ">Tất cả<",
+  "  Clear": "  Xóa",
+
+  ">Usage<": ">Mức sử dụng<",
+  "See where tokens go, when sessions spike, and what drives cost.": "Xem mã thông báo được dùng vào đâu, khi nào các phiên tăng đột biến và yếu tố nào thúc đẩy chi phí.",
+  "\"pinned\"": "\"đã ghim\"",
+  ">Filters<": ">Bộ lọc<",
+  ">Loading<": ">Đang tải<",
+  "Select a date range and click Refresh to load usage.": "Chọn một khoảng thời gian và nhấp vào Làm mới để tải mức sử dụng.",
+  "> tokens": "> mã thông báo",
+  "> cost": "> chi phí",
+
+  "\"Unpin filters\"\\}": "\"Bỏ ghim bộ lọc\"}",
+  "\"Pin filters\"\\}": "\"Ghim bộ lọc\"}",
+  "\"Pinned\"": "\"Đã ghim\"",
+  "\"Pin\"": "\"Ghim\"",
+  ">Export ▾<": ">Xuất ▾<",
+  "  Sessions ": "  Phiên ",
+  "  Daily ": "  Hàng ngày ",
+
+  "  Tokens": "  Mã thông báo",
+  "  Cost": "  Chi phí",
+  "  Refresh": "  Làm mới",
+
+  "Filter sessions \\(e.g. key:agent:main:cron\\* model:gpt-4o has:errors minTokens:2000\\)": "Lọc phiên (ví dụ: key:agent:main:cron* model:gpt-4o has:errors minTokens:2000)",
+  " Filter \\(client-side\\)": " Lọc (phía máy khách)",
+  "\\} sessions match": "} phiên phù hợp",
+  "\\} sessions in range": "} phiên trong phạm vi",
+  "Tip: use filters or click bars to filter days.": "Mẹo: sử dụng bộ lọc hoặc nhấp vào thanh để lọc ngày.",
+
+  "\"Remove filter\"": "\"Xóa bộ lọc\"",
+
+  "Showing first 1,000 sessions. Narrow date range for complete results.":"Hiển thị 1.000 phiên đầu tiên. Thu hẹp phạm vi thời gian để có kết quả đầy đủ.",
+
+  ">Days:": ">Ngày:",
+  ">Hours:": ">Giờ:",
+  ">Session:": ">Phiên:",
+  "  Clear All": "  Xóa tất cả",
+  ">Daily Usage<": ">Mức sử dụng hàng ngày<",
+  ">No data<": ">Không có dữ liệu<",
+  "\\} Usage<": "} Mức sử dụng<",
+  "\\} tokens<": "} mã thông báo<",
+  
+  "\"Tokens\":\"Cost\"} by Type": "\"Mã thông báo\" : \"Chi phí\"} theo loại",
+  "\"Output: ": "\"Đầu ra: ",
+  "\"Input: ": "\"Đầu vào: ",
+  "\"Cache Write: ": "\"Ghi bộ nhớ đệm: ",
+  "\"Cache Read: ": "\"Đọc bộ nhớ đệm: ",
+  
+  "Cache hit rate = cache read / \\(input \\+ cache read\\). Higher is better.": "Tỷ lệ truy cập bộ nhớ đệm = đọc bộ nhớ đệm / (đầu vào + đọc bộ nhớ đệm). Cao hơn thì tốt hơn.",
+  "Error rate = errors / total messages. Lower is better.": "Tỷ lệ lỗi = lỗi / tổng số tin nhắn. Thấp hơn thì tốt hơn.",
+  "Throughput shows tokens per minute over active time. Higher is better.": "Thông lượng hiển thị số mã thông báo mỗi phút trong thời gian hoạt động. Cao hơn thì tốt hơn.",
+  "Average tokens per message in this range.": "Số mã thông báo trung bình mỗi tin nhắn trong phạm vi này.",
+  "Average cost per message when providers report costs. Cost data is missing for some or all sessions in this range.": "Chi phí trung bình mỗi tin nhắn khi nhà cung cấp báo cáo chi phí. Dữ liệu chi phí bị thiếu đối với một số hoặc tất cả các phiên trong phạm vi này.",
+  "Average cost per message when providers report costs.": "Chi phí trung bình mỗi tin nhắn khi nhà cung cấp báo cáo chi phí.",
+ 
+  "\\} errors · ": "} lỗi · ",
+  "\\} msgs · ": "} tin nhắn · ",
+
+  ">Usage Overview<": ">Tổng quan Mức sử dụng<",
+  "Total user \\+ assistant messages in range.": "Tổng số tin nhắn người dùng + trợ lý trong phạm vi.",
+  "  Tool Calls": "  Lệnh gọi công cụ",
+  "Total tool call count across sessions.": "Tổng số lần gọi công cụ trên các phiên.",
+  "  Errors": "  Lỗi",
+  "Total message/tool errors in range.": "Tổng số lỗi tin nhắn/công cụ trong phạm vi.",
+  "  Avg Tokens / Msg": "  TB Mã thông báo / Tin nhắn",
+  ">Across ": ">Trên ",
+  "Avg Cost \/ Msg": "Chi phí TB / Tin nhắn",
+  "\\} total<": "} tổng<",
+
+  "Distinct sessions in the range.": "Các phiên riêng biệt trong phạm vi.",
+  "  Throughput": "  Thông lượng",
+  "  Error Rate": "  Tỷ lệ lỗi",
+
+  "  All ": "  Tất cả ",
+  " Recently viewed": "  Đã xem gần đây",
+  ">No sessions in range<": ">Không có phiên nào trong phạm vi<",
+  ">No recent sessions<": ">Không có phiên gần đây<"
+}

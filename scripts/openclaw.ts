@@ -14,7 +14,7 @@ async function main() {
 
     if (compareVersion(latestV, localeV) < 0) {
       console.log('OpenClaw Updating...')
-      shell.exec('openclaw update')
+      shell.exec('npm update -g openclaw')
       shell.exec('openclaw gateway restart')
     }
   }

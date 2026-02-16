@@ -1,0 +1,18 @@
+{
+  ">Activity by Time<": ">Actividad por Tiempo<",
+  " tokens<": " tokens<",
+  "Estimates require session timestamps.": "Las estimaciones requieren marcas de tiempo de sesión.",
+  "No timeline data yet.": "Aún no hay datos de línea de tiempo.",
+  "Estimated from session spans (first/last activity). Time zone:": "Estimado a partir de intervalos de sesión (primera/última actividad). Zona horaria:",
+  "\"Local\"\\}": "\"Local\"}",
+  ">Day of Week<": ">Día de la Semana<",
+  ">Hours<": ">Horas<",
+  "\\} tokens": "} tokens",
+  ">Midnight<": ">Medianoche<",
+  ">4am<": ">4am<",
+  ">8am<": ">8am<",
+  ">Moon<": ">Mediodía<",
+  ">4pm<": ">4pm<",
+  ">8pm<": ">8pm<",
+  "Low → High token density": "Densidad de tokens Baja → Alta"
+}

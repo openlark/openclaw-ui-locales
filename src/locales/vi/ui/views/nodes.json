@@ -1,0 +1,46 @@
+{
+  ">Nodes<": ">Nút<",
+  "Paired devices and live links.": "Thiết bị đã ghép đôi và liên kết trực tiếp.",
+  "No nodes found.": "Không tìm thấy nút nào.",
+
+  ">Devices<": ">Thiết bị<",
+  "Pairing requests \\+ role tokens.": "Yêu cầu ghép đôi + mã thông báo vai trò.",
+  "\"Loading…\" : \"Refresh\"\\}": "\"Đang tải…\" : \"Làm mới\"}",
+  ">Pending<": ">Đang chờ<",
+  ">Paired<": ">Đã ghép đôi<",
+  "No paired devices.": "Không có thiết bị nào được ghép đôi.",
+
+  " · requested ": " · đã yêu cầu ",
+  "   Approve": "   Phê duyệt",
+  "   Reject": "   Từ chối",
+
+  ">Tokens: none<": ">Mã thông báo: không có<",
+  "   Rotate": "   Xoay vòng",
+  "   Revoke": "   Thu hồi",
+
+  ">Exec node binding<": ">Ràng buộc nút thực thi<",
+  "Pin agents to a specific node when using <span class=\"mono\">exec host=node</span>.": "Ghim đại lý vào một nút cụ thể khi sử dụng <span class=\"mono\">exec host=node</span>.",
+  "Switch the Config tab to <strong>Form<\/strong> mode to edit bindings here.": "Chuyển tab Cấu hình sang chế độ <strong>Biểu mẫu<\/strong> để chỉnh sửa ràng buộc tại đây.",
+  "Load config to edit bindings.": "Tải cấu hình để chỉnh sửa ràng buộc.",
+  "\"Load config\"": "\"Tải cấu hình\"",
+  ">Default binding<": ">Ràng buộc mặc định<",
+  "Used when agents do not override a node binding.": "Được sử dụng khi các đại lý không ghi đè ràng buộc nút.",
+  ">Any node<": ">Bất kỳ nút nào<",
+  "No nodes with system.run available.": "Không có nút nào có system.run khả dụng.",
+
+  ">Target<": ">Mục tiêu<",
+  " Gateway edits local approvals; node edits the selected node.": " Cổng chỉnh sửa phê duyệt cục bộ; nút chỉnh sửa nút đã chọn.",
+  
+  ">Host<": ">Máy chủ<",
+  ">Security<": ">Bảo mật<",
+  "\"default agent\"": "\"đại lý mặc định\"",
+  "\"agent\"\\}": "\"đại lý\"}",
+  "`uses default \\(": "`sử dụng mặc định (",
+  "`Using default \\(": "`Đang sử dụng mặc định (",
+  "`Override \\(": "`Ghi đè (",
+  " \"any\"\\}": " \"bất kỳ\"}",
+  ": `override: ": ": `ghi đè:",
+  ">Binding<": ">Ràng buộc<",
+  "\"paired\" : \"unpaired\"\\}": "\"đã ghép đôi\" : \"chưa ghép đôi\"}",
+  "\"connected\" : \"offline\"\\}": "\"đã kết nối\" : \"ngoại tuyến\"}"
+}

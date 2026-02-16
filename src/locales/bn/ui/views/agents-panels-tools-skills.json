@@ -1,0 +1,31 @@
+{
+  "\"agent override\"": "\"এজেন্ট ওভাররাইড\"",
+  "\"global default\"": "\"গ্লোবাল ডিফল্ট\"",
+  "\"default\"": "\"ডিফল্ট\"",
+
+  ">Tool Access<": ">টুল অ্যাক্সেস<",
+  "  Profile \\+ per-tool overrides for this agent.": "এই এজেন্টের জন্য প্রোফাইল + প্রতি-টুল ওভাররাইড।",
+  "> enabled.": "> সক্রিয়।",
+
+  "  Use All": "সব ব্যবহার করুন",
+  "  Enable All": "সব সক্রিয় করুন",
+  "  Disable All": "সব নিষ্ক্রিয় করুন",
+  "  Reload Config": "কনফিগ রিলোড করুন",
+
+  "Load the gateway config to adjust tool profiles.": "টুল প্রোফাইল সামঞ্জস্য করতে গেটওয়ে কনফিগ লোড করুন।",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "এই এজেন্ট কনফিগে একটি স্পষ্ট অনুমোদিত তালিকা ব্যবহার করছে। টুল ওভাররাইড 'কনফিগ' ট্যাবে পরিচালিত হয়।",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "গ্লোবাল tools.allow সেট করা আছে। এজেন্ট ওভাররাইড গ্লোবালি ব্লক করা টুল সক্রিয় করতে পারে না।",
+
+  ">Profile<": ">প্রোফাইল<",
+  ">Source<": ">উৎস<",
+  ">unsaved<": ">অসংরক্ষিত<",
+
+  ">Quick Presets<": ">দ্রুত প্রিসেট<",
+  "  Inherit": "ইনহেরিট",
+
+  "Per-agent skill allowlist and workspace skills.": "প্রতি-এজেন্ট স্কিল অনুমোদিত তালিকা এবং ওয়ার্কস্পেস স্কিল।",
+  "Load the gateway config to set per-agent skills.": "প্রতি-এজেন্ট স্কিল সেট করতে গেটওয়ে কনফিগ লোড করুন।",
+  "This agent uses a custom skill allowlist.": "এই এজেন্ট একটি কাস্টম স্কিল অনুমোদিত তালিকা ব্যবহার করে।",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "সমস্ত স্কিল সক্রিয় আছে। যেকোনো স্কিল নিষ্ক্রিয় করলে একটি প্রতি-এজেন্ট অনুমোদিত তালিকা তৈরি হবে।",
+  "Load skills for this agent to view workspace-specific entries.": "ওয়ার্কস্পেস-নির্দিষ্ট এন্ট্রি দেখতে এই এজেন্টের জন্য স্কিল লোড করুন।"
+}

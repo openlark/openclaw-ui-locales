@@ -1,48 +1,5 @@
 {
-  "\"Files\"": "\"ファイル\"",
-  "\"Read file contents\"": "\"ファイル内容の読み取り\"",
-  "\"Create or overwrite files\"": "\"ファイルの作成または上書き\"",
-  "\"Make precise edits\"": "\"精密な編集\"",
-  "\"Patch files \\(OpenAI\\)\"": "\"ファイルパッチ（OpenAI）\"",
-
-  "\"Runtime\"": "\"ランタイム\"",
-  "\"Run shell commands\"": "\"シェルコマンドの実行\"",
-  "\"Manage background processes\"": "\"バックグラウンドプロセスの管理\"",
-
-  "\"Web\"": "\"ウェブ\"",
-  "\"Search the web\"": "\"ウェブ検索\"",
-  "\"Fetch web content\"": "\"ウェブコンテンツの取得\"",
   
-  "\"Memory\"": "\"メモリー\"",
-  "\"Semantic search\"": "\"セマンティック検索\"",
-  "\"Read memory files\"": "\"メモリファイルの読み取り\"",
-  "\"List sessions\"": "\"セッション一覧\"",
-
-  "\"Session history\"": "\"セッション履歴\"",
-  "\"Send to session": "\"セッションに送信",
-  "\"Spawn sub-agent\"": "\"サブエージェントの生成\"",
-  "\"Session status\"": "\"セッションステータス\"",
-
-  "\"UI\"": "\"UI\"",
-  "\"Control web browser\"": "\"ウェブブラウザの制御\"",
-  "\"Control canvases\"": "\"キャンバスの制御\"",
-
-  "\"Messaging\"": "\"メッセージング\"",
-  "\"Send messages\"": "\"メッセージ送信\"",
-  
-  "\"Automation\"": "\"自動化\"",
-  "\"Schedule tasks\"": "\"タスクのスケジュール\"",
-
-  "\"Gateway control\"": "\"ゲートウェイ制御\"",
-  "\"Nodes \\+ devices\"": "\"ノード + デバイス\"",
-  "\"List agents\"": "\"エージェント一覧\"",
-  
-  "\"Media\"": "\"メディア\"",
-  "\"Image understanding\"": "\"画像理解\"",
-
-  "\"Minimal\"": "\"ミニマル\"",
-  "\"Coding\"": "\"コーディング\"",
-
   ">No configured models<": ">設定済みモデルがありません<",
   "\\} configured.<": "} 設定済み。<",
   "No agents found.": "エージェントが見つかりません。",
@@ -56,12 +13,10 @@
   ">Workspace<": ">ワークスペース<",
   ">Primary Model<": ">プライマリモデル<",
   ">Identity Name<": ">アイデンティティ名<",
-  ">Default<": ">デフォルト<",
+  ">Default<": ">デフォルト値<",
   ">Identity Emoji<": ">アイデンティティ絵文字<",
   ">Skills Filter<": ">スキルフィルター<",
   ">Filter<": ">フィルター<",
-  "\\} selected": "} 選択済み",
-  "\"all skills\"": "\"全スキル\"",
   ">Model Selection<": ">モデル選択<",
   ">Primary model": ">プライマリモデル",
   " \\(default\\)": " (デフォルト)",
@@ -96,46 +51,5 @@
   ">Content<": ">内容<",
   ">missing<": ">不存在<",  
 
-  "\"agent override\"": "\"エージェントオーバーライド\"",
-  "\"global default\"": "\"グローバルデフォルト\"",
-  ">Tool Access<": ">ツールアクセス<",
-  "  Profile \\+ per-tool overrides for this agent.": "  このエージェントのプロファイル＋ツールごとのオーバーライド。",
-  "> enabled.": "> 有効。",
-  "  Load the gateway config to adjust tool profiles.": "  ツールプロファイルを調整するにはゲートウェイ設定を読み込んでください。",
-  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "このエージェントは設定内で明示的な許可リストを使用しています。ツールのオーバーライドは「設定」タブで管理されます。",
-  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "グローバル tools.allow が設定されています。エージェントのオーバーライドでは、グローバルにブロックされたツールを有効にできません。",
-  ">Profile<": ">プロファイル<",
-  ">Source<": ">ソース<",
-  ">unsaved<": ">未保存<",
-  ">Quick Presets<": ">クイックプリセット<",
-  "  Inherit": " 継承",
-  "\"Workspace Skills\"": "\"ワークスペーススキル\"",
-  "\"Built-in Skills\"": "\"ビルトと呼び出しスキル\"",
-  "\"Installed Skills\"": "\"インストール済みスキル\"",
-  "\"Extra Skills\"": "\"追加スキル\"",
-  "\"Other Skills\"": "\"その他のスキル\"",
-
-  ">Skills<": ">スキル<",
-  "Per-agent skill allowlist and workspace skills.": "エージェントごとのスキル許可リストとワークスペーススキル。",
-  "  Use All": "  すべて使用",
-  "  Enable All": "  すべて有効",
-  "  Disable All": "  すべて無効",
-  "  Reload Config": " 設定を再読み込み",
-  "  Reload": " 再読み込み",
-  "  Load the gateway config to set per-agent skills.": "  エージェントごとのスキルを設定するにはゲートウェイ設定を読み込んでください。",
-  "This agent uses a custom skill allowlist.": "このエージェントはカスタムスキル許可リストを使用しています。",
-  "  All skills are enabled. Disabling any skill will create a per-agent allowlist.": "  すべてのスキルが有効です。いずれかのスキルを無効にすると、エージェントごとの許可リストが作成されます。",
-
-  "  Load skills for this agent to view workspace-specific entries.": "  このエージェントのスキルを読み込んで、ワークスペース固有のエントリを表示してください。",
-  
-  "\"Search skills\"": "\"スキル検索\"",
-  "No skills found.": "スキルが見つかりません。",
-
-
-  "\"eligible\"": "\"対象\"",
-  "\"blocked\"": "\"ブロック済み\"",
-
-  ">disabled<": ">無効<",
-  ">Missing: ": ">欠落：",
-  ">Reason:": ">理由："
+  "  Reload": " 再読み込み"
 }

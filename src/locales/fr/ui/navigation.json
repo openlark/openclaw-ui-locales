@@ -1,5 +1,5 @@
 {
-  "\"Chat\"": "\"Discussion\"",
+  "\"Chat\"": "\"Chat\"",
   "\"Control\"": "\"Contrôle\"",
   "\"Agent\"": "\"Agent\"",
   "\"Settings\"": "\"Paramètres\"",
@@ -9,7 +9,7 @@
   "\"Instances\"": "\"Instances\"",
   "\"Sessions\"": "\"Sessions\"",
   "\"Usage\"": "\"Utilisation\"",
-  "\"Cron Jobs\"": "\"Tâches planifiées\"",
+  "\"Cron Jobs\"": "\"Tâches Cron\"",
   "\"Skills\"": "\"Compétences\"",
   "\"Nodes\"": "\"Nœuds\"",
   "\"Config\"": "\"Configuration\"",
@@ -24,7 +24,7 @@
   "Schedule wakeups and recurring agent runs.": "Planifier des réveils et des exécutions récurrentes d'agents.",
   "Manage skill availability and API key injection.": "Gérer la disponibilité des compétences et l'injection de clés API.",
   "Paired devices, capabilities, and command exposure.": "Appareils appairés, capacités et exposition des commandes.",
-  "Direct gateway chat session for quick interventions.": "Session de discussion directe avec la passerelle pour des interventions rapides.",
+  "Direct gateway chat session for quick interventions.": "Session de chat direct avec la passerelle pour des interventions rapides.",
   "Edit ~/.openclaw/openclaw.json safely.": "Modifier ~/.clawdbot/clawdbot.json en toute sécurité.",
   "Gateway snapshots, events, and manual RPC calls.": "Instantanés de la passerelle, événements et appels RPC manuels.",
   "Live tail of the gateway file logs.": "Suivi en direct des journaux de la passerelle."

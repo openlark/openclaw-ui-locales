@@ -1,0 +1,49 @@
+{
+  "\"Files\"": "\"Tệp tin\"",
+  "\"Read file contents\"": "\"Đọc nội dung tệp\"",
+  "\"Create or overwrite files\"": "\"Tạo hoặc ghi đè tệp\"",
+  "\"Make precise edits\"": "\"Chỉnh sửa chính xác\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"Tệp vá lỗi (OpenAI)\"",
+
+  "\"Runtime\"": "\"Môi trường thực thi\"",
+  "\"Run shell commands\"": "\"Chạy lệnh shell\"",
+  "\"Manage background processes\"": "\"Quản lý tiến trình nền\"",
+
+  "\"Web\"": "\"Web\"",
+  "\"Search the web\"": "\"Tìm kiếm trên web\"",
+  "\"Fetch web content\"": "\"Lấy nội dung web\"",
+  
+  "\"Memory\"": "\"Bộ nhớ\"",
+  "\"Semantic search\"": "\"Tìm kiếm ngữ nghĩa\"",
+  "\"Read memory files\"": "\"Đọc tệp bộ nhớ\"",
+  "\"List sessions\"": "\"Liệt kê phiên\"",
+
+  "\"Session history\"": "\"Lịch sử phiên\"",
+  "\"Send to session": "\"Gửi đến phiên",
+  "\"Spawn sub-agent\"": "\"Tạo đại lý con\"",
+  "\"Session status\"": "\"Trạng thái phiên\"",
+
+  "\"UI\"": "\"Giao diện người dùng\"",
+  "\"Control web browser\"": "\"Điều khiển trình duyệt web\"",
+  "\"Control canvases\"": "\"Điều khiển khung vẽ\"",
+
+  "\"Send messages\"": "\"Gửi tin nhắn\"",
+  
+  "\"Automation\"": "\"Tự động hóa\"",
+  "\"Schedule tasks\"": "\"Lên lịch tác vụ\"",
+
+  "\"Gateway control\"": "\"Điều khiển cổng\"",
+  "\"Nodes \\+ devices\"": "\"Nút + thiết bị\"",
+  "\"List agents\"": "\"Liệt kê đại lý\"",
+  
+  "\"Media\"": "\"Phương tiện\"",
+  "\"Image understanding\"": "\"Hiểu hình ảnh\"",
+
+  "\"Minimal\"": "\"Tối thiểu\"",
+  "\"Coding\"": "\"Lập trình\"",
+  "\"Messaging\"": "\"Nhắn tin\"",
+  "\"Full\"": "\"Đầy đủ\"",
+  
+  "\\} selected": "} đã chọn",
+  "\"all skills\"": "\"tất cả kỹ năng\""
+}

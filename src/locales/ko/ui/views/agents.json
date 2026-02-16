@@ -1,48 +1,4 @@
 {
-  "\"Files\"": "\"파일\"",
-  "\"Read file contents\"": "\"파일 내용 읽기\"",
-  "\"Create or overwrite files\"": "\"파일 생성 또는 덮어쓰기\"",
-  "\"Make precise edits\"": "\"정밀 편집 수행\"",
-  "\"Patch files \\(OpenAI\\)\"": "\"파일 패치 (OpenAI)\"",
-
-  "\"Runtime\"": "\"런타임\"",
-  "\"Run shell commands\"": "\"셸 명령 실행\"",
-  "\"Manage background processes\"": "\"백그라운드 프로세스 관리\"",
-
-  "\"Web\"": "\"웹\"",
-  "\"Search the web\"": "\"웹 검색\"",
-  "\"Fetch web content\"": "\"웹 콘텐츠 가져오기\"",
-  
-  "\"Memory\"": "\"메모리\"",
-  "\"Semantic search\"": "\"시맨틱 검색\"",
-  "\"Read memory files\"": "\"메모리 파일 읽기\"",
-  "\"List sessions\"": "\"세션 나열\"",
-
-  "\"Session history\"": "\"세션 기록\"",
-  "\"Send to session": "\"세션으로 보내기",
-  "\"Spawn sub-agent\"": "\"하위 에이전트 생성\"",
-  "\"Session status\"": "\"세션 상태\"",
-
-  "\"UI\"": "\"UI\"",
-  "\"Control web browser\"": "\"웹 브라우저 제어\"",
-  "\"Control canvases\"": "\"캔버스 제어\"",
-
-  "\"Messaging\"": "\"메시징\"",
-  "\"Send messages\"": "\"메시지 보내기\"",
-  
-  "\"Automation\"": "\"자동화\"",
-  "\"Schedule tasks\"": "\"작업 예약\"",
-
-  "\"Gateway control\"": "\"게이트웨이 제어\"",
-  "\"Nodes \\+ devices\"": "\"노드 + 장치\"",
-  "\"List agents\"": "\"에이전트 나열\"",
-  
-  "\"Media\"": "\"미디어\"",
-  "\"Image understanding\"": "\"이미지 이해\"",
-
-  "\"Minimal\"": "\"최소\"",
-  "\"Coding\"": "\"코딩\"",
-
   ">No configured models<": ">구성된 모델 없음<",
   "\\} configured.<": "} 구성됨.<",
   "No agents found.": "에이전트를 찾을 수 없습니다.",
@@ -60,8 +16,6 @@
   ">Identity Emoji<": ">아이덴티티 이모지<",
   ">Skills Filter<": ">스킬 필터<",
   ">Filter<": ">필터<",
-  "\\} selected": "} 선택됨",
-  "\"all skills\"": "\"모든 스킬\"",
   ">Model Selection<": ">모델 선택<",
   ">Primary model": ">기본 모델",
   " \\(default\\)": " (기본값)",
@@ -96,46 +50,5 @@
   ">Content<": ">내용<",
   ">missing<": ">없음<",  
 
-  "\"agent override\"": "\"에이전트 재정의\"",
-  "\"global default\"": "\"전역 기본값\"",
-  ">Tool Access<": ">도구 액세스<",
-  "  Profile \\+ per-tool overrides for this agent.": "  이 에이전트의 프로필 및 도구별 재정의.",
-  "> enabled.": "> 활성화됨.",
-  "  Load the gateway config to adjust tool profiles.": "  도구 프로필을 조정하려면 게이트웨이 구성을 로드하세요.",
-  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": " 이 에이전트는 구성에서 명시적 허용 목록을 사용하고 있습니다. 도구 재정의는 구성 탭에서 관리됩니다.",
-  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": " 전역 tools.allow가 설정되었습니다. 에이전트 재정의는 전역적으로 차단된 도구를 활성화할 수 없습니다.",
-  ">Profile<": ">프로필<",
-  ">Source<": ">소스<",
-  ">unsaved<": ">저장되지 않음<",
-  ">Quick Presets<": ">빠른 프리셋<",
-  "  Inherit": " 상속",
-  "\"Workspace Skills\"": "\"작업 공간 스킬\"",
-  "\"Built-in Skills\"": "\"내장 스킬\"",
-  "\"Installed Skills\"": "\"설치된 스킬\"",
-  "\"Extra Skills\"": "\"추가 스킬\"",
-  "\"Other Skills\"": "\"기타 스킬\"",
-
-  ">Skills<": ">스킬<",
-  "Per-agent skill allowlist and workspace skills.": "에이전트별 스킬 허용 목록 및 작업 공간 스킬.",
-  "  Use All": " 모두 사용",
-  "  Enable All": " 모두 활성화",
-  "  Disable All": " 모두 비활성화",
-  "  Reload Config": " 구성 다시 로드",
-  "  Reload": " 다시 로드",
-  "  Load the gateway config to set per-agent skills.": " 에이전트별 스킬을 설정하려면 게이트웨이 구성을 로드하세요.",
-  "This agent uses a custom skill allowlist.": "이 에이전트는 사용자 정의 스킬 허용 목록을 사용합니다.",
-  "  All skills are enabled. Disabling any skill will create a per-agent allowlist.": " 모든 스킬이 활성화되었습니다. 스킬을 비활성화하면 에이전트별 허용 목록이 생성됩니다.",
-
-  "  Load skills for this agent to view workspace-specific entries.": "  작업 공간별 항목을 보려면 이 에이전트의 스킬을 로드하세요.",
-  
-  "\"Search skills\"": "\"스킬 검색\"",
-  "No skills found.": "스킬을 찾을 수 없습니다.",
-
-
-  "\"eligible\"": "\"자격 있음\"",
-  "\"blocked\"": "\"차단됨\"",
-
-  ">disabled<": ">비활성화됨<",
-  ">Missing: ": ">누락: ",
-  ">Reason:": ">이유:"
+  "  Reload": " 다시 로드"
 }

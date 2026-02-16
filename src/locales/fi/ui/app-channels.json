@@ -1,0 +1,10 @@
+{
+  "Profile update failed \\(": "Nabigo ang pag-update ng profile (",
+  "Profile publish failed on all relays.": "Nabigo ang pag-publish ng profile sa lahat ng relay.",
+  "Profile published to relays.": "Na-publish ang profile sa mga relay.",
+  "Profile update failed: ": "Nabigo ang pag-update ng profile: ",
+  "Profile import failed \\(": "Nabigo ang pag-import ng profile (",
+  "Profile imported from relays. Review and publish.": "Na-import ang profile mula sa mga relay. Suriin at i-publish.",
+  "Profile imported. Review and publish.": "Na-import ang profile. Suriin at i-publish.",
+  "Profile import failed: ": "Nabigo ang pag-import ng profile: "
+}

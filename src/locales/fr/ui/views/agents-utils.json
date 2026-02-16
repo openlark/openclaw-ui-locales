@@ -1,0 +1,49 @@
+{
+  "\"Files\"": "\"Fichiers\"",
+  "\"Read file contents\"": "\"Lire le contenu des fichiers\"",
+  "\"Create or overwrite files\"": "\"Créer ou écraser des fichiers\"",
+  "\"Make precise edits\"": "\"Effectuer des modifications précises\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"Patcher des fichiers (OpenAI)\"",
+
+  "\"Runtime\"": "\"Exécution\"",
+  "\"Run shell commands\"": "\"Exécuter des commandes shell\"",
+  "\"Manage background processes\"": "\"Gérer les processus en arrière-plan\"",
+
+  "\"Web\"": "\"Web\"",
+  "\"Search the web\"": "\"Rechercher sur le web\"",
+  "\"Fetch web content\"": "\"Récupérer le contenu web\"",
+  
+  "\"Memory\"": "\"Mémoire\"",
+  "\"Semantic search\"": "\"Recherche sémantique\"",
+  "\"Read memory files\"": "\"Lire les fichiers mémoire\"",
+  "\"List sessions\"": "\"Lister les sessions\"",
+
+  "\"Session history\"": "\"Historique des sessions\"",
+  "\"Send to session": "\"Envoyer à la session",
+  "\"Spawn sub-agent\"": "\"Créer un sous-agent\"",
+  "\"Session status\"": "\"État de la session\"",
+
+  "\"UI\"": "\"Interface utilisateur\"",
+  "\"Control web browser\"": "\"Contrôler le navigateur web\"",
+  "\"Control canvases\"": "\"Contrôler les canevas\"",
+
+  "\"Send messages\"": "\"Envoyer des messages\"",
+  
+  "\"Automation\"": "\"Automatisation\"",
+  "\"Schedule tasks\"": "\"Planifier des tâches\"",
+
+  "\"Gateway control\"": "\"Contrôle de la passerelle\"",
+  "\"Nodes \\+ devices\"": "\"Nœuds + appareils\"",
+  "\"List agents\"": "\"Lister les agents\"",
+  
+  "\"Media\"": "\"Média\"",
+  "\"Image understanding\"": "\"Compréhension d'image\"",
+
+  "\"Minimal\"": "\"Minimal\"",
+  "\"Coding\"": "\"Codage\"",
+  "\"Messaging\"": "\"Messagerie\"",
+  "\"Full\"": "\"Complet\"",
+  
+  "\\} selected": "} sélectionné(s)",
+  "\"all skills\"": "\"toutes les compétences\""
+}

@@ -1,0 +1,45 @@
+{
+  "\"Deny\"": "\"Negar\"",
+  "\"Allowlist\"": "\"Lista de permissões\"",
+  "\"Off\"": "\"Desligado\"",
+  "\"On miss\"": "\"Em caso de falha\"",
+  "\"Always\"": "\"Sempre\"",
+
+  ">Exec approvals<": ">Aprovações de execução<",
+  "Allowlist and approval policy for \\<span class=\"mono\">exec host=gateway/node\\</span>.": "Lista de permissões e política de aprovação para \\<span class=\"mono\">exec host=gateway/node\\</span>.",
+  "\"Load approvals\"": "\"Carregar aprovações\"",
+  "Load exec approvals to edit allowlists.":"Carregue aprovações de execução para editar listas de permissões.",
+  "Gateway edits local approvals; node edits the selected node.": "O gateway edita aprovações locais; o nó edita o nó selecionado.",
+
+  ">Gateway<": ">Gateway<",
+  ">Node<": ">Nó<",
+  ">Select node<": ">Selecionar nó<",
+  "No nodes advertise exec approvals yet.": "Nenhum nó anuncia aprovações de execução ainda.",
+
+  ">Scope<": ">Escopo<",
+  "  Defaults": "  Padrões",
+
+  "\"Default security mode.\"": "\"Modo de segurança padrão.\"",
+  "`Default: ": "`Padrão: ",
+  "  Use default": "  Usar padrão",
+  "\"Default prompt policy.\"": "\"Política de prompt padrão.\"",
+  ">Ask<": ">Perguntar<",
+  ">Ask fallback<": ">Pergunta alternativa<",
+  "Applied when the UI prompt is unavailable.": "Aplicado quando o prompt da UI não está disponível.",
+  ">Fallback<": ">Alternativo<",
+
+  ">Auto-allow skill CLIs<": ">Permitir automaticamente CLIs de habilidades<",
+  "Allow skill executables listed by the Gateway.": "Permitir executáveis de habilidades listados pelo Gateway.",
+  "\"on\" \\: \"off\"\\}": "\"ligado\" : \"desligado\"}",
+  ": `Override \\(": ": `Substituição (",
+
+  
+  ">Allowlist<": ">Lista de permissões<",
+  "Case-insensitive glob patterns.": "Padrões glob que não diferenciam maiúsculas de minúsculas.",
+  "  Add pattern": "  Adicionar padrão",
+  ">Pattern<": ">Padrão<",
+  "No allowlist entries yet.": "Nenhuma entrada na lista de permissões ainda.",
+  "\"New pattern\"": "\"Novo padrão\"",
+  ">Last used: ": ">Último uso: ",
+  "  Remove": "  Remover"
+}

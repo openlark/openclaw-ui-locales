@@ -28,4 +28,4 @@
   "Edit ~/.openclaw/openclaw.json safely.":"~/.openclaw/openclaw.json を安全に編集します。",
   "Gateway snapshots, events, and manual RPC calls.":"ゲートウェイのスナップショット、イベント、手動RPC呼び出し。",
   "Live tail of the gateway file logs.":"ゲートウェイファイルログのリアルタイム表示。"
-  }
+}

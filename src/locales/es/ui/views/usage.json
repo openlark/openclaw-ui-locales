@@ -1,0 +1,85 @@
+{
+  ">Token Usage<": ">Uso de Tokens<",
+  ">to<": ">a<",
+  "\"Today\"": "\"Hoy\"",
+  "\"7d\"": "\"7d\"",
+  "\"30d\"": "\"30d\"",
+  ">All<": ">Todo<",
+  "  Clear": "  Limpiar",
+
+  ">Usage<": ">Uso<",
+  "See where tokens go, when sessions spike, and what drives cost.": "Vea a dónde van los tokens, cuándo aumentan las sesiones y qué impulsa el costo.",
+  "\"pinned\"": "\"fijado\"",
+  ">Filters<": ">Filtros<",
+  ">Loading<": ">Cargando<",
+  "Select a date range and click Refresh to load usage.": "Seleccione un rango de fechas y haga clic en Actualizar para cargar el uso.",
+  "> tokens": "> tokens",
+  "> cost": "> costo",
+
+  "\"Unpin filters\"\\}": "\"Desfijar filtros\"}",
+  "\"Pin filters\"\\}": "\"Fijar filtros\"}",
+  "\"Pinned\"": "\"Fijado\"",
+  "\"Pin\"": "\"Fijar\"",
+  ">Export ▾<": ">Exportar ▾<",
+  "  Sessions ": "  Sesiones ",
+  "  Daily ": "  Diario ",
+
+  "  Tokens": "  Tokens",
+  "  Cost": "  Costo",
+  "  Refresh": "  Actualizar",
+
+  "Filter sessions \\(e.g. key:agent:main:cron\\* model:gpt-4o has:errors minTokens:2000\\)": "Filtrar sesiones (ej. key:agent:main:cron* model:gpt-4o has:errors minTokens:2000)",
+  " Filter \\(client-side\\)": " Filtro (lado del cliente)",
+  "\\} sessions match": "} sesiones coinciden",
+  "\\} sessions in range": "} sesiones en el rango",
+  "Tip: use filters or click bars to filter days.": "Consejo: use filtros o haga clic en las barras para filtrar días.",
+
+  "\"Remove filter\"": "\"Eliminar filtro\"",
+
+  "Showing first 1,000 sessions. Narrow date range for complete results.":"Mostrando las primeras 1,000 sesiones. Reduzca el rango de fechas para obtener resultados completos.",
+
+  ">Days:": ">Días:",
+  ">Hours:": ">Horas:",
+  ">Session:": ">Sesión:",
+  "  Clear All": "  Limpiar Todo",
+  ">Daily Usage<": ">Uso Diario<",
+  ">No data<": ">Sin datos<",
+  "\\} Usage<": "} Uso<",
+  "\\} tokens<": "} tokens<",
+  
+  "\"Tokens\":\"Cost\"} by Type": "\"Tokens\":\"Costo\"} por Tipo",
+  "\"Output: ": "\"Salida: ",
+  "\"Input: ": "\"Entrada: ",
+  "\"Cache Write: ": "\"Escritura en Caché: ",
+  "\"Cache Read: ": "\"Lectura de Caché: ",
+  
+  "Cache hit rate = cache read / \\(input \\+ cache read\\). Higher is better.": "Tasa de aciertos de caché = lectura de caché / (entrada + lectura de caché). Cuanto más alta, mejor.",
+  "Error rate = errors / total messages. Lower is better.": "Tasa de error = errores / mensajes totales. Cuanto más baja, mejor.",
+  "Throughput shows tokens per minute over active time. Higher is better.": "El rendimiento muestra tokens por minuto durante el tiempo activo. Cuanto más alto, mejor.",
+  "Average tokens per message in this range.": "Promedio de tokens por mensaje en este rango.",
+  "Average cost per message when providers report costs. Cost data is missing for some or all sessions in this range.": "Costo promedio por mensaje cuando los proveedores informan costos. Faltan datos de costo para algunas o todas las sesiones en este rango.",
+  "Average cost per message when providers report costs.": "Costo promedio por mensaje cuando los proveedores informan costos.",
+ 
+  "\\} errors · ": "} errores · ",
+  "\\} msgs · ": "} mensajes · ",
+
+  ">Usage Overview<": ">Resumen de Uso<",
+  "Total user \\+ assistant messages in range.": "Total de mensajes de usuario + asistente en el rango.",
+  "  Tool Calls": "  Llamadas a Herramientas",
+  "Total tool call count across sessions.": "Número total de llamadas a herramientas en todas las sesiones.",
+  "  Errors": "  Errores",
+  "Total message/tool errors in range.": "Total de errores de mensaje/herramienta en el rango.",
+  "  Avg Tokens / Msg": "  Promedio de Tokens / Mensaje",
+  ">Across ": ">En ",
+  "Avg Cost \/ Msg": "Costo Promedio \/ Mensaje",
+  "\\} total<": "} total<",
+
+  "Distinct sessions in the range.": "Sesiones distintas en el rango.",
+  "  Throughput": "  Rendimiento",
+  "  Error Rate": "  Tasa de Error",
+
+  "  All ": "  Todas ",
+  " Recently viewed": " Vistas recientemente",
+  ">No sessions in range<": ">No hay sesiones en el rango<",
+  ">No recent sessions<": ">No hay sesiones recientes<"
+}

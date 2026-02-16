@@ -1,4 +1,10 @@
 {
+  ">Skills<": ">スキル<",
   "Bundled, managed, and workspace skills.": "バンドル、管理、およびワークスペーススキル。",
+  "\"Search skills\"": "\"スキル検索\"",
+  "No skills found.": "スキルが見つかりません。",
+  "\\} shown": "} 表示中",
+  "\"Installing…\"": "\"インストール中…\"",
+  ">API key<": ">APIキー<",
   "  Save key": " キーを保存"
 }

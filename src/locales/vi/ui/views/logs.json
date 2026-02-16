@@ -1,0 +1,12 @@
+{
+  ">Logs<": ">Nhật ký<",
+  "Gateway file logs \\(JSONL\\).": "Nhật ký tệp cổng (JSONL).",
+  "\"filtered\"": "\"đã lọc\"",
+  "\"visible\"": "\"hiển thị\"",
+  " Export ": " Xuất ",
+  "\"Search logs\"": "\"Tìm kiếm nhật ký\"",
+  ">Auto-follow<": ">Tự động theo dõi<",
+  "Log output truncated; showing latest chunk.": "Đầu ra nhật ký bị cắt bớt; hiển thị phần mới nhất.",
+  ">Last heartbeat<": ">Nhịp tim cuối cùng<",
+  "No log entries.": "Không có mục nhật ký nào."
+}

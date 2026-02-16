@@ -1,0 +1,8 @@
+{
+  "\"gateway client stopped\"": "\"cliente do gateway parado\"",
+  "gateway closed \\(": "gateway fechado (",
+  "\"connect failed\"": "\"falha na conexão\"",
+  " event handler error:": " erro no manipulador de eventos:",
+  "\"request failed\"": "\"falha na solicitação\"",
+  "\"gateway not connected\"": "\"gateway não conectado\""
+}

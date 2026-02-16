@@ -1,0 +1,31 @@
+{
+  "\"agent override\"": "\"에이전트 재정의\"",
+  "\"global default\"": "\"전역 기본값\"",
+  "\"default\"": "\"기본값\"",
+
+  ">Tool Access<": ">도구 액세스<",
+  "  Profile \\+ per-tool overrides for this agent.": "  이 에이전트의 프로필 및 도구별 재정의.",
+  "> enabled.": "> 활성화됨.",
+
+  "  Use All": " 모두 사용",
+  "  Enable All": " 모두 활성화",
+  "  Disable All": " 모두 비활성화",
+  "  Reload Config": " 구성 다시 로드",
+
+  "Load the gateway config to adjust tool profiles.": "도구 프로필을 조정하려면 게이트웨이 구성을 로드하세요.",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": " 이 에이전트는 구성에서 명시적 허용 목록을 사용하고 있습니다. 도구 재정의는 구성 탭에서 관리됩니다.",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": " 전역 tools.allow가 설정되었습니다. 에이전트 재정의는 전역적으로 차단된 도구를 활성화할 수 없습니다.",
+
+  ">Profile<": ">프로필<",
+  ">Source<": ">소스<",
+  ">unsaved<": ">저장되지 않음<",
+
+  ">Quick Presets<": ">빠른 프리셋<",
+  "  Inherit": " 상속",
+
+  "Per-agent skill allowlist and workspace skills.": "에이전트별 스킬 허용 목록 및 작업 공간 스킬.",
+  "Load the gateway config to set per-agent skills.": "에이전트별 스킬을 설정하려면 게이트웨이 구성을 로드하세요.",
+  "This agent uses a custom skill allowlist.": "이 에이전트는 사용자 정의 스킬 허용 목록을 사용합니다.",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "모든 스킬이 활성화되었습니다. 스킬을 비활성화하면 에이전트별 허용 목록이 생성됩니다.",
+  "Load skills for this agent to view workspace-specific entries.": "작업 공간별 항목을 보려면 이 에이전트의 스킬을 로드하세요."
+}

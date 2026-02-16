@@ -1,0 +1,85 @@
+{
+  ">Token Usage<": ">Uso de Tokens<",
+  ">to<": ">até<",
+  "\"Today\"": "\"Hoje\"",
+  "\"7d\"": "\"7d\"",
+  "\"30d\"": "\"30d\"",
+  ">All<": ">Todos<",
+  "  Clear": "  Limpar",
+
+  ">Usage<": ">Uso<",
+  "See where tokens go, when sessions spike, and what drives cost.": "Veja para onde vão os tokens, quando as sessões atingem o pico e o que impulsiona os custos.",
+  "\"pinned\"": "\"fixado\"",
+  ">Filters<": ">Filtros<",
+  ">Loading<": ">Carregando<",
+  "Select a date range and click Refresh to load usage.": "Selecione um intervalo de datas e clique em Atualizar para carregar o uso.",
+  "> tokens": "> tokens",
+  "> cost": "> custo",
+
+  "\"Unpin filters\"\\}": "\"Desafixar filtros\"}",
+  "\"Pin filters\"\\}": "\"Fixar filtros\"}",
+  "\"Pinned\"": "\"Fixado\"",
+  "\"Pin\"": "\"Fixar\"",
+  ">Export ▾<": ">Exportar ▾<",
+  "  Sessions ": "  Sessões ",
+  "  Daily ": "  Diário ",
+
+  "  Tokens": "  Tokens",
+  "  Cost": "  Custo",
+  "  Refresh": "  Atualizar",
+
+  "Filter sessions \\(e.g. key:agent:main:cron\\* model:gpt-4o has:errors minTokens:2000\\)": "Filtrar sessões (ex: key:agent:main:cron* model:gpt-4o has:errors minTokens:2000)",
+  " Filter \\(client-side\\)": " Filtro (lado do cliente)",
+  "\\} sessions match": "} sessões correspondem",
+  "\\} sessions in range": "} sessões no intervalo",
+  "Tip: use filters or click bars to filter days.": "Dica: use filtros ou clique nas barras para filtrar dias.",
+
+  "\"Remove filter\"": "\"Remover filtro\"",
+
+  "Showing first 1,000 sessions. Narrow date range for complete results.":"Mostrando as primeiras 1.000 sessões. Reduza o intervalo de datas para resultados completos.",
+
+  ">Days:": ">Dias:",
+  ">Hours:": ">Horas:",
+  ">Session:": ">Sessão:",
+  "  Clear All": "  Limpar Tudo",
+  ">Daily Usage<": ">Uso Diário<",
+  ">No data<": ">Sem dados<",
+  "\\} Usage<": "} Uso<",
+  "\\} tokens<": "} tokens<",
+  
+  "\"Tokens\":\"Cost\"} by Type": "\"Tokens\":\"Custo\"} por Tipo",
+  "\"Output: ": "\"Saída: ",
+  "\"Input: ": "\"Entrada: ",
+  "\"Cache Write: ": "\"Gravação em Cache: ",
+  "\"Cache Read: ": "\"Leitura de Cache: ",
+  
+  "Cache hit rate = cache read / \\(input \\+ cache read\\). Higher is better.": "Taxa de acerto de cache = leitura de cache / (entrada + leitura de cache). Quanto maior, melhor.",
+  "Error rate = errors / total messages. Lower is better.": "Taxa de erro = erros / total de mensagens. Quanto menor, melhor.",
+  "Throughput shows tokens per minute over active time. Higher is better.": "Taxa de transferência mostra tokens por minuto durante o tempo ativo. Quanto maior, melhor.",
+  "Average tokens per message in this range.": "Média de tokens por mensagem neste intervalo.",
+  "Average cost per message when providers report costs. Cost data is missing for some or all sessions in this range.": "Custo médio por mensagem quando os provedores reportam custos. Dados de custo estão ausentes para algumas ou todas as sessões neste intervalo.",
+  "Average cost per message when providers report costs.": "Custo médio por mensagem quando os provedores reportam custos.",
+ 
+  "\\} errors · ": "} erros · ",
+  "\\} msgs · ": "} mensagens · ",
+
+  ">Usage Overview<": ">Visão Geral do Uso<",
+  "Total user \\+ assistant messages in range.": "Total de mensagens de usuário + assistente no intervalo.",
+  "  Tool Calls": "  Chamadas de Ferramenta",
+  "Total tool call count across sessions.": "Número total de chamadas de ferramenta em todas as sessões.",
+  "  Errors": "  Erros",
+  "Total message/tool errors in range.": "Total de erros de mensagem/ferramenta no intervalo.",
+  "  Avg Tokens / Msg": "  Média de Tokens / Mensagem",
+  ">Across ": ">Em ",
+  "Avg Cost \/ Msg": "Custo Médio / Mensagem",
+  "\\} total<": "} total<",
+
+  "Distinct sessions in the range.": "Sessões distintas no intervalo.",
+  "  Throughput": "  Taxa de Transferência",
+  "  Error Rate": "  Taxa de Erro",
+
+  "  All ": "  Todas ",
+  " Recently viewed": " Visualizadas Recentemente",
+  ">No sessions in range<": ">Nenhuma sessão no intervalo<",
+  ">No recent sessions<": ">Nenhuma sessão recente<"
+}

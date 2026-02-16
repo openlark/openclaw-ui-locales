@@ -1,0 +1,49 @@
+{
+  "\"Files\"": "\"ファイル\"",
+  "\"Read file contents\"": "\"ファイル内容の読み取り\"",
+  "\"Create or overwrite files\"": "\"ファイルの作成または上書き\"",
+  "\"Make precise edits\"": "\"精密な編集\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"ファイルパッチ（OpenAI）\"",
+
+  "\"Runtime\"": "\"ランタイム\"",
+  "\"Run shell commands\"": "\"シェルコマンドの実行\"",
+  "\"Manage background processes\"": "\"バックグラウンドプロセスの管理\"",
+
+  "\"Web\"": "\"ウェブ\"",
+  "\"Search the web\"": "\"ウェブ検索\"",
+  "\"Fetch web content\"": "\"ウェブコンテンツの取得\"",
+  
+  "\"Memory\"": "\"メモリー\"",
+  "\"Semantic search\"": "\"セマンティック検索\"",
+  "\"Read memory files\"": "\"メモリファイルの読み取り\"",
+  "\"List sessions\"": "\"セッション一覧\"",
+
+  "\"Session history\"": "\"セッション履歴\"",
+  "\"Send to session": "\"セッションに送信",
+  "\"Spawn sub-agent\"": "\"サブエージェントの生成\"",
+  "\"Session status\"": "\"セッションステータス\"",
+
+  "\"UI\"": "\"UI\"",
+  "\"Control web browser\"": "\"ウェブブラウザの制御\"",
+  "\"Control canvases\"": "\"キャンバスの制御\"",
+
+  "\"Send messages\"": "\"メッセージ送信\"",
+  
+  "\"Automation\"": "\"自動化\"",
+  "\"Schedule tasks\"": "\"タスクのスケジュール\"",
+
+  "\"Gateway control\"": "\"ゲートウェイ制御\"",
+  "\"Nodes \\+ devices\"": "\"ノード + デバイス\"",
+  "\"List agents\"": "\"エージェント一覧\"",
+  
+  "\"Media\"": "\"メディア\"",
+  "\"Image understanding\"": "\"画像理解\"",
+
+  "\"Minimal\"": "\"ミニマル\"",
+  "\"Coding\"": "\"コーディング\"",
+  "\"Messaging\"": "\"メッセージング\"",
+  "\"Full\"": "\"フル\"",
+  
+  "\\} selected": "} 選択済み",
+  "\"all skills\"": "\"全スキル\""
+}

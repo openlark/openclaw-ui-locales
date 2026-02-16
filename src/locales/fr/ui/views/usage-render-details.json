@@ -1,0 +1,62 @@
+{
+  "No usage data for this session.": "Aucune donnée d'utilisation pour cette session.",
+  ">Messages<": ">Messages<",
+  "\\} user · ": "} utilisateur · ",
+  "\\} assistant": "} assistant",
+  ">Tool Calls<": ">Appels d'outils<",
+  " tools<": " outils<",
+  ">Errors<": ">Erreurs<",
+  " tool results<": " résultats d'outils<",
+  ">Duration<": ">Durée<",
+
+  "\"No tool calls\"": "\"Aucun appel d'outil\"",
+  "\"No model data\"": "\"Aucune donnée de modèle\"",
+
+  "\"Close session details\"": "\"Fermer les détails de la session\"",
+
+  ">No timeline data<": ">Aucune donnée chronologique<",
+  "\"No data in range\"": "\"Aucune donnée dans la plage\"",
+  ">Usage Over Time<": ">Utilisation dans le temps<",
+  "  Per Turn": "  Par tour",
+  " Cumulative": " Cumulé",
+  " Total": " Total",
+  " By Type": " Par type",
+  ">Tokens by Type<": ">Jetons par type<",
+
+  "\"Assistant output tokens\"": "\"Jetons de sortie de l'assistant\"",
+  ">Output": ">Sortie",
+  "\"User \\+ tool input tokens\"": "\"Jetons d'entrée utilisateur + outil\"",
+  ">Input": ">Entrée",
+  "\"Tokens written to cache\"": "\"Jetons écrits dans le cache\"",
+  ">Cache Write ": ">Écriture cache ",
+  "\"Tokens read from cache\"": "\"Jetons lus depuis le cache\"",
+  ">Cache Read ": ">Lecture cache ",
+  ">Total: ": ">Total : ",
+  
+  ">No context data<": ">Aucune donnée de contexte<",
+  ">System Prompt Breakdown<": ">Détail de l'invite système<",
+  "\"Collapse\"": "\"Réduire\"",
+  "\"Expand all\"": "\"Tout développer\"",
+  "\"Base context per message\"": "\"Contexte de base par message\"",
+
+  ">Sys ": ">Système ",
+  ">Skills ": ">Compétences ",
+  ">Tools ": ">Outils ",
+  ">Files ": ">Fichiers ",
+
+  " more<": " plus<",
+
+  ">Conversation<": ">Conversation<",
+  ">No messages<": ">Aucun message<",
+
+  "\"Collapse All\"": "\"Tout réduire\"",
+  "\"Expand All\"": "\"Tout développer\"",
+
+  ">User<": ">Utilisateur<",
+  ">Assistant<": ">Assistant<",
+  ">Tool<": ">Outil<",
+  ">Tool result<": ">Résultat de l'outil<",
+
+  "\"Search conversation\"": "\"Rechercher dans la conversation\"",
+  "No messages match the filters.": "Aucun message ne correspond aux filtres."
+}

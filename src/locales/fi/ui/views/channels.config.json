@@ -1,0 +1,31 @@
+{
+  "Schema unavailable. Use Raw.": "Hindi available ang schema. Gamitin ang Raw.",
+  "Channel config schema unavailable.": "Hindi available ang schema ng channel config.",
+  "Loading config schema…": "Naglo-load ng config schema…",
+  "Channel status and configuration.": "Katayuan at configuration ng channel.",
+
+  ">Configured<": ">Naka-configure<",
+  ">Linked<": ">Naka-link<",
+  ">Last start<": ">Huling simula<",
+  ">Last probe<": ">Huling probe<",
+  ">Last connect<": ">Huling konekta<",
+  ">Last message<": ">Huling mensahe<",
+  ">Last inbound<": ">Huling inbound<",
+  ">Auth age<": ">Edad ng Auth<",
+  ">Mode<": ">Mode<",
+  ">Credential<": ">Kredensyal<",
+  ">Public Key<": ">Pampublikong Susi<",
+  ">Audience<": ">Audience<",
+  ">Profile<": ">Profile<",
+
+  "No profile set. Click \"Edit Profile\" to add your name, bio, and avatar.": "Walang nakatakdang profile. I-click ang \"I-edit ang Profile\" upang idagdag ang iyong pangalan, bio, at avatar.",
+  "\"Saving…\"": "\"Sine-save…\"",
+  "\"Save\"": "\"I-save\"",
+  "  probe": "  i-probe",
+  
+  "  Probe": "  Probe",
+  "\"ok\" \\:": "\"ok\" :",
+  "\"failed\"": "\"nabigo\"",
+  
+  "Decentralized DMs via Nostr relays \\(NIP-04\\).": "Decentralized na DM sa pamamagitan ng Nostr relays (NIP-04)."
+}

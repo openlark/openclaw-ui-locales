@@ -1,0 +1,16 @@
+{
+  "Disconnected from gateway.": "Verbindung zum Gateway getrennt.",
+
+  "\"Expand sidebar\"": "\"Seitenleiste erweitern\"",
+  "\"Collapse sidebar\"": "\"Seitenleiste einklappen\"",
+
+  ">Health<": ">Zustand<",
+  "\"OK\"": "\"OK\"",
+  "\"Offline\"": "\"Offline\"",
+  
+  ">Gateway Dashboard<": ">Gateway-Dashboard<",
+
+  ">Resources<": ">Ressourcen<",
+  "Docs \\(opens in new tab\\)": "Dokumentation (wird in neuem Tab geöffnet)",
+  ">Docs<": ">Dokumentation<"
+}

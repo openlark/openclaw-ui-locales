@@ -1,0 +1,46 @@
+{
+  ">Nodes<": ">Nodos<",
+  "Paired devices and live links.": "Dispositivos emparejados y enlaces activos.",
+  "No nodes found.": "No se encontraron nodos.",
+
+  ">Devices<": ">Dispositivos<",
+  "Pairing requests \\+ role tokens.": "Solicitudes de emparejamiento + tokens de rol.",
+  "\"Loading…\" : \"Refresh\"\\}": "\"Cargando…\" : \"Actualizar\"}",
+  ">Pending<": ">Pendiente<",
+  ">Paired<": ">Emparejado<",
+  "No paired devices.": "No hay dispositivos emparejados.",
+
+  " · requested ": " · solicitado",
+  "   Approve": "   Aprobar",
+  "   Reject": "   Rechazar",
+
+  ">Tokens: none<": ">Tokens: ninguno<",
+  "   Rotate": "   Rotar",
+  "   Revoke": "   Revocar",
+
+  ">Exec node binding<": ">Enlace de nodo Exec<",
+  "Pin agents to a specific node when using <span class=\"mono\">exec host=node</span>.": "Fije agentes a un nodo específico al usar <span class=\"mono\">exec host=node</span>.",
+  "Switch the Config tab to <strong>Form<\/strong> mode to edit bindings here.": "Cambie la pestaña Configuración al modo <strong>Formulario<\/strong> para editar enlaces aquí.",
+  "Load config to edit bindings.": "Cargue la configuración para editar enlaces.",
+  "\"Load config\"": "\"Cargar configuración\"",
+  ">Default binding<": ">Enlace predeterminado<",
+  "Used when agents do not override a node binding.": "Se usa cuando los agentes no anulan un enlace de nodo.",
+  ">Any node<": ">Cualquier nodo<",
+  "No nodes with system.run available.": "No hay nodos con system.run disponible.",
+
+  ">Target<": ">Destino<",
+  " Gateway edits local approvals; node edits the selected node.": "La puerta de enlace edita las aprobaciones locales; el nodo edita el nodo seleccionado.",
+  
+  ">Host<": ">Host<",
+  ">Security<": ">Seguridad<",
+  "\"default agent\"": "\"agente predeterminado\"",
+  "\"agent\"\\}": "\"agente\"}",
+  "`uses default \\(": "`usa predeterminado (",
+  "`Using default \\(": "`Usando predeterminado (",
+  "`Override \\(": "`Anulación (",
+  " \"any\"\\}": " \"cualquiera\"}",
+  ": `override: ": ": `anulación: ",
+  ">Binding<": ">Enlace<",
+  "\"paired\" : \"unpaired\"\\}": "\"emparejado\" : \"no emparejado\"}",
+  "\"connected\" : \"offline\"\\}": "\"conectado\" : \"desconectado\"}"
+}

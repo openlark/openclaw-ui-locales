@@ -18,7 +18,7 @@
 
 ## Overview
 
-**OpenClaw UI Locales** is a multilingual switching tool designed specifically for the OpenClaw Web control interface, allowing you to seamlessly switch between languages such as Chinese, Japanese, Korean, French, Bengali, and more with just one click, completely eliminating language barriers and enabling you to efficiently control your device in the language you are most familiar with.
+**OpenClaw UI Locales** is a multilingual switching tool designed specifically for the OpenClaw Web control interface, allowing you to seamlessly switch between languages such as Chinese, Japanese, Korean, French, German, Portuguese, Spanish, Bangla, Vietnamese, Filipino, and more with just one click, completely eliminating language barriers and enabling you to efficiently control your device in the language you are most familiar with.
 
 ## Install
 

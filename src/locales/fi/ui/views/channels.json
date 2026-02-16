@@ -1,0 +1,11 @@
+{
+  "Channel health": "Kalusugan ng channel",
+  "Channel status snapshots from the gateway.": "Mga snapshot ng katayuan ng channel mula sa gateway.",
+  "No snapshot yet.": "Wala pang snapshot.",
+  "Channel status and configuration.": "Katayuan at configuration ng channel.",
+  "\"Yes\"": "\"Oo\"",
+  "\"Active\"": "\"Aktibo\"",
+  "\"No\"": "\"Hindi\"",
+  ">Running<": ">Tumatakbo<",
+  ">Connected<": ">Nakakonekta<"
+}

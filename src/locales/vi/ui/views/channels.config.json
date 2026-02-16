@@ -1,0 +1,31 @@
+{
+  "Schema unavailable. Use Raw.": "Lược đồ không khả dụng. Vui lòng sử dụng Dữ liệu thô.",
+  "Channel config schema unavailable.": "Lược đồ cấu hình kênh không khả dụng.",
+  "Loading config schema…": "Đang tải lược đồ cấu hình…",
+  "Channel status and configuration.": "Trạng thái và cấu hình kênh.",
+
+  ">Configured<": ">Đã cấu hình<",
+  ">Linked<": ">Đã liên kết<",
+  ">Last start<": ">Lần khởi động cuối<",
+  ">Last probe<": ">Lần thăm dò cuối<",
+  ">Last connect<": ">Lần kết nối cuối<",
+  ">Last message<": ">Tin nhắn cuối cùng<",
+  ">Last inbound<": ">Cuộc gọi đến cuối cùng<",
+  ">Auth age<": ">Thời gian xác thực<",
+  ">Mode<": ">Chế độ<",
+  ">Credential<": ">Thông tin xác thực<",
+  ">Public Key<": ">Khóa công khai<",
+  ">Audience<": ">Đối tượng<",
+  ">Profile<": ">Hồ sơ<",
+
+  "No profile set. Click \"Edit Profile\" to add your name, bio, and avatar.": "Chưa có hồ sơ. Nhấp vào \"Chỉnh sửa hồ sơ\" để thêm tên, tiểu sử và ảnh đại diện của bạn.",
+  "\"Saving…\"": "\"Đang lưu…\"",
+  "\"Save\"": "\"Lưu\"",
+  "  probe": " thăm dò",
+  
+  "  Probe": "  Thăm dò",
+  "\"ok\" \\:": "\"thành công\" :",
+  "\"failed\"": "\"thất bại\"",
+  
+  "Decentralized DMs via Nostr relays \\(NIP-04\\).": "Tin nhắn trực tiếp phi tập trung qua các relay Nostr (NIP-04)."
+}

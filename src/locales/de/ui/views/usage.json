@@ -1,0 +1,85 @@
+{
+  ">Token Usage<": ">Token-Nutzung<",
+  ">to<": ">bis<",
+  "\"Today\"": "\"Heute\"",
+  "\"7d\"": "\"7T\"",
+  "\"30d\"": "\"30T\"",
+  ">All<": ">Alle<",
+  "  Clear": "  Löschen",
+
+  ">Usage<": ">Nutzung<",
+  "See where tokens go, when sessions spike, and what drives cost.": "Sehen Sie, wohin Token fließen, wann Sitzungen ansteigen und was Kosten verursacht.",
+  "\"pinned\"": "\"angeheftet\"",
+  ">Filters<": ">Filter<",
+  ">Loading<": ">Laden<",
+  "Select a date range and click Refresh to load usage.": "Wählen Sie einen Datumsbereich aus und klicken Sie auf Aktualisieren, um die Nutzung zu laden.",
+  "> tokens": "> Token",
+  "> cost": "> Kosten",
+
+  "\"Unpin filters\"\\}": "\"Filter lösen\"}",
+  "\"Pin filters\"\\}": "\"Filter anheften\"}",
+  "\"Pinned\"": "\"Angeheftet\"",
+  "\"Pin\"": "\"Anheften\"",
+  ">Export ▾<": ">Export ▾<",
+  "  Sessions ": "  Sitzungen ",
+  "  Daily ": "  Täglich ",
+
+  "  Tokens": "  Token",
+  "  Cost": "  Kosten",
+  "  Refresh": "  Aktualisieren",
+
+  "Filter sessions \\(e.g. key:agent:main:cron\\* model:gpt-4o has:errors minTokens:2000\\)": "Sitzungen filtern (z.B. key:agent:main:cron* model:gpt-4o has:errors minTokens:2000)",
+  " Filter \\(client-side\\)": " Filter (clientseitig)",
+  "\\} sessions match": "} Sitzungen entsprechen",
+  "\\} sessions in range": "} Sitzungen im Bereich",
+  "Tip: use filters or click bars to filter days.": "Tipp: Verwenden Sie Filter oder klicken Sie auf Balken, um Tage zu filtern.",
+
+  "\"Remove filter\"": "\"Filter entfernen\"",
+
+  "Showing first 1,000 sessions. Narrow date range for complete results.":"Zeige die ersten 1.000 Sitzungen. Grenzen Sie den Datumsbereich ein, um vollständige Ergebnisse zu erhalten.",
+
+  ">Days:": ">Tage:",
+  ">Hours:": ">Stunden:",
+  ">Session:": ">Sitzung:",
+  "  Clear All": "  Alle löschen",
+  ">Daily Usage<": ">Tägliche Nutzung<",
+  ">No data<": ">Keine Daten<",
+  "\\} Usage<": "} Nutzung<",
+  "\\} tokens<": "} Token<",
+  
+  "\"Tokens\":\"Cost\"} by Type": "\"Token\":\"Kosten\"} nach Typ",
+  "\"Output: ": "\"Ausgabe: ",
+  "\"Input: ": "\"Eingabe: ",
+  "\"Cache Write: ": "\"Cache-Schreib: ",
+  "\"Cache Read: ": "\"Cache-Lese: ",
+  
+  "Cache hit rate = cache read / \\(input \\+ cache read\\). Higher is better.": "Cache-Trefferquote = Cache-Lesen / (Eingabe + Cache-Lesen). Höher ist besser.",
+  "Error rate = errors / total messages. Lower is better.": "Fehlerquote = Fehler / Gesamtnachrichten. Niedriger ist besser.",
+  "Throughput shows tokens per minute over active time. Higher is better.": "Durchsatz zeigt Token pro Minute über aktive Zeit. Höher ist besser.",
+  "Average tokens per message in this range.": "Durchschnittliche Token pro Nachricht in diesem Bereich.",
+  "Average cost per message when providers report costs. Cost data is missing for some or all sessions in this range.": "Durchschnittliche Kosten pro Nachricht, wenn Anbieter Kosten melden. Für einige oder alle Sitzungen in diesem Bereich fehlen Kostendaten.",
+  "Average cost per message when providers report costs.": "Durchschnittliche Kosten pro Nachricht, wenn Anbieter Kosten melden.",
+ 
+  "\\} errors · ": "} Fehler · ",
+  "\\} msgs · ": "} Nachrichten · ",
+
+  ">Usage Overview<": ">Nutzungsübersicht<",
+  "Total user \\+ assistant messages in range.": "Gesamtzahl der Benutzer- und Assistentennachrichten im Bereich.",
+  "  Tool Calls": "  Tool-Aufrufe",
+  "Total tool call count across sessions.": "Gesamtzahl der Tool-Aufrufe über alle Sitzungen hinweg.",
+  "  Errors": "  Fehler",
+  "Total message/tool errors in range.": "Gesamtzahl der Nachrichten-/Tool-Fehler im Bereich.",
+  "  Avg Tokens / Msg": "  Durchschn. Token / Nachricht",
+  ">Across ": ">Über ",
+  "Avg Cost \/ Msg": "Durchschn. Kosten / Nachricht",
+  "\\} total<": "} gesamt<",
+
+  "Distinct sessions in the range.": "Einzigartige Sitzungen im Bereich.",
+  "  Throughput": "  Durchsatz",
+  "  Error Rate": "  Fehlerquote",
+
+  "  All ": "  Alle ",
+  " Recently viewed": " Kürzlich angesehen",
+  ">No sessions in range<": ">Keine Sitzungen im Bereich<",
+  ">No recent sessions<": ">Keine kürzlichen Sitzungen<"
+}

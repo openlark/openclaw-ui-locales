@@ -1,0 +1,11 @@
+{
+  "Channel health": "Tình trạng kênh",
+  "Channel status snapshots from the gateway.": "Ảnh chụp nhanh trạng thái kênh từ cổng.",
+  "No snapshot yet.": "Chưa có ảnh chụp nhanh nào.",
+  "Channel status and configuration.": "Trạng thái và cấu hình kênh.",
+  "\"Yes\"": "\"Có\"",
+  "\"Active\"": "\"Hoạt động\"",
+  "\"No\"": "\"Không\"",
+  ">Running<": ">Đang chạy<",
+  ">Connected<": ">Đã kết nối<"
+}

@@ -1,4 +1,10 @@
 {
+  ">Skills<": ">Compétences<",
   "Bundled, managed, and workspace skills.": "Compétences groupées, gérées et de l'espace de travail.",
+  "\"Search skills\"": "\"Rechercher des compétences\"",
+  "No skills found.": "Aucune compétence trouvée.",
+  "\\} shown": "} affichées",
+  "\"Installing…\"": "\"Installation…\"",
+  ">API key<": ">Clé API<",
   "  Save key": "  Enregistrer la clé"
 }

@@ -1,48 +1,4 @@
 {
-  "\"Files\"": "\"ফাইল\"",
-  "\"Read file contents\"": "\"ফাইলের বিষয়বস্তু পড়ুন\"",
-  "\"Create or overwrite files\"": "\"ফাইল তৈরি বা ওভাররাইট করুন\"",
-  "\"Make precise edits\"": "\"নির্ভুল সম্পাদনা করুন\"",
-  "\"Patch files \\(OpenAI\\)\"": "\"ফাইল প্যাচ করুন (OpenAI)\"",
-
-  "\"Runtime\"": "\"রানটাইম\"",
-  "\"Run shell commands\"": "\"শেল কমান্ড চালান\"",
-  "\"Manage background processes\"": "\"ব্যাকগ্রাউন্ড প্রসেস পরিচালনা করুন\"",
-
-  "\"Web\"": "\"ওয়েব\"",
-  "\"Search the web\"": "\"ওয়েবে অনুসন্ধান করুন\"",
-  "\"Fetch web content\"": "\"ওয়েব কন্টেন্ট আনুন\"",
-  
-  "\"Memory\"": "\"মেমরি\"",
-  "\"Semantic search\"": "\"সিমান্টিক অনুসন্ধান\"",
-  "\"Read memory files\"": "\"মেমরি ফাইল পড়ুন\"",
-  "\"List sessions\"": "\"সেশন তালিকাভুক্ত করুন\"",
-
-  "\"Session history\"": "\"সেশনের ইতিহাস\"",
-  "\"Send to session\"": "\"সেশনে পাঠান\"",
-  "\"Spawn sub-agent\"": "\"সাব-এজেন্ট তৈরি করুন\"",
-  "\"Session status\"": "\"সেশনের অবস্থা\"",
-
-  "\"UI\"": "\"UI\"",
-  "\"Control web browser\"": "\"ওয়েব ব্রাউজার নিয়ন্ত্রণ করুন\"",
-  "\"Control canvases\"": "\"ক্যানভাস নিয়ন্ত্রণ করুন\"",
-
-  "\"Messaging\"": "\"মেসেজিং\"",
-  "\"Send messages\"": "\"বার্তা পাঠান\"",
-  
-  "\"Automation\"": "\"অটোমেশন\"",
-  "\"Schedule tasks\"": "\"কাজের সময়সূচী নির্ধারণ করুন\"",
-
-  "\"Gateway control\"": "\"গেটওয়ে নিয়ন্ত্রণ\"",
-  "\"Nodes \\+ devices\"": "\"নোড + ডিভাইস\"",
-  "\"List agents\"": "\"এজেন্ট তালিকাভুক্ত করুন\"",
-  
-  "\"Media\"": "\"মিডিয়া\"",
-  "\"Image understanding\"": "\"চিত্র বোঝা\"",
-
-  "\"Minimal\"": "\"ন্যূনতম\"",
-  "\"Coding\"": "\"কোডিং\"",
-
   ">No configured models<": ">কোন কনফিগার করা মডেল নেই<",
   "\\} configured.<": "} কনফিগার করা হয়েছে।<",
   "No agents found.": "কোন এজেন্ট পাওয়া যায়নি।",
@@ -56,12 +12,10 @@
   ">Workspace<": ">ওয়ার্কস্পেস<",
   ">Primary Model<": ">প্রাথমিক মডেল<",
   ">Identity Name<": ">পরিচয় নাম<",
-  ">Default<": ">ডিফল্ট<",
+  ">Default<": ">ডিফল্ট মান<",
   ">Identity Emoji<": ">পরিচয় ইমোজি<",
   ">Skills Filter<": ">স্কিল ফিল্টার<",
   ">Filter<": ">ফিল্টার<",
-  "\\} selected": "} নির্বাচিত",
-  "\"all skills\"": "\"সমস্ত স্কিল\"",
   ">Model Selection<": ">মডেল নির্বাচন<",
   ">Primary model": ">প্রাথমিক মডেল",
   " \\(default\\)": " (ডিফল্ট)",
@@ -96,46 +50,5 @@
   ">Content<": ">বিষয়বস্তু<",
   ">missing<": ">অনুপস্থিত<",  
 
-  "\"agent override\"": "\"এজেন্ট ওভাররাইড\"",
-  "\"global default\"": "\"গ্লোবাল ডিফল্ট\"",
-  ">Tool Access<": ">টুল অ্যাক্সেস<",
-  "  Profile \\+ per-tool overrides for this agent.": "এই এজেন্টের জন্য প্রোফাইল + প্রতি-টুল ওভাররাইড।",
-  "> enabled.": "> সক্রিয়।",
-  "  Load the gateway config to adjust tool profiles.": "টুল প্রোফাইল সামঞ্জস্য করতে গেটওয়ে কনফিগ লোড করুন।",
-  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "এই এজেন্ট কনফিগে একটি স্পষ্ট অনুমোদিত তালিকা ব্যবহার করছে। টুল ওভাররাইড 'কনফিগ' ট্যাবে পরিচালিত হয়।",
-  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "গ্লোবাল tools.allow সেট করা আছে। এজেন্ট ওভাররাইড গ্লোবালি ব্লক করা টুল সক্রিয় করতে পারে না।",
-  ">Profile<": ">প্রোফাইল<",
-  ">Source<": ">উৎস<",
-  ">unsaved<": ">অসংরক্ষিত<",
-  ">Quick Presets<": ">দ্রুত প্রিসেট<",
-  "  Inherit": "ইনহেরিট",
-  "\"Workspace Skills\"": "\"ওয়ার্কস্পেস স্কিল\"",
-  "\"Built-in Skills\"": "\"অন্তর্নির্মিত স্কিল\"",
-  "\"Installed Skills\"": "\"ইনস্টল করা স্কিল\"",
-  "\"Extra Skills\"": "\"অতিরিক্ত স্কিল\"",
-  "\"Other Skills\"": "\"অন্যান্য স্কিল\"",
-
-  ">Skills<": ">স্কিল<",
-  "Per-agent skill allowlist and workspace skills.": "প্রতি-এজেন্ট স্কিল অনুমোদিত তালিকা এবং ওয়ার্কস্পেস স্কিল।",
-  "  Use All": "সব ব্যবহার করুন",
-  "  Enable All": "সব সক্রিয় করুন",
-  "  Disable All": "সব নিষ্ক্রিয় করুন",
-  "  Reload Config": "কনফিগ রিলোড করুন",
-  "  Reload": "রিলোড করুন",
-  "  Load the gateway config to set per-agent skills.": "প্রতি-এজেন্ট স্কিল সেট করতে গেটওয়ে কনফিগ লোড করুন।",
-  "This agent uses a custom skill allowlist.": "এই এজেন্ট একটি কাস্টম স্কিল অনুমোদিত তালিকা ব্যবহার করে।",
-  "  All skills are enabled. Disabling any skill will create a per-agent allowlist.": "সমস্ত স্কিল সক্রিয় আছে। যেকোনো স্কিল নিষ্ক্রিয় করলে একটি প্রতি-এজেন্ট অনুমোদিত তালিকা তৈরি হবে।",
-
-  "  Load skills for this agent to view workspace-specific entries.": "ওয়ার্কস্পেস-নির্দিষ্ট এন্ট্রি দেখতে এই এজেন্টের জন্য স্কিল লোড করুন।",
-  
-  "\"Search skills\"": "\"স্কিল অনুসন্ধান করুন\"",
-  "No skills found.": "কোন স্কিল পাওয়া যায়নি।",
-
-
-  "\"eligible\"": "\"যোগ্য\"",
-  "\"blocked\"": "\"অবরুদ্ধ\"",
-
-  ">disabled<": ">নিষ্ক্রিয়<",
-  ">Missing: ": ">অনুপস্থিত: ",
-  ">Reason:": ">কারণ:"
+  "  Reload": "রিলোড করুন"
 }

@@ -1,0 +1,18 @@
+{
+  ">Activity by Time<": ">Atividade por Horário<",
+  " tokens<": " tokens<",
+  "Estimates require session timestamps.": "Estimativas exigem carimbos de data/hora da sessão.",
+  "No timeline data yet.": "Nenhum dado de linha do tempo ainda.",
+  "Estimated from session spans (first/last activity). Time zone:": "Estimado a partir dos intervalos de sessão (primeira/última atividade). Fuso horário:",
+  "\"Local\"\\}": "\"Local\"}",
+  ">Day of Week<": ">Dia da Semana<",
+  ">Hours<": ">Horas<",
+  "\\} tokens": "} tokens",
+  ">Midnight<": ">Meia-noite<",
+  ">4am<": ">4h<",
+  ">8am<": ">8h<",
+  ">Moon<": ">Meio-dia<",
+  ">4pm<": ">16h<",
+  ">8pm<": ">20h<",
+  "Low → High token density": "Baixa → Alta densidade de tokens"
+}

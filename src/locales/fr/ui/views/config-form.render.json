@@ -10,7 +10,7 @@
   "Webhooks and event hooks": "Webhooks et hooks d'événements",
   "Skill packs and capabilities": "Packs de compétences et capacités",
   "Tool configurations (browser, search, etc.)": "Configurations d'outils (navigateur, recherche, etc.)",
-  "Gateway server settings (port, auth, binding)": "Paramètres du serveur de passerelle (port, auth, liaison)",
+  "Gateway server settings (port, auth, binding)": "Paramètres du serveur de passerelle (port, authentification, liaison)",
   "Setup wizard state and history": "État et historique de l'assistant d'installation",
   "\"Metadata\"": "\"Métadonnées\"",
   "Gateway metadata and version information": "Métadonnées de la passerelle et informations de version",
@@ -37,7 +37,7 @@
   "\"Plugins\"": "\"Plugins\"",
   "Plugin management and extensions": "Gestion des plugins et extensions",
   ">Schema unavailable.<": ">Schéma indisponible.<", 
-  "Unsupported schema. Use Raw.": "Schéma non pris en charge. Utiliser la vue brute.", 
+  "Unsupported schema. Use Raw.": "Schéma non pris en charge. Utilisez la vue brute.", 
   "No settings match ": "Aucun paramètre ne correspond à ", 
   "No settings in this section": "Aucun paramètre dans cette section"
 }

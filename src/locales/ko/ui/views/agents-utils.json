@@ -1,0 +1,49 @@
+{
+  "\"Files\"": "\"파일\"",
+  "\"Read file contents\"": "\"파일 내용 읽기\"",
+  "\"Create or overwrite files\"": "\"파일 생성 또는 덮어쓰기\"",
+  "\"Make precise edits\"": "\"정밀 편집 수행\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"파일 패치 (OpenAI)\"",
+
+  "\"Runtime\"": "\"런타임\"",
+  "\"Run shell commands\"": "\"셸 명령 실행\"",
+  "\"Manage background processes\"": "\"백그라운드 프로세스 관리\"",
+
+  "\"Web\"": "\"웹\"",
+  "\"Search the web\"": "\"웹 검색\"",
+  "\"Fetch web content\"": "\"웹 콘텐츠 가져오기\"",
+  
+  "\"Memory\"": "\"메모리\"",
+  "\"Semantic search\"": "\"시맨틱 검색\"",
+  "\"Read memory files\"": "\"메모리 파일 읽기\"",
+  "\"List sessions\"": "\"세션 나열\"",
+
+  "\"Session history\"": "\"세션 기록\"",
+  "\"Send to session": "\"세션으로 보내기",
+  "\"Spawn sub-agent\"": "\"하위 에이전트 생성\"",
+  "\"Session status\"": "\"세션 상태\"",
+
+  "\"UI\"": "\"UI\"",
+  "\"Control web browser\"": "\"웹 브라우저 제어\"",
+  "\"Control canvases\"": "\"캔버스 제어\"",
+
+  "\"Send messages\"": "\"메시지 보내기\"",
+  
+  "\"Automation\"": "\"자동화\"",
+  "\"Schedule tasks\"": "\"작업 예약\"",
+
+  "\"Gateway control\"": "\"게이트웨이 제어\"",
+  "\"Nodes \\+ devices\"": "\"노드 + 장치\"",
+  "\"List agents\"": "\"에이전트 나열\"",
+  
+  "\"Media\"": "\"미디어\"",
+  "\"Image understanding\"": "\"이미지 이해\"",
+
+  "\"Minimal\"": "\"최소\"",
+  "\"Coding\"": "\"코딩\"",
+  "\"Messaging\"": "\"메시징\"",
+  "\"Full\"": "\"전체\"",
+  
+  "\\} selected": "} 선택됨",
+  "\"all skills\"": "\"모든 스킬\""
+}

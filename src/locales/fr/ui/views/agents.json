@@ -1,48 +1,5 @@
 {
-  "\"Files\"": "\"Fichiers\"",
-  "\"Read file contents\"": "\"Lire le contenu des fichiers\"",
-  "\"Create or overwrite files\"": "\"Créer ou écraser des fichiers\"",
-  "\"Make precise edits\"": "\"Effectuer des modifications précises\"",
-  "\"Patch files \\(OpenAI\\)\"": "\"Patcher des fichiers (OpenAI)\"",
-
-  "\"Runtime\"": "\"Exécution\"",
-  "\"Run shell commands\"": "\"Exécuter des commandes shell\"",
-  "\"Manage background processes\"": "\"Gérer les processus en arrière-plan\"",
-
-  "\"Web\"": "\"Web\"",
-  "\"Search the web\"": "\"Rechercher sur le web\"",
-  "\"Fetch web content\"": "\"Récupérer le contenu web\"",
   
-  "\"Memory\"": "\"Mémoire\"",
-  "\"Semantic search\"": "\"Recherche sémantique\"",
-  "\"Read memory files\"": "\"Lire les fichiers mémoire\"",
-  "\"List sessions\"": "\"Lister les sessions\"",
-
-  "\"Session history\"": "\"Historique des sessions\"",
-  "\"Send to session": "\"Envoyer à la session",
-  "\"Spawn sub-agent\"": "\"Créer un sous-agent\"",
-  "\"Session status\"": "\"État de la session\"",
-
-  "\"UI\"": "\"Interface utilisateur\"",
-  "\"Control web browser\"": "\"Contrôler le navigateur web\"",
-  "\"Control canvases\"": "\"Contrôler les canevas\"",
-
-  "\"Messaging\"": "\"Messagerie\"",
-  "\"Send messages\"": "\"Envoyer des messages\"",
-  
-  "\"Automation\"": "\"Automatisation\"",
-  "\"Schedule tasks\"": "\"Planifier des tâches\"",
-
-  "\"Gateway control\"": "\"Contrôle de la passerelle\"",
-  "\"Nodes \\+ devices\"": "\"Nœuds + appareils\"",
-  "\"List agents\"": "\"Lister les agents\"",
-  
-  "\"Media\"": "\"Média\"",
-  "\"Image understanding\"": "\"Compréhension d'image\"",
-
-  "\"Minimal\"": "\"Minimal\"",
-  "\"Coding\"": "\"Codage\"",
-
   ">No configured models<": ">Aucun modèle configuré<",
   "\\} configured.<": "} configuré(s).<",
   "No agents found.": "Aucun agent trouvé.",
@@ -60,8 +17,6 @@
   ">Identity Emoji<": ">Émoji d'identité<",
   ">Skills Filter<": ">Filtre de compétences<",
   ">Filter<": ">Filtre<",
-  "\\} selected": "} sélectionné(s)",
-  "\"all skills\"": "\"toutes les compétences\"",
   ">Model Selection<": ">Sélection du modèle<",
   ">Primary model": ">Modèle principal",
   " \\(default\\)": " (par défaut)",
@@ -96,46 +51,5 @@
   ">Content<": ">Contenu<",
   ">missing<": ">manquant<",  
 
-  "\"agent override\"": "\"remplacement agent\"",
-  "\"global default\"": "\"défaut global\"",
-  ">Tool Access<": ">Accès aux outils<",
-  "  Profile \\+ per-tool overrides for this agent.": "  Profil + remplacements par outil pour cet agent.",
-  "> enabled.": "> activé.",
-  "  Load the gateway config to adjust tool profiles.": "  Chargez la configuration de la passerelle pour ajuster les profils d'outils.",
-  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "  Cet agent utilise une liste d'autorisation explicite dans la configuration. Les remplacements d'outils sont gérés dans l'onglet Configuration.",
-  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "  L'option globale tools.allow est définie. Les remplacements agent ne peuvent pas activer les outils globalement bloqués.",
-  ">Profile<": ">Profil<",
-  ">Source<": ">Source<",
-  ">unsaved<": ">non enregistré<",
-  ">Quick Presets<": ">Préréglages rapides<",
-  "  Inherit": "  Hériter",
-  "\"Workspace Skills\"": "\"Compétences de l'espace de travail\"",
-  "\"Built-in Skills\"": "\"Compétences intégrées\"",
-  "\"Installed Skills\"": "\"Compétences installées\"",
-  "\"Extra Skills\"": "\"Compétences supplémentaires\"",
-  "\"Other Skills\"": "\"Autres compétences\"",
-
-  ">Skills<": ">Compétences<",
-  "Per-agent skill allowlist and workspace skills.": "Liste d'autorisation des compétences par agent et compétences de l'espace de travail.",
-  "  Use All": "  Tout utiliser",
-  "  Enable All": "  Tout activer",
-  "  Disable All": "  Tout désactiver",
-  "  Reload Config": "  Recharger la config",
-  "  Reload": "  Recharger",
-  "  Load the gateway config to set per-agent skills.": "  Chargez la configuration de la passerelle pour définir les compétences par agent.",
-  "This agent uses a custom skill allowlist.": "Cet agent utilise une liste d'autorisation de compétences personnalisée.",
-  "  All skills are enabled. Disabling any skill will create a per-agent allowlist.": "  Toutes les compétences sont activées. Désactiver une compétence créera une liste d'autorisation par agent.",
-
-  "  Load skills for this agent to view workspace-specific entries.": "  Chargez les compétences pour cet agent afin de voir les entrées spécifiques à l'espace de travail.",
-  
-  "\"Search skills\"": "\"Rechercher des compétences\"",
-  "No skills found.": "Aucune compétence trouvée.",
-
-
-  "\"eligible\"": "\"éligible\"",
-  "\"blocked\"": "\"bloqué\"",
-
-  ">disabled<": ">désactivé<",
-  ">Missing: ": ">Manquant : ",
-  ">Reason:": ">Raison :"
+  "  Reload": "  Recharger"
 }

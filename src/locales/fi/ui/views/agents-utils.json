@@ -1,0 +1,49 @@
+{
+  "\"Files\"": "\"Mga File\"",
+  "\"Read file contents\"": "\"Basahin ang nilalaman ng file\"",
+  "\"Create or overwrite files\"": "\"Gumawa o mag-overwrite ng mga file\"",
+  "\"Make precise edits\"": "\"Gumawa ng tumpak na pag-edit\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"Mag-patch ng mga file (OpenAI)\"",
+
+  "\"Runtime\"": "\"Runtime\"",
+  "\"Run shell commands\"": "\"Magpatakbo ng shell commands\"",
+  "\"Manage background processes\"": "\"Pamahalaan ang mga background process\"",
+
+  "\"Web\"": "\"Web\"",
+  "\"Search the web\"": "\"Maghanap sa web\"",
+  "\"Fetch web content\"": "\"Kunin ang nilalaman ng web\"",
+  
+  "\"Memory\"": "\"Memorya\"",
+  "\"Semantic search\"": "\"Semantic na paghahanap\"",
+  "\"Read memory files\"": "\"Basahin ang mga memory file\"",
+  "\"List sessions\"": "\"Ilista ang mga session\"",
+
+  "\"Session history\"": "\"Kasaysayan ng session\"",
+  "\"Send to session": "\"Ipadala sa session",
+  "\"Spawn sub-agent\"": "\"Lumikha ng sub-agent\"",
+  "\"Session status\"": "\"Katayuan ng session\"",
+
+  "\"UI\"": "\"UI\"",
+  "\"Control web browser\"": "\"Kontrolin ang web browser\"",
+  "\"Control canvases\"": "\"Kontrolin ang mga canvas\"",
+
+  "\"Send messages\"": "\"Magpadala ng mga mensahe\"",
+  
+  "\"Automation\"": "\"Automation\"",
+  "\"Schedule tasks\"": "\"I-iskedyul ang mga gawain\"",
+
+  "\"Gateway control\"": "\"Kontrol ng Gateway\"",
+  "\"Nodes \\+ devices\"": "\"Mga Node + device\"",
+  "\"List agents\"": "\"Ilista ang mga ahente\"",
+  
+  "\"Media\"": "\"Media\"",
+  "\"Image understanding\"": "\"Pag-unawa sa larawan\"",
+
+  "\"Minimal\"": "\"Minimal\"",
+  "\"Coding\"": "\"Coding\"",
+  "\"Messaging\"": "\"Pagmemensahe\"",
+  "\"Full\"": "\"Buong\"",
+  
+  "\\} selected": "} napili",
+  "\"all skills\"": "\"lahat ng skill\""
+}

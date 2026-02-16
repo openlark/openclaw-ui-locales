@@ -1,0 +1,62 @@
+{
+  "No usage data for this session.": "이 세션에 대한 사용량 데이터가 없습니다.",
+  ">Messages<": ">메시지<",
+  "\\} user · ": "} 사용자 · ",
+  "\\} assistant": "} 어시스턴트",
+  ">Tool Calls<": ">도구 호출<",
+  " tools<": " 도구<",
+  ">Errors<": ">오류<",
+  " tool results<": " 도구 결과<",
+  ">Duration<": ">지속 시간<",
+
+  "\"No tool calls\"": "\"도구 호출 없음\"",
+  "\"No model data\"": "\"모델 데이터 없음\"",
+
+  "\"Close session details\"": "\"세션 세부 정보 닫기\"",
+
+  ">No timeline data<": ">타임라인 데이터 없음<",
+  "\"No data in range\"": "\"범위 내 데이터 없음\"",
+  ">Usage Over Time<": ">시간 경과에 따른 사용량<",
+  "  Per Turn": " 턴당",
+  " Cumulative": " 누적",
+  " Total": " 총계",
+  " By Type": " 유형별",
+  ">Tokens by Type<": ">유형별 토큰<",
+
+  "\"Assistant output tokens\"": "\"어시스턴트 출력 토큰\"",
+  ">Output": ">출력",
+  "\"User \\+ tool input tokens\"": "\"사용자 + 도구 입력 토큰\"",
+  ">Input": ">입력",
+  "\"Tokens written to cache\"": "\"캐시에 기록된 토큰\"",
+  ">Cache Write ": ">캐시 쓰기 ",
+  "\"Tokens read from cache\"": "\"캐시에서 읽은 토큰\"",
+  ">Cache Read ": ">캐시 읽기 ",
+  ">Total: ": ">총계: ",
+  
+  ">No context data<": ">컨텍스트 데이터 없음<",
+  ">System Prompt Breakdown<": ">시스템 프롬프트 분석<",
+  "\"Collapse\"": "\"접기\"",
+  "\"Expand all\"": "\"모두 펼치기\"",
+  "\"Base context per message\"": "\"메시지당 기본 컨텍스트\"",
+
+  ">Sys ": ">시스템 ",
+  ">Skills ": ">스킬 ",
+  ">Tools ": ">도구 ",
+  ">Files ": ">파일 ",
+
+  " more<": " 더보기<",
+
+  ">Conversation<": ">대화<",
+  ">No messages<": ">메시지 없음<",
+
+  "\"Collapse All\"": "\"모두 접기\"",
+  "\"Expand All\"": "\"모두 펼치기\"",
+
+  ">User<": ">사용자<",
+  ">Assistant<": ">어시스턴트<",
+  ">Tool<": ">도구<",
+  ">Tool result<": ">도구 결과<",
+
+  "\"Search conversation\"": "\"대화 검색\"",
+  "No messages match the filters.": "필터와 일치하는 메시지가 없습니다."
+}

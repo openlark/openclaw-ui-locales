@@ -34,6 +34,8 @@ Spanish              - es
 Bangla               - bn
 Vietnamese           - vi
 Filipino             - fi
+Telugu               - te
+Hindi                - hi
 ```
 
 ## Install

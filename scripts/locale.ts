@@ -2,6 +2,7 @@
 import * as fs from 'fs'
 import * as path from 'path'
 import * as os from 'os'
+import ora from 'ora'
 import { execSync } from 'child_process'
 import { select } from '@clack/prompts'
 
@@ -16,7 +17,35 @@ interface OpenClawHanldeOptions {
   homeTmpDir: string
 }
 
+const spinner = ora('Starting...').start()
+
 export async function execLocale() {
+  spinner.color = 'yellow'
+  spinner.text = 'Verifying whether OpenClaw is installed.'
+
+  // Show the installation root directory of npm global packages
+  const globalRoot: string = execSync('npm root -g').toString().trim()
+  // Install the global path for OpenClaw
+  const openclawDir: string = path.join(globalRoot, 'openclaw')
+  // OpenClaw main directory temporary folder
+  const openclawHomeTmpdir: string = path.join(os.homedir(), '.openclaw', '__tmp')
+
+  if (!fs.existsSync(openclawDir)) {
+    spinner.color = 'red'
+    spinner.fail(`OpenClaw is not installed`)
+    spinner.stop()
+    process.exit(0)
+  }
+
+  spinner.color = 'green'
+
+  // OpenClaw Version
+  const openclawVersion: string = execSync('openclaw -v').toString().trim()
+
+  spinner.succeed(`OpenClaw Version：${openclawVersion}`)
+
+  // await open(openclawDir)
+
   const options: Array<any> = [
     // 中文 Chinese
     { label: '简体中文', value: 'zh' },
@@ -46,23 +75,6 @@ export async function execLocale() {
     options,
   })
 
-  // Show the installation root directory of npm global packages
-  const globalRoot: string = execSync('npm root -g').toString().trim()
-  // Install the global path for OpenClaw
-  const openclawDir: string = path.join(globalRoot, 'openclaw')
-  // OpenClaw main directory temporary folder
-  const openclawHomeTmpdir: string = path.join(os.homedir(), '.openclaw', '__tmp')
-
-  if (!fs.existsSync(openclawDir)) {
-    console.error(`OpenClaw is not installed`)
-    return
-  }
-
-  // OpenClaw Version
-  const openclawVersion: string = execSync('openclaw -v').toString().trim()
-
-  // await open(openclawDir)
-
   // hanlde ControlUI
   handleControlUIContents({
     answers: { language },
@@ -79,8 +91,9 @@ function handleControlUIContents(options: OpenClawHanldeOptions) {
   const localeJsonDir: string = `./src/locales/${options.answers.language}/ui`
 
   if (!fs.existsSync(localeJsonDir)) {
-    console.error(`${localeJsonDir} path does not exist`)
-    return
+    spinner.fail(`${localeJsonDir} path does not exist`)
+    spinner.stop()
+    process.exit(0)
   }
 
   // UI assets file path
@@ -110,6 +123,10 @@ function handleControlUIContents(options: OpenClawHanldeOptions) {
 
       // Read locale folder directory
       readDirectory(localeJsonDir, (srcFile: any) => {
+
+        spinner.color = 'yellow'
+        spinner.text = 'Converting...'
+
         // Find json file
         if (path.extname(srcFile) === '.json') {
           const jsonContent: string = fs.readFileSync(srcFile, 'utf-8')
@@ -120,17 +137,23 @@ function handleControlUIContents(options: OpenClawHanldeOptions) {
               if (typeof json === 'object') {
                 for (const key in json) {
                   jsContent = jsContent.replace(new RegExp(key, 'g'), json[key])
+
+                  spinner.color = 'blue'
                 }
+                spinner.color = 'green'
               }
-              console.log(`${srcFile} successed.`)
             } catch (error) {
               console.error(error)
             }
           }
         }
-
-        fs.writeFileSync(jsFileName, jsContent)
       })
+
+      spinner.color = 'green'
+      spinner.succeed(`Conversion successed.`)
+      spinner.stop()
+
+      fs.writeFileSync(jsFileName, jsContent)
     }
   }
 }

@@ -47,8 +47,10 @@ export async function execLocale() {
   // await open(openclawDir)
 
   const options: Array<any> = [
-    // 中文 Chinese
-    { label: '简体中文', value: 'zh' },
+    // 简体中文 Chinese Simplified
+    { label: '简体中文', value: 'zh-CN' },
+    // 繁体中文 Chinese Traditional
+    { label: '繁體中文', value: 'zh-TW' },
     // 日语 Japanese
     { label: '日本語', value: 'ja' },
     // 韩语 Korean

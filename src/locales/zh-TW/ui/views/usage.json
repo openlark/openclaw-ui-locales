@@ -1,0 +1,85 @@
+{
+  ">Token Usage<": ">Token使用量<",
+  ">to<": ">至<",
+  "\"Today\"": "\"今天\"",
+  "\"7d\"": "\"7天\"",
+  "\"30d\"": "\"30天\"",
+  ">All<": ">全部<",
+  "  Clear": " 清除",
+
+  ">Usage<": ">使用情況<",
+  "See where tokens go, when sessions spike, and what drives cost.": "查看Token的去向、工作階段激增的時間以及成本的驅動因素。",
+  "\"pinned\"": "\"已置頂\"",
+  ">Filters<": ">篩選條件<",
+  ">Loading<": ">載入中<",
+  "Select a date range and click Refresh to load usage.": "選擇日期範圍，然後點擊重新整理以載入使用情況。",
+  "> tokens": "> Token",
+  "> cost": "> 成本",
+
+  "\"Unpin filters\"\\}": "\"取消置頂篩選\"}",
+  "\"Pin filters\"\\}": "\"置頂篩選\"}",
+  "\"Pinned\"": "\"已置頂\"",
+  "\"Pin\"": "\"置頂\"",
+  ">Export ▾<": ">匯出 ▾<",
+  "  Sessions ": " 工作階段 ",
+  "  Daily ": " 每日 ",
+
+  "  Tokens": " Token",
+  "  Cost": " 成本",
+  "  Refresh": " 重新整理",
+
+  "Filter sessions \\(e.g. key:agent:main:cron\\* model:gpt-4o has:errors minTokens:2000\\)": "篩選工作階段（例如：key:agent:main:cron* model:gpt-4o has:errors minTokens:2000）",
+  " Filter \\(client-side\\)": " 篩選（用戶端）",
+  "\\} sessions match": "} 個工作階段符合",
+  "\\} sessions in range": "} 個工作階段在範圍內",
+  "Tip: use filters or click bars to filter days.": "提示：使用篩選條件或點擊長條圖來篩選日期。",
+
+  "\"Remove filter\"": "\"移除篩選條件\"",
+
+  "Showing first 1,000 sessions. Narrow date range for complete results.": "顯示前 1,000 個工作階段。縮小日期範圍以取得完整結果。",
+
+  ">Days:": ">天數：",
+  ">Hours:": ">小時：",
+  ">Session:": ">工作階段：",
+  "  Clear All": " 清除全部",
+  ">Daily Usage<": ">每日使用量<",
+  ">No data<": ">無資料<",
+  "\\} Usage<": "} 使用量<",
+  "\\} tokens<": "} Token<",
+  
+  "\"Tokens\":\"Cost\"} by Type": "\"按類型的Token\":\"按類型的成本\"}",
+  "\"Output: ": "\"輸出：",
+  "\"Input: ": "\"輸入：",
+  "\"Cache Write: ": "\"快取寫入：",
+  "\"Cache Read: ": "\"快取讀取：",
+  
+  "Cache hit rate = cache read / \\(input \\+ cache read\\). Higher is better.": "快取命中率 = 快取讀取 / (輸入 + 快取讀取)。越高越好。",
+  "Error rate = errors / total messages. Lower is better.": "錯誤率 = 錯誤數 / 總訊息數。越低越好。",
+  "Throughput shows tokens per minute over active time. Higher is better.": "吞吐量顯示活躍時間內每分鐘處理的Token數量。數值越高越好。",
+  "Average tokens per message in this range.": "此範圍內每則訊息的平均Token數。",
+  "Average cost per message when providers report costs. Cost data is missing for some or all sessions in this range.": "當供應商回報成本時，每則訊息的平均成本。在此範圍內的某些或所有工作階段的成本資料遺失。",
+  "Average cost per message when providers report costs.": "當供應商回報成本時，每則訊息的平均成本。",
+ 
+  "\\} errors · ": "} 條錯誤 · ",
+  "\\} msgs · ": "} 則訊息 · ",
+
+  ">Usage Overview<": ">使用概覽<",
+  "Total user \\+ assistant messages in range.": "範圍內的使用者與助手訊息總數。",
+  "  Tool Calls": " 工具呼叫",
+  "Total tool call count across sessions.": "跨工作階段的工具呼叫總次數。",
+  "  Errors": " 錯誤",
+  "Total message/tool errors in range.": "範圍內的總訊息/工具錯誤數。",
+  "  Avg Tokens / Msg": " 平均每則訊息Token數",
+  ">Across ": ">共",
+  "Avg Cost \/ Msg": "平均每則訊息成本",
+  "\\} total<": "} 總計<",
+
+  "Distinct sessions in the range.": "範圍內的不同工作階段。",
+  "  Throughput": " 吞吐量",
+  "  Error Rate": " 錯誤率",
+
+  "  All ": " 全部 ",
+  " Recently viewed": " 最近檢視",
+  ">No sessions in range<": ">範圍內沒有工作階段<",
+  ">No recent sessions<": ">最近沒有工作階段<"
+}

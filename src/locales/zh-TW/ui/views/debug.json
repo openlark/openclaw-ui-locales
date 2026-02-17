@@ -1,0 +1,17 @@
+{
+  ">Snapshots<": ">快照<",
+  "Status, health, and heartbeat data.": "狀態、健康和心跳資料。",
+  " Security audit:": " 安全稽核：",
+  "\\}. Run": "}. 執行",
+  "> for details.": "> 檢視詳細資訊。",
+  ">Last heartbeat<": ">最後的心跳<",
+  ">Manual RPC<": ">手動 RPC<",
+  "Send a raw gateway method with JSON params.": "使用 JSON 參數傳送原始閘道方法。",
+  ">Method<": ">方法<",
+  ">Params \\(JSON\\)<": ">參數 (JSON)<",
+  ">Models<": ">模型<",
+  ">Call<": ">呼叫<",
+  "Catalog from models.list.": "來自 models.list 的目錄。",
+  ">Event Log<": ">事件日誌<",
+  "Latest gateway events.": "最新的閘道事件。"
+}

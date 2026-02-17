@@ -1,0 +1,31 @@
+{
+  "Schema unavailable. Use Raw.": "架構不可用。使用原始資料。",
+  "Channel config schema unavailable.": "頻道設定架構不可用。",
+  "Loading config schema…": "正在載入設定架構…",
+  "Channel status and configuration.": "頻道狀態和設定。",
+
+  ">Configured<": ">已設定<",
+  ">Linked<": ">已連結<",
+  ">Last start<": ">最後啟動<",
+  ">Last probe<": ">最後探測<",
+  ">Last connect<": ">上次連線<",
+  ">Last message<": ">最後一則訊息<",
+  ">Last inbound<": ">最後入站<",
+  ">Auth age<": ">驗證時間<",
+  ">Mode<": ">模式<",
+  ">Credential<": ">憑證<",
+  ">Public Key<": ">公鑰<",
+  ">Audience<": ">受眾<",
+  ">Profile<": ">個人資料<",
+
+  "No profile set. Click \"Edit Profile\" to add your name, bio, and avatar.": "未設定個人資料。點擊「編輯個人資料」新增您的姓名、個人簡介和頭像。",
+  "\"Saving…\"": "\"儲存中…\"",
+  "\"Save\"": "\"儲存\"",
+  "  probe": " 探測",
+  
+  "  Probe": " 探測",
+  "\"ok\" \\:": "\"成功\" :",
+  "\"failed\"": "\"失敗\"",
+  
+  "Decentralized DMs via Nostr relays \\(NIP-04\\).": "通過 Nostr 中繼（NIP-04）進行去中心化私訊。"
+}

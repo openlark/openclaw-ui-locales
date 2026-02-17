@@ -1,0 +1,31 @@
+{
+  "\"agent override\"": "\"代理覆蓋\"",
+  "\"global default\"": "\"全域預設\"",
+  "\"default\"": "\"預設\"",
+
+  ">Tool Access<": ">工具存取<",
+  "  Profile \\+ per-tool overrides for this agent.": " 此代理的每個工具覆蓋設定。",
+  "> enabled.": "> 已啟用。",
+
+  "  Use All": "  使用全部",
+  "  Enable All": "  啟用全部",
+  "  Disable All": "  停用全部",
+  "  Reload Config": " 重新載入設定",
+
+  "Load the gateway config to adjust tool profiles.": "載入閘道設定以調整工具設定檔。",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "此代理在設定中使用了明確白名單。工具覆蓋項在「設定」標籤中進行管理。",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "全域 tools.allow 已設定。代理覆蓋無法啟用被封鎖的工具。",
+
+  ">Profile<": ">設定檔<",
+  ">Source<": ">來源<",
+  ">unsaved<": ">未儲存<",
+
+  ">Quick Presets<": ">快速預設<",
+  "  Inherit": " 繼承",
+
+  "Per-agent skill allowlist and workspace skills.": "每個代理的技能白名單和工作區技能。",
+  "Load the gateway config to set per-agent skills.": "載入閘道設定以設定每個代理的技能。",
+  "This agent uses a custom skill allowlist.": "該代理使用自訂技能白名單。",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "所有技能均已啟用。停用任何技能將為每個代理建立一個白名單。",
+  "Load skills for this agent to view workspace-specific entries.": "載入此代理的技能以檢視特定工作區的條目。"
+}

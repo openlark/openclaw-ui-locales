@@ -1,0 +1,23 @@
+{
+  "Compacting context...": "正在壓縮上下文...",
+  "Context compacted": "上下文已壓縮",
+  "Attachment preview": "附件預覽",
+  "Remove attachment": "移除附件",
+  "Add a message or paste more images...": "新增訊息或貼上更多圖片...",
+  "Message \\(↩ to send, Shift\\+↩ for line breaks, paste images\\)": "訊息（Enter 發送，Shift + Enter 換行，可貼上圖片）",
+  "Connect to the gateway to start chatting…": "連線到閘道以開始聊天…",
+  "Loading chat…": "正在載入聊天…",
+  "Exit focus mode": "退出專注模式",
+  ">Queued ": ">佇列 ",
+  "Image \\(": "圖片 (",
+  "Remove queued message": "移除佇列訊息",
+  "New messages ": "新訊息 ",
+  ">Message<": ">訊息<",
+  "\"Stop\"": "\"停止\"",
+  "New session": "新工作階段",
+  "\"Queue\"": "\"佇列\"",
+  "\"Send\"": "\"傳送\"",
+  "Showing last ": "顯示最後 ",
+  "\\} messages": "} 則訊息",
+  "\\} hidden": "} 隱藏"
+}

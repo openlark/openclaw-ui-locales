@@ -4,7 +4,7 @@
 
 <h1 align="center">OpenClaw UI Locales</h1>
 
- English  |  [简体中文](./README_zh.md)
+ English  |  [简体中文](./README_zh-CN.md)  |  [繁體中文](./README_zh-TW.md)
 
 <p align="center">
   <strong>Boundless mastery, seamless communication</strong>
@@ -23,7 +23,8 @@
 The supported national languages are as follows:
 
 ```
-Simplified Chinese   - zh
+Chinese Simplified   - zh-CN
+Chinese Traditional  - zh-TW
 Japanese             - ja
 Korean               - ko
 French               - fr

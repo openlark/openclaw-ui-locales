@@ -1,0 +1,20 @@
+{
+  "Active session keys and per-session overrides.": "活動工作階段金鑰和每工作階段的覆蓋設定。",
+  "Active within \\(minutes\\)": "活動時間（分鐘）",
+  ">Include global<": ">包含全域<",
+  ">Include unknown<": ">包含未知<",
+  "No sessions found.": "未找到工作階段。",
+  "\"\\(optional\\)\"": "\"（選填）\"",
+  "\\((multiple)\\)": "（多選）",
+  "  Delete": "  刪除",
+  ">Limit<": ">限制<",
+  "`Store: ": "`儲存: ",
+  ">Label<": ">標籤<",
+  ">Kind<": ">類型<",
+  ">Updated<": ">已更新<",
+  ">Tokens<": ">權杖<",
+  ">Thinking<": ">思考中<",
+  ">Verbose<": ">詳細<",
+  ">Reasoning<": ">推理<",
+  ">Actions<": ">操作<"
+}

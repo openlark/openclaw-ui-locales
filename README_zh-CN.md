@@ -4,7 +4,7 @@
 
 <h1 align="center">OpenClaw UI Locales</h1>
 
-  [English](./README.md)  |  简体中文  
+  [English](./README.md)   |   简体中文   |  [繁體中文](./README_zh-TW.md)
 
 <p align="center">
   <strong>掌控无界，语言无碍</strong>
@@ -23,7 +23,8 @@
 支持的国家语言如下：
 
 ```
-简体中文        - zh
+简体中文        - zh-CN
+繁体中文        - zh-TW
 日语            - ja
 韩语            - ko
 法语            - fr

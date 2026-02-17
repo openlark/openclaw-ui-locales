@@ -1,0 +1,45 @@
+{
+  "\"Deny\"": "\"拒絕\"",
+  "\"Allowlist\"": "\"白名單\"",
+  "\"Off\"": "\"關閉\"",
+  "\"On miss\"": "\"未命中時\"",
+  "\"Always\"": "\"始終\"",
+
+  ">Exec approvals<": ">執行許可<",
+  "Allowlist and approval policy for \\<span class=\"mono\">exec host=gateway/node\\</span>.": "<span class=\"mono\">exec host=gateway/node</span> 的白名單和許可策略。",
+  "\"Load approvals\"": "\"載入許可\"",
+  "Load exec approvals to edit allowlists.": "載入執行許可以編輯白名單。",
+  "Gateway edits local approvals; node edits the selected node.": "閘道編輯本地許可；節點編輯所選節點。",
+
+  ">Gateway<": ">閘道<",
+  ">Node<": ">節點<",
+  ">Select node<": ">選擇節點<",
+  "No nodes advertise exec approvals yet.": "目前尚無節點發布執行許可資訊。",
+
+  ">Scope<": ">範圍<",
+  "  Defaults": " 預設值",
+
+  "\"Default security mode.\"": "\"預設安全模式。\"",
+  "`Default: ": "`預設值: ",
+  "  Use default": "  使用預設值",
+  "\"Default prompt policy.\"": "\"預設提示策略。\"",
+  ">Ask<": ">詢問<",
+  ">Ask fallback<": ">詢問備用<",
+  "Applied when the UI prompt is unavailable.": "當介面提示不可用時套用。",
+  ">Fallback<": ">備用<",
+
+  ">Auto-allow skill CLIs<": ">自動允許技能 CLI<",
+  "Allow skill executables listed by the Gateway.": "允許閘道列出的技能可執行檔。",
+  "\"on\" \\: \"off\"\\}": "\"開啟\" : \"關閉\"}",
+  ": `Override \\(": ": `覆蓋 (",
+
+  
+  ">Allowlist<": ">白名單<",
+  "Case-insensitive glob patterns.": "不區分大小寫的 Glob 模式。",
+  "  Add pattern": " 新增模式",
+  ">Pattern<": ">模式<",
+  "No allowlist entries yet.": "尚無白名單項目。",
+  "\"New pattern\"": "\"新模式\"",
+  ">Last used: ": ">最後使用:",
+  "  Remove": "  移除"
+}

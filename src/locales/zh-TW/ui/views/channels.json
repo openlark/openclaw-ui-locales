@@ -1,0 +1,11 @@
+{
+  "Channel health": "頻道健康",
+  "Channel status snapshots from the gateway.": "來自閘道的頻道狀態快照。",
+  "No snapshot yet.": "還沒有快照。",
+  "Channel status and configuration.": "頻道狀態和設定。",
+  "\"Yes\"": "\"是\"",
+  "\"Active\"": "\"活躍\"",
+  "\"No\"": "\"否\"",
+  ">Running<": ">執行中<",
+  ">Connected<": ">已連線<"
+}

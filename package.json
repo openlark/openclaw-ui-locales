@@ -3,24 +3,10 @@
   "version": "0.3.1",
   "description": "A multilingual switching tool specifically designed for the OpenClaw Web control interface. It allows you to seamlessly switch between over 10 languages with a single click.",
   "type": "module",
-  "main": "dist/index.js",
   "scripts": {
     "locale": "bun run ./scripts/index.ts",
-    "openclaw": "bun run ./scripts/openclaw.ts",
-    "build": "bun build ./bin/cli.ts --outfile ./dist/index.js --target node --minify"
+    "openclaw": "bun run ./scripts/openclaw.ts"
   },
-  "bin": {
-    "openclaw-ui": "./dist/index.js"
-  },
-  "exports": {
-    ".": "./dist/index.js"
-  },
-  "files": [
-    "dist",
-    "README.md",
-    "LICENSE",
-    "src"
-  ],
   "dependencies": {
     "@clack/prompts": "^1.0.1",
     "commander": "^14.0.3",

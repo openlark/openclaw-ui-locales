@@ -1,0 +1,11 @@
+{
+  "Channel health": "चैनल स्वास्थ्य",
+  "Channel status snapshots from the gateway.": "गेटवे से चैनल स्थिति स्नैपशॉट।",
+  "No snapshot yet.": "अभी तक कोई स्नैपशॉट नहीं है।",
+  "Channel status and configuration.": "चैनल स्थिति और कॉन्फ़िगरेशन।",
+  "\"Yes\"": "\"हाँ\"",
+  "\"Active\"": "\"सक्रिय\"",
+  "\"No\"": "\"नहीं\"",
+  ">Running<": ">चल रहा है<",
+  ">Connected<": ">कनेक्टेड<"
+}

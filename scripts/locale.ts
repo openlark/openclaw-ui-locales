@@ -69,6 +69,10 @@ export async function execLocale() {
     { label: 'Tiếng Việt', value: 'vi' },
     // 菲律宾语 Filipino
     { label: 'Filipino', value: 'fi' },
+    // 泰卢固语 Telugu
+    { label: 'ప్రామాణిక', value: 'te' },
+    // 印地语 Hindi
+    { label: 'तेलुगु', value: 'hi' },
   ]
   const language = await select({
     message: 'Please select a language.',

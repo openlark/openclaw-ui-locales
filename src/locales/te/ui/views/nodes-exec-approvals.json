@@ -1,0 +1,45 @@
+{
+  "\"Deny\"": "\"తిరస్కరించు\"",
+  "\"Allowlist\"": "\"అనుమతి జాబితా\"",
+  "\"Off\"": "\"ఆఫ్\"",
+  "\"On miss\"": "\"మిస్ అయినప్పుడు\"",
+  "\"Always\"": "\"ఎల్లప్పుడూ\"",
+
+  ">Exec approvals<": ">ఎక్జిక్యూట్ అనుమతులు<",
+  "Allowlist and approval policy for \\<span class=\"mono\">exec host=gateway/node\\</span>.": "\\<span class=\"mono\">ఎక్జిక్యూట్ హోస్ట్=గేట్వే/నోడ్\\</span> కోసం అనుమతి జాబితా మరియు ఆమోద విధానం.",
+  "\"Load approvals\"": "\"అనుమతులను లోడ్ చేయండి\"",
+  "Load exec approvals to edit allowlists.":"అనుమతి జాబితాలను సవరించడానికి ఎక్జిక్యూట్ అనుమతులను లోడ్ చేయండి.",
+  "Gateway edits local approvals; node edits the selected node.": "గేట్వే స్థానిక అనుమతులను సవరిస్తుంది; నోడ్ ఎంచుకున్న నోడ్‌ను సవరిస్తుంది.",
+
+  ">Gateway<": ">గేట్వే<",
+  ">Node<": ">నోడ్<",
+  ">Select node<": ">నోడ్‌ను ఎంచుకోండి<",
+  "No nodes advertise exec approvals yet.": "ఇంకా ఏ నోడ్‌లు ఎక్జిక్యూట్ అనుమతులను ప్రకటించలేదు.",
+
+  ">Scope<": ">పరిధి<",
+  "  Defaults": "  డిఫాల్ట్‌లు",
+
+  "\"Default security mode.\"": "\"డిఫాల్ట్ భద్రతా మోడ్.\"",
+  "`Default: ": "`డిఫాల్ట్: ",
+  "  Use default": "  డిఫాల్ట్ ఉపయోగించండి",
+  "\"Default prompt policy.\"": "\"డిఫాల్ట్ ప్రాంప్ట్ విధానం.\"",
+  ">Ask<": ">అడగండి<",
+  ">Ask fallback<": ">ఫాల్‌బ్యాక్ అడగండి<",
+  "Applied when the UI prompt is unavailable.": "UI ప్రాంప్ట్ అందుబాటులో లేనప్పుడు వర్తించబడుతుంది.",
+  ">Fallback<": ">ఫాల్‌బ్యాక్<",
+
+  ">Auto-allow skill CLIs<": ">స్కిల్ CLIలను స్వయంచాలకంగా అనుమతించు<",
+  "Allow skill executables listed by the Gateway.": "గేట్వే ద్వారా జాబితా చేయబడిన స్కిల్ ఎక్జిక్యూటబుల్‌లను అనుమతించండి.",
+  "\"on\" \\: \"off\"\\}": "\"ఆన్\" : \"ఆఫ్\"}",
+  ": `Override \\(": ": `ఓవర్‌రైడ్ (",
+
+  
+  ">Allowlist<": ">అనుమతి జాబితా<",
+  "Case-insensitive glob patterns.": "కేస్-ఇన్‌సెన్సిటివ్ గ్లోబ్ నమూనాలు.",
+  "  Add pattern": "  నమూనాను జోడించండి",
+  ">Pattern<": ">నమూనా<",
+  "No allowlist entries yet.": "ఇంకా అనుమతి జాబితా ఎంట్రీలు లేవు.",
+  "\"New pattern\"": "\"కొత్త నమూనా\"",
+  ">Last used: ": ">చివరిగా ఉపయోగించినది:",
+  "  Remove": "  తీసివేయండి"
+}

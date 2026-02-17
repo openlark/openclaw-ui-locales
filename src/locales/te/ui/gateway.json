@@ -1,0 +1,8 @@
+{
+  "\"gateway client stopped\"": "\"గేట్వే క్లయింట్ ఆగిపోయింది\"",
+  "gateway closed \\(": "గేట్వే మూసివేయబడింది (",
+  "\"connect failed\"": "\"కనెక్ట్ విఫలమైంది\"",
+  " event handler error:": " ఈవెంట్ హ్యాండ్లర్ లోపం:",
+  "\"request failed\"": "\"అభ్యర్థన విఫలమైంది\"",
+  "\"gateway not connected\"": "\"గేట్వే కనెక్ట్ కాలేదు\""
+}

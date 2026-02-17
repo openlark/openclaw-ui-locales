@@ -1,0 +1,31 @@
+{
+  "\"agent override\"": "\"एजेंट ओवरराइड\"",
+  "\"global default\"": "\"वैश्विक डिफ़ॉल्ट\"",
+  "\"default\"": "\"डिफ़ॉल्ट\"",
+
+  ">Tool Access<": ">उपकरण पहुंच<",
+  "  Profile \\+ per-tool overrides for this agent.": "  इस एजेंट के लिए प्रोफ़ाइल और प्रति-उपकरण ओवरराइड।",
+  "> enabled.": "> सक्षम है।",
+
+  "  Use All": "  सभी का उपयोग करें",
+  "  Enable All": "  सभी सक्षम करें",
+  "  Disable All": "  सभी अक्षम करें",
+  "  Reload Config": "  कॉन्फ़िग पुनः लोड करें",
+
+  "Load the gateway config to adjust tool profiles.": "उपकरण प्रोफ़ाइल समायोजित करने के लिए गेटवे कॉन्फ़िग लोड करें।",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "  यह एजेंट कॉन्फ़िग में एक स्पष्ट अनुमति सूची का उपयोग कर रहा है। उपकरण ओवरराइड का प्रबंधन कॉन्फ़िग टैब में किया जाता है।",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "  वैश्विक tools.allow सेट है। एजेंट ओवरराइड उन उपकरणों को सक्षम नहीं कर सकते जो वैश्विक स्तर पर अवरुद्ध हैं।",
+
+  ">Profile<": ">प्रोफ़ाइल<",
+  ">Source<": ">स्रोत<",
+  ">unsaved<": ">असुरक्षित<",
+
+  ">Quick Presets<": ">त्वरित प्रीसेट<",
+  "  Inherit": "  इनहेरिट करें",
+
+  "Per-agent skill allowlist and workspace skills.": "प्रति-एजेंट कौशल अनुमति सूची और कार्यक्षेत्र कौशल।",
+  "Load the gateway config to set per-agent skills.": "प्रति-एजेंट कौशल सेट करने के लिए गेटवे कॉन्फ़िग लोड करें।",
+  "This agent uses a custom skill allowlist.": "यह एजेंट एक कस्टम कौशल अनुमति सूची का उपयोग करता है।",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "सभी कौशल सक्षम हैं। किसी भी कौशल को अक्षम करने से प्रति-एजेंट अनुमति सूची बन जाएगी।",
+  "Load skills for this agent to view workspace-specific entries.": "कार्यक्षेत्र-विशिष्ट प्रविष्टियाँ देखने के लिए इस एजेंट के लिए कौशल लोड करें।"
+}

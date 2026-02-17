@@ -1,0 +1,45 @@
+{
+  "\"Deny\"": "\"अस्वीकार करें\"",
+  "\"Allowlist\"": "\"अनुमति सूची\"",
+  "\"Off\"": "\"बंद\"",
+  "\"On miss\"": "\"मिस होने पर\"",
+  "\"Always\"": "\"हमेशा\"",
+
+  ">Exec approvals<": ">एक्सेक अनुमोदन<",
+  "Allowlist and approval policy for \\<span class=\"mono\">exec host=gateway/node\\</span>.": "<span class=\"mono\">exec host=gateway/node</span> के लिए अनुमति सूची और अनुमोदन नीति।",
+  "\"Load approvals\"": "\"अनुमोदन लोड करें\"",
+  "Load exec approvals to edit allowlists.":"अनुमति सूची संपादित करने के लिए एक्सेक अनुमोदन लोड करें।",
+  "Gateway edits local approvals; node edits the selected node.": "गेटवे स्थानीय अनुमोदन संपादित करता है; नोड चयनित नोड को संपादित करता है।",
+
+  ">Gateway<": ">गेटवे<",
+  ">Node<": ">नोड<",
+  ">Select node<": ">नोड चुनें<",
+  "No nodes advertise exec approvals yet.": "अभी तक कोई नोड एक्सेक अनुमोदन का विज्ञापन नहीं करता है।",
+
+  ">Scope<": ">दायरा<",
+  "  Defaults": "  डिफ़ॉल्ट",
+
+  "\"Default security mode.\"": "\"डिफ़ॉल्ट सुरक्षा मोड।\"",
+  "`Default: ": "`डिफ़ॉल्ट: ",
+  "  Use default": "  डिफ़ॉल्ट का उपयोग करें",
+  "\"Default prompt policy.\"": "\"डिफ़ॉल्ट प्रॉम्प्ट नीति।\"",
+  ">Ask<": ">पूछें<",
+  ">Ask fallback<": ">पूछें फ़ॉलबैक<",
+  "Applied when the UI prompt is unavailable.": "जब UI प्रॉम्प्ट अनुपलब्ध हो तब लागू किया जाता है।",
+  ">Fallback<": ">फ़ॉलबैक<",
+
+  ">Auto-allow skill CLIs<": ">स्वतः-अनुमति स्किल सीएलआई<",
+  "Allow skill executables listed by the Gateway.": "गेटवे द्वारा सूचीबद्ध स्किल निष्पादन योग्य फ़ाइलों की अनुमति दें।",
+  "\"on\" \\: \"off\"\\}": "\"चालू\" : \"बंद\"}",
+  ": `Override \\(": ": `ओवरराइड (",
+
+  
+  ">Allowlist<": ">अनुमति सूची<",
+  "Case-insensitive glob patterns.": "केस-असंवेदनशील ग्लोब पैटर्न।",
+  "  Add pattern": "  पैटर्न जोड़ें",
+  ">Pattern<": ">पैटर्न<",
+  "No allowlist entries yet.": "अभी तक कोई अनुमति सूची प्रविष्टि नहीं।",
+  "\"New pattern\"": "\"नया पैटर्न\"",
+  ">Last used: ": ">अंतिम बार उपयोग किया गया:",
+  "  Remove": "  हटाएं"
+}

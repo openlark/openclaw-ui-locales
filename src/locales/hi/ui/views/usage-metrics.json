@@ -1,0 +1,18 @@
+{
+  ">Activity by Time<": ">समय के अनुसार गतिविधि<",
+  " tokens<": " टोकन<",
+  "Estimates require session timestamps.": "अनुमान के लिए सत्र टाइमस्टैम्प आवश्यक हैं।",
+  "No timeline data yet.": "अभी तक कोई टाइमलाइन डेटा नहीं है।",
+  "Estimated from session spans (first/last activity). Time zone:": "सत्र अवधि (पहली/अंतिम गतिविधि) से अनुमानित। समय क्षेत्र:",
+  "\"Local\"\\}": "\"स्थानीय\"}",
+  ">Day of Week<": ">सप्ताह का दिन<",
+  ">Hours<": ">घंटे<",
+  "\\} tokens": "} टोकन",
+  ">Midnight<": ">मध्यरात्रि<",
+  ">4am<": ">सुबह 4 बजे<",
+  ">8am<": ">सुबह 8 बजे<",
+  ">Moon<": ">दोपहर 12 बजे<",
+  ">4pm<": ">शाम 4 बजे<",
+  ">8pm<": ">रात 8 बजे<",
+  "Low → High token density": "निम्न → उच्च टोकन घनत्व"
+}

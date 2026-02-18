@@ -1,6 +1,6 @@
 {
   "name": "openclaw-ui-locales",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "A multilingual switching tool specifically designed for the OpenClaw Web control interface. It allows you to seamlessly switch between over 10 languages with a single click.",
   "type": "module",
   "scripts": {

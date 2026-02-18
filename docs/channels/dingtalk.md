@@ -1,12 +1,3 @@
----
-summary: "Dingtalk Internal Enterprise Bot: Status, Features, and Configuration"
-read_when:
-  - You want to connect a Dingtalk bot
-  - You are configuring the Dingtalk channel
-title: Dingtalk
----
-```
-
 # Dingtalk Bot
 
 **Status**: Production-ready, supports bot private messaging and group chats. Uses Stream mode, no need to register a public callback URL.

@@ -1,12 +1,3 @@
----
-summary: "Feishu Bot: Status, Features, and Configuration"
-read_when:
-  - You want to connect a Feishu bot
-  - You are configuring the Feishu channel
-title: Feishu
----
-```
-
 # Feishu Bot
 
 **Status**: Production-ready, supports bot private messaging and group chats. Uses WebSocket persistent connection mode to receive messages.

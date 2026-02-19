@@ -1,5 +1,5 @@
 {
-  ">Token Usage<": ">令牌使用<",
+  ">Token Usage<": ">令牌使用情况<",
   ">to<": ">到<",
   "\"Today\"": "\"今天\"",
   "\"7d\"": "\"7天\"",
@@ -7,8 +7,7 @@
   ">All<": ">所有<",
   "  Clear": " 清除",
 
-  ">Usage<": ">使用<",
-  "See where tokens go, when sessions spike, and what drives cost.": "查看令牌的去向、会话激增的时间以及成本的驱动因素。",
+  ">Usage<": ">使用情况<",
   "\"pinned\"": "\"已置顶\"",
   ">Filters<": ">筛选<",
   ">Loading<": ">加载中<",
@@ -42,9 +41,9 @@
   ">Hours:": ">小时：",
   ">Session:": ">会话：",
   "  Clear All": " 清除所有",
-  ">Daily Usage<": ">每日使用<",
+  ">Daily Usage<": ">每日使用情况<",
   ">No data<": ">无数据<",
-  "\\} Usage<": "} 使用<",
+  "\\} Usage<": "} 使用情况<",
   "\\} tokens<": "} 令牌<",
   
   "\"Tokens\":\"Cost\"} by Type": "\"按类型的令牌\" : \"按类型的费用\"}",
@@ -63,7 +62,7 @@
   "\\} errors · ": "} 条错误 · ",
   "\\} msgs · ": "} 条消息 · ",
 
-  ">Usage Overview<": ">使用概览<",
+  ">Usage Overview<": ">使用情况概览<",
   "Total user \\+ assistant messages in range.": "范围内的用户助手消息总数。",
   "  Tool Calls": " 工具调用",
   "Total tool call count across sessions.": "跨会话的工具调用总次数。",

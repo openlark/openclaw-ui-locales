@@ -23,7 +23,7 @@
   "Recent session keys tracked by the gateway.": "閘道追蹤的最近工作階段金鑰。",
   "\"Enabled\"": "\"已啟用\"",
   "\"Disabled\"": "\"已停用\"",
-  "Next wake": "下一次喚醒",
+  "Next wake": "下次喚醒",
   ">Notes<": ">註解<",
   "Quick reminders for remote control setups.": "遠端控制設定的快速提醒。",
   "Tailscale serve": "Tailscale 服務",

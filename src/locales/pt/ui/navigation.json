@@ -25,7 +25,7 @@
   "Manage skill availability and API key injection.":"Gerenciar disponibilidade de habilidades e injeção de chaves de API.",
   "Paired devices, capabilities, and command exposure.":"Dispositivos pareados, capacidades e exposição de comandos.",
   "Direct gateway chat session for quick interventions.":"Sessão de chat direta com o gateway para intervenções rápidas.",
-  "Edit ~/.openclaw/openclaw.json safely.":"Editar ~/.clawdbot/clawdbot.json com segurança.",
+  "Edit ~/.openclaw/openclaw.json safely.":"Editar ~/.openclaw/openclaw.json com segurança.",
   "Gateway snapshots, events, and manual RPC calls.":"Instantâneos do gateway, eventos e chamadas RPC manuais.",
   "Live tail of the gateway file logs.":"Acompanhamento ao vivo dos logs de arquivo do gateway."
 }

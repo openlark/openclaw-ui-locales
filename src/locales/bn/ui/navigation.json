@@ -25,7 +25,7 @@
   "Manage skill availability and API key injection.": "স্কিলের প্রাপ্যতা এবং API কী ইনজেকশন পরিচালনা করুন।",
   "Paired devices, capabilities, and command exposure.": "পেয়ার করা ডিভাইস, ক্ষমতা এবং কমান্ড এক্সপোজার।",
   "Direct gateway chat session for quick interventions.": "দ্রুত হস্তক্ষেপের জন্য সরাসরি গেটওয়ে চ্যাট সেশন।",
-  "Edit ~/.openclaw/openclaw.json safely.": "নিরাপদে ~/.clawdbot/clawdbot.json এডিট করুন।",
+  "Edit ~/.openclaw/openclaw.json safely.": "নিরাপদে ~/.openclaw/openclaw.json এডিট করুন।",
   "Gateway snapshots, events, and manual RPC calls.": "গেটওয়ে স্ন্যাপশট, ইভেন্ট এবং ম্যানুয়াল RPC কল।",
   "Live tail of the gateway file logs.": "গেটওয়ে ফাইল লগের লাইভ টেইল।"
 }

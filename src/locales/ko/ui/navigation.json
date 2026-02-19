@@ -25,7 +25,7 @@
   "Manage skill availability and API key injection.": "스킬 가용성 및 API 키 삽입을 관리합니다.",
   "Paired devices, capabilities, and command exposure.": "페어링된 장치, 기능 및 명령 노출을 관리합니다.",
   "Direct gateway chat session for quick interventions.": "신속한 개입을 위한 직접 게이트웨이 채팅 세션입니다.",
-  "Edit ~/.openclaw/openclaw.json safely.": "~/.clawdbot/clawdbot.json을 안전하게 편집합니다.",
+  "Edit ~/.openclaw/openclaw.json safely.": "~/.openclaw/openclaw.json을 안전하게 편집합니다.",
   "Gateway snapshots, events, and manual RPC calls.": "게이트웨이 스냅샷, 이벤트 및 수동 RPC 호출을 제공합니다.",
   "Live tail of the gateway file logs.": "게이트웨이 파일 로그의 실시간 추적을 제공합니다."
 }

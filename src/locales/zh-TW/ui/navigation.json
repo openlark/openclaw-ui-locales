@@ -25,7 +25,7 @@
   "Manage skill availability and API key injection.":"管理技能可用性和API密鑰注入。",
   "Paired devices, capabilities, and command exposure.":"配對設備、功能和命令暴露。",
   "Direct gateway chat session for quick interventions.":"直接網關聊天會話，用於快速干預。",
-  "Edit ~/.openclaw/openclaw.json safely.":"安全編輯 ~/.clawdbot/clawdbot.json。",
+  "Edit ~/.openclaw/openclaw.json safely.":"安全編輯 ~/.openclaw/openclaw.json。",
   "Gateway snapshots, events, and manual RPC calls.":"網關快照、事件和手動RPC調用。",
   "Live tail of the gateway file logs.":"網關文件日誌的實時跟蹤。"
 }

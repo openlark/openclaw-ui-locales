@@ -25,7 +25,7 @@
   "Manage skill availability and API key injection.":"Pamahalaan ang availability ng skill at pag-iniksyon ng API key.",
   "Paired devices, capabilities, and command exposure.":"Naka-pair na device, kakayahan, at exposure ng command.",
   "Direct gateway chat session for quick interventions.":"Direktang gateway chat session para sa mabilisang interbensyon.",
-  "Edit ~/.openclaw/openclaw.json safely.":"Ligtas na i-edit ang ~/.clawdbot/clawdbot.json.",
+  "Edit ~/.openclaw/openclaw.json safely.":"Ligtas na i-edit ang ~/.openclaw/openclaw.json.",
   "Gateway snapshots, events, and manual RPC calls.":"Mga snapshot ng gateway, event, at manual na RPC call.",
   "Live tail of the gateway file logs.":"Live tail ng gateway file logs."
 }

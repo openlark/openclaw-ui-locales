@@ -25,7 +25,7 @@
   "Manage skill availability and API key injection.":"స్కిల్ లభ్యత మరియు API కీ ఇంజెక్షన్‌ను నిర్వహించండి.",
   "Paired devices, capabilities, and command exposure.":"జత చేసిన పరికరాలు, సామర్థ్యాలు మరియు కమాండ్ ఎక్స్‌పోజర్.",
   "Direct gateway chat session for quick interventions.":"శీఘ్ర జోక్యాల కోసం ప్రత్యక్ష గేట్వే చాట్ సెషన్.",
-  "Edit ~/.openclaw/openclaw.json safely.":"~/.clawdbot/clawdbot.jsonను సురక్షితంగా సవరించండి.",
+  "Edit ~/.openclaw/openclaw.json safely.":"~/.openclaw/openclaw.jsonను సురక్షితంగా సవరించండి.",
   "Gateway snapshots, events, and manual RPC calls.":"గేట్వే స్నాప్‌షాట్‌లు, ఈవెంట్‌లు మరియు మాన్యువల్ RPC కాల్‌లు.",
   "Live tail of the gateway file logs.":"గేట్వే ఫైల్ లాగ్‌ల ప్రత్యక్ష టెయిల్."
 }

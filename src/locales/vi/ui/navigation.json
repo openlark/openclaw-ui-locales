@@ -25,7 +25,7 @@
   "Manage skill availability and API key injection.": "Quản lý khả năng khả dụng của kỹ năng và tiêm khóa API.",
   "Paired devices, capabilities, and command exposure.": "Thiết bị đã ghép đôi, khả năng và hiển thị lệnh.",
   "Direct gateway chat session for quick interventions.": "Phiên trò chuyện trực tiếp với cổng để can thiệp nhanh.",
-  "Edit ~/.openclaw/openclaw.json safely.": "Chỉnh sửa ~/.clawdbot/clawdbot.json một cách an toàn.",
+  "Edit ~/.openclaw/openclaw.json safely.": "Chỉnh sửa ~/.openclaw/openclaw.json một cách an toàn.",
   "Gateway snapshots, events, and manual RPC calls.": "Ảnh chụp nhanh cổng, sự kiện và lệnh gọi RPC thủ công.",
   "Live tail of the gateway file logs.": "Xem trực tiếp phần cuối của nhật ký tệp cổng."
 }

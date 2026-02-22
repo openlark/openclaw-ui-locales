@@ -1,0 +1,91 @@
+{
+  ">Nodes<": ">नोड<",
+  "Paired devices and live links.": "युग्मित डिवाइस और लाइव लिंक।",
+  "No nodes found.": "कोई नोड नहीं मिला।",
+
+  ">Devices<": ">डिवाइस<",
+  "Pairing requests \\+ role tokens.": "युग्मन अनुरोध + भूमिका टोकन।",
+  "\"Loading…\" : \"Refresh\"\\}": "\"लोड हो रहा है…\" : \"रीफ़्रेश करें\"}",
+  ">Pending<": ">लंबित<",
+  ">Paired<": ">युग्मित<",
+  "No paired devices.": "कोई युग्मित डिवाइस नहीं।",
+
+  " · requested ": " · अनुरोध किया गया",
+  "   Approve": "   स्वीकृत करें",
+  "   Reject": "  अस्वीकार करें",
+
+  ">Tokens: none<": ">टोकन: कोई नहीं<",
+  "   Rotate": "  घुमाएँ",
+  "   Revoke": "  रद्द करें",
+
+  ">Exec node binding<": ">नोड बाइंडिंग निष्पादित करें<",
+  "Pin agents to a specific node when using <span class=\"mono\">exec host=node</span>.": "<span class=\"mono\">exec host=node</span> का उपयोग करते समय एजेंटों को किसी विशिष्ट नोड पर पिन करें।",
+  "Switch the Config tab to <strong>Form<\/strong> mode to edit bindings here.": "यहां बाइंडिंग संपादित करने के लिए Config टैब को <strong>Form<\/strong> मोड में स्विच करें।",
+  "Load config to edit bindings.": "बाइंडिंग संपादित करने के लिए कॉन्फ़िग लोड करें।",
+  "\"Load config\"": "\"कॉन्फ़िग लोड करें\"",
+  ">Default binding<": ">डिफ़ॉल्ट बाइंडिंग<",
+  "Used when agents do not override a node binding.": "जब एजेंट नोड बाइंडिंग को ओवरराइड नहीं करते हैं तो उपयोग किया जाता है।",
+  ">Any node<": ">कोई भी नोड<",
+  "No nodes with system.run available.": "system.run उपलब्ध वाला कोई नोड नहीं।",
+
+  ">Target<": ">लक्ष्य<",
+  " Gateway edits local approvals; node edits the selected node.": "गेटवे स्थानीय अनुमोदन संपादित करता है; नोड चयनित नोड को संपादित करता है।",
+  
+  ">Host<": ">होस्ट<",
+  ">Security<": ">सुरक्षा<",
+  "\"default agent\"": "\"डिफ़ॉल्ट एजेंट\"",
+  "\"agent\"\\}": "\"एजेंट\"}",
+  "`uses default \\(": "`डिफ़ॉल्ट का उपयोग करता है (",
+  "`Using default \\(": "`डिफ़ॉल्ट का उपयोग कर रहा है (",
+  "`Override \\(": "`ओवरराइड (",
+  " \"any\"\\}": " \"कोई भी\"}",
+  ": `override: ": ": `ओवरराइड:",
+  ">Binding<": ">बाइंडिंग<",
+  "\"paired\" : \"unpaired\"\\}": "\"युग्मित\" : \"अयुग्मित\"}",
+  "\"connected\" : \"offline\"\\}": "\"कनेक्टेड\" : \"ऑफ़लाइन\"}",
+  
+  
+  "\"Deny\"": "\"अस्वीकार करें\"",
+  "\"Allowlist\"": "\"अनुमति सूची\"",
+  "\"Off\"": "\"बंद\"",
+  "\"On miss\"": "\"मिस होने पर\"",
+  "\"Always\"": "\"हमेशा\"",
+
+  ">Exec approvals<": ">निष्पादन अनुमोदन<",
+  "Allowlist and approval policy for \\<span class=\"mono\">exec host=gateway/node\\</span>.": "<span class=\"mono\">exec host=gateway/node</span> के लिए अनुमति सूची और अनुमोदन नीति।",
+  "\"Load approvals\"": "\"अनुमोदन लोड करें\"",
+  "Load exec approvals to edit allowlists.":"अनुमति सूची संपादित करने के लिए निष्पादन अनुमोदन लोड करें।",
+  "Gateway edits local approvals; node edits the selected node.": "गेटवे स्थानीय अनुमोदन संपादित करता है; नोड चयनित नोड को संपादित करता है।",
+
+  ">Gateway<": ">गेटवे<",
+  ">Node<": ">नोड<",
+  ">Select node<": ">नोड चुनें<",
+  "No nodes advertise exec approvals yet.": "अभी तक कोई नोड निष्पादन अनुमोदन का विज्ञापन नहीं करता है।",
+
+  ">Scope<": ">दायरा<",
+  "  Defaults": " डिफ़ॉल्ट",
+
+  "\"Default security mode.\"": "\"डिफ़ॉल्ट सुरक्षा मोड।\"",
+  "`Default: ": "`डिफ़ॉल्ट: ",
+  "  Use default": "  डिफ़ॉल्ट का उपयोग करें",
+  "\"Default prompt policy.\"": "\"डिफ़ॉल्ट प्रॉम्प्ट नीति।\"",
+  ">Ask<": ">पूछें<",
+  ">Ask fallback<": ">फ़ॉलबैक पूछें<",
+  "Applied when the UI prompt is unavailable.": "जब UI प्रॉम्प्ट अनुपलब्ध हो तो लागू किया जाता है।",
+  ">Fallback<": ">फ़ॉलबैक<",
+
+  ">Auto-allow skill CLIs<": ">स्वचालित रूप से कौशल CLI की अनुमति दें<",
+  "Allow skill executables listed by the Gateway.": "गेटवे द्वारा सूचीबद्ध कौशल निष्पादन योग्य की अनुमति दें।",
+  "\"on\" \\: \"off\"\\}": "\"चालू\" : \"बंद\"}",
+  ": `Override \\(": ": `ओवरराइड (",
+
+  
+  ">Allowlist<": ">अनुमति सूची<",
+  "Case-insensitive glob patterns.": "केस-असंवेदनशील ग्लोब पैटर्न।",
+  "  Add pattern": " पैटर्न जोड़ें",
+  ">Pattern<": ">पैटर्न<",
+  "No allowlist entries yet.": "अभी तक कोई अनुमति सूची प्रविष्टि नहीं।",
+  "\"New pattern\"": "\"नया पैटर्न\"",
+  ">Last used: ": ">अंतिम बार उपयोग किया गया:",
+  "  Remove": "  हटाएँ"
+}

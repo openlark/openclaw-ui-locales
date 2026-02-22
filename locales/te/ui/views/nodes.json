@@ -1,0 +1,91 @@
+{
+  ">Nodes<": ">నోడ్‌లు<",
+  "Paired devices and live links.": "జత చేసిన పరికరాలు మరియు ప్రత్యక్ష లింక్‌లు.",
+  "No nodes found.": "నోడ్‌లు ఏవీ కనుగొనబడలేదు.",
+
+  ">Devices<": ">పరికరాలు<",
+  "Pairing requests \\+ role tokens.": "పెయిరింగ్ అభ్యర్థనలు + రోల్ టోకెన్‌లు.",
+  "\"Loading…\" : \"Refresh\"\\}": "\"లోడ్ అవుతోంది…\" : \"రిఫ్రెష్\"}",
+  ">Pending<": ">పెండింగ్‌లో ఉంది<",
+  ">Paired<": ">జత చేయబడింది<",
+  "No paired devices.": "జత చేసిన పరికరాలు లేవు.",
+
+  " · requested ": " · అభ్యర్థించబడింది ",
+  "   Approve": "   ఆమోదించండి",
+  "   Reject": "  తిరస్కరించండి",
+
+  ">Tokens: none<": ">టోకెన్‌లు: లేవు<",
+  "   Rotate": "   రొటేట్ చేయండి",
+  "   Revoke": "   రద్దు చేయండి",
+
+  ">Exec node binding<": ">Exec నోడ్ బైండింగ్<",
+  "Pin agents to a specific node when using <span class=\"mono\">exec host=node</span>.": "<span class=\"mono\">exec host=node</span> ఉపయోగిస్తున్నప్పుడు ఏజెంట్‌లను నిర్దిష్ట నోడ్‌కు పిన్ చేయండి.",
+  "Switch the Config tab to <strong>Form<\/strong> mode to edit bindings here.": "ఇక్కడ బైండింగ్‌లను సవరించడానికి కాన్ఫిగ్ ట్యాబ్‌ను <strong>ఫారమ్<\/strong> మోడ్‌కు మార్చండి.",
+  "Load config to edit bindings.": "బైండింగ్‌లను సవరించడానికి కాన్ఫిగ్‌ను లోడ్ చేయండి.",
+  "\"Load config\"": "\"కాన్ఫిగ్‌ను లోడ్ చేయండి\"",
+  ">Default binding<": ">డిఫాల్ట్ బైండింగ్<",
+  "Used when agents do not override a node binding.": "ఏజెంట్‌లు నోడ్ బైండింగ్‌ను ఓవర్‌రైడ్ చేయనప్పుడు ఉపయోగించబడుతుంది.",
+  ">Any node<": ">ఏదైనా నోడ్<",
+  "No nodes with system.run available.": "system.run అందుబాటులో ఉన్న నోడ్‌లు లేవు.",
+
+  ">Target<": ">లక్ష్యం<",
+  " Gateway edits local approvals; node edits the selected node.": " గేట్‌వే స్థానిక అనుమతులను సవరిస్తుంది; నోడ్ ఎంచుకున్న నోడ్‌ను సవరిస్తుంది.",
+  
+  ">Host<": ">హోస్ట్<",
+  ">Security<": ">భద్రత<",
+  "\"default agent\"": "\"డిఫాల్ట్ ఏజెంట్\"",
+  "\"agent\"\\}": "\"ఏజెంట్\"}",
+  "`uses default \\(": "`డిఫాల్ట్ ఉపయోగిస్తుంది (",
+  "`Using default \\(": "`డిఫాల్ట్ ఉపయోగిస్తోంది (",
+  "`Override \\(": "`ఓవర్‌రైడ్ (",
+  " \"any\"\\}": " \"ఏదైనా\"}",
+  ": `override: ": ": `ఓవర్‌రైడ్: ",
+  ">Binding<": ">బైండింగ్<",
+  "\"paired\" : \"unpaired\"\\}": "\"జత చేయబడింది\" : \"జత చేయబడలేదు\"}",
+  "\"connected\" : \"offline\"\\}": "\"కనెక్ట్ చేయబడింది\" : \"ఆఫ్‌లైన్\"}",
+  
+  
+  "\"Deny\"": "\"తిరస్కరించు\"",
+  "\"Allowlist\"": "\"అనుమతి జాబితా\"",
+  "\"Off\"": "\"ఆఫ్\"",
+  "\"On miss\"": "\"మిస్ అయినప్పుడు\"",
+  "\"Always\"": "\"ఎల్లప్పుడూ\"",
+
+  ">Exec approvals<": ">Exec అనుమతులు<",
+  "Allowlist and approval policy for \\<span class=\"mono\">exec host=gateway/node\\</span>.": "<span class=\"mono\">exec host=gateway/node</span> కోసం అనుమతి జాబితా మరియు ఆమోద విధానం.",
+  "\"Load approvals\"": "\"అనుమతులను లోడ్ చేయండి\"",
+  "Load exec approvals to edit allowlists.":"అనుమతి జాబితాలను సవరించడానికి exec అనుమతులను లోడ్ చేయండి.",
+  "Gateway edits local approvals; node edits the selected node.": "గేట్‌వే స్థానిక అనుమతులను సవరిస్తుంది; నోడ్ ఎంచుకున్న నోడ్‌ను సవరిస్తుంది.",
+
+  ">Gateway<": ">గేట్‌వే<",
+  ">Node<": ">నోడ్<",
+  ">Select node<": ">నోడ్‌ను ఎంచుకోండి<",
+  "No nodes advertise exec approvals yet.": "ఇంకా ఏ నోడ్‌లు exec అనుమతులను ప్రకటించలేదు.",
+
+  ">Scope<": ">పరిధి<",
+  "  Defaults": "  డిఫాల్ట్‌లు",
+
+  "\"Default security mode.\"": "\"డిఫాల్ట్ భద్రతా మోడ్.\"",
+  "`Default: ": "`డిఫాల్ట్: ",
+  "  Use default": "  డిఫాల్ట్ ఉపయోగించండి",
+  "\"Default prompt policy.\"": "\"డిఫాల్ట్ ప్రాంప్ట్ విధానం.\"",
+  ">Ask<": ">అడగండి<",
+  ">Ask fallback<": ">ఫాల్‌బ్యాక్ అడగండి<",
+  "Applied when the UI prompt is unavailable.": "UI ప్రాంప్ట్ అందుబాటులో లేనప్పుడు వర్తించబడుతుంది.",
+  ">Fallback<": ">ఫాల్‌బ్యాక్<",
+
+  ">Auto-allow skill CLIs<": ">స్వయంచాలకంగా నైపుణ్య CLIలను అనుమతించు<",
+  "Allow skill executables listed by the Gateway.": "గేట్‌వే జాబితా చేసిన నైపుణ్య ఎగ్జిక్యూటబుల్‌లను అనుమతించండి.",
+  "\"on\" \\: \"off\"\\}": "\"ఆన్\" : \"ఆఫ్\"}",
+  ": `Override \\(": ": `ఓవర్‌రైడ్ (",
+
+  
+  ">Allowlist<": ">అనుమతి జాబితా<",
+  "Case-insensitive glob patterns.": "కేస్-ఇన్‌సెన్సిటివ్ గ్లోబ్ ప్యాటర్న్‌లు.",
+  "  Add pattern": "  నమూనాను జోడించండి",
+  ">Pattern<": ">నమూనా<",
+  "No allowlist entries yet.": "ఇంకా అనుమతి జాబితా ఎంట్రీలు లేవు.",
+  "\"New pattern\"": "\"కొత్త నమూనా\"",
+  ">Last used: ": ">చివరిగా ఉపయోగించినది: ",
+  "  Remove": "  తీసివేయండి"
+}

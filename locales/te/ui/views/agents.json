@@ -1,0 +1,139 @@
+{
+  ">No configured models<": ">కాన్ఫిగర్ చేసిన మోడల్‌లు లేవు<",
+  "\\} configured.<": "} కాన్ఫిగర్ చేయబడింది.<",
+  "No agents found.": "ఏజెంట్‌లు ఏవీ కనుగొనబడలేదు.",
+  ">Select an agent<": ">ఏజెంట్‌ను ఎంచుకోండి<",
+  "Pick an agent to inspect its workspace and tools.": "దాని వర్క్‌స్పేస్ మరియు సాధనాలను తనిఖీ చేయడానికి ఏజెంట్‌ను ఎంచుకోండి.",
+  "Agent workspace and routing.": "ఏజెంట్ వర్క్‌స్పేస్ మరియు రూటింగ్.",
+  "\"Tools\"": "\"సాధనాలు\"",
+
+  ">Overview<": ">అవలోకనం<",
+  "Workspace paths and identity metadata.": "వర్క్‌స్పేస్ పాత్‌లు మరియు గుర్తింపు మెటాడేటా.",
+  ">Workspace<": ">వర్క్‌స్పేస్<",
+  ">Primary Model<": ">ప్రాథమిక మోడల్<",
+  ">Identity Name<": ">గుర్తింపు పేరు<",
+  ">Default<": ">డిఫాల్ట్<",
+  ">Identity Emoji<": ">గుర్తింపు ఎమోజీ<",
+  ">Skills Filter<": ">నైపుణ్యాల ఫిల్టర్<",
+  ">Filter<": ">ఫిల్టర్<",
+  ">Model Selection<": ">మోడల్ ఎంపిక<",
+  ">Primary model": ">ప్రాథమిక మోడల్",
+  " \\(default\\)": " (డిఫాల్ట్)",
+  "Fallbacks \\(comma-separated\\)": "ఫాల్‌బ్యాక్‌లు (కామా-వేరు చేయబడినవి)",
+  "Inherit default \\(": "డిఫాల్ట్ నుండి వారసత్వంగా పొందండి (",
+  "\"Inherit default\"": "\"డిఫాల్ట్ నుండి వారసత్వంగా పొందండి\"",
+  ">Fallbacks (comma-separated)<": ">ఫాల్‌బ్యాక్‌లు (కామా-వేరు చేయబడినవి)<",
+  "\"Save\"": "\"సేవ్ చేయండి\"",
+  "\"yes\"": "\"అవును\"",
+  "\"no\"": "\"కాదు\"",
+  
+  "\"Workspace, identity, and model configuration.\"": "\"వర్క్‌స్పేస్, గుర్తింపు మరియు మోడల్ కాన్ఫిగరేషన్.\"",
+  "Load channels to see live status.": "ప్రత్యక్ష స్థితిని చూడటానికి ఛానెల్‌లను లోడ్ చేయండి.",
+  "Gateway-wide channel status snapshot.": "గేట్‌వే-వ్యాప్త ఛానెల్ స్థితి స్నాప్‌షాట్.",
+  " Last refresh:": " చివరి రిఫ్రెష్:",
+  "No channels found.": "ఛానెల్‌లు ఏవీ కనుగొనబడలేదు.",
+  "\\} enabled": "} ప్రారంభించబడింది",
+  "Workspace and scheduling targets.": "వర్క్‌స్పేస్ మరియు షెడ్యూలింగ్ లక్ష్యాలు.",
+  "Gateway cron status.": "గేట్‌వే క్రాన్ స్థితి.",
+  ">Next wake<": ">తదుపరి మేల్కొలుపు<",
+  ">Agent Cron Jobs<": ">ఏజెంట్ క్రాన్ జాబ్‌లు<",
+  "Scheduled jobs targeting this agent.": "ఈ ఏజెంట్‌ను లక్ష్యంగా చేసుకున్న షెడ్యూల్ చేసిన జాబ్‌లు.",
+  "No jobs assigned.": "జాబ్‌లు ఏవీ కేటాయించబడలేదు.",
+  ">Core Files<": ">కోర్ ఫైల్‌లు<",
+  "Bootstrap persona, identity, and tool guidance.": "బూట్‌స్ట్రాప్ వ్యక్తిత్వం, గుర్తింపు మరియు సాధన మార్గదర్శకత్వం.",
+  ">Workspace:": ">వర్క్‌స్పేస్:",
+  "  Load the agent workspace files to edit core instructions.": "  కోర్ సూచనలను సవరించడానికి ఏజెంట్ వర్క్‌స్పేస్ ఫైల్‌లను లోడ్ చేయండి.",
+  "No files found.": "ఫైల్‌లు ఏవీ కనుగొనబడలేదు.",
+  "Select a file to edit.": "సవరించడానికి ఫైల్‌ను ఎంచుకోండి.",
+  "  This file is missing. Saving will create it in the agent workspace.": "  ఈ ఫైల్ లేదు. సేవ్ చేయడం వలన అది ఏజెంట్ వర్క్‌స్పేస్‌లో సృష్టించబడుతుంది.",
+  ">Content<": ">కంటెంట్<",
+  ">missing<": ">లేదు<",  
+
+  
+  "\"Files\"": "\"ఫైల్‌లు\"",
+  "\"Read file contents\"": "\"ఫైల్ కంటెంట్‌లను చదవండి\"",
+  "\"Create or overwrite files\"": "\"ఫైల్‌లను సృష్టించండి లేదా తిరిగి వ్రాయండి\"",
+  "\"Make precise edits\"": "\"ఖచ్చితమైన సవరణలు చేయండి\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"ప్యాచ్ ఫైల్‌లు (OpenAI)\"",
+
+  "\"Runtime\"": "\"రన్‌టైమ్\"",
+  "\"Run shell commands\"": "\"షెల్ కమాండ్‌లను అమలు చేయండి\"",
+  "\"Manage background processes\"": "\"బ్యాక్‌గ్రౌండ్ ప్రాసెస్‌లను నిర్వహించండి\"",
+
+  "\"Web\"": "\"వెబ్\"",
+  "\"Search the web\"": "\"వెబ్‌లో శోధించండి\"",
+  "\"Fetch web content\"": "\"వెబ్ కంటెంట్‌ను పొందండి\"",
+  
+  "\"Memory\"": "\"మెమరీ\"",
+  "\"Semantic search\"": "\"సెమాంటిక్ శోధన\"",
+  "\"Read memory files\"": "\"మెమరీ ఫైల్‌లను చదవండి\"",
+  "\"List sessions\"": "\"సెషన్‌లను జాబితా చేయండి\"",
+
+  "\"Session history\"": "\"సెషన్ చరిత్ర\"",
+  "\"Send to session": "\"సెషన్‌కు పంపండి",
+  "\"Spawn sub-agent\"": "\"ఉప-ఏజెంట్‌ను సృష్టించండి\"",
+  "\"Session status\"": "\"సెషన్ స్థితి\"",
+
+  "\"UI\"": "\"UI\"",
+  "\"Control web browser\"": "\"వెబ్ బ్రౌజర్‌ను నియంత్రించండి\"",
+  "\"Control canvases\"": "\"కాన్వాస్‌లను నియంత్రించండి\"",
+
+  "\"Send messages\"": "\"సందేశాలు పంపండి\"",
+  
+  "\"Automation\"": "\"ఆటోమేషన్\"",
+  "\"Schedule tasks\"": "\"పనులను షెడ్యూల్ చేయండి\"",
+
+  "\"Gateway control\"": "\"గేట్‌వే నియంత్రణ\"",
+  "\"Nodes \\+ devices\"": "\"నోడ్‌లు + పరికరాలు\"",
+  "\"List agents\"": "\"ఏజెంట్‌లను జాబితా చేయండి\"",
+  
+  "\"Media\"": "\"మీడియా\"",
+  "\"Image understanding\"": "\"చిత్ర అవగాహన\"",
+
+  "\"Minimal\"": "\"కనిష్ట\"",
+  "\"Coding\"": "\"కోడింగ్\"",
+  "\"Messaging\"": "\"మెసేజింగ్\"",
+  "\"Full\"": "\"పూర్తి\"",
+  
+  "\\} selected": "} ఎంచుకోబడింది",
+  "\"all skills\"": "\"అన్ని నైపుణ్యాలు\"",
+  
+
+  ">Agent Context<": ">ఏజెంట్ సందర్భం<",
+  "\"no accounts\"": "\"ఖాతాలు లేవు\"",
+  " connected`": " కనెక్ట్ చేయబడింది`",
+  " configured`": " కాన్ఫిగర్ చేయబడింది`",
+  "\"not configured\"": "\"కాన్ఫిగర్ చేయబడలేదు\"",
+
+  "\"agent override\"": "\"ఏజెంట్ ఓవర్‌రైడ్\"",
+  "\"global default\"": "\"గ్లోబల్ డిఫాల్ట్\"",
+  "\"default\"": "\"డిఫాల్ట్\"",
+
+  ">Tool Access<": ">సాధన ప్రాప్యత<",
+  "  Profile \\+ per-tool overrides for this agent.": "  ఈ ఏజెంట్ కోసం ప్రొఫైల్ + ప్రతి-సాధన ఓవర్‌రైడ్‌లు.",
+  "> enabled.": "> ప్రారంభించబడింది.",
+
+  "  Use All": "  అన్నీ ఉపయోగించండి",
+  "  Enable All": "  అన్నీ ప్రారంభించండి",
+  "  Disable All": "  అన్నీ నిలిపివేయండి",
+  "  Reload Config": "  కాన్ఫిగ్‌ను రీలోడ్ చేయండి",
+
+  "  Reload": "  రీలోడ్ చేయండి",
+  
+  "Load the gateway config to adjust tool profiles.": "సాధన ప్రొఫైల్‌లను సర్దుబాటు చేయడానికి గేట్‌వే కాన్ఫిగ్‌ను లోడ్ చేయండి.",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "ఈ ఏజెంట్ కాన్ఫిగ్‌లో స్పష్టమైన అనుమతి జాబితాను ఉపయోగిస్తోంది. సాధన ఓవర్‌రైడ్‌లు కాన్ఫిగ్ ట్యాబ్‌లో నిర్వహించబడతాయి.",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "గ్లోబల్ tools.allow సెట్ చేయబడింది. ఏజెంట్ ఓవర్‌రైడ్‌లు గ్లోబల్‌గా బ్లాక్ చేయబడిన సాధనాలను ప్రారంభించలేవు.",
+
+  ">Profile<": ">ప్రొఫైల్<",
+  ">Source<": ">మూలం<",
+  ">unsaved<": ">సేవ్ చేయనిది<",
+
+  ">Quick Presets<": ">శీఘ్ర ప్రీసెట్‌లు<",
+  "  Inherit": "  వారసత్వంగా పొందండి",
+
+  "Per-agent skill allowlist and workspace skills.": "ప్రతి-ఏజెంట్ నైపుణ్య అనుమతి జాబితా మరియు వర్క్‌స్పేస్ నైపుణ్యాలు.",
+  "Load the gateway config to set per-agent skills.": "ప్రతి-ఏజెంట్ నైపుణ్యాలను సెట్ చేయడానికి గేట్‌వే కాన్ఫిగ్‌ను లోడ్ చేయండి.",
+  "This agent uses a custom skill allowlist.": "ఈ ఏజెంట్ అనుకూల నైపుణ్య అనుమతి జాబితాను ఉపయోగిస్తుంది.",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "అన్ని నైపుణ్యాలు ప్రారంభించబడ్డాయి. ఏదైనా నైపుణ్యాన్ని నిలిపివేయడం వలన ప్రతి-ఏజెంట్ అనుమతి జాబితా సృష్టించబడుతుంది.",
+  "Load skills for this agent to view workspace-specific entries.": "వర్క్‌స్పేస్-నిర్దిష్ట ఎంట్రీలను వీక్షించడానికి ఈ ఏజెంట్ కోసం నైపుణ్యాలను లోడ్ చేయండి."
+}

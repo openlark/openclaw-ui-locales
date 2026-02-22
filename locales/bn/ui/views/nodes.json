@@ -1,0 +1,91 @@
+{
+  ">Nodes<": ">নোড<",
+  "Paired devices and live links.": "পেয়ার করা ডিভাইস এবং লাইভ লিঙ্ক।",
+  "No nodes found.": "কোন নোড পাওয়া যায়নি।",
+
+  ">Devices<": ">ডিভাইস<",
+  "Pairing requests \\+ role tokens.": "পেয়ারিং অনুরোধ + ভূমিকা টোকেন।",
+  "\"Loading…\" : \"Refresh\"\\}": "\"লোড হচ্ছে…\" : \"রিফ্রেশ\"}",
+  ">Pending<": ">মুলতুবি<",
+  ">Paired<": ">পেয়ার করা<",
+  "No paired devices.": "কোন পেয়ার করা ডিভাইস নেই।",
+
+  " · requested ": " · অনুরোধ করা হয়েছে",
+  "   Approve": "   অনুমোদন করুন",
+  "   Reject": "  প্রত্যাখ্যান করুন",
+
+  ">Tokens: none<": ">টোকেন: নেই<",
+  "   Rotate": "  ঘোরান",
+  "   Revoke": "  প্রত্যাহার করুন",
+
+  ">Exec node binding<": ">Exec নোড বাইন্ডিং<",
+  "Pin agents to a specific node when using <span class=\"mono\">exec host=node</span>.": "<span class=\"mono\">exec host=node</span> ব্যবহার করার সময় এজেন্টগুলিকে একটি নির্দিষ্ট নোডে পিন করুন।",
+  "Switch the Config tab to <strong>Form<\/strong> mode to edit bindings here.": "এখানে বাইন্ডিং সম্পাদনা করতে কনফিগ ট্যাবটি <strong>ফর্ম<\/strong> মোডে স্যুইচ করুন।",
+  "Load config to edit bindings.": "বাইন্ডিং সম্পাদনা করতে কনফিগ লোড করুন।",
+  "\"Load config\"": "\"কনফিগ লোড করুন\"",
+  ">Default binding<": ">ডিফল্ট বাইন্ডিং<",
+  "Used when agents do not override a node binding.": "যখন এজেন্টরা একটি নোড বাইন্ডিং ওভাররাইড করে না তখন ব্যবহৃত হয়।",
+  ">Any node<": ">যেকোনো নোড<",
+  "No nodes with system.run available.": "system.run উপলব্ধ এমন কোন নোড নেই।",
+
+  ">Target<": ">লক্ষ্য<",
+  " Gateway edits local approvals; node edits the selected node.": "গেটওয়ে স্থানীয় অনুমোদন সম্পাদনা করে; নোড নির্বাচিত নোড সম্পাদনা করে।",
+  
+  ">Host<": ">হোস্ট<",
+  ">Security<": ">নিরাপত্তা<",
+  "\"default agent\"": "\"ডিফল্ট এজেন্ট\"",
+  "\"agent\"\\}": "\"এজেন্ট\"}",
+  "`uses default \\(": "`ডিফল্ট ব্যবহার করে (",
+  "`Using default \\(": "`ডিফল্ট ব্যবহার করা হচ্ছে (",
+  "`Override \\(": "`ওভাররাইড (",
+  " \"any\"\\}": " \"যেকোনো\"}",
+  ": `override: ": ": `ওভাররাইড:",
+  ">Binding<": ">বাইন্ডিং<",
+  "\"paired\" : \"unpaired\"\\}": "\"পেয়ার করা\" : \"অপেয়ার করা\"}",
+  "\"connected\" : \"offline\"\\}": "\"সংযুক্ত\" : \"অফলাইন\"}",
+  
+  
+  "\"Deny\"": "\"অস্বীকার করুন\"",
+  "\"Allowlist\"": "\"অনুমোদিত তালিকা\"",
+  "\"Off\"": "\"বন্ধ\"",
+  "\"On miss\"": "\"মিস হলে\"",
+  "\"Always\"": "\"সর্বদা\"",
+
+  ">Exec approvals<": ">Exec অনুমোদন<",
+  "Allowlist and approval policy for \\<span class=\"mono\">exec host=gateway/node\\</span>.": "<span class=\"mono\">exec host=gateway/node</span> এর জন্য অনুমোদিত তালিকা এবং অনুমোদন নীতি।",
+  "\"Load approvals\"": "\"অনুমোদন লোড করুন\"",
+  "Load exec approvals to edit allowlists.":"অনুমোদিত তালিকা সম্পাদনা করতে exec অনুমোদন লোড করুন।",
+  "Gateway edits local approvals; node edits the selected node.": "গেটওয়ে স্থানীয় অনুমোদন সম্পাদনা করে; নোড নির্বাচিত নোড সম্পাদনা করে।",
+
+  ">Gateway<": ">গেটওয়ে<",
+  ">Node<": ">নোড<",
+  ">Select node<": ">নোড নির্বাচন করুন<",
+  "No nodes advertise exec approvals yet.": "এখনো কোনো নোড exec অনুমোদন বিজ্ঞাপন দেয় না।",
+
+  ">Scope<": ">সুযোগ<",
+  "  Defaults": " ডিফল্ট",
+
+  "\"Default security mode.\"": "\"ডিফল্ট নিরাপত্তা মোড।\"",
+  "`Default: ": "`ডিফল্ট: ",
+  "  Use default": "  ডিফল্ট ব্যবহার করুন",
+  "\"Default prompt policy.\"": "\"ডিফল্ট প্রম্পট নীতি।\"",
+  ">Ask<": ">জিজ্ঞাসা করুন<",
+  ">Ask fallback<": ">ফলব্যাক জিজ্ঞাসা করুন<",
+  "Applied when the UI prompt is unavailable.": "UI প্রম্পট অনুপলব্ধ হলে প্রয়োগ করা হয়।",
+  ">Fallback<": ">ফলব্যাক<",
+
+  ">Auto-allow skill CLIs<": ">স্বয়ং-অনুমোদন দক্ষতা CLIs<",
+  "Allow skill executables listed by the Gateway.": "গেটওয়ে দ্বারা তালিকাভুক্ত দক্ষতা এক্সিকিউটেবল অনুমতি দিন।",
+  "\"on\" \\: \"off\"\\}": "\"চালু\" : \"বন্ধ\"}",
+  ": `Override \\(": ": `ওভাররাইড (",
+
+  
+  ">Allowlist<": ">অনুমোদিত তালিকা<",
+  "Case-insensitive glob patterns.": "কেস-অসংবেদনশীল গ্লোব প্যাটার্ন।",
+  "  Add pattern": " প্যাটার্ন যোগ করুন",
+  ">Pattern<": ">প্যাটার্ন<",
+  "No allowlist entries yet.": "এখনো কোনো অনুমোদিত তালিকা এন্ট্রি নেই।",
+  "\"New pattern\"": "\"নতুন প্যাটার্ন\"",
+  ">Last used: ": ">শেষ ব্যবহৃত:",
+  "  Remove": "  সরান"
+}

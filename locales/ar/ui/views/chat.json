@@ -1,0 +1,23 @@
+{
+  "Compacting context...": "جارٍ ضغط السياق...",
+  "Context compacted": "تم ضغط السياق",
+  "Attachment preview": "معاينة المرفق",
+  "Remove attachment": "إزالة المرفق",
+  "Add a message or paste more images...": "أضف رسالة أو الصق المزيد من الصور...",
+  "Message \\(↩ to send, Shift\\+↩ for line breaks, paste images\\)": "الرسالة (↩ للإرسال، Shift+↩ للأسطر الجديدة، الصق الصور)",
+  "Connect to the gateway to start chatting…": "اتصل بالبوابة لبدء الدردشة…",
+  "Loading chat…": "جارٍ تحميل الدردشة…",
+  "Exit focus mode": "الخروج من وضع التركيز",
+  ">Queued ": ">في قائمة الانتظار ",
+  "Image \\(": "صورة (",
+  "Remove queued message": "إزالة الرسالة من قائمة الانتظار",
+  "New messages ": "رسائل جديدة ",
+  ">Message<": ">الرسالة<",
+  "\"Stop\"": "\"إيقاف\"",
+  "New session": "جلسة جديدة",
+  "\"Queue\"": "\"قائمة الانتظار\"",
+  "\"Send\"": "\"إرسال\"",
+  "Showing last ": "عرض آخر ",
+  "\\} messages": "} رسالة",
+  "\\} hidden": "} مخفي"
+}

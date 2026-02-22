@@ -1,0 +1,21 @@
+{
+  "Active session keys and per-session overrides.": "مفاتيح الجلسة النشطة والتجاوزات لكل جلسة.",
+  "Active within \\(minutes\\)": "نشط خلال (دقائق)",
+  ">Include global<": ">تضمين العامة<",
+  ">Include unknown<": ">تضمين غير المعروفة<",
+  "No sessions found.": "لم يتم العثور على جلسات.",
+  "\"\\(optional\\)\"": "\"(اختياري)\"",
+  "\\((multiple)\\)": "(متعدد)",
+  "  Delete": "  حذف",
+  ">Limit<": ">الحد<",
+  "`Store: ": "`تخزين: ",
+  ">Key<": ">المفتاح<",
+  ">Label<": ">التسمية<",
+  ">Kind<": ">النوع<",
+  ">Updated<": ">تم التحديث<",
+  ">Tokens<": ">الرموز<",
+  ">Thinking<": ">التفكير<",
+  ">Verbose<": ">مفصل<",
+  ">Reasoning<": ">الاستدلال<",
+  ">Actions<": ">الإجراءات<"
+}

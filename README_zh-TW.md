@@ -24,19 +24,23 @@
 支援的國家語言如下：
 
 ```
-簡體中文        - zh-CN
-繁體中文        - zh-TW
-日語            - ja
-韓語            - ko
-法語            - fr
-德語            - de
-義大利語        - it
-葡萄牙語        - pt
-西班牙語        - es
-越南語          - vi
-菲律賓語        - fi
-泰盧固語        - te
-印地語          - hi
+简体中文 (Chinese Simplified)                             zh-CN 
+繁體中文 (Chinese Traditional)                            zh-TW
+English (English 英语)                                    en
+日本語 (Japanese 日语)                                     ja
+한국어 (Korean 韩语)                                       ko
+Français (French 法语)                                    fr
+Deutsch (German 德语)                                     de 
+Italiano(Italian 意大利语)                                 it
+Português (Portuguese 葡萄牙语)                            pt
+Português Brazilian (Portuguese Brazilian 巴西葡萄牙语)     pt-BR 
+Español (Spanish 西班牙语)                                  es
+Tiếng Việt (Vietnamese 越南语)                              vi
+Filipino(Filipino 菲律宾语)                                 fi
+বাংলা (Bangla 孟加拉语)                                      bn
+ప్రామాణిక (Telugu 泰卢固语)                                   te 
+तेलुगु (Hindi 印地语)                                          hi
+العربية (Arabic 阿拉伯语)                                   ar
 ```
 
 ## 安裝

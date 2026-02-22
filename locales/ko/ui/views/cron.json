@@ -1,6 +1,6 @@
 {
   ">Scheduler<": ">스케줄러<",
-  "Gateway-owned cron scheduler status.": "게이트웨이 소유 cron 스케줄러 상태.",
+  "Gateway-owned cron scheduler status.": "게이트웨이 소유 크론 스케줄러 상태.",
   ">Enabled<": ">활성화됨<",
   "\"Refreshing…\"": "\"새로고침 중…\"",
   ">New Job<": ">새 작업<",
@@ -11,7 +11,7 @@
   ">Schedule<": ">일정<",
   ">Every<": ">매<",
   ">At<": ">시간<",
-  ">Cron<": ">Cron<",
+  ">Cron<": ">정기 작업<",
 
   ">Main<": ">메인<",
   ">Isolated<": ">격리됨<",

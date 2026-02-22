@@ -1,0 +1,91 @@
+{
+  "Channel health": "Salute del canale",
+  "Channel status snapshots from the gateway.": "Snapshot dello stato del canale dal gateway.",
+  "No snapshot yet.": "Ancora nessuno snapshot.",
+  "Channel status and configuration.": "Stato e configurazione del canale.",
+  "\"Yes\"": "\"Sì\"",
+  "\"Active\"": "\"Attivo\"",
+  "\"No\"": "\"No\"",
+  ">Running<": ">In esecuzione<",
+  ">Connected<": ">Connesso<",
+
+  
+  "Schema unavailable. Use Raw.": "Schema non disponibile. Usa Raw.",
+  "Channel config schema unavailable.": "Schema configurazione canale non disponibile.",
+  "Loading config schema…": "Caricamento schema configurazione…",
+
+  ">Configured<": ">Configurato<",
+  ">Linked<": ">Collegato<",
+  ">Last start<": ">Ultimo avvio<",
+  ">Last probe<": ">Ultimo probe<",
+  ">Last connect<": ">Ultima connessione<",
+  ">Last message<": ">Ultimo messaggio<",
+  ">Last inbound<": ">Ultimo in entrata<",
+  ">Auth age<": ">Età autenticazione<",
+  ">Mode<": ">Modalità<",
+  ">Credential<": ">Credenziale<",
+  ">Public Key<": ">Chiave Pubblica<",
+  ">Audience<": ">Destinatari<",
+  ">Profile<": ">Profilo<",
+
+  "No profile set. Click \"Edit Profile\" to add your name, bio, and avatar.": "Nessun profilo impostato. Clicca \"Modifica Profilo\" per aggiungere nome, biografia e avatar.",
+  "\"Saving…\"": "\"Salvataggio…\"",
+  "\"Save\"": "\"Salva\"",
+  "  probe": "  probe",
+  
+  "  Probe": "  Probe",
+  "\"ok\" \\:": "\"ok\" :",
+  "\"failed\"": "\"fallito\"",
+  
+  "Decentralized DMs via Nostr relays \\(NIP-04\\).": "DM decentralizzati tramite relay Nostr (NIP-04).",
+
+
+  "Chat API webhook status and channel configuration.": "Stato webhook API Chat e configurazione canale.",
+  
+  "macOS bridge status and channel configuration.": "Stato bridge macOS e configurazione canale.",
+
+  
+  ">Edit Profile<": ">Modifica Profilo<",
+  ">Account: ": ">Account: ",
+  
+  "\"Username\"": "\"Nome utente\"",
+  "\"Short username \\(": "\"Nome utente breve (",
+  "\"Display Name\"": "\"Nome visualizzato\"",
+  "Your full display name": "Il tuo nome visualizzato completo",
+  "\"Bio\"": "\"Biografia\"",
+  "Tell people about yourself...": "Parla di te alle persone...",
+  "\"Avatar URL\"": "\"URL Avatar\"",
+  "A brief bio or description": "Una breve biografia o descrizione",
+  "\"Banner URL\"": "\"URL Banner\"",
+  "HTTPS URL to your profile picture": " URL HTTPS della tua immagine profilo",
+  "HTTPS URL to a banner image": "URL HTTPS di un'immagine banner",
+  "\"Website\"": "\"Sito web\"",
+  "Your personal website": "Il tuo sito web personale",
+  "\"NIP-05 Identifier\"": "\"Identificatore NIP-05\"",
+  "\"Verifiable identifier ": "\"Identificatore verificabile ",
+  "\"Lightning Address\"": "\"Indirizzo Lightning\"",
+  "\"Lightning address for tips ": "\"Indirizzo Lightning per mance ",
+  "\"Saving...\"": "\"Salvataggio...\"",
+  "Save & Publish": "Salva e Pubblica",
+  "\"Importing...\"": "\"Importazione...\"",
+  "\"Import from Relays\"": "\"Importa da Relay\"",
+  "\"Hide Advanced\"": "\"Nascondi Avanzate\"",
+  "\"Show Advanced\"": "\"Mostra Avanzate\"",
+  "  You have unsaved changes": "  Hai modifiche non salvate",
+
+  ">Display Name<": ">Nome Visualizzato<",
+  ">About<": ">Informazioni<",
+
+  ">Accounts ": ">Account ",
+
+  
+  "signal-cli status and channel configuration.": "Stato signal-cli e configurazione canale.",
+  ">Base URL<": ">URL Base<",
+
+  
+  "Socket mode status and channel configuration.": "Stato modalità socket e configurazione canale.",
+  
+  "Bot status and channel configuration.": "Stato bot e configurazione canale.",
+  
+  "Link WhatsApp Web and monitor connection health.": "Collega WhatsApp Web e monitora lo stato della connessione."
+}

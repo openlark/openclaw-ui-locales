@@ -28,6 +28,6 @@
   "Prefer serve mode to keep the gateway on loopback with tailnet auth.": "tailnet 인증으로 게이트웨이를 루프백에 유지하려면 서브 모드를 선호하세요.",
   "Session hygiene": "세션 위생",
   "Use /new or sessions.patch to reset context.": "/new 또는 sessions.patch를 사용하여 컨텍스트를 재설정하세요.",
-  "Cron reminders": "Cron 알림",
+  "Cron reminders": "크론 알림",
   "Use isolated sessions for recurring runs.": "반복 실행에는 격리된 세션을 사용하세요."
 }

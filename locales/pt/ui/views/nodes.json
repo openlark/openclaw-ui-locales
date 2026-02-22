@@ -1,0 +1,91 @@
+{
+  ">Nodes<": ">Nós<",
+  "Paired devices and live links.": "Dispositivos pareados e links ativos.",
+  "No nodes found.": "Nenhum nó encontrado.",
+
+  ">Devices<": ">Dispositivos<",
+  "Pairing requests \\+ role tokens.": "Solicitações de pareamento + tokens de função.",
+  "\"Loading…\" : \"Refresh\"\\}": "\"Carregando…\" : \"Atualizar\"}",
+  ">Pending<": ">Pendentes<",
+  ">Paired<": ">Pareados<",
+  "No paired devices.": "Nenhum dispositivo pareado.",
+
+  " · requested ": " · solicitado",
+  "   Approve": "   Aprovar",
+  "   Reject": "   Rejeitar",
+
+  ">Tokens: none<": ">Tokens: nenhum<",
+  "   Rotate": "   Rotacionar",
+  "   Revoke": "   Revogar",
+
+  ">Exec node binding<": ">Binding do nó Exec<",
+  "Pin agents to a specific node when using <span class=\"mono\">exec host=node</span>.": "Fixe agentes a um nó específico ao usar <span class=\"mono\">exec host=node</span>.",
+  "Switch the Config tab to <strong>Form<\/strong> mode to edit bindings here.": "Mude a guia Config para o modo <strong>Formulário<\/strong> para editar bindings aqui.",
+  "Load config to edit bindings.": "Carregue a configuração para editar bindings.",
+  "\"Load config\"": "\"Carregar configuração\"",
+  ">Default binding<": ">Binding padrão<",
+  "Used when agents do not override a node binding.": "Usado quando os agentes não substituem um binding de nó.",
+  ">Any node<": ">Qualquer nó<",
+  "No nodes with system.run available.": "Nenhum nó com system.run disponível.",
+
+  ">Target<": ">Alvo<",
+  " Gateway edits local approvals; node edits the selected node.": " Gateway edita aprovações locais; o nó edita o nó selecionado.",
+  
+  ">Host<": ">Host<",
+  ">Security<": ">Segurança<",
+  "\"default agent\"": "\"agente padrão\"",
+  "\"agent\"\\}": "\"agente\"}",
+  "`uses default \\(": "`usa padrão (",
+  "`Using default \\(": "`Usando padrão (",
+  "`Override \\(": "`Sobrescrita (",
+  " \"any\"\\}": " \"qualquer\"}",
+  ": `override: ": ": `sobrescrita:",
+  ">Binding<": ">Binding<",
+  "\"paired\" : \"unpaired\"\\}": "\"pareado\" : \"não pareado\"}",
+  "\"connected\" : \"offline\"\\}": "\"conectado\" : \"offline\"}",
+  
+  
+  "\"Deny\"": "\"Negar\"",
+  "\"Allowlist\"": "\"Lista de permissões\"",
+  "\"Off\"": "\"Desligado\"",
+  "\"On miss\"": "\"Em caso de perda\"",
+  "\"Always\"": "\"Sempre\"",
+
+  ">Exec approvals<": ">Aprovações Exec<",
+  "Allowlist and approval policy for \\<span class=\"mono\">exec host=gateway/node\\</span>.": "Lista de permissões e política de aprovação para <span class=\"mono\">exec host=gateway/node</span>.",
+  "\"Load approvals\"": "\"Carregar aprovações\"",
+  "Load exec approvals to edit allowlists.":"Carregue aprovações exec para editar listas de permissões.",
+  "Gateway edits local approvals; node edits the selected node.": "O gateway edita aprovações locais; o nó edita o nó selecionado.",
+
+  ">Gateway<": ">Gateway<",
+  ">Node<": ">Nó<",
+  ">Select node<": ">Selecionar nó<",
+  "No nodes advertise exec approvals yet.": "Nenhum nó anuncia aprovações exec ainda.",
+
+  ">Scope<": ">Escopo<",
+  "  Defaults": " Padrões",
+
+  "\"Default security mode.\"": "\"Modo de segurança padrão.\"",
+  "`Default: ": "`Padrão: ",
+  "  Use default": "  Usar padrão",
+  "\"Default prompt policy.\"": "\"Política de prompt padrão.\"",
+  ">Ask<": ">Perguntar<",
+  ">Ask fallback<": ">Perguntar fallback<",
+  "Applied when the UI prompt is unavailable.": "Aplicado quando o prompt da interface do usuário não está disponível.",
+  ">Fallback<": ">Fallback<",
+
+  ">Auto-allow skill CLIs<": ">Permitir automaticamente CLIs de habilidade<",
+  "Allow skill executables listed by the Gateway.": "Permitir executáveis de habilidade listados pelo Gateway.",
+  "\"on\" \\: \"off\"\\}": "\"on\" : \"off\"}",
+  ": `Override \\(": ": `Sobrescrita (",
+
+  
+  ">Allowlist<": ">Lista de permissões<",
+  "Case-insensitive glob patterns.": "Padrões glob que não diferenciam maiúsculas de minúsculas.",
+  "  Add pattern": "  Adicionar padrão",
+  ">Pattern<": ">Padrão<",
+  "No allowlist entries yet.": "Nenhuma entrada na lista de permissões ainda.",
+  "\"New pattern\"": "\"Novo padrão\"",
+  ">Last used: ": ">Último uso:",
+  "  Remove": "  Remover"
+}

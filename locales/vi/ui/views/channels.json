@@ -1,0 +1,91 @@
+{
+  "Channel health": "Tình trạng kênh",
+  "Channel status snapshots from the gateway.": "Ảnh chụp nhanh trạng thái kênh từ cổng.",
+  "No snapshot yet.": "Chưa có ảnh chụp nhanh nào.",
+  "Channel status and configuration.": "Trạng thái và cấu hình kênh.",
+  "\"Yes\"": "\"Có\"",
+  "\"Active\"": "\"Hoạt động\"",
+  "\"No\"": "\"Không\"",
+  ">Running<": ">Đang chạy<",
+  ">Connected<": ">Đã kết nối<",
+
+  
+  "Schema unavailable. Use Raw.": "Lược đồ không khả dụng. Sử dụng Thô.",
+  "Channel config schema unavailable.": "Lược đồ cấu hình kênh không khả dụng.",
+  "Loading config schema…": "Đang tải lược đồ cấu hình…",
+
+  ">Configured<": ">Đã cấu hình<",
+  ">Linked<": ">Đã liên kết<",
+  ">Last start<": ">Lần bắt đầu cuối<",
+  ">Last probe<": ">Lần thăm dò cuối<",
+  ">Last connect<": ">Lần kết nối cuối<",
+  ">Last message<": ">Tin nhắn cuối<",
+  ">Last inbound<": ">Lần vào cuối<",
+  ">Auth age<": ">Tuổi xác thực<",
+  ">Mode<": ">Chế độ<",
+  ">Credential<": ">Thông tin xác thực<",
+  ">Public Key<": ">Khóa công khai<",
+  ">Audience<": ">Đối tượng<",
+  ">Profile<": ">Hồ sơ<",
+
+  "No profile set. Click \"Edit Profile\" to add your name, bio, and avatar.": "Chưa đặt hồ sơ. Nhấp \"Chỉnh sửa hồ sơ\" để thêm tên, tiểu sử và hình đại diện của bạn.",
+  "\"Saving…\"": "\"Đang lưu…\"",
+  "\"Save\"": "\"Lưu\"",
+  "  probe": " thăm dò",
+  
+  "  Probe": " Thăm dò",
+  "\"ok\" \\:": "\"tốt\" :",
+  "\"failed\"": "\"thất bại\"",
+  
+  "Decentralized DMs via Nostr relays \\(NIP-04\\).": "DM phi tập trung qua Nostr relay (NIP-04).",
+
+
+  "Chat API webhook status and channel configuration.": "Trạng thái webhook API trò chuyện và cấu hình kênh.",
+  
+  "macOS bridge status and channel configuration.": "Trạng thái cầu nối macOS và cấu hình kênh.",
+
+  
+  ">Edit Profile<": ">Chỉnh sửa Hồ sơ<",
+  ">Account: ": ">Tài khoản: ",
+  
+  "\"Username\"": "\"Tên người dùng\"",
+  "\"Short username \\(": "\"Tên người dùng ngắn (",
+  "\"Display Name\"": "\"Tên hiển thị\"",
+  "Your full display name": "Tên hiển thị đầy đủ của bạn",
+  "\"Bio\"": "\"Tiểu sử\"",
+  "Tell people about yourself...": "Hãy kể cho mọi người về bạn...",
+  "\"Avatar URL\"": "\"URL hình đại diện\"",
+  "A brief bio or description": "Tiểu sử hoặc mô tả ngắn gọn",
+  "\"Banner URL\"": "\"URL Banner\"",
+  "HTTPS URL to your profile picture": "URL HTTPS đến ảnh hồ sơ của bạn",
+  "HTTPS URL to a banner image": "URL HTTPS đến ảnh banner",
+  "\"Website\"": "\"Trang web\"",
+  "Your personal website": "Trang web cá nhân của bạn",
+  "\"NIP-05 Identifier\"": "\"Định danh NIP-05\"",
+  "\"Verifiable identifier ": "\"Định danh có thể xác minh ",
+  "\"Lightning Address\"": "\"Địa chỉ Lightning\"",
+  "\"Lightning address for tips ": "\"Địa chỉ Lightning cho tiền tip ",
+  "\"Saving...\"": "\"Đang lưu...\"",
+  "Save & Publish": "Lưu & Xuất bản",
+  "\"Importing...\"": "\"Đang nhập...\"",
+  "\"Import from Relays\"": "\"Nhập từ Relay\"",
+  "\"Hide Advanced\"": "\"Ẩn nâng cao\"",
+  "\"Show Advanced\"": "\"Hiện nâng cao\"",
+  "  You have unsaved changes": "  Bạn có thay đổi chưa lưu",
+
+  ">Display Name<": ">Tên hiển thị<",
+  ">About<": ">Giới thiệu<",
+
+  ">Accounts ": ">Tài khoản ",
+
+  
+  "signal-cli status and channel configuration.": "Trạng thái signal-cli và cấu hình kênh.",
+  ">Base URL<": ">URL cơ sở<",
+
+  
+  "Socket mode status and channel configuration.": "Trạng thái chế độ ổ cắm và cấu hình kênh.",
+  
+  "Bot status and channel configuration.": "Trạng thái bot và cấu hình kênh.",
+  
+  "Link WhatsApp Web and monitor connection health.": "Liên kết WhatsApp Web và giám sát tình trạng kết nối."
+}

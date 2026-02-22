@@ -1,0 +1,17 @@
+{
+  ">Snapshots<": ">Ảnh chụp nhanh<",
+  "Status, health, and heartbeat data.": "Dữ liệu trạng thái, tình trạng và nhịp tim.",
+  " Security audit:": " Kiểm tra bảo mật:",
+  "\\}. Run": "}. Chạy",
+  "> for details.": "> để biết chi tiết.",
+  ">Last heartbeat<": ">Nhịp tim cuối<",
+  ">Manual RPC<": ">RPC thủ công<",
+  "Send a raw gateway method with JSON params.": "Gửi một phương thức cổng thô với tham số JSON.",
+  ">Method<": ">Phương thức<",
+  ">Params \\(JSON\\)<": ">Tham số (JSON)<",
+  ">Models<": ">Mô hình<",
+  ">Call<": ">Gọi<",
+  "Catalog from models.list.": "Danh mục từ models.list.",
+  ">Event Log<": ">Nhật ký sự kiện<",
+  "Latest gateway events.": "Sự kiện cổng mới nhất."
+}

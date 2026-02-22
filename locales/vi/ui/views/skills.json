@@ -1,0 +1,26 @@
+{
+  ">Skills<": ">Kỹ năng<",
+  "Bundled, managed, and workspace skills.": "Kỹ năng được đóng gói, quản lý và trong không gian làm việc.",
+  "\"Search skills\"": "\"Tìm kiếm kỹ năng\"",
+  "No skills found.": "Không tìm thấy kỹ năng nào.",
+  "\\} shown": "} được hiển thị",
+  "\"Installing…\"": "\"Đang cài đặt…\"",
+  ">API key<": ">Khóa API<",
+  "  Save key": " Lưu khóa",
+  
+  "\"Workspace Skills\"": "\"Kỹ năng Không gian làm việc\"",
+  "\"Built-in Skills\"": "\"Kỹ năng Tích hợp\"",
+  "\"Installed Skills\"": "\"Kỹ năng Đã cài đặt\"",
+  "\"Extra Skills\"": "\"Kỹ năng Bổ sung\"",
+  "\"Other Skills\"": "\"Kỹ năng Khác\"",
+
+
+  "\"blocked by allowlist\"": "\"bị chặn bởi danh sách cho phép\"",
+
+  "\"eligible\"": "\"đủ điều kiện\"",
+  "\"blocked\"": "\"bị chặn\"",
+
+  ">disabled<": ">đã tắt<",
+  ">Missing: ": ">Thiếu:",
+  ">Reason:": ">Lý do:"
+}

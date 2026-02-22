@@ -1,0 +1,17 @@
+{
+  ">Snapshots<": ">اللقطات<",
+  "Status, health, and heartbeat data.": "بيانات الحالة والصحة ونبضات القلب.",
+  " Security audit:": " تدقيق أمني:",
+  "\\}. Run": "}. تشغيل",
+  "> for details.": "> للحصول على التفاصيل.",
+  ">Last heartbeat<": ">آخر نبضة قلب<",
+  ">Manual RPC<": ">RPC يدوي<",
+  "Send a raw gateway method with JSON params.": "إرسال طريقة بوابة خام مع معاملات JSON.",
+  ">Method<": ">الطريقة<",
+  ">Params \\(JSON\\)<": ">المعاملات (JSON)<",
+  ">Models<": ">النماذج<",
+  ">Call<": ">استدعاء<",
+  "Catalog from models.list.": "كتالوج من models.list.",
+  ">Event Log<": ">سجل الأحداث<",
+  "Latest gateway events.": "أحدث أحداث البوابة."
+}

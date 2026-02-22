@@ -1,0 +1,140 @@
+{
+  ">No configured models<": ">Nessun modello configurato<",
+  "\\} configured.<": "} configurati.<",
+  "No agents found.": "Nessun agente trovato.",
+  ">Select an agent<": ">Seleziona un agente<",
+  "Pick an agent to inspect its workspace and tools.": "Scegli un agente per ispezionare il suo spazio di lavoro e i suoi strumenti.",
+  "Agent workspace and routing.": "Spazio di lavoro e routing dell'agente.",
+  "\"Tools\"": "\"Strumenti\"",
+
+  ">Overview<": ">Panoramica<",
+  "Workspace paths and identity metadata.": "Percorsi dello spazio di lavoro e metadati dell'identità.",
+  ">Workspace<": ">Spazio di lavoro<",
+  ">Primary Model<": ">Modello Primario<",
+  ">Identity Name<": ">Nome Identità<",
+  ">Default<": ">Predefinito<",
+  ">Identity Emoji<": ">Emoji Identità<",
+  ">Skills Filter<": ">Filtro Competenze<",
+  ">Filter<": ">Filtro<",
+  ">Model Selection<": ">Selezione Modello<",
+  ">Primary model": ">Modello principale",
+  " \\(default\\)": " (predefinito)",
+  "Fallbacks \\(comma-separated\\)": "Fallback (separati da virgole)",
+  "Inherit default \\(": "Eredita predefinito (",
+  "\"Inherit default\"": "\"Eredita predefinito\"",
+  ">Fallbacks (comma-separated)<": ">Fallback (separati da virgole)<",
+  "\"Save\"": "\"Salva\"",
+  "\"yes\"": "\"sì\"",
+  "\"no\"": "\"no\"",
+  
+  "\"Workspace, identity, and model configuration.\"": "\"Configurazione spazio di lavoro, identità e modello.\"",
+  "Load channels to see live status.": "Carica i canali per vedere lo stato in tempo reale.",
+  "Gateway-wide channel status snapshot.": "Snapshot dello stato dei canali a livello di gateway.",
+  " Last refresh:": " Ultimo aggiornamento:",
+  "No channels found.": "Nessun canale trovato.",
+  "\\} enabled": "} abilitati",
+  "Workspace and scheduling targets.": "Spazio di lavoro e destinazioni di pianificazione.",
+  "Gateway cron status.": "Stato cron del gateway.",
+  ">Next wake<": ">Prossima riattivazione<",
+  ">Agent Cron Jobs<": ">Processi Cron Agente<",
+  "Scheduled jobs targeting this agent.": "Processi pianificati per questo agente.",
+  "No jobs assigned.": "Nessun processo assegnato.",
+  ">Core Files<": ">File Principali<",
+  "Bootstrap persona, identity, and tool guidance.": "Guida per l'avvio di persona, identità e strumenti.",
+  ">Workspace:": ">Spazio di lavoro:",
+  "  Load the agent workspace files to edit core instructions.": "Carica i file dello spazio di lavoro dell'agente per modificare le istruzioni principali.",
+  "No files found.": "Nessun file trovato.",
+  "Select a file to edit.": "Seleziona un file da modificare.",
+  "  This file is missing. Saving will create it in the agent workspace.": " Questo file è mancante. Il salvataggio lo creerà nello spazio di lavoro dell'agente.",
+  ">Content<": ">Contenuto<",
+  ">missing<": ">mancante<",  
+
+  
+  "\"Files\"": "\"File\"",
+  "\"Read file contents\"": "\"Leggi contenuto file\"",
+  "\"Create or overwrite files\"": "\"Crea o sovrascrivi file\"",
+  "\"Make precise edits\"": "\"Apporta modifiche precise\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"Applica patch ai file (OpenAI)\"",
+
+  "\"Runtime\"": "\"Runtime\"",
+  "\"Run shell commands\"": "\"Esegui comandi shell\"",
+  "\"Manage background processes\"": "\"Gestisci processi in background\"",
+
+  "\"Web\"": "\"Web\"",
+  "\"Search the web\"": "\"Cerca sul web\"",
+  "\"Fetch web content\"": "\"Recupera contenuto web\"",
+  
+  "\"Memory\"": "\"Memoria\"",
+  "\"Semantic search\"": "\"Ricerca semantica\"",
+  "\"Read memory files\"": "\"Leggi file di memoria\"",
+  "\"List sessions\"": "\"Elenca sessioni\"",
+
+  "\"Session history\"": "\"Cronologia sessione\"",
+  "\"Send to session": "\"Invia alla sessione",
+  "\"Spawn sub-agent\"": "\"Crea sub-agente\"",
+  "\"Session status\"": "\"Stato sessione\"",
+
+  "\"UI\"": "\"Interfaccia Utente\"",
+  "\"Control web browser\"": "\"Controlla browser web\"",
+  "\"Control canvases\"": "\"Controlla canvas\"",
+
+  "\"Send messages\"": "\"Invia messaggi\"",
+  
+  "\"Automation\"": "\"Automazione\"",
+  "\"Schedule tasks\"": "\"Pianifica attività\"",
+
+  "\"Gateway control\"": "\"Controllo gateway\"",
+  "\"Nodes \\+ devices\"": "\"Nodi + dispositivi\"",
+  "\"List agents\"": "\"Elenca agenti\"",
+  
+  "\"Media\"": "\"Media\"",
+  "\"Image understanding\"": "\"Comprensione immagini\"",
+
+  "\"Minimal\"": "\"Minimo\"",
+  "\"Coding\"": "\"Programmazione\"",
+  "\"Messaging\"": "\"Messaggistica\"",
+  "\"Full\"": "\"Completo\"",
+  
+  "\\} selected": "} selezionato",
+  "\"all skills\"": "\"tutte le competenze\"",
+  
+
+  ">Agent Context<": ">Contesto Agente<",
+  "\"no accounts\"": "\"nessun account\"",
+  " connected`": " connessi`",
+  " configured`": " configurati`",
+  "\"not configured\"": "\"non configurato\"",
+
+  "\"agent override\"": "\"override agente\"",
+  "\"global default\"": "\"predefinito globale\"",
+  "\"default\"": "\"predefinito\"",
+
+  ">Tool Access<": ">Accesso Strumenti<",
+  "  Profile \\+ per-tool overrides for this agent.": " Profilo e override per strumento per questo agente.",
+  "> enabled.": "> abilitato.",
+
+  "  Use All": "  Usa Tutti",
+  "  Enable All": "  Abilita Tutti",
+  "  Disable All": "  Disabilita Tutti",
+  "  Reload Config": " Ricarica Config",
+
+  "  Reload": "  Ricarica",
+  
+  "Load the gateway config to adjust tool profiles.": "Carica la configurazione del gateway per regolare i profili degli strumenti.",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "Questo agente sta utilizzando una lista consentita esplicita nella configurazione. Gli override degli strumenti sono gestiti nella scheda Config.",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "L'impostazione globale tools.allow è attiva. Gli override dell'agente non possono abilitare strumenti bloccati globalmente.",
+
+  ">Profile<": ">Profilo<",
+  ">Source<": ">Fonte<",
+  ">unsaved<": ">non salvato<",
+
+  ">Quick Presets<": ">Preset Rapidi<",
+  "  Inherit": "  Eredita",
+
+  "Per-agent skill allowlist and workspace skills.": "Lista consentita delle competenze per agente e competenze dello spazio di lavoro.",
+  "Load the gateway config to set per-agent skills.": "Carica la configurazione del gateway per impostare le competenze per agente.",
+  "This agent uses a custom skill allowlist.": "Questo agente utilizza una lista consentita di competenze personalizzata.",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "Tutte le competenze sono abilitate. Disabilitare qualsiasi competenza creerà una lista consentita per l'agente.",
+  "Load skills for this agent to view workspace-specific entries.": "Carica le competenze per questo agente per visualizzare le voci specifiche dello spazio di lavoro."
+
+}

@@ -1,0 +1,139 @@
+{
+  ">No configured models<": ">कोई कॉन्फ़िगर मॉडल नहीं<",
+  "\\} configured.<": "} कॉन्फ़िगर किए गए।<",
+  "No agents found.": "कोई एजेंट नहीं मिला।",
+  ">Select an agent<": ">एक एजेंट चुनें<",
+  "Pick an agent to inspect its workspace and tools.": "उसके वर्कस्पेस और टूल का निरीक्षण करने के लिए एक एजेंट चुनें।",
+  "Agent workspace and routing.": "एजेंट वर्कस्पेस और रूटिंग।",
+  "\"Tools\"": "\"उपकरण\"",
+
+  ">Overview<": ">अवलोकन<",
+  "Workspace paths and identity metadata.": "वर्कस्पेस पथ और पहचान मेटाडेटा।",
+  ">Workspace<": ">वर्कस्पेस<",
+  ">Primary Model<": ">प्राथमिक मॉडल<",
+  ">Identity Name<": ">पहचान नाम<",
+  ">Default<": ">डिफ़ॉल्ट<",
+  ">Identity Emoji<": ">पहचान इमोजी<",
+  ">Skills Filter<": ">कौशल फ़िल्टर<",
+  ">Filter<": ">फ़िल्टर<",
+  ">Model Selection<": ">मॉडल चयन<",
+  ">Primary model": ">प्राथमिक मॉडल",
+  " \\(default\\)": " (डिफ़ॉल्ट)",
+  "Fallbacks \\(comma-separated\\)": "फ़ॉलबैक (अल्पविराम से अलग किए गए)",
+  "Inherit default \\(": "डिफ़ॉल्ट इनहेरिट करें (",
+  "\"Inherit default\"": "\"डिफ़ॉल्ट इनहेरिट करें\"",
+  ">Fallbacks (comma-separated)<": ">फ़ॉलबैक (अल्पविराम से अलग किए गए)<",
+  "\"Save\"": "\"सहेजें\"",
+  "\"yes\"": "\"हाँ\"",
+  "\"no\"": "\"नहीं\"",
+  
+  "\"Workspace, identity, and model configuration.\"": "\"वर्कस्पेस, पहचान और मॉडल कॉन्फ़िगरेशन।\"",
+  "Load channels to see live status.": "लाइव स्थिति देखने के लिए चैनल लोड करें।",
+  "Gateway-wide channel status snapshot.": "गेटवे-व्यापी चैनल स्थिति स्नैपशॉट।",
+  " Last refresh:": " अंतिम रीफ़्रेश:",
+  "No channels found.": "कोई चैनल नहीं मिला।",
+  "\\} enabled": "} सक्षम",
+  "Workspace and scheduling targets.": "वर्कस्पेस और शेड्यूलिंग लक्ष्य।",
+  "Gateway cron status.": "गेटवे क्रॉन स्थिति।",
+  ">Next wake<": ">अगला वेकअप<",
+  ">Agent Cron Jobs<": ">एजेंट क्रॉन जॉब<",
+  "Scheduled jobs targeting this agent.": "इस एजेंट को लक्षित करने वाले शेड्यूल किए गए जॉब।",
+  "No jobs assigned.": "कोई जॉब असाइन नहीं किया गया।",
+  ">Core Files<": ">मुख्य फ़ाइलें<",
+  "Bootstrap persona, identity, and tool guidance.": "बूटस्ट्रैप व्यक्तित्व, पहचान और टूल मार्गदर्शन।",
+  ">Workspace:": ">वर्कस्पेस:",
+  "  Load the agent workspace files to edit core instructions.": "  मुख्य निर्देशों को संपादित करने के लिए एजेंट वर्कस्पेस फ़ाइलें लोड करें।",
+  "No files found.": "कोई फ़ाइल नहीं मिली।",
+  "Select a file to edit.": "संपादित करने के लिए कोई फ़ाइल चुनें।",
+  "  This file is missing. Saving will create it in the agent workspace.": "  यह फ़ाइल गायब है। सहेजने पर यह एजेंट वर्कस्पेस में बन जाएगी।",
+  ">Content<": ">सामग्री<",
+  ">missing<": ">गायब<",  
+
+  
+  "\"Files\"": "\"फ़ाइलें\"",
+  "\"Read file contents\"": "\"फ़ाइल सामग्री पढ़ें\"",
+  "\"Create or overwrite files\"": "\"फ़ाइलें बनाएँ या अधिलेखित करें\"",
+  "\"Make precise edits\"": "\"सटीक संपादन करें\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"पैच फ़ाइलें (OpenAI)\"",
+
+  "\"Runtime\"": "\"रनटाइम\"",
+  "\"Run shell commands\"": "\"शेल कमांड चलाएँ\"",
+  "\"Manage background processes\"": "\"बैकग्राउंड प्रक्रियाएँ प्रबंधित करें\"",
+
+  "\"Web\"": "\"वेब\"",
+  "\"Search the web\"": "\"वेब खोजें\"",
+  "\"Fetch web content\"": "\"वेब सामग्री प्राप्त करें\"",
+  
+  "\"Memory\"": "\"मेमोरी\"",
+  "\"Semantic search\"": "\"सिमेंटिक खोज\"",
+  "\"Read memory files\"": "\"मेमोरी फ़ाइलें पढ़ें\"",
+  "\"List sessions\"": "\"सत्र सूचीबद्ध करें\"",
+
+  "\"Session history\"": "\"सत्र इतिहास\"",
+  "\"Send to session": "\"सत्र को भेजें",
+  "\"Spawn sub-agent\"": "\"उप-एजेंट बनाएँ\"",
+  "\"Session status\"": "\"सत्र स्थिति\"",
+
+  "\"UI\"": "\"यूआई\"",
+  "\"Control web browser\"": "\"वेब ब्राउज़र नियंत्रित करें\"",
+  "\"Control canvases\"": "\"कैनवस नियंत्रित करें\"",
+
+  "\"Send messages\"": "\"संदेश भेजें\"",
+  
+  "\"Automation\"": "\"स्वचालन\"",
+  "\"Schedule tasks\"": "\"कार्य शेड्यूल करें\"",
+
+  "\"Gateway control\"": "\"गेटवे नियंत्रण\"",
+  "\"Nodes \\+ devices\"": "\"नोड + डिवाइस\"",
+  "\"List agents\"": "\"एजेंट सूचीबद्ध करें\"",
+  
+  "\"Media\"": "\"मीडिया\"",
+  "\"Image understanding\"": "\"छवि समझ\"",
+
+  "\"Minimal\"": "\"न्यूनतम\"",
+  "\"Coding\"": "\"कोडिंग\"",
+  "\"Messaging\"": "\"मैसेजिंग\"",
+  "\"Full\"": "\"पूर्ण\"",
+  
+  "\\} selected": "} चयनित",
+  "\"all skills\"": "\"सभी कौशल\"",
+  
+
+  ">Agent Context<": ">एजेंट संदर्भ<",
+  "\"no accounts\"": "\"कोई खाता नहीं\"",
+  " connected`": " कनेक्टेड`",
+  " configured`": " कॉन्फ़िगर`",
+  "\"not configured\"": "\"कॉन्फ़िगर नहीं\"",
+
+  "\"agent override\"": "\"एजेंट ओवरराइड\"",
+  "\"global default\"": "\"वैश्विक डिफ़ॉल्ट\"",
+  "\"default\"": "\"डिफ़ॉल्ट\"",
+
+  ">Tool Access<": ">टूल एक्सेस<",
+  "  Profile \\+ per-tool overrides for this agent.": "  इस एजेंट के लिए प्रोफ़ाइल + प्रति-टूल ओवरराइड।",
+  "> enabled.": "> सक्षम।",
+
+  "  Use All": "  सभी का उपयोग करें",
+  "  Enable All": "  सभी सक्षम करें",
+  "  Disable All": "  सभी अक्षम करें",
+  "  Reload Config": " कॉन्फ़िग पुनः लोड करें",
+
+  "  Reload": " पुनः लोड करें",
+  
+  "Load the gateway config to adjust tool profiles.": "टूल प्रोफ़ाइल समायोजित करने के लिए गेटवे कॉन्फ़िग लोड करें।",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "यह एजेंट कॉन्फ़िग में एक स्पष्ट अनुमति सूची का उपयोग कर रहा है। टूल ओवरराइड 'कॉन्फ़िग' टैब में प्रबंधित किए जाते हैं।",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "वैश्विक tools.allow सेट है। एजेंट ओवरराइड उन टूल को सक्षम नहीं कर सकते जो वैश्विक रूप से अवरुद्ध हैं।",
+
+  ">Profile<": ">प्रोफ़ाइल<",
+  ">Source<": ">स्रोत<",
+  ">unsaved<": ">असुरक्षित<",
+
+  ">Quick Presets<": ">त्वरित प्रीसेट<",
+  "  Inherit": " इनहेरिट करें",
+
+  "Per-agent skill allowlist and workspace skills.": "प्रति-एजेंट कौशल अनुमति सूची और वर्कस्पेस कौशल।",
+  "Load the gateway config to set per-agent skills.": "प्रति-एजेंट कौशल सेट करने के लिए गेटवे कॉन्फ़िग लोड करें।",
+  "This agent uses a custom skill allowlist.": "यह एजेंट कस्टम कौशल अनुमति सूची का उपयोग करता है।",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "सभी कौशल सक्षम हैं। किसी भी कौशल को अक्षम करने से प्रति-एजेंट अनुमति सूची बनेगी।",
+  "Load skills for this agent to view workspace-specific entries.": "वर्कस्पेस-विशिष्ट प्रविष्टियाँ देखने के लिए इस एजेंट के लिए कौशल लोड करें।"
+}

@@ -1,0 +1,23 @@
+{
+  "Compacting context...": "సందర్భాన్ని కుదిస్తోంది...",
+  "Context compacted": "సందర్భం కుదించబడింది",
+  "Attachment preview": "అటాచ్‌మెంట్ ప్రివ్యూ",
+  "Remove attachment": "అటాచ్‌మెంట్‌ను తీసివేయండి",
+  "Add a message or paste more images...": "సందేశాన్ని జోడించండి లేదా మరిన్ని చిత్రాలను అతికించండి...",
+  "Message \\(↩ to send, Shift\\+↩ for line breaks, paste images\\)": "సందేశం (పంపడానికి ↩, లైన్ బ్రేక్‌ల కోసం Shift+↩, చిత్రాలను అతికించండి)",
+  "Connect to the gateway to start chatting…": "చాటింగ్ ప్రారంభించడానికి గేట్‌వేకు కనెక్ట్ చేయండి…",
+  "Loading chat…": "చాట్ లోడ్ అవుతోంది…",
+  "Exit focus mode": "ఫోకస్ మోడ్ నుండి నిష్క్రమించండి",
+  ">Queued ": ">క్యూలో ఉంది ",
+  "Image \\(": "చిత్రం (",
+  "Remove queued message": "క్యూ చేసిన సందేశాన్ని తీసివేయండి",
+  "New messages ": "కొత్త సందేశాలు ",
+  ">Message<": ">సందేశం<",
+  "\"Stop\"": "\"ఆపు\"",
+  "New session": "కొత్త సెషన్",
+  "\"Queue\"": "\"క్యూ\"",
+  "\"Send\"": "\"పంపండి\"",
+  "Showing last ": "చివరి చూపిస్తోంది ",
+  "\\} messages": "} సందేశాలు",
+  "\\} hidden": "} దాచబడింది"
+}

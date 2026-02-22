@@ -1,0 +1,91 @@
+{
+  "Channel health": "صحة القناة",
+  "Channel status snapshots from the gateway.": "لقطات حالة القناة من البوابة.",
+  "No snapshot yet.": "لا توجد لقطة بعد.",
+  "Channel status and configuration.": "حالة القناة والتكوين.",
+  "\"Yes\"": "\"نعم\"",
+  "\"Active\"": "\"نشط\"",
+  "\"No\"": "\"لا\"",
+  ">Running<": ">قيد التشغيل<",
+  ">Connected<": ">متصل<",
+
+  
+  "Schema unavailable. Use Raw.": "المخطط غير متاح. استخدم العرض الخام.",
+  "Channel config schema unavailable.": "مخطط تكوين القناة غير متاح.",
+  "Loading config schema…": "جارٍ تحميل مخطط التكوين…",
+
+  ">Configured<": ">مهيأ<",
+  ">Linked<": ">مرتبط<",
+  ">Last start<": ">آخر بدء<",
+  ">Last probe<": ">آخر فحص<",
+  ">Last connect<": ">آخر اتصال<",
+  ">Last message<": ">آخر رسالة<",
+  ">Last inbound<": ">آخر واردة<",
+  ">Auth age<": ">عمر المصادقة<",
+  ">Mode<": ">الوضع<",
+  ">Credential<": ">بيانات الاعتماد<",
+  ">Public Key<": ">المفتاح العام<",
+  ">Audience<": ">الجمهور المستهدف<",
+  ">Profile<": ">الملف الشخصي<",
+
+  "No profile set. Click \"Edit Profile\" to add your name, bio, and avatar.": "لم يتم تعيين ملف شخصي. انقر على \"تحرير الملف الشخصي\" لإضافة اسمك وسيرتك الذاتية وصورتك الرمزية.",
+  "\"Saving…\"": "\"جارٍ الحفظ…\"",
+  "\"Save\"": "\"حفظ\"",
+  "  probe": " فحص",
+  
+  "  Probe": " فحص",
+  "\"ok\" \\:": "\"ناجح\" :",
+  "\"failed\"": "\"فشل\"",
+  
+  "Decentralized DMs via Nostr relays \\(NIP-04\\).": "رسائل مباشرة لا مركزية عبر مرحلات Nostr (NIP-04).",
+
+
+  "Chat API webhook status and channel configuration.": "حالة webhook لواجهة برمجة تطبيقات الدردشة وتكوين القناة.",
+  
+  "macOS bridge status and channel configuration.": "حالة جسر macOS وتكوين القناة.",
+
+  
+  ">Edit Profile<": ">تحرير الملف الشخصي<",
+  ">Account: ": ">الحساب: ",
+  
+  "\"Username\"": "\"اسم المستخدم\"",
+  "\"Short username \\(": "\"اسم مستخدم قصير (",
+  "\"Display Name\"": "\"الاسم المعروض\"",
+  "Your full display name": "اسمك الكامل المعروض",
+  "\"Bio\"": "\"السيرة الذاتية\"",
+  "Tell people about yourself...": "أخبر الناس عن نفسك...",
+  "\"Avatar URL\"": "\"رابط الصورة الرمزية\"",
+  "A brief bio or description": "سيرة ذاتية أو وصف موجز",
+  "\"Banner URL\"": "\"رابط صورة اللافتة\"",
+  "HTTPS URL to your profile picture": "رابط HTTPS لصورة ملفك الشخصي",
+  "HTTPS URL to a banner image": "رابط HTTPS لصورة لافتة",
+  "\"Website\"": "\"الموقع الإلكتروني\"",
+  "Your personal website": "موقعك الشخصي",
+  "\"NIP-05 Identifier\"": "\"معرّف NIP-05\"",
+  "\"Verifiable identifier ": "\"معرف قابل للتحقق ",
+  "\"Lightning Address\"": "\"عنوان Lightning\"",
+  "\"Lightning address for tips ": "\"عنوان Lightning للإكراميات ",
+  "\"Saving...\"": "\"جارٍ الحفظ...\"",
+  "Save & Publish": "حفظ ونشر",
+  "\"Importing...\"": "\"جارٍ الاستيراد...\"",
+  "\"Import from Relays\"": "\"استيراد من المرحلات\"",
+  "\"Hide Advanced\"": "\"إخفاء المتقدم\"",
+  "\"Show Advanced\"": "\"إظهار المتقدم\"",
+  "  You have unsaved changes": "  لديك تغييرات غير محفوظة",
+
+  ">Display Name<": ">الاسم المعروض<",
+  ">About<": ">حول<",
+
+  ">Accounts ": ">الحسابات ",
+
+  
+  "signal-cli status and channel configuration.": "حالة signal-cli وتكوين القناة.",
+  ">Base URL<": ">الرابط الأساسي<",
+
+  
+  "Socket mode status and channel configuration.": "حالة وضع المقبس وتكوين القناة.",
+  
+  "Bot status and channel configuration.": "حالة البوت وتكوين القناة.",
+  
+  "Link WhatsApp Web and monitor connection health.": "ربط WhatsApp Web ومراقبة صحة الاتصال."
+}

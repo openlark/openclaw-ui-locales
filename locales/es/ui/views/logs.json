@@ -1,0 +1,12 @@
+{
+  ">Logs<": ">Registros<",
+  "Gateway file logs \\(JSONL\\).": "Archivos de registro de la puerta de enlace (JSONL).",
+  "\"filtered\"": "\"filtrado\"",
+  "\"visible\"": "\"visible\"",
+  " Export ": " Exportar ",
+  "\"Search logs\"": "\"Buscar en registros\"",
+  ">Auto-follow<": ">Seguimiento automático<",
+  "Log output truncated; showing latest chunk.": "Salida de registro truncada; mostrando el fragmento más reciente.",
+  ">Last heartbeat<": ">Último latido<",
+  "No log entries.": "No hay entradas de registro."
+}

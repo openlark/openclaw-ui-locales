@@ -1,0 +1,12 @@
+{
+  ">Logs<": ">السجلات<",
+  "Gateway file logs \\(JSONL\\).": "سجلات ملفات البوابة (JSONL).",
+  "\"filtered\"": "\"تمت التصفية\"",
+  "\"visible\"": "\"مرئي\"",
+  " Export ": " تصدير ",
+  "\"Search logs\"": "\"البحث في السجلات\"",
+  ">Auto-follow<": ">المتابعة التلقائية<",
+  "Log output truncated; showing latest chunk.": "تم اقتطاع مخرجات السجل؛ عرض الجزء الأحدث.",
+  ">Last heartbeat<": ">آخر نبضة قلب<",
+  "No log entries.": "لا توجد إدخالات سجل."
+}

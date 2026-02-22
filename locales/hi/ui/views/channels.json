@@ -1,0 +1,91 @@
+{
+  "Channel health": "चैनल स्वास्थ्य",
+  "Channel status snapshots from the gateway.": "गेटवे से चैनल स्थिति स्नैपशॉट।",
+  "No snapshot yet.": "अभी तक कोई स्नैपशॉट नहीं।",
+  "Channel status and configuration.": "चैनल स्थिति और कॉन्फ़िगरेशन।",
+  "\"Yes\"": "\"हाँ\"",
+  "\"Active\"": "\"सक्रिय\"",
+  "\"No\"": "\"नहीं\"",
+  ">Running<": ">चल रहा है<",
+  ">Connected<": ">कनेक्टेड<",
+
+  
+  "Schema unavailable. Use Raw.": "स्कीमा अनुपलब्ध। रॉ का उपयोग करें।",
+  "Channel config schema unavailable.": "चैनल कॉन्फ़िग स्कीमा अनुपलब्ध।",
+  "Loading config schema…": "कॉन्फ़िग स्कीमा लोड हो रहा है…",
+
+  ">Configured<": ">कॉन्फ़िगर किया गया<",
+  ">Linked<": ">लिंक किया गया<",
+  ">Last start<": ">अंतिम प्रारंभ<",
+  ">Last probe<": ">अंतिम जांच<",
+  ">Last connect<": ">अंतिम कनेक्ट<",
+  ">Last message<": ">अंतिम संदेश<",
+  ">Last inbound<": ">अंतिम इनबाउंड<",
+  ">Auth age<": ">प्रमाणीकरण आयु<",
+  ">Mode<": ">मोड<",
+  ">Credential<": ">क्रेडेंशियल<",
+  ">Public Key<": ">सार्वजनिक कुंजी<",
+  ">Audience<": ">दर्शक वर्ग<",
+  ">Profile<": ">प्रोफ़ाइल<",
+
+  "No profile set. Click \"Edit Profile\" to add your name, bio, and avatar.": "कोई प्रोफ़ाइल सेट नहीं है। अपना नाम, बायो और अवतार जोड़ने के लिए \"प्रोफ़ाइल संपादित करें\" पर क्लिक करें।",
+  "\"Saving…\"": "\"सहेजा जा रहा है…\"",
+  "\"Save\"": "\"सहेजें\"",
+  "  probe": " जांच करें",
+  
+  "  Probe": " जांच करें",
+  "\"ok\" \\:": "\"ठीक\" :",
+  "\"failed\"": "\"विफल\"",
+  
+  "Decentralized DMs via Nostr relays \\(NIP-04\\).": "Nostr रिले (NIP-04) के माध्यम से विकेंद्रीकृत डीएम।",
+
+
+  "Chat API webhook status and channel configuration.": "चैट API वेबहुक स्थिति और चैनल कॉन्फ़िगरेशन।",
+  
+  "macOS bridge status and channel configuration.": "macOS ब्रिज स्थिति और चैनल कॉन्फ़िगरेशन।",
+
+  
+  ">Edit Profile<": ">प्रोफ़ाइल संपादित करें<",
+  ">Account: ": ">खाता: ",
+  
+  "\"Username\"": "\"उपयोगकर्ता नाम\"",
+  "\"Short username \\(": "\"लघु उपयोगकर्ता नाम (",
+  "\"Display Name\"": "\"प्रदर्शन नाम\"",
+  "Your full display name": "आपका पूरा प्रदर्शन नाम",
+  "\"Bio\"": "\"बायो\"",
+  "Tell people about yourself...": "अपने बारे में लोगों को बताएं...",
+  "\"Avatar URL\"": "\"अवतार URL\"",
+  "A brief bio or description": "एक संक्षिप्त जीवनी या विवरण",
+  "\"Banner URL\"": "\"बैनर URL\"",
+  "HTTPS URL to your profile picture": "आपकी प्रोफ़ाइल फ़ोटो का HTTPS URL",
+  "HTTPS URL to a banner image": "बैनर छवि का HTTPS URL",
+  "\"Website\"": "\"वेबसाइट\"",
+  "Your personal website": "आपकी व्यक्तिगत वेबसाइट",
+  "\"NIP-05 Identifier\"": "\"NIP-05 पहचानकर्ता\"",
+  "\"Verifiable identifier ": "\"सत्यापन योग्य पहचानकर्ता ",
+  "\"Lightning Address\"": "\"लाइटनिंग पता\"",
+  "\"Lightning address for tips ": "\"टिप्स के लिए लाइटनिंग पता ",
+  "\"Saving...\"": "\"सहेजा जा रहा है...\"",
+  "Save & Publish": "सहेजें और प्रकाशित करें",
+  "\"Importing...\"": "\"आयात किया जा रहा है...\"",
+  "\"Import from Relays\"": "\"रिले से आयात करें\"",
+  "\"Hide Advanced\"": "\"उन्नत छुपाएं\"",
+  "\"Show Advanced\"": "\"उन्नत दिखाएं\"",
+  "  You have unsaved changes": "  आपके पास असुरक्षित परिवर्तन हैं",
+
+  ">Display Name<": ">प्रदर्शन नाम<",
+  ">About<": ">बारे में<",
+
+  ">Accounts ": ">खाते ",
+
+  
+  "signal-cli status and channel configuration.": "signal-cli स्थिति और चैनल कॉन्फ़िगरेशन।",
+  ">Base URL<": ">आधार URL<",
+
+  
+  "Socket mode status and channel configuration.": "सॉकेट मोड स्थिति और चैनल कॉन्फ़िगरेशन।",
+  
+  "Bot status and channel configuration.": "बॉट स्थिति और चैनल कॉन्फ़िगरेशन।",
+  
+  "Link WhatsApp Web and monitor connection health.": "WhatsApp वेब लिंक करें और कनेक्शन स्वास्थ्य की निगरानी करें।"
+}

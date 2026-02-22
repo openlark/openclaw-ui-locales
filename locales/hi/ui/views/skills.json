@@ -1,0 +1,26 @@
+{
+  ">Skills<": ">कौशल<",
+  "Bundled, managed, and workspace skills.": "बंडल, प्रबंधित और वर्कस्पेस कौशल।",
+  "\"Search skills\"": "\"कौशल खोजें\"",
+  "No skills found.": "कोई कौशल नहीं मिला।",
+  "\\} shown": "} दिखाए गए",
+  "\"Installing…\"": "\"इंस्टॉल किया जा रहा है…\"",
+  ">API key<": ">API कुंजी<",
+  "  Save key": " कुंजी सहेजें",
+  
+  "\"Workspace Skills\"": "\"वर्कस्पेस कौशल\"",
+  "\"Built-in Skills\"": "\"अंतर्निहित कौशल\"",
+  "\"Installed Skills\"": "\"इंस्टॉल किए गए कौशल\"",
+  "\"Extra Skills\"": "\"अतिरिक्त कौशल\"",
+  "\"Other Skills\"": "\"अन्य कौशल\"",
+
+
+  "\"blocked by allowlist\"": "\"अनुमति सूची द्वारा अवरुद्ध\"",
+
+  "\"eligible\"": "\"पात्र\"",
+  "\"blocked\"": "\"अवरुद्ध\"",
+
+  ">disabled<": ">अक्षम<",
+  ">Missing: ": ">गुम: ",
+  ">Reason:": ">कारण:"
+}

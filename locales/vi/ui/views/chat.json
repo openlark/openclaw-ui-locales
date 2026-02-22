@@ -1,0 +1,23 @@
+{
+  "Compacting context...": "Đang nén ngữ cảnh...",
+  "Context compacted": "Đã nén ngữ cảnh",
+  "Attachment preview": "Xem trước tệp đính kèm",
+  "Remove attachment": "Xóa tệp đính kèm",
+  "Add a message or paste more images...": "Thêm tin nhắn hoặc dán thêm hình ảnh...",
+  "Message \\(↩ to send, Shift\\+↩ for line breaks, paste images\\)": "Tin nhắn (↩ để gửi, Shift+↩ để xuống dòng, dán hình ảnh)",
+  "Connect to the gateway to start chatting…": "Kết nối với cổng để bắt đầu trò chuyện…",
+  "Loading chat…": "Đang tải cuộc trò chuyện…",
+  "Exit focus mode": "Thoát chế độ tập trung",
+  ">Queued ": ">Đã xếp hàng ",
+  "Image \\(": "Hình ảnh (",
+  "Remove queued message": "Xóa tin nhắn đã xếp hàng",
+  "New messages ": "Tin nhắn mới ",
+  ">Message<": ">Tin nhắn<",
+  "\"Stop\"": "\"Dừng\"",
+  "New session": "Phiên mới",
+  "\"Queue\"": "\"Xếp hàng\"",
+  "\"Send\"": "\"Gửi\"",
+  "Showing last ": "Hiển thị ",
+  "\\} messages": "} tin nhắn cuối",
+  "\\} hidden": "} ẩn"
+}

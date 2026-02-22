@@ -1,0 +1,23 @@
+{
+  "Compacting context...": "Pinapaliit ang konteksto...",
+  "Context compacted": "Pinaliit ang konteksto",
+  "Attachment preview": "Preview ng attachment",
+  "Remove attachment": "Alisin ang attachment",
+  "Add a message or paste more images...": "Magdagdag ng mensahe o mag-paste ng higit pang mga larawan...",
+  "Message \\(↩ to send, Shift\\+↩ for line breaks, paste images\\)": "Mensahe (↩ para ipadala, Shift+↩ para sa line break, mag-paste ng mga larawan)",
+  "Connect to the gateway to start chatting…": "Kumonekta sa gateway para magsimulang mag-chat…",
+  "Loading chat…": "Naglo-load ng chat…",
+  "Exit focus mode": "Lumabas sa focus mode",
+  ">Queued ": ">Naka-queue ",
+  "Image \\(": "Larawan (",
+  "Remove queued message": "Alisin ang naka-queue na mensahe",
+  "New messages ": "Bagong mensahe ",
+  ">Message<": ">Mensahe<",
+  "\"Stop\"": "\"Tumigil\"",
+  "New session": "Bagong session",
+  "\"Queue\"": "\"Queue\"",
+  "\"Send\"": "\"Ipadala\"",
+  "Showing last ": "Ipinapakita ang huling ",
+  "\\} messages": "} na mensahe",
+  "\\} hidden": "} nakatago"
+}

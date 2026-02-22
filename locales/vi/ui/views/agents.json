@@ -1,0 +1,139 @@
+{
+  ">No configured models<": ">Chưa có mô hình nào được cấu hình<",
+  "\\} configured.<": "} đã được cấu hình.<",
+  "No agents found.": "Không tìm thấy tác vụ nào.",
+  ">Select an agent<": ">Chọn một tác vụ<",
+  "Pick an agent to inspect its workspace and tools.": "Chọn một tác vụ để kiểm tra không gian làm việc và công cụ của nó.",
+  "Agent workspace and routing.": "Không gian làm việc và định tuyến của tác vụ.",
+  "\"Tools\"": "\"Công cụ\"",
+
+  ">Overview<": ">Tổng quan<",
+  "Workspace paths and identity metadata.": "Đường dẫn không gian làm việc và siêu dữ liệu danh tính.",
+  ">Workspace<": ">Không gian làm việc<",
+  ">Primary Model<": ">Mô hình chính<",
+  ">Identity Name<": ">Tên danh tính<",
+  ">Default<": ">Mặc định<",
+  ">Identity Emoji<": ">Biểu tượng cảm xúc danh tính<",
+  ">Skills Filter<": ">Bộ lọc Kỹ năng<",
+  ">Filter<": ">Bộ lọc<",
+  ">Model Selection<": ">Lựa chọn Mô hình<",
+  ">Primary model": ">Mô hình chính",
+  " \\(default\\)": " (mặc định)",
+  "Fallbacks \\(comma-separated\\)": "Dự phòng (phân cách bằng dấu phẩy)",
+  "Inherit default \\(": "Kế thừa mặc định (",
+  "\"Inherit default\"": "\"Kế thừa mặc định\"",
+  ">Fallbacks (comma-separated)<": ">Dự phòng (phân cách bằng dấu phẩy)",
+  "\"Save\"": "\"Lưu\"",
+  "\"yes\"": "\"có\"",
+  "\"no\"": "\"không\"",
+  
+  "\"Workspace, identity, and model configuration.\"": "\"Cấu hình không gian làm việc, danh tính và mô hình.\"",
+  "Load channels to see live status.": "Tải kênh để xem trạng thái trực tiếp.",
+  "Gateway-wide channel status snapshot.": "Ảnh chụp nhanh trạng thái kênh trên toàn cổng.",
+  " Last refresh:": " Lần làm mới cuối:",
+  "No channels found.": "Không tìm thấy kênh nào.",
+  "\\} enabled": "} đã bật",
+  "Workspace and scheduling targets.": "Mục tiêu không gian làm việc và lập lịch.",
+  "Gateway cron status.": "Trạng thái cron của cổng.",
+  ">Next wake<": ">Lần đánh thức tiếp theo<",
+  ">Agent Cron Jobs<": ">Công việc định kỳ của Tác vụ<",
+  "Scheduled jobs targeting this agent.": "Công việc theo lịch nhắm mục tiêu tác vụ này.",
+  "No jobs assigned.": "Không có công việc nào được gán.",
+  ">Core Files<": ">Tệp lõi<",
+  "Bootstrap persona, identity, and tool guidance.": "Nhân cách bootstrap, danh tính và hướng dẫn công cụ.",
+  ">Workspace:": ">Không gian làm việc:",
+  "  Load the agent workspace files to edit core instructions.": "  Tải tệp không gian làm việc của tác vụ để chỉnh sửa hướng dẫn lõi.",
+  "No files found.": "Không tìm thấy tệp nào.",
+  "Select a file to edit.": "Chọn một tệp để chỉnh sửa.",
+  "  This file is missing. Saving will create it in the agent workspace.": "  Tệp này bị thiếu. Lưu sẽ tạo nó trong không gian làm việc của tác vụ.",
+  ">Content<": ">Nội dung<",
+  ">missing<": ">thiếu<",  
+
+  
+  "\"Files\"": "\"Tệp\"",
+  "\"Read file contents\"": "\"Đọc nội dung tệp\"",
+  "\"Create or overwrite files\"": "\"Tạo hoặc ghi đè tệp\"",
+  "\"Make precise edits\"": "\"Chỉnh sửa chính xác\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"Tệp vá (OpenAI)\"",
+
+  "\"Runtime\"": "\"Thời gian chạy\"",
+  "\"Run shell commands\"": "\"Chạy lệnh shell\"",
+  "\"Manage background processes\"": "\"Quản lý tiến trình nền\"",
+
+  "\"Web\"": "\"Web\"",
+  "\"Search the web\"": "\"Tìm kiếm trên web\"",
+  "\"Fetch web content\"": "\"Tìm nạp nội dung web\"",
+  
+  "\"Memory\"": "\"Bộ nhớ\"",
+  "\"Semantic search\"": "\"Tìm kiếm ngữ nghĩa\"",
+  "\"Read memory files\"": "\"Đọc tệp bộ nhớ\"",
+  "\"List sessions\"": "\"Liệt kê phiên\"",
+
+  "\"Session history\"": "\"Lịch sử phiên\"",
+  "\"Send to session": "\"Gửi đến phiên",
+  "\"Spawn sub-agent\"": "\"Tạo tác vụ con\"",
+  "\"Session status\"": "\"Trạng thái phiên\"",
+
+  "\"UI\"": "\"Giao diện người dùng\"",
+  "\"Control web browser\"": "\"Điều khiển trình duyệt web\"",
+  "\"Control canvases\"": "\"Điều khiển canvas\"",
+
+  "\"Send messages\"": "\"Gửi tin nhắn\"",
+  
+  "\"Automation\"": "\"Tự động hóa\"",
+  "\"Schedule tasks\"": "\"Lên lịch tác vụ\"",
+
+  "\"Gateway control\"": "\"Điều khiển cổng\"",
+  "\"Nodes \\+ devices\"": "\"Nút + thiết bị\"",
+  "\"List agents\"": "\"Liệt kê tác vụ\"",
+  
+  "\"Media\"": "\"Phương tiện\"",
+  "\"Image understanding\"": "\"Hiểu hình ảnh\"",
+
+  "\"Minimal\"": "\"Tối thiểu\"",
+  "\"Coding\"": "\"Mã hóa\"",
+  "\"Messaging\"": "\"Nhắn tin\"",
+  "\"Full\"": "\"Đầy đủ\"",
+  
+  "\\} selected": "} đã chọn",
+  "\"all skills\"": "\"tất cả kỹ năng\"",
+  
+
+  ">Agent Context<": ">Ngữ cảnh Tác vụ<",
+  "\"no accounts\"": "\"không có tài khoản\"",
+  " connected`": " đã kết nối`",
+  " configured`": " đã cấu hình`",
+  "\"not configured\"": "\"chưa cấu hình\"",
+
+  "\"agent override\"": "\"ghi đè tác vụ\"",
+  "\"global default\"": "\"mặc định toàn cầu\"",
+  "\"default\"": "\"mặc định\"",
+
+  ">Tool Access<": ">Truy cập Công cụ<",
+  "  Profile \\+ per-tool overrides for this agent.": "  Hồ sơ + ghi đè theo từng công cụ cho tác vụ này.",
+  "> enabled.": "> đã bật.",
+
+  "  Use All": "  Sử dụng Tất cả",
+  "  Enable All": "  Bật Tất cả",
+  "  Disable All": "  Tắt Tất cả",
+  "  Reload Config": " Tải lại Cấu hình",
+
+  "  Reload": " Tải lại",
+  
+  "Load the gateway config to adjust tool profiles.": "Tải cấu hình cổng để điều chỉnh hồ sơ công cụ.",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": " Tác vụ này đang sử dụng danh sách cho phép rõ ràng trong cấu hình. Ghi đè công cụ được quản lý trong tab Cấu hình.",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": " Công cụ toàn cục.allow đã được đặt. Ghi đè tác vụ không thể bật các công cụ bị chặn toàn cục.",
+
+  ">Profile<": ">Hồ sơ<",
+  ">Source<": ">Nguồn<",
+  ">unsaved<": ">chưa lưu<",
+
+  ">Quick Presets<": ">Cài đặt sẵn nhanh<",
+  "  Inherit": "  Kế thừa",
+
+  "Per-agent skill allowlist and workspace skills.": "Danh sách cho phép kỹ năng theo từng tác vụ và kỹ năng không gian làm việc.",
+  "Load the gateway config to set per-agent skills.": "Tải cấu hình cổng để đặt kỹ năng cho từng tác vụ.",
+  "This agent uses a custom skill allowlist.": "Tác vụ này sử dụng danh sách cho phép kỹ năng tùy chỉnh.",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "Tất cả các kỹ năng đều được bật. Vô hiệu hóa bất kỳ kỹ năng nào sẽ tạo danh sách cho phép theo từng tác vụ.",
+  "Load skills for this agent to view workspace-specific entries.": "Tải kỹ năng cho tác vụ này để xem các mục cụ thể theo không gian làm việc."
+}

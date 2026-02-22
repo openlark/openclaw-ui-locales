@@ -1,0 +1,139 @@
+{
+  ">No configured models<": ">لا توجد نماذج مهيأة<",
+  "\\} configured.<": "} مهيأة.<",
+  "No agents found.": "لم يتم العثور على وكلاء.",
+  ">Select an agent<": ">اختر وكيلاً<",
+  "Pick an agent to inspect its workspace and tools.": "اختر وكيلاً لفحص مساحة العمل والأدوات الخاصة به.",
+  "Agent workspace and routing.": "مساحة عمل الوكيل والتوجيه.",
+  "\"Tools\"": "\"الأدوات\"",
+
+  ">Overview<": ">نظرة عامة<",
+  "Workspace paths and identity metadata.": "مسارات مساحة العمل والبيانات الوصفية للهوية.",
+  ">Workspace<": ">مساحة العمل<",
+  ">Primary Model<": ">النموذج الأساسي<",
+  ">Identity Name<": ">اسم الهوية<",
+  ">Default<": ">افتراضي<",
+  ">Identity Emoji<": ">رمز تعبيري للهوية<",
+  ">Skills Filter<": ">فلتر المهارات<",
+  ">Filter<": ">فلتر<",
+  ">Model Selection<": ">اختيار النموذج<",
+  ">Primary model": ">النموذج الأساسي",
+  " \\(default\\)": " (افتراضي)",
+  "Fallbacks \\(comma-separated\\)": "الخيارات الاحتياطية (مفصولة بفواصل)",
+  "Inherit default \\(": "وراثة الافتراضي (",
+  "\"Inherit default\"": "\"وراثة الافتراضي\"",
+  ">Fallbacks (comma-separated)<": ">الخيارات الاحتياطية (مفصولة بفواصل)",
+  "\"Save\"": "\"حفظ\"",
+  "\"yes\"": "\"نعم\"",
+  "\"no\"": "\"لا\"",
+  
+  "\"Workspace, identity, and model configuration.\"": "\"تكوين مساحة العمل والهوية والنموذج.\"",
+  "Load channels to see live status.": "قم بتحميل القنوات لرؤية الحالة المباشرة.",
+  "Gateway-wide channel status snapshot.": "لقطة لحالة القنوات على مستوى البوابة.",
+  " Last refresh:": " آخر تحديث:",
+  "No channels found.": "لم يتم العثور على قنوات.",
+  "\\} enabled": "} مفعل",
+  "Workspace and scheduling targets.": "أهداف مساحة العمل والجدولة.",
+  "Gateway cron status.": "حالة كرون البوابة.",
+  ">Next wake<": ">التنبيه التالي<",
+  ">Agent Cron Jobs<": ">مهام كرون الوكيل<",
+  "Scheduled jobs targeting this agent.": "المهام المجدولة التي تستهدف هذا الوكيل.",
+  "No jobs assigned.": "لم يتم تعيين أي مهام.",
+  ">Core Files<": ">الملفات الأساسية<",
+  "Bootstrap persona, identity, and tool guidance.": "توجيه الشخصية الأساسية والهوية والأدوات.",
+  ">Workspace:": ">مساحة العمل:",
+  "  Load the agent workspace files to edit core instructions.": "  قم بتحميل ملفات مساحة عمل الوكيل لتحرير التعليمات الأساسية.",
+  "No files found.": "لم يتم العثور على ملفات.",
+  "Select a file to edit.": "حدد ملفًا للتحرير.",
+  "  This file is missing. Saving will create it in the agent workspace.": "  هذا الملف مفقود. سيؤدي الحفظ إلى إنشائه في مساحة عمل الوكيل.",
+  ">Content<": ">المحتوى<",
+  ">missing<": ">مفقود<",  
+
+  
+  "\"Files\"": "\"الملفات\"",
+  "\"Read file contents\"": "\"قراءة محتويات الملف\"",
+  "\"Create or overwrite files\"": "\"إنشاء أو استبدال الملفات\"",
+  "\"Make precise edits\"": "\"إجراء تعديلات دقيقة\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"تصحيح الملفات (OpenAI)\"",
+
+  "\"Runtime\"": "\"بيئة التشغيل\"",
+  "\"Run shell commands\"": "\"تشغيل أوامر الصدفة\"",
+  "\"Manage background processes\"": "\"إدارة العمليات الخلفية\"",
+
+  "\"Web\"": "\"الويب\"",
+  "\"Search the web\"": "\"البحث في الويب\"",
+  "\"Fetch web content\"": "\"جلب محتوى الويب\"",
+  
+  "\"Memory\"": "\"الذاكرة\"",
+  "\"Semantic search\"": "\"البحث الدلالي\"",
+  "\"Read memory files\"": "\"قراءة ملفات الذاكرة\"",
+  "\"List sessions\"": "\"سرد الجلسات\"",
+
+  "\"Session history\"": "\"سجل الجلسة\"",
+  "\"Send to session": "\"إرسال إلى الجلسة",
+  "\"Spawn sub-agent\"": "\"إنشاء وكيل فرعي\"",
+  "\"Session status\"": "\"حالة الجلسة\"",
+
+  "\"UI\"": "\"واجهة المستخدم\"",
+  "\"Control web browser\"": "\"التحكم في متصفح الويب\"",
+  "\"Control canvases\"": "\"التحكم في اللوحات\"",
+
+  "\"Send messages\"": "\"إرسال الرسائل\"",
+  
+  "\"Automation\"": "\"الأتمتة\"",
+  "\"Schedule tasks\"": "\"جدولة المهام\"",
+
+  "\"Gateway control\"": "\"التحكم في البوابة\"",
+  "\"Nodes \\+ devices\"": "\"العقد + الأجهزة\"",
+  "\"List agents\"": "\"سرد الوكلاء\"",
+  
+  "\"Media\"": "\"الوسائط\"",
+  "\"Image understanding\"": "\"فهم الصور\"",
+
+  "\"Minimal\"": "\"الحد الأدنى\"",
+  "\"Coding\"": "\"البرمجة\"",
+  "\"Messaging\"": "\"المراسلة\"",
+  "\"Full\"": "\"الكامل\"",
+  
+  "\\} selected": "} تم الاختيار",
+  "\"all skills\"": "\"جميع المهارات\"",
+  
+
+  ">Agent Context<": ">سياق الوكيل<",
+  "\"no accounts\"": "\"لا توجد حسابات\"",
+  " connected`": " متصل`",
+  " configured`": " مهيأ`",
+  "\"not configured\"": "\"غير مهيأ\"",
+
+  "\"agent override\"": "\"تجاوز الوكيل\"",
+  "\"global default\"": "\"الافتراضي العام\"",
+  "\"default\"": "\"افتراضي\"",
+
+  ">Tool Access<": ">الوصول إلى الأدوات<",
+  "  Profile \\+ per-tool overrides for this agent.": "  تجاوزات الملف الشخصي وكل أداة لهذا الوكيل.",
+  "> enabled.": "> مفعل.",
+
+  "  Use All": "  استخدام الكل",
+  "  Enable All": "  تمكين الكل",
+  "  Disable All": "  تعطيل الكل",
+  "  Reload Config": " إعادة تحميل التكوين",
+
+  "  Reload": " إعادة تحميل",
+  
+  "Load the gateway config to adjust tool profiles.": "قم بتحميل تكوين البوابة لضبط ملفات تعريف الأدوات.",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "يستخدم هذا الوكيل قائمة سماح صريحة في التكوين. تتم إدارة تجاوزات الأدوات في علامة تبويب التكوين.",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "تم تعيين tools.allow العام. لا يمكن لتجاوزات الوكيل تمكين الأدوات المحظورة عالميًا.",
+
+  ">Profile<": ">الملف الشخصي<",
+  ">Source<": ">المصدر<",
+  ">unsaved<": ">غير محفوظ<",
+
+  ">Quick Presets<": ">إعدادات مسبقة سريعة<",
+  "  Inherit": "  وراثة",
+
+  "Per-agent skill allowlist and workspace skills.": "قائمة سماح المهارات لكل وكيل ومهارات مساحة العمل.",
+  "Load the gateway config to set per-agent skills.": "قم بتحميل تكوين البوابة لتعيين المهارات لكل وكيل.",
+  "This agent uses a custom skill allowlist.": "يستخدم هذا الوكيل قائمة سماح مخصصة للمهارات.",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "جميع المهارات مفعلة. سيؤدي تعطيل أي مهارة إلى إنشاء قائمة سماح لكل وكيل.",
+  "Load skills for this agent to view workspace-specific entries.": "قم بتحميل مهارات هذا الوكيل لعرض الإدخالات الخاصة بمساحة العمل."
+}

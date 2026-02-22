@@ -1,0 +1,91 @@
+{
+  "Channel health": "ఛానెల్ ఆరోగ్యం",
+  "Channel status snapshots from the gateway.": "గేట్‌వే నుండి ఛానెల్ స్థితి స్నాప్‌షాట్‌లు.",
+  "No snapshot yet.": "ఇంకా స్నాప్‌షాట్ లేదు.",
+  "Channel status and configuration.": "ఛానెల్ స్థితి మరియు కాన్ఫిగరేషన్.",
+  "\"Yes\"": "\"అవును\"",
+  "\"Active\"": "\"యాక్టివ్\"",
+  "\"No\"": "\"కాదు\"",
+  ">Running<": ">రన్ అవుతోంది<",
+  ">Connected<": ">కనెక్ట్ చేయబడింది<",
+
+  
+  "Schema unavailable. Use Raw.": "స్కీమా అందుబాటులో లేదు. రాను ఉపయోగించండి.",
+  "Channel config schema unavailable.": "ఛానెల్ కాన్ఫిగ్ స్కీమా అందుబాటులో లేదు.",
+  "Loading config schema…": "కాన్ఫిగ్ స్కీమా లోడ్ అవుతోంది…",
+
+  ">Configured<": ">కాన్ఫిగర్ చేయబడింది<",
+  ">Linked<": ">లింక్ చేయబడింది<",
+  ">Last start<": ">చివరి ప్రారంభం<",
+  ">Last probe<": ">చివరి ప్రోబ్<",
+  ">Last connect<": ">చివరి కనెక్ట్<",
+  ">Last message<": ">చివరి సందేశం<",
+  ">Last inbound<": ">చివరి ఇన్‌బౌండ్<",
+  ">Auth age<": ">ప్రామాణీకరణ వయస్సు<",
+  ">Mode<": ">మోడ్<",
+  ">Credential<": ">క్రెడెన్షియల్<",
+  ">Public Key<": ">పబ్లిక్ కీ<",
+  ">Audience<": ">ప్రేక్షకులు<",
+  ">Profile<": ">ప్రొఫైల్<",
+
+  "No profile set. Click \"Edit Profile\" to add your name, bio, and avatar.": "ప్రొఫైల్ సెట్ చేయబడలేదు. మీ పేరు, బయో మరియు అవతార్‌ను జోడించడానికి \"ప్రొఫైల్‌ని సవరించు\" క్లిక్ చేయండి.",
+  "\"Saving…\"": "\"సేవ్ అవుతోంది…\"",
+  "\"Save\"": "\"సేవ్ చేయండి\"",
+  "  probe": "  ప్రోబ్",
+  
+  "  Probe": "  ప్రోబ్",
+  "\"ok\" \\:": "\"సరే\" :",
+  "\"failed\"": "\"విఫలమైంది\"",
+  
+  "Decentralized DMs via Nostr relays \\(NIP-04\\).": "Nostr రిలేల ద్వారా వికేంద్రీకృత DMలు (NIP-04).",
+
+
+  "Chat API webhook status and channel configuration.": "చాట్ API వెబ్‌హుక్ స్థితి మరియు ఛానెల్ కాన్ఫిగరేషన్.",
+  
+  "macOS bridge status and channel configuration.": "macOS బ్రిడ్జ్ స్థితి మరియు ఛానెల్ కాన్ఫిగరేషన్.",
+
+  
+  ">Edit Profile<": ">ప్రొఫైల్‌ని సవరించు<",
+  ">Account: ": ">ఖాతా: ",
+  
+  "\"Username\"": "\"వినియోగదారు పేరు\"",
+  "\"Short username \\(": "\"చిన్న వినియోగదారు పేరు (",
+  "\"Display Name\"": "\"ప్రదర్శన పేరు\"",
+  "Your full display name": "మీ పూర్తి ప్రదర్శన పేరు",
+  "\"Bio\"": "\"బయో\"",
+  "Tell people about yourself...": "మీ గురించి వ్యక్తులకు చెప్పండి...",
+  "\"Avatar URL\"": "\"అవతార్ URL\"",
+  "A brief bio or description": "చిన్న బయో లేదా వివరణ",
+  "\"Banner URL\"": "\"బ్యానర్ URL\"",
+  "HTTPS URL to your profile picture": " మీ ప్రొఫైల్ చిత్రానికి HTTPS URL",
+  "HTTPS URL to a banner image": "బ్యానర్ చిత్రానికి HTTPS URL",
+  "\"Website\"": "\"వెబ్‌సైట్\"",
+  "Your personal website": "మీ వ్యక్తిగత వెబ్‌సైట్",
+  "\"NIP-05 Identifier\"": "\"NIP-05 ఐడెంటిఫైయర్\"",
+  "\"Verifiable identifier ": "\"ధృవీకరించదగిన గుర్తింపు ",
+  "\"Lightning Address\"": "\"లైట్నింగ్ చిరునామా\"",
+  "\"Lightning address for tips ": "\"చిట్కాల కోసం లైట్నింగ్ చిరునామా ",
+  "\"Saving...\"": "\"సేవ్ అవుతోంది...\"",
+  "Save & Publish": "సేవ్ చేసి ప్రచురించండి",
+  "\"Importing...\"": "\"దిగుమతి అవుతోంది...\"",
+  "\"Import from Relays\"": "\"రిలేల నుండి దిగుమతి చేయండి\"",
+  "\"Hide Advanced\"": "\"అధునాతన దాచు\"",
+  "\"Show Advanced\"": "\"అధునాతన చూపించు\"",
+  "  You have unsaved changes": "  మీరు సేవ్ చేయని మార్పులు ఉన్నాయి",
+
+  ">Display Name<": ">ప్రదర్శన పేరు<",
+  ">About<": ">గురించి<",
+
+  ">Accounts ": ">ఖాతాలు ",
+
+  
+  "signal-cli status and channel configuration.": "signal-cli స్థితి మరియు ఛానెల్ కాన్ఫిగరేషన్.",
+  ">Base URL<": ">బేస్ URL<",
+
+  
+  "Socket mode status and channel configuration.": "సాకెట్ మోడ్ స్థితి మరియు ఛానెల్ కాన్ఫిగరేషన్.",
+  
+  "Bot status and channel configuration.": "బాట్ స్థితి మరియు ఛానెల్ కాన్ఫిగరేషన్.",
+  
+  "Link WhatsApp Web and monitor connection health.": "WhatsApp Webని లింక్ చేయండి మరియు కనెక్షన్ ఆరోగ్యాన్ని పర్యవేక్షించండి."
+}

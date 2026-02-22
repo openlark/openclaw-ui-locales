@@ -1,0 +1,91 @@
+{
+  ">Nodes<": ">العقد<",
+  "Paired devices and live links.": "الأجهزة المقترنة والروابط المباشرة.",
+  "No nodes found.": "لم يتم العثور على عقد.",
+
+  ">Devices<": ">الأجهزة<",
+  "Pairing requests \\+ role tokens.": "طلبات الاقتران + رموز الدور.",
+  "\"Loading…\" : \"Refresh\"\\}": "\"جارٍ التحميل…\" : \"تحديث\"}",
+  ">Pending<": ">معلقة<",
+  ">Paired<": ">مقترنة<",
+  "No paired devices.": "لا توجد أجهزة مقترنة.",
+
+  " · requested ": " · مطلوب ",
+  "   Approve": "   موافقة",
+  "   Reject": "  رفض",
+
+  ">Tokens: none<": ">الرموز: لا يوجد<",
+  "   Rotate": "  تدوير",
+  "   Revoke": "  إبطال",
+
+  ">Exec node binding<": ">ربط عقدة التنفيذ<",
+  "Pin agents to a specific node when using <span class=\"mono\">exec host=node</span>.": "قم بتثبيت الوكلاء على عقدة محددة عند استخدام <span class=\"mono\">exec host=node</span>.",
+  "Switch the Config tab to <strong>Form<\/strong> mode to edit bindings here.": "قم بتبديل علامة تبويب التكوين إلى وضع <strong>النموذج<\/strong> لتحرير الروابط هنا.",
+  "Load config to edit bindings.": "قم بتحميل التكوين لتحرير الروابط.",
+  "\"Load config\"": "\"تحميل التكوين\"",
+  ">Default binding<": ">الربط الافتراضي<",
+  "Used when agents do not override a node binding.": "يستخدم عندما لا تتجاوز الوكلاء ربط العقدة.",
+  ">Any node<": ">أي عقدة<",
+  "No nodes with system.run available.": "لا توجد عقد بها system.run متاحة.",
+
+  ">Target<": ">الهدف<",
+  " Gateway edits local approvals; node edits the selected node.": " البوابة تعدل الموافقات المحلية؛ العقدة تعدل العقدة المحددة.",
+  
+  ">Host<": ">المضيف<",
+  ">Security<": ">الأمان<",
+  "\"default agent\"": "\"الوكيل الافتراضي\"",
+  "\"agent\"\\}": "\"وكيل\"}",
+  "`uses default \\(": "`يستخدم الافتراضي (",
+  "`Using default \\(": "`استخدام الافتراضي (",
+  "`Override \\(": "`تجاوز (",
+  " \"any\"\\}": " \"أي\"}",
+  ": `override: ": ": `تجاوز:",
+  ">Binding<": ">الربط<",
+  "\"paired\" : \"unpaired\"\\}": "\"مقترن\" : \"غير مقترن\"}",
+  "\"connected\" : \"offline\"\\}": "\"متصل\" : \"غير متصل\"}",
+  
+  
+  "\"Deny\"": "\"رفض\"",
+  "\"Allowlist\"": "\"قائمة السماح\"",
+  "\"Off\"": "\"إيقاف\"",
+  "\"On miss\"": "\"عند الخطأ\"",
+  "\"Always\"": "\"دائمًا\"",
+
+  ">Exec approvals<": ">موافقات التنفيذ<",
+  "Allowlist and approval policy for \\<span class=\"mono\">exec host=gateway/node\\</span>.": "سياسة قائمة السماح والموافقة لـ <span class=\"mono\">exec host=gateway/node</span>.",
+  "\"Load approvals\"": "\"تحميل الموافقات\"",
+  "Load exec approvals to edit allowlists.":"قم بتحميل موافقات التنفيذ لتحرير قوائم السماح.",
+  "Gateway edits local approvals; node edits the selected node.": "البوابة تعدل الموافقات المحلية؛ العقدة تعدل العقدة المحددة.",
+
+  ">Gateway<": ">البوابة<",
+  ">Node<": ">العقدة<",
+  ">Select node<": ">اختر عقدة<",
+  "No nodes advertise exec approvals yet.": "لا توجد عقد تعلن عن موافقات التنفيذ بعد.",
+
+  ">Scope<": ">النطاق<",
+  "  Defaults": "  الإعدادات الافتراضية",
+
+  "\"Default security mode.\"": "\"وضع الأمان الافتراضي.\"",
+  "`Default: ": "`الافتراضي: ",
+  "  Use default": "  استخدام الافتراضي",
+  "\"Default prompt policy.\"": "\"سياسة المطالبة الافتراضية.\"",
+  ">Ask<": ">اسأل<",
+  ">Ask fallback<": ">اسأل احتياطيًا<",
+  "Applied when the UI prompt is unavailable.": "يتم تطبيقه عندما لا تكون مطالبة واجهة المستخدم متاحة.",
+  ">Fallback<": ">الخيار الاحتياطي<",
+
+  ">Auto-allow skill CLIs<": ">السماح التلقائي بواجهات CLI للمهارات<",
+  "Allow skill executables listed by the Gateway.": "السماح للملفات التنفيذية للمهارات المدرجة من قبل البوابة.",
+  "\"on\" \\: \"off\"\\}": "\"تشغيل\" : \"إيقاف\"}",
+  ": `Override \\(": ": `تجاوز (",
+
+  
+  ">Allowlist<": ">قائمة السماح<",
+  "Case-insensitive glob patterns.": "أنماط glob غير حساسة لحالة الأحرف.",
+  "  Add pattern": "  إضافة نمط",
+  ">Pattern<": ">النمط<",
+  "No allowlist entries yet.": "لا توجد إدخالات في قائمة السماح بعد.",
+  "\"New pattern\"": "\"نمط جديد\"",
+  ">Last used: ": ">آخر استخدام:",
+  "  Remove": "  إزالة"
+}

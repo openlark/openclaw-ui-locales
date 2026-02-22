@@ -1,0 +1,17 @@
+{
+  ">Snapshots<": ">స్నాప్‌షాట్‌లు<",
+  "Status, health, and heartbeat data.": "స్థితి, ఆరోగ్యం మరియు హార్ట్‌బీట్ డేటా.",
+  " Security audit:": " భద్రతా ఆడిట్:",
+  "\\}. Run": "}. అమలు చేయండి",
+  "> for details.": "> వివరాల కోసం.",
+  ">Last heartbeat<": ">చివరి హార్ట్‌బీట్<",
+  ">Manual RPC<": ">మాన్యువల్ RPC<",
+  "Send a raw gateway method with JSON params.": "JSON పారామితులతో రా గేట్‌వే పద్ధతిని పంపండి.",
+  ">Method<": ">పద్ధతి<",
+  ">Params \\(JSON\\)<": ">పారామితులు (JSON)<",
+  ">Models<": ">మోడల్‌లు<",
+  ">Call<": ">కాల్<",
+  "Catalog from models.list.": "models.list నుండి కేటలాగ్.",
+  ">Event Log<": ">ఈవెంట్ లాగ్<",
+  "Latest gateway events.": "తాజా గేట్‌వే ఈవెంట్‌లు."
+}

@@ -1,0 +1,139 @@
+{
+  ">No configured models<": ">Walang naka-configure na modelo<",
+  "\\} configured.<": "} naka-configure.<",
+  "No agents found.": "Walang nakitang agent.",
+  ">Select an agent<": ">Pumili ng agent<",
+  "Pick an agent to inspect its workspace and tools.": "Pumili ng agent para siyasatin ang workspace at mga tool nito.",
+  "Agent workspace and routing.": "Workspace at routing ng agent.",
+  "\"Tools\"": "\"Mga Tool\"",
+
+  ">Overview<": ">Pangkalahatang-ideya<",
+  "Workspace paths and identity metadata.": "Mga path ng workspace at metadata ng pagkakakilanlan.",
+  ">Workspace<": ">Workspace<",
+  ">Primary Model<": ">Pangunahing Modelo<",
+  ">Identity Name<": ">Pangalan ng Pagkakakilanlan<",
+  ">Default<": ">Default<",
+  ">Identity Emoji<": ">Emoji ng Pagkakakilanlan<",
+  ">Skills Filter<": ">Filter ng Skill<",
+  ">Filter<": ">Filter<",
+  ">Model Selection<": ">Pagpili ng Modelo<",
+  ">Primary model": ">Pangunahing modelo",
+  " \\(default\\)": " (default)",
+  "Fallbacks \\(comma-separated\\)": "Mga fallback (pinaghihiwalay ng kuwit)",
+  "Inherit default \\(": "Magmana ng default (",
+  "\"Inherit default\"": "\"Magmana ng default\"",
+  ">Fallbacks (comma-separated)<": ">Mga Fallback (pinaghihiwalay ng kuwit)",
+  "\"Save\"": "\"I-save\"",
+  "\"yes\"": "\"oo\"",
+  "\"no\"": "\"hindi\"",
+  
+  "\"Workspace, identity, and model configuration.\"": "\"Workspace, pagkakakilanlan, at configuration ng modelo.\"",
+  "Load channels to see live status.": "I-load ang mga channel para makita ang live na katayuan.",
+  "Gateway-wide channel status snapshot.": "Snapshot ng katayuan ng channel sa buong gateway.",
+  " Last refresh:": " Huling refresh:",
+  "No channels found.": "Walang nakitang channel.",
+  "\\} enabled": "} pinagana",
+  "Workspace and scheduling targets.": "Mga target ng workspace at pag-iiskedyul.",
+  "Gateway cron status.": "Katayuan ng cron ng gateway.",
+  ">Next wake<": ">Susunod na wake<",
+  ">Agent Cron Jobs<": ">Agent Cron Jobs<",
+  "Scheduled jobs targeting this agent.": "Mga naka-iskedyul na trabaho na naka-target sa agent na ito.",
+  "No jobs assigned.": "Walang nakatalagang trabaho.",
+  ">Core Files<": ">Core Files<",
+  "Bootstrap persona, identity, and tool guidance.": "Bootstrap persona, pagkakakilanlan, at gabay sa tool.",
+  ">Workspace:": ">Workspace:",
+  "  Load the agent workspace files to edit core instructions.": "  I-load ang mga agent workspace file para i-edit ang core instructions.",
+  "No files found.": "Walang nakitang file.",
+  "Select a file to edit.": "Pumili ng file na i-e-edit.",
+  "  This file is missing. Saving will create it in the agent workspace.": "  Nawawala ang file na ito. Ang pag-save ay lilikha nito sa agent workspace.",
+  ">Content<": ">Nilalaman<",
+  ">missing<": ">nawawala<",  
+
+  
+  "\"Files\"": "\"Mga File\"",
+  "\"Read file contents\"": "\"Basahin ang nilalaman ng file\"",
+  "\"Create or overwrite files\"": "\"Gumawa o mag-overwrite ng mga file\"",
+  "\"Make precise edits\"": "\"Gumawa ng tumpak na pag-edit\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"I-patch ang mga file (OpenAI)\"",
+
+  "\"Runtime\"": "\"Runtime\"",
+  "\"Run shell commands\"": "\"Magpatakbo ng shell commands\"",
+  "\"Manage background processes\"": "\"Pamahalaan ang mga background process\"",
+
+  "\"Web\"": "\"Web\"",
+  "\"Search the web\"": "\"Maghanap sa web\"",
+  "\"Fetch web content\"": "\"Kunin ang nilalaman ng web\"",
+  
+  "\"Memory\"": "\"Memorya\"",
+  "\"Semantic search\"": "\"Semantic na paghahanap\"",
+  "\"Read memory files\"": "\"Basahin ang mga memory file\"",
+  "\"List sessions\"": "\"Ilista ang mga session\"",
+
+  "\"Session history\"": "\"Kasaysayan ng session\"",
+  "\"Send to session": "\"Ipadala sa session",
+  "\"Spawn sub-agent\"": "\"Lumikha ng sub-agent\"",
+  "\"Session status\"": "\"Katayuan ng session\"",
+
+  "\"UI\"": "\"UI\"",
+  "\"Control web browser\"": "\"Kontrolin ang web browser\"",
+  "\"Control canvases\"": "\"Kontrolin ang mga canvas\"",
+
+  "\"Send messages\"": "\"Magpadala ng mga mensahe\"",
+  
+  "\"Automation\"": "\"Automation\"",
+  "\"Schedule tasks\"": "\"Mag-iskedyul ng mga gawain\"",
+
+  "\"Gateway control\"": "\"Kontrol ng gateway\"",
+  "\"Nodes \\+ devices\"": "\"Mga Node + device\"",
+  "\"List agents\"": "\"Ilista ang mga agent\"",
+  
+  "\"Media\"": "\"Media\"",
+  "\"Image understanding\"": "\"Pag-unawa sa larawan\"",
+
+  "\"Minimal\"": "\"Minimal\"",
+  "\"Coding\"": "\"Coding\"",
+  "\"Messaging\"": "\"Pagmemensahe\"",
+  "\"Full\"": "\"Buong\"",
+  
+  "\\} selected": "} napili",
+  "\"all skills\"": "\"lahat ng skill\"",
+  
+
+  ">Agent Context<": ">Konteksto ng Agent<",
+  "\"no accounts\"": "\"walang account\"",
+  " connected`": " nakakonekta`",
+  " configured`": " naka-configure`",
+  "\"not configured\"": "\"hindi naka-configure\"",
+
+  "\"agent override\"": "\"agent override\"",
+  "\"global default\"": "\"global default\"",
+  "\"default\"": "\"default\"",
+
+  ">Tool Access<": ">Access sa Tool<",
+  "  Profile \\+ per-tool overrides for this agent.": "  Profile + per-tool override para sa agent na ito.",
+  "> enabled.": "> pinagana.",
+
+  "  Use All": "  Gamitin Lahat",
+  "  Enable All": "  Paganahin Lahat",
+  "  Disable All": "  Huwag Paganahin Lahat",
+  "  Reload Config": "  I-reload ang Config",
+
+  "  Reload": "  I-reload",
+  
+  "Load the gateway config to adjust tool profiles.": "I-load ang gateway config para ayusin ang mga tool profile.",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "Ang agent na ito ay gumagamit ng explicit allowlist sa config. Ang mga tool override ay pinamamahalaan sa Config tab.",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "Ang global tools.allow ay nakatakda. Hindi maaaring paganahin ng agent override ang mga tool na globally na-block.",
+
+  ">Profile<": ">Profile<",
+  ">Source<": ">Pinagmulan<",
+  ">unsaved<": ">hindi nai-save<",
+
+  ">Quick Presets<": ">Mabilisang Preset<",
+  "  Inherit": "  Magmana",
+
+  "Per-agent skill allowlist and workspace skills.": "Allowlist ng skill bawat agent at mga skill sa workspace.",
+  "Load the gateway config to set per-agent skills.": "I-load ang gateway config para itakda ang mga skill bawat agent.",
+  "This agent uses a custom skill allowlist.": "Gumagamit ang agent na ito ng custom na skill allowlist.",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "Lahat ng skill ay pinagana. Ang hindi pagpapagana ng anumang skill ay lilikha ng allowlist bawat agent.",
+  "Load skills for this agent to view workspace-specific entries.": "I-load ang mga skill para sa agent na ito para tingnan ang mga entry na partikular sa workspace."
+}

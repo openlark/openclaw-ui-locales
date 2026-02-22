@@ -54,7 +54,7 @@
   "Inspect active sessions and adjust per-session defaults.": "활성 세션을 검사하고 세션별 기본값을 조정합니다.",
   "\"Usage\"": "\"사용량\"",
   "See where tokens go, when sessions spike, and what drives cost.": "토큰 사용처, 세션 급증 시기 및 비용 발생 요인을 확인합니다.",
-  "\"Cron Jobs\"": "\"Cron 작업\"",
+  "\"Cron Jobs\"": "\"정기 작업\"",
   "Schedule wakeups and recurring agent runs.": "웨이크업 및 반복 에이전트 실행을 예약합니다.",
   "\"Agent\"": "\"에이전트\"",
   "\"Agents\"": "\"에이전트\"",

@@ -47,39 +47,31 @@ export async function execLocale() {
   // await open(openclawDir)
 
   const options: Array<any> = [
-    // 简体中文 Chinese Simplified
-    { label: '简体中文', value: 'zh-CN' },
-    // 繁体中文 Chinese Traditional
-    { label: '繁體中文', value: 'zh-TW' },
-    // 日语 Japanese
-    { label: '日本語', value: 'ja' },
-    // 韩语 Korean
-    { label: '한국어', value: 'ko' },
-    // 法语 French
-    { label: 'Français', value: 'fr' },
-    // 德语 German 
-    { label: 'Deutsch', value: 'de' },
-    // 意大利语 Italian 
-    { label: 'Italiano', value: 'it' },
-    // 葡萄牙语 Portuguese
-    { label: 'Português', value: 'pt' },
-    // 西班牙语 Spanish
-    { label: 'Español', value: 'es' },
-    // 孟加拉语 Bangla
-    { label: 'বাংলা', value: 'bn' },
-    // 越南语 Vietnamese
-    { label: 'Tiếng Việt', value: 'vi' },
-    // 菲律宾语 Filipino
-    { label: 'Filipino', value: 'fi' },
-    // 泰卢固语 Telugu
-    { label: 'ప్రామాణిక', value: 'te' },
-    // 印地语 Hindi
-    { label: 'तेलुगु', value: 'hi' },
+    { label: '简体中文 (Chinese Simplified)', value: 'zh-CN' },
+    { label: '繁體中文 (Chinese Traditional)', value: 'zh-TW' },
+    { label: 'English (English 英语)', value: 'en' },
+    { label: '日本語 (Japanese 日语)', value: 'ja' },
+    { label: '한국어 (Korean 韩语)', value: 'ko' },
+    { label: 'Français (French 法语)', value: 'fr' },
+    { label: 'Deutsch (German 德语)', value: 'de' },
+    { label: 'Italiano(Italian 意大利语)', value: 'it' },
+    { label: 'Português (Portuguese 葡萄牙语)', value: 'pt' },
+    { label: 'Português Brazilian (Portuguese Brazilian 巴西葡萄牙语)', value: 'pt-BR' },
+    { label: 'Español (Spanish 西班牙语)', value: 'es' },
+    { label: 'Tiếng Việt (Vietnamese 越南语)', value: 'vi' },
+    { label: 'Filipino(Filipino 菲律宾语)', value: 'fi' },
+    { label: 'বাংলা (Bangla 孟加拉语)', value: 'bn' },
+    { label: 'ప్రామాణిక (Telugu 泰卢固语)', value: 'te' },
+    { label: 'तेलुगु (Hindi 印地语)', value: 'hi' },
+    { label: 'العربية (Arabic 阿拉伯语)', value: 'ar' },
   ]
   const language = await select({
     message: 'Please select a language.',
     options,
   })
+
+  if (!language) return
+  if (typeof language === 'symbol') return
 
   // hanlde ControlUI
   handleControlUIContents({
@@ -96,7 +88,7 @@ function handleControlUIContents(options: OpenClawHanldeOptions) {
   // Locale json file for language
   const langJsonDir: string = `./locales/${options.answers.language}`
 
-  if (!fs.existsSync(langJsonDir)) {
+  if (options.answers.language !== 'en' && !fs.existsSync(langJsonDir)) {
     spinner.fail(`${langJsonDir} path does not exist`)
     spinner.stop()
     process.exit(0)
@@ -111,11 +103,23 @@ function handleControlUIContents(options: OpenClawHanldeOptions) {
 
   for (let i = 0; i < assetsFiles.length; i++) {
     const file: string = assetsFiles[i]
+    const jsTmpFileName = path.join(uiAssetsTmpDir, file)
+    let jsFileName: string = path.join(uiAssetsDir, file)
 
     // Find js file (index-xxxxxx.js)
     if (file.indexOf('index-') > -1 && path.extname(file) === '.js') {
-      let jsFileName: string = path.join(uiAssetsDir, file)
-      const jsTmpFileName = path.join(uiAssetsTmpDir, file)
+      if (options.answers.language === 'en') {
+        if (fs.existsSync(jsTmpFileName)) {
+          fs.copyFileSync(jsTmpFileName, jsFileName)
+
+          spinner.color = 'green'
+          spinner.succeed(`Conversion successed.`)
+          spinner.stop()
+        }
+
+        continue
+      }
+
       let readFileName: string = jsFileName
 
       if (fs.existsSync(jsTmpFileName)) readFileName = jsTmpFileName
@@ -155,11 +159,11 @@ function handleControlUIContents(options: OpenClawHanldeOptions) {
         }
       })
 
+      fs.writeFileSync(jsFileName, jsContent)
+
       spinner.color = 'green'
       spinner.succeed(`Conversion successed.`)
       spinner.stop()
-
-      fs.writeFileSync(jsFileName, jsContent)
     }
   }
 }

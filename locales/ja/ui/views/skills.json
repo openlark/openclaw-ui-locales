@@ -1,0 +1,26 @@
+{
+  ">Skills<": ">スキル<",
+  "Bundled, managed, and workspace skills.": "バンドル、管理、およびワークスペーススキル。",
+  "\"Search skills\"": "\"スキルを検索\"",
+  "No skills found.": "スキルが見つかりません。",
+  "\\} shown": "} 件表示",
+  "\"Installing…\"": "\"インストール中…\"",
+  ">API key<": ">APIキー<",
+  "  Save key": " キーを保存",
+  
+  "\"Workspace Skills\"": "\"ワークスペーススキル\"",
+  "\"Built-in Skills\"": "\"組み込みスキル\"",
+  "\"Installed Skills\"": "\"インストール済みスキル\"",
+  "\"Extra Skills\"": "\"追加スキル\"",
+  "\"Other Skills\"": "\"その他のスキル\"",
+
+
+  "\"blocked by allowlist\"": "\"許可リストによりブロック済み\"",
+
+  "\"eligible\"": "\"利用可能\"",
+  "\"blocked\"": "\"ブロック済み\"",
+
+  ">disabled<": ">無効<",
+  ">Missing: ": ">不足：",
+  ">Reason:": ">理由："
+}

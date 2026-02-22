@@ -1,8 +1,0 @@
-{
-  "\"gateway client stopped\"": "\"máy khách cổng đã dừng\"",
-  "gateway closed \\(": "cổng đã đóng (",
-  "\"connect failed\"": "\"kết nối thất bại\"",
-  " event handler error:": " lỗi trình xử lý sự kiện:",
-  "\"request failed\"": "\"yêu cầu thất bại\"",
-  "\"gateway not connected\"": "\"cổng chưa kết nối\""
-}

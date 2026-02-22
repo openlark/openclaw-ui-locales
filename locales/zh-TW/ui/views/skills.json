@@ -1,0 +1,26 @@
+{
+  ">Skills<": ">技能<",
+  "Bundled, managed, and workspace skills.": "捆綁、管理和工作區技能。",
+  "\"Search skills\"": "\"搜索技能\"",
+  "No skills found.": "未找到技能。",
+  "\\} shown": "} 項顯示",
+  "\"Installing…\"": "\"安裝中…\"",
+  ">API key<": ">API密鑰<",
+  "  Save key": " 保存密鑰",
+  
+  "\"Workspace Skills\"": "\"工作區技能\"",
+  "\"Built-in Skills\"": "\"内置技能\"",
+  "\"Installed Skills\"": "\"已安裝技能\"",
+  "\"Extra Skills\"": "\"額外技能\"",
+  "\"Other Skills\"": "\"其他技能\"",
+
+
+  "\"blocked by allowlist\"": "\"被白名單阻止\"",
+
+  "\"eligible\"": "\"符合條件\"",
+  "\"blocked\"": "\"被阻止\"",
+
+  ">disabled<": ">已禁用<",
+  ">Missing: ": ">缺少：",
+  ">Reason:": ">理由："
+}

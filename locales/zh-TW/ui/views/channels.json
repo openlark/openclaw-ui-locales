@@ -1,0 +1,91 @@
+{
+  "Channel health": "渠道健康狀況",
+  "Channel status snapshots from the gateway.": "來自網關的渠道狀态快照。",
+  "No snapshot yet.": "還沒有快照。",
+  "Channel status and configuration.": "渠道狀态和配置。",
+  "\"Yes\"": "\"是\"",
+  "\"Active\"": "\"活躍\"",
+  "\"No\"": "\"否\"",
+  ">Running<": ">運行中<",
+  ">Connected<": ">已連接<",
+
+  
+  "Schema unavailable. Use Raw.": "架構不可用。使用原始數據。",
+  "Channel config schema unavailable.": "渠道配置模式不可用。",
+  "Loading config schema…": "正在加載配置架構…",
+
+  ">Configured<": ">配置<",
+  ">Linked<": ">鏈接<",
+  ">Last start<": ">最後啓動<",
+  ">Last probe<": ">最後探測<",
+  ">Last connect<": ">上次連接<",
+  ">Last message<": ">最後一條消息<",
+  ">Last inbound<": ">最後入站<",
+  ">Auth age<": ">認證年齡<",
+  ">Mode<": ">模式<",
+  ">Credential<": ">憑證<",
+  ">Public Key<": ">公鑰<",
+  ">Audience<": ">受衆<",
+  ">Profile<": ">個人資料<",
+
+  "No profile set. Click \"Edit Profile\" to add your name, bio, and avatar.": "未設置個人資料。點擊“編輯個人資料”添加您的姓名、個人簡介和頭像。",
+  "\"Saving…\"": "\"保存中…\"",
+  "\"Save\"": "\"保存\"",
+  "  probe": " 探測",
+  
+  "  Probe": " 探測",
+  "\"ok\" \\:": "\"成功\" :",
+  "\"failed\"": "\"失敗\"",
+  
+  "Decentralized DMs via Nostr relays \\(NIP-04\\).": "通過 Nostr 中繼（NIP-04）進行去中心化私信。",
+
+
+  "Chat API webhook status and channel configuration.": "聊天API Webhook狀态和渠道配置。",
+  
+  "macOS bridge status and channel configuration.": "macOS 橋接狀态和渠道配置。",
+
+  
+  ">Edit Profile<": ">編輯個人資料<",
+  ">Account: ": ">賬戶: ",
+  
+  "\"Username\"": "\"用戶名\"",
+  "\"Short username \\(": "\"短用戶名 (",
+  "\"Display Name\"": "\"顯示名稱\"",
+  "Your full display name": "您的完整顯示名稱",
+  "\"Bio\"": "\"個人簡介\"",
+  "Tell people about yourself...": "向人們介紹你自己...",
+  "\"Avatar URL\"": "\"頭像網址\"",
+  "A brief bio or description": "簡短的個人簡介或描述",
+  "\"Banner URL\"": "\"Banner網址\"",
+  "HTTPS URL to your profile picture": " 您的個人資料圖片的HTTPS網址",
+  "HTTPS URL to a banner image": "Banner圖片的HTTPS網址",
+  "\"Website\"": "\"網址\"",
+  "Your personal website": "您的個人網站",
+  "\"NIP-05 Identifier\"": "\"NIP-05 标識符\"",
+  "\"Verifiable identifier ": "\"可驗證标識符 ",
+  "\"Lightning Address\"": "\"閃電地址\"",
+  "\"Lightning address for tips ": "\"閃電地址提示 ",
+  "\"Saving...\"": "\"保存中...\"",
+  "Save & Publish": "保存并發布",
+  "\"Importing...\"": "\"導入中...\"",
+  "\"Import from Relays\"": "\"從Relays導入\"",
+  "\"Hide Advanced\"": "\"隐藏高級選項\"",
+  "\"Show Advanced\"": "\"顯示高級選項\"",
+  "  You have unsaved changes": "  您有未保存的更改",
+
+  ">Display Name<": ">顯示名稱<",
+  ">About<": ">關于<",
+
+  ">Accounts ": ">賬戶 ",
+
+  
+  "signal-cli status and channel configuration.": "signal-cli狀态和渠道配置。",
+  ">Base URL<": ">基本網址<",
+
+  
+  "Socket mode status and channel configuration.": "套接字模式狀态和渠道配置。",
+  
+  "Bot status and channel configuration.": "機器人狀态和頻道配置。",
+  
+  "Link WhatsApp Web and monitor connection health.": "連接WhatsApp網頁版并監控連接狀态。"
+}

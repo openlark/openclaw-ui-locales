@@ -1,0 +1,21 @@
+{
+  "Active session keys and per-session overrides.": "活動會話密鑰和每會話的覆蓋設置。",
+  "Active within \\(minutes\\)": "活動時間（分鍾）",
+  ">Include global<": ">包含全局<",
+  ">Include unknown<": ">包含未知<",
+  "No sessions found.": "未找到會話。",
+  "\"\\(optional\\)\"": "\"（可選）\"",
+  "\\((multiple)\\)": "（多選）",
+  "  Delete": "  删除",
+  ">Limit<": ">限制<",
+  "`Store: ": "`儲存: ",
+  ">Key<": ">密鑰<",
+  ">Label<": ">标簽<",
+  ">Kind<": ">類型<",
+  ">Updated<": ">已更新<",
+  ">Tokens<": ">令牌<",
+  ">Thinking<": ">思考中<",
+  ">Verbose<": ">詳細<",
+  ">Reasoning<": ">推理<",
+  ">Actions<": ">操作<"
+}

@@ -1,0 +1,21 @@
+{
+  "Active session keys and per-session overrides.": "Aktive Sitzungsschlüssel und sitzungsspezifische Übersteuerungen.",
+  "Active within \\(minutes\\)": "Aktiv innerhalb (Minuten)",
+  ">Include global<": ">Global einschließen<",
+  ">Include unknown<": ">Unbekannte einschließen<",
+  "No sessions found.": "Keine Sitzungen gefunden.",
+  "\"\\(optional\\)\"": "\"(optional)\"",
+  "\\((multiple)\\)": "(mehrere)",
+  "  Delete": "  Löschen",
+  ">Limit<": ">Limit<",
+  "`Store: ": "`Speicher: ",
+  ">Key<": ">Schlüssel<",
+  ">Label<": ">Bezeichnung<",
+  ">Kind<": ">Art<",
+  ">Updated<": ">Aktualisiert<",
+  ">Tokens<": ">Tokens<",
+  ">Thinking<": ">Denken<",
+  ">Verbose<": ">Ausführlich<",
+  ">Reasoning<": ">Argumentation<",
+  ">Actions<": ">Aktionen<"
+}

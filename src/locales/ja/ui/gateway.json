@@ -1,8 +1,0 @@
-{
-  "\"gateway client stopped\"": "\"ゲートウェイクライアントが停止しました\"",
-  "gateway closed \\(": "ゲートウェイが閉じられました (",
-  "\"connect failed\"": "\"接続に失敗しました\"",
-  " event handler error:": " イベントハンドラエラー：",
-  "\"request failed\"": "\"リクエストに失敗しました\"",
-  "\"gateway not connected\"": "\"ゲートウェイが接続されていません\""
-}

@@ -1,0 +1,26 @@
+{
+  ">Skills<": ">Fähigkeiten<",
+  "Bundled, managed, and workspace skills.": "Gebündelte, verwaltete und Arbeitsbereichsfähigkeiten.",
+  "\"Search skills\"": "\"Fähigkeiten suchen\"",
+  "No skills found.": "Keine Fähigkeiten gefunden.",
+  "\\} shown": "} angezeigt",
+  "\"Installing…\"": "\"Installiere…\"",
+  ">API key<": ">API-Schlüssel<",
+  "  Save key": "  Schlüssel speichern",
+  
+  "\"Workspace Skills\"": "\"Arbeitsbereichsfähigkeiten\"",
+  "\"Built-in Skills\"": "\"Integrierte Fähigkeiten\"",
+  "\"Installed Skills\"": "\"Installierte Fähigkeiten\"",
+  "\"Extra Skills\"": "\"Zusätzliche Fähigkeiten\"",
+  "\"Other Skills\"": "\"Andere Fähigkeiten\"",
+
+
+  "\"blocked by allowlist\"": "\"durch Zulassungsliste blockiert\"",
+
+  "\"eligible\"": "\"berechtigt\"",
+  "\"blocked\"": "\"blockiert\"",
+
+  ">disabled<": ">deaktiviert<",
+  ">Missing: ": ">Fehlt: ",
+  ">Reason:": ">Grund:"
+}

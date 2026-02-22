@@ -1,0 +1,91 @@
+{
+  "Channel health": "チャンネルヘルス",
+  "Channel status snapshots from the gateway.": "ゲートウェイからのチャンネルステータススナップショット。",
+  "No snapshot yet.": "スナップショットはまだありません。",
+  "Channel status and configuration.": "チャンネルのステータスと設定。",
+  "\"Yes\"": "\"はい\"",
+  "\"Active\"": "\"アクティブ\"",
+  "\"No\"": "\"いいえ\"",
+  ">Running<": ">実行中<",
+  ">Connected<": ">接続済み<",
+
+  
+  "Schema unavailable. Use Raw.": "スキーマが利用できません。Rawモードを使用してください。",
+  "Channel config schema unavailable.": "チャンネル設定スキーマが利用できません。",
+  "Loading config schema…": "設定スキーマを読み込み中…",
+
+  ">Configured<": ">設定済み<",
+  ">Linked<": ">連携済み<",
+  ">Last start<": ">最終開始<",
+  ">Last probe<": ">最終プローブ<",
+  ">Last connect<": ">最終接続<",
+  ">Last message<": ">最終メッセージ<",
+  ">Last inbound<": ">最終受信<",
+  ">Auth age<": ">認証経過時間<",
+  ">Mode<": ">モード<",
+  ">Credential<": ">認証情報<",
+  ">Public Key<": ">公開鍵<",
+  ">Audience<": ">オーディエンス<",
+  ">Profile<": ">プロフィール<",
+
+  "No profile set. Click \"Edit Profile\" to add your name, bio, and avatar.": "プロフィールが設定されていません。「プロフィールを編集」をクリックして、名前、自己紹介、アバターを追加してください。",
+  "\"Saving…\"": "\"保存中…\"",
+  "\"Save\"": "\"保存\"",
+  "  probe": " プローブ",
+  
+  "  Probe": " プローブ",
+  "\"ok\" \\:": "\"成功\" ：",
+  "\"failed\"": "\"失敗\"",
+  
+  "Decentralized DMs via Nostr relays \\(NIP-04\\).": "Nostrリレー（NIP-04）を介した分散型DM。",
+
+
+  "Chat API webhook status and channel configuration.": "チャットAPI Webhookのステータスとチャンネル設定。",
+  
+  "macOS bridge status and channel configuration.": "macOSブリッジのステータスとチャンネル設定。",
+
+  
+  ">Edit Profile<": ">プロフィール編集<",
+  ">Account: ": ">アカウント： ",
+  
+  "\"Username\"": "\"ユーザー名\"",
+  "\"Short username \\(": "\"短いユーザー名 (",
+  "\"Display Name\"": "\"表示名\"",
+  "Your full display name": "あなたの完全な表示名",
+  "\"Bio\"": "\"自己紹介\"",
+  "Tell people about yourself...": "あなた自身について教えてください...",
+  "\"Avatar URL\"": "\"アバターURL\"",
+  "A brief bio or description": "簡単な自己紹介や説明",
+  "\"Banner URL\"": "\"バナーURL\"",
+  "HTTPS URL to your profile picture": " プロフィール画像のHTTPS URL",
+  "HTTPS URL to a banner image": "バナー画像のHTTPS URL",
+  "\"Website\"": "\"ウェブサイト\"",
+  "Your personal website": "あなたの個人ウェブサイト",
+  "\"NIP-05 Identifier\"": "\"NIP-05 識別子\"",
+  "\"Verifiable identifier ": "\"検証可能な識別子 ",
+  "\"Lightning Address\"": "\"Lightningアドレス\"",
+  "\"Lightning address for tips ": "\"チップ用のLightningアドレス ",
+  "\"Saving...\"": "\"保存中...\"",
+  "Save & Publish": "保存して公開",
+  "\"Importing...\"": "\"インポート中...\"",
+  "\"Import from Relays\"": "\"リレーからインポート\"",
+  "\"Hide Advanced\"": "\"高度な設定を隠す\"",
+  "\"Show Advanced\"": "\"高度な設定を表示\"",
+  "  You have unsaved changes": "  未保存の変更があります",
+
+  ">Display Name<": ">表示名<",
+  ">About<": ">概要<",
+
+  ">Accounts ": ">アカウント ",
+
+  
+  "signal-cli status and channel configuration.": "signal-cliのステータスとチャンネル設定。",
+  ">Base URL<": ">ベースURL<",
+
+  
+  "Socket mode status and channel configuration.": "ソケットモードのステータスとチャンネル設定。",
+  
+  "Bot status and channel configuration.": "ボットのステータスとチャンネル設定。",
+  
+  "Link WhatsApp Web and monitor connection health.": "WhatsApp Webをリンクし、接続状態を監視します。"
+}

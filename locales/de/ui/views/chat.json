@@ -1,0 +1,23 @@
+{
+  "Compacting context...": "Kontext wird komprimiert...",
+  "Context compacted": "Kontext komprimiert",
+  "Attachment preview": "Anhangs-Vorschau",
+  "Remove attachment": "Anhang entfernen",
+  "Add a message or paste more images...": "Nachricht hinzufügen oder weitere Bilder einfügen...",
+  "Message \\(↩ to send, Shift\\+↩ for line breaks, paste images\\)": "Nachricht (↩ zum Senden, Shift+↩ für Zeilenumbrüche, Bilder einfügen)",
+  "Connect to the gateway to start chatting…": "Mit dem Gateway verbinden, um zu chatten…",
+  "Loading chat…": "Chat wird geladen…",
+  "Exit focus mode": "Fokusmodus beenden",
+  ">Queued ": ">In Warteschlange ",
+  "Image \\(": "Bild (",
+  "Remove queued message": "Nachricht aus Warteschlange entfernen",
+  "New messages ": "Neue Nachrichten ",
+  ">Message<": ">Nachricht<",
+  "\"Stop\"": "\"Stopp\"",
+  "New session": "Neue Sitzung",
+  "\"Queue\"": "\"Warteschlange\"",
+  "\"Send\"": "\"Senden\"",
+  "Showing last ": "Zeige letzte ",
+  "\\} messages": "} Nachrichten",
+  "\\} hidden": "} verborgen"
+}

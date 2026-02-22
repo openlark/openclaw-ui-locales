@@ -1,0 +1,139 @@
+{
+  ">No configured models<": ">구성된 모델 없음<",
+  "\\} configured.<": "} 구성됨.<",
+  "No agents found.": "에이전트를 찾을 수 없습니다.",
+  ">Select an agent<": ">에이전트 선택<",
+  "Pick an agent to inspect its workspace and tools.": "에이전트를 선택하여 워크스페이스와 도구를 검사하세요.",
+  "Agent workspace and routing.": "에이전트 워크스페이스 및 라우팅.",
+  "\"Tools\"": "\"도구\"",
+
+  ">Overview<": ">개요<",
+  "Workspace paths and identity metadata.": "워크스페이스 경로 및 ID 메타데이터.",
+  ">Workspace<": ">워크스페이스<",
+  ">Primary Model<": ">기본 모델<",
+  ">Identity Name<": ">ID 이름<",
+  ">Default<": ">기본값<",
+  ">Identity Emoji<": ">ID 이모지<",
+  ">Skills Filter<": ">스킬 필터<",
+  ">Filter<": ">필터<",
+  ">Model Selection<": ">모델 선택<",
+  ">Primary model": ">기본 모델",
+  " \\(default\\)": " (기본값)",
+  "Fallbacks \\(comma-separated\\)": "폴백 (쉼표로 구분)",
+  "Inherit default \\(": "기본값 상속 (",
+  "\"Inherit default\"": "\"기본값 상속\"",
+  ">Fallbacks (comma-separated)<": ">폴백 (쉼표로 구분)",
+  "\"Save\"": "\"저장\"",
+  "\"yes\"": "\"예\"",
+  "\"no\"": "\"아니오\"",
+  
+  "\"Workspace, identity, and model configuration.\"": "\"워크스페이스, ID 및 모델 구성.\"",
+  "Load channels to see live status.": "실시간 상태를 보려면 채널을 로드하세요.",
+  "Gateway-wide channel status snapshot.": "게이트웨이 전체 채널 상태 스냅샷.",
+  " Last refresh:": " 마지막 새로고침:",
+  "No channels found.": "채널을 찾을 수 없습니다.",
+  "\\} enabled": "} 활성화됨",
+  "Workspace and scheduling targets.": "워크스페이스 및 스케줄링 대상.",
+  "Gateway cron status.": "게이트웨이 cron 상태.",
+  ">Next wake<": ">다음 웨이크<",
+  ">Agent Cron Jobs<": ">에이전트 Cron 작업<",
+  "Scheduled jobs targeting this agent.": "이 에이전트를 대상으로 하는 예약된 작업.",
+  "No jobs assigned.": "할당된 작업이 없습니다.",
+  ">Core Files<": ">핵심 파일<",
+  "Bootstrap persona, identity, and tool guidance.": "부트스트랩 페르소나, ID 및 도구 안내.",
+  ">Workspace:": ">워크스페이스:",
+  "  Load the agent workspace files to edit core instructions.": "  에이전트 워크스페이스 파일을 로드하여 핵심 지침을 편집하세요.",
+  "No files found.": "파일을 찾을 수 없습니다.",
+  "Select a file to edit.": "편집할 파일을 선택하세요.",
+  "  This file is missing. Saving will create it in the agent workspace.": "  이 파일이 없습니다. 저장하면 에이전트 워크스페이스에 생성됩니다.",
+  ">Content<": ">내용<",
+  ">missing<": ">없음<",  
+
+  
+  "\"Files\"": "\"파일\"",
+  "\"Read file contents\"": "\"파일 내용 읽기\"",
+  "\"Create or overwrite files\"": "\"파일 생성 또는 덮어쓰기\"",
+  "\"Make precise edits\"": "\"정밀 편집\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"파일 패치 (OpenAI)\"",
+
+  "\"Runtime\"": "\"런타임\"",
+  "\"Run shell commands\"": "\"셸 명령 실행\"",
+  "\"Manage background processes\"": "\"백그라운드 프로세스 관리\"",
+
+  "\"Web\"": "\"웹\"",
+  "\"Search the web\"": "\"웹 검색\"",
+  "\"Fetch web content\"": "\"웹 콘텐츠 가져오기\"",
+  
+  "\"Memory\"": "\"메모리\"",
+  "\"Semantic search\"": "\"시맨틱 검색\"",
+  "\"Read memory files\"": "\"메모리 파일 읽기\"",
+  "\"List sessions\"": "\"세션 목록\"",
+
+  "\"Session history\"": "\"세션 기록\"",
+  "\"Send to session": "\"세션으로 보내기",
+  "\"Spawn sub-agent\"": "\"하위 에이전트 생성\"",
+  "\"Session status\"": "\"세션 상태\"",
+
+  "\"UI\"": "\"UI\"",
+  "\"Control web browser\"": "\"웹 브라우저 제어\"",
+  "\"Control canvases\"": "\"캔버스 제어\"",
+
+  "\"Send messages\"": "\"메시지 보내기\"",
+  
+  "\"Automation\"": "\"자동화\"",
+  "\"Schedule tasks\"": "\"작업 예약\"",
+
+  "\"Gateway control\"": "\"게이트웨이 제어\"",
+  "\"Nodes \\+ devices\"": "\"노드 + 장치\"",
+  "\"List agents\"": "\"에이전트 목록\"",
+  
+  "\"Media\"": "\"미디어\"",
+  "\"Image understanding\"": "\"이미지 이해\"",
+
+  "\"Minimal\"": "\"최소\"",
+  "\"Coding\"": "\"코딩\"",
+  "\"Messaging\"": "\"메시징\"",
+  "\"Full\"": "\"전체\"",
+  
+  "\\} selected": "} 선택됨",
+  "\"all skills\"": "\"모든 스킬\"",
+  
+
+  ">Agent Context<": ">에이전트 컨텍스트<",
+  "\"no accounts\"": "\"계정 없음\"",
+  " connected`": " 연결됨`",
+  " configured`": " 구성됨`",
+  "\"not configured\"": "\"구성되지 않음\"",
+
+  "\"agent override\"": "\"에이전트 재정의\"",
+  "\"global default\"": "\"전역 기본값\"",
+  "\"default\"": "\"기본값\"",
+
+  ">Tool Access<": ">도구 액세스<",
+  "  Profile \\+ per-tool overrides for this agent.": "  이 에이전트에 대한 프로필 + 도구별 재정의.",
+  "> enabled.": "> 활성화됨.",
+
+  "  Use All": "  모두 사용",
+  "  Enable All": "  모두 활성화",
+  "  Disable All": "  모두 비활성화",
+  "  Reload Config": " 구성 다시 로드",
+
+  "  Reload": " 다시 로드",
+  
+  "Load the gateway config to adjust tool profiles.": "도구 프로필을 조정하려면 게이트웨이 구성을 로드하세요.",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "  이 에이전트는 구성에서 명시적 허용 목록을 사용하고 있습니다. 도구 재정의는 '구성' 탭에서 관리됩니다.",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "  전역 tools.allow가 설정되었습니다. 에이전트 재정의로 전역적으로 차단된 도구를 활성화할 수 없습니다.",
+
+  ">Profile<": ">프로필<",
+  ">Source<": ">소스<",
+  ">unsaved<": ">저장되지 않음<",
+
+  ">Quick Presets<": ">빠른 프리셋<",
+  "  Inherit": " 상속",
+
+  "Per-agent skill allowlist and workspace skills.": "에이전트별 스킬 허용 목록 및 워크스페이스 스킬.",
+  "Load the gateway config to set per-agent skills.": "에이전트별 스킬을 설정하려면 게이트웨이 구성을 로드하세요.",
+  "This agent uses a custom skill allowlist.": "이 에이전트는 사용자 정의 스킬 허용 목록을 사용합니다.",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "모든 스킬이 활성화되었습니다. 스킬을 비활성화하면 에이전트별 허용 목록이 생성됩니다.",
+  "Load skills for this agent to view workspace-specific entries.": "워크스페이스별 항목을 보려면 이 에이전트의 스킬을 로드하세요."
+}

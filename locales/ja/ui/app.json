@@ -1,0 +1,108 @@
+{
+  
+  "\"Refresh chat data\"": "\"チャットデータを更新\"",
+  "\"Disabled during onboarding\"": "\"オンボーディング中は無効\"",
+  "\"Toggle assistant thinking/working output\"": "\"アシスタントの思考/作業出力の表示切替\"",
+  "\"Toggle focus mode \\(hide sidebar \\+ page header\\)\"": "\"フォーカスモード切替（サイドバー＋ページヘッダーを非表示）\"",
+  "\"System theme\"": "\"システムテーマに合わせる\"",
+  "\"System\"": "\"システム\"",
+  "\"Light theme\"": "\"ライトテーマ\"",
+  "\"Light\"": "\"ライト\"",
+  "\"Dark theme\"": "\"ダークテーマ\"",
+  "\"Dark\"": "\"ダーク\"",
+
+  "Profile update failed \\(": "プロフィールの更新に失敗しました (",
+  "Profile publish failed on all relays.": "全てのリレーでのプロフィール公開に失敗しました。",
+  "Profile published to relays.": "プロフィールをリレーに公開しました。",
+  "Profile update failed: ": "プロフィールの更新に失敗しました： ",
+  "Profile import failed \\(": "プロフィールのインポートに失敗しました (",
+  "Profile imported from relays. Review and publish.": "リレーからプロフィールをインポートしました。確認して公開してください。",
+  "Profile imported. Review and publish.": "プロフィールをインポートしました。確認して公開してください。",
+  "Profile import failed: ": "プロフィールのインポートに失敗しました： ",
+
+  "`disconnected \\(": "`切断されました (",
+  "\"no reason\"": "\"理由不明\"",
+
+  "\"gateway client stopped\"": "\"ゲートウェイクライアントが停止しました\"",
+  "gateway closed \\(": "ゲートウェイが閉じられました (",
+  "\"connect failed\"": "\"接続失敗\"",
+  " event handler error:": " イベントハンドラエラー：",
+  "\"request failed\"": "\"リクエスト失敗\"",
+  "\"gateway not connected\"": "\"ゲートウェイ未接続\"",
+
+  "Disconnected from gateway.": "ゲートウェイから切断されました。",
+
+  "\"Expand sidebar\"": "\"サイドバーを展開\"",
+  "\"Collapse sidebar\"": "\"サイドバーを折りたたむ\"",
+
+  ">Health<": ">ヘルスステータス<",
+  "\"OK\"": "\"正常\"",
+  "\"Offline\"": "\"オフライン\"",
+  
+  ">Gateway Dashboard<": ">ゲートウェイダッシュボード<",
+
+  
+  "\"Chat\"": "\"チャット\"",
+  "Direct gateway chat session for quick interventions.": "迅速な対応のための直接ゲートウェイチャットセッション。",
+  "\"Control\"": "\"コントロール\"",
+  "\"Overview\"": "\"概要\"",
+  "Gateway status, entry points, and a fast health read.": "ゲートウェイのステータス、エントリーポイント、およびクイックヘルスチェック。",
+  "\"Channels\"": "\"チャンネル\"",
+  "Manage channels and settings.": "チャンネルと設定を管理します。",
+  "\"Instances\"": "\"インスタンス\"",
+  "Presence beacons from connected clients and nodes.": "接続されたクライアントとノードからのプレゼンスビーコン。",
+  "\"Sessions\"": "\"セッション\"",
+  "Inspect active sessions and adjust per-session defaults.": "アクティブなセッションを検査し、セッションごとのデフォルトを調整します。",
+  "\"Usage\"": "\"使用状況\"",
+  "See where tokens go, when sessions spike, and what drives cost.": "トークンの使用先、セッションの急増時期、コストの要因を確認します。",
+  "\"Cron Jobs\"": "\"Cronジョブ\"",
+  "Schedule wakeups and recurring agent runs.": "ウェイクアップと定期的なエージェント実行をスケジュールします。",
+  "\"Agent\"": "\"エージェント\"",
+  "\"Agents\"": "\"エージェント\"",
+  "Manage agent workspaces, tools, and identities.": "エージェントのワークスペース、ツール、アイデンティティを管理します。",
+  "\"Skills\"": "\"スキル\"",
+  "Manage skill availability and API key injection.": "スキルの利用可否とAPIキーの注入を管理します。",
+  "\"Nodes\"": "\"ノード\"",
+  "Paired devices, capabilities, and command exposure.": "ペアリングされたデバイス、機能、およびコマンド公開。",
+  "\"Settings\"": "\"設定\"",
+  "\"Config\"": "\"設定\"",
+  "Edit ~/.openclaw/openclaw.json safely.": "~/.openclaw/openclaw.json を安全に編集します。",
+  "\"Debug\"": "\"デバッグ\"",
+  "Gateway snapshots, events, and manual RPC calls.": "ゲートウェイのスナップショット、イベント、および手動RPC呼び出し。",
+  "\"Logs\"": "\"ログ\"",
+  "Live tail of the gateway file logs.": "ゲートウェイファイルログのリアルタイム表示。",
+  "\\(opens in new tab\\)": "（新しいタブで開く）",
+  "Presence beacons from the gateway and clients.": "ゲートウェイとクライアントからのプレゼンスビーコン。",
+
+  
+  "\"Health\"": "\"ヘルスステータス\"",
+  "\"Resources\"": "\"リソース\"",
+  "\"Docs\"": "\"ドキュメント\"",
+
+  "\"Language\"": "\"言語\"",
+  "\"Connect\"": "\"接続\"",
+  "\"Snapshot\"": "\"スナップショット\"",
+  "\"Status\"": "\"ステータス\"",   
+  "\"Uptime\"": "\"稼働時間\"",
+  "Tick Interval": "ティック間隔",
+  "Last Channels Refresh": "最終チャンネル更新",
+  "\"Notes\"": "\"メモ\"",
+
+  "\"Config Last Touched Version\"": "\"設定最終変更バージョン\"",
+  "\"Config Last Touched At\"": "\"設定最終変更日時\"",
+
+  
+  "\"IRC DM Policy\"": "\"IRC DMポリシー\"",
+  "\"IRC NickServ Enabled\"": "\"IRC NickServ有効\"",
+
+  "\"just now\"": "\"たった今\"",
+  "\\}s`": "}秒`",
+  "\\}m ago`": "}分前`",
+  "\\}m`": "}分`",
+  "\\}h ago`": "}時間前`",
+  "\\}h`": "}時間`",
+  "\\}d ago`": "}日前`",
+  "\\}d`": "}日`",
+  "\"in <1m\"": "\"1分以内\"",
+  "`in ": "`あと "
+}

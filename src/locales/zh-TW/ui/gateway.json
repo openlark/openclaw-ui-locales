@@ -1,8 +1,0 @@
-{
-  "\"gateway client stopped\"": "\"網關客戶端已停止\"",
-  "gateway closed \\(": "網關已關閉 (",
-  "\"connect failed\"": "\"連接失敗\"",
-  " event handler error:": " 事件處理程序錯誤：",
-  "\"request failed\"": "\"請求失敗\"",
-  "\"gateway not connected\"": "\"網關未連接\""
-}

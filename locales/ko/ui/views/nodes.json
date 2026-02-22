@@ -1,0 +1,91 @@
+{
+  ">Nodes<": ">노드<",
+  "Paired devices and live links.": "페어링된 장치 및 실시간 링크.",
+  "No nodes found.": "노드를 찾을 수 없습니다.",
+
+  ">Devices<": ">장치<",
+  "Pairing requests \\+ role tokens.": "페어링 요청 + 역할 토큰.",
+  "\"Loading…\" : \"Refresh\"\\}": "\"로드 중…\" : \"새로고침\"}",
+  ">Pending<": ">보류 중<",
+  ">Paired<": ">페어링됨<",
+  "No paired devices.": "페어링된 장치가 없습니다.",
+
+  " · requested ": " · 요청됨",
+  "   Approve": "   승인",
+  "   Reject": "   거부",
+
+  ">Tokens: none<": ">토큰: 없음<",
+  "   Rotate": "   회전",
+  "   Revoke": "   취소",
+
+  ">Exec node binding<": ">실행 노드 바인딩<",
+  "Pin agents to a specific node when using <span class=\"mono\">exec host=node</span>.": "<span class=\"mono\">exec host=node</span>를 사용할 때 에이전트를 특정 노드에 고정합니다.",
+  "Switch the Config tab to <strong>Form<\/strong> mode to edit bindings here.": "여기에서 바인딩을 편집하려면 구성 탭을 <strong>양식<\/strong> 모드로 전환하세요.",
+  "Load config to edit bindings.": "바인딩을 편집하려면 구성을 로드하세요.",
+  "\"Load config\"": "\"구성 로드\"",
+  ">Default binding<": ">기본 바인딩<",
+  "Used when agents do not override a node binding.": "에이전트가 노드 바인딩을 재정의하지 않을 때 사용됩니다.",
+  ">Any node<": ">모든 노드<",
+  "No nodes with system.run available.": "사용 가능한 system.run이 있는 노드가 없습니다.",
+
+  ">Target<": ">대상<",
+  " Gateway edits local approvals; node edits the selected node.": " 게이트웨이는 로컬 승인을 편집합니다. 노드는 선택된 노드를 편집합니다.",
+  
+  ">Host<": ">호스트<",
+  ">Security<": ">보안<",
+  "\"default agent\"": "\"기본 에이전트\"",
+  "\"agent\"\\}": "\"에이전트\"}",
+  "`uses default \\(": "`기본값 사용 (",
+  "`Using default \\(": "`기본값 사용 중 (",
+  "`Override \\(": "`재정의 (",
+  " \"any\"\\}": " \"모두\"}",
+  ": `override: ": ": `재정의:",
+  ">Binding<": ">바인딩<",
+  "\"paired\" : \"unpaired\"\\}": "\"페어링됨\" : \"페어링 안 됨\"}",
+  "\"connected\" : \"offline\"\\}": "\"연결됨\" : \"오프라인\"}",
+  
+  
+  "\"Deny\"": "\"거부\"",
+  "\"Allowlist\"": "\"허용 목록\"",
+  "\"Off\"": "\"끄기\"",
+  "\"On miss\"": "\"미스 시\"",
+  "\"Always\"": "\"항상\"",
+
+  ">Exec approvals<": ">실행 승인<",
+  "Allowlist and approval policy for \\<span class=\"mono\">exec host=gateway/node\\</span>.": "<span class=\"mono\">exec host=gateway/node</span>에 대한 허용 목록 및 승인 정책.",
+  "\"Load approvals\"": "\"승인 로드\"",
+  "Load exec approvals to edit allowlists.":"허용 목록을 편집하려면 실행 승인을 로드하세요.",
+  "Gateway edits local approvals; node edits the selected node.": "게이트웨이는 로컬 승인을 편집합니다. 노드는 선택된 노드를 편집합니다.",
+
+  ">Gateway<": ">게이트웨이<",
+  ">Node<": ">노드<",
+  ">Select node<": ">노드 선택<",
+  "No nodes advertise exec approvals yet.": "아직 실행 승인을 알리는 노드가 없습니다.",
+
+  ">Scope<": ">범위<",
+  "  Defaults": " 기본값",
+
+  "\"Default security mode.\"": "\"기본 보안 모드.\"",
+  "`Default: ": "`기본값: ",
+  "  Use default": "  기본값 사용",
+  "\"Default prompt policy.\"": "\"기본 프롬프트 정책.\"",
+  ">Ask<": ">묻기<",
+  ">Ask fallback<": ">폴백 요청<",
+  "Applied when the UI prompt is unavailable.": "UI 프롬프트를 사용할 수 없을 때 적용됩니다.",
+  ">Fallback<": ">폴백<",
+
+  ">Auto-allow skill CLIs<": ">스킬 CLI 자동 허용<",
+  "Allow skill executables listed by the Gateway.": "게이트웨이에 나열된 스킬 실행 파일을 허용합니다.",
+  "\"on\" \\: \"off\"\\}": "\"켜기\" : \"끄기\"}",
+  ": `Override \\(": ": `재정의 (",
+
+  
+  ">Allowlist<": ">허용 목록<",
+  "Case-insensitive glob patterns.": "대소문자를 구분하지 않는 glob 패턴.",
+  "  Add pattern": " 패턴 추가",
+  ">Pattern<": ">패턴<",
+  "No allowlist entries yet.": "아직 허용 목록 항목이 없습니다.",
+  "\"New pattern\"": "\"새 패턴\"",
+  ">Last used: ": ">마지막 사용:",
+  "  Remove": "  제거"
+}

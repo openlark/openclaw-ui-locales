@@ -91,13 +91,13 @@ export async function execLocale() {
 
 }
 
-// hanlde /ui/ui/
+// hanlde ControlUI
 function handleControlUIContents(options: OpenClawHanldeOptions) {
-  // Locale json file directory
-  const localeJsonDir: string = `./src/locales/${options.answers.language}/ui`
+  // Locale json file for language
+  const langJsonDir: string = `./locales/${options.answers.language}`
 
-  if (!fs.existsSync(localeJsonDir)) {
-    spinner.fail(`${localeJsonDir} path does not exist`)
+  if (!fs.existsSync(langJsonDir)) {
+    spinner.fail(`${langJsonDir} path does not exist`)
     spinner.stop()
     process.exit(0)
   }
@@ -113,7 +113,7 @@ function handleControlUIContents(options: OpenClawHanldeOptions) {
     const file: string = assetsFiles[i]
 
     // Find js file (index-xxxxxx.js)
-    if (path.extname(file) === '.js') {
+    if (file.indexOf('index-') > -1 && path.extname(file) === '.js') {
       let jsFileName: string = path.join(uiAssetsDir, file)
       const jsTmpFileName = path.join(uiAssetsTmpDir, file)
       let readFileName: string = jsFileName
@@ -127,8 +127,8 @@ function handleControlUIContents(options: OpenClawHanldeOptions) {
 
       let jsContent = fs.readFileSync(readFileName, 'utf-8')
 
-      // Read locale folder directory
-      readDirectory(localeJsonDir, (srcFile: any) => {
+      // Read locale folder directory for UI
+      readDirectory(`${langJsonDir}/ui`, (srcFile: any) => {
 
         spinner.color = 'yellow'
         spinner.text = 'Converting...'

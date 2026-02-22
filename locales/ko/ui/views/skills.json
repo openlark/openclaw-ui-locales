@@ -1,0 +1,26 @@
+{
+  ">Skills<": ">스킬<",
+  "Bundled, managed, and workspace skills.": "번들, 관리 및 워크스페이스 스킬.",
+  "\"Search skills\"": "\"스킬 검색\"",
+  "No skills found.": "스킬을 찾을 수 없습니다.",
+  "\\} shown": "}개 표시됨",
+  "\"Installing…\"": "\"설치 중…\"",
+  ">API key<": ">API 키<",
+  "  Save key": " 키 저장",
+  
+  "\"Workspace Skills\"": "\"워크스페이스 스킬\"",
+  "\"Built-in Skills\"": "\"내장 스킬\"",
+  "\"Installed Skills\"": "\"설치된 스킬\"",
+  "\"Extra Skills\"": "\"추가 스킬\"",
+  "\"Other Skills\"": "\"기타 스킬\"",
+
+
+  "\"blocked by allowlist\"": "\"허용 목록에 의해 차단됨\"",
+
+  "\"eligible\"": "\"적격\"",
+  "\"blocked\"": "\"차단됨\"",
+
+  ">disabled<": ">비활성화됨<",
+  ">Missing: ": ">누락: ",
+  ">Reason:": ">이유:"
+}

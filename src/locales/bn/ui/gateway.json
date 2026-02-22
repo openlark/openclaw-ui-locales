@@ -1,8 +1,0 @@
-{
-  "\"gateway client stopped\"": "\"গেটওয়ে ক্লায়েন্ট বন্ধ হয়ে গেছে\"",
-  "gateway closed \\(": "গেটওয়ে বন্ধ হয়েছে (",
-  "\"connect failed\"": "\"সংযোগ ব্যর্থ হয়েছে\"",
-  " event handler error:": " ইভেন্ট হ্যান্ডলার ত্রুটি:",
-  "\"request failed\"": "\"অনুরোধ ব্যর্থ হয়েছে\"",
-  "\"gateway not connected\"": "\"গেটওয়ে সংযুক্ত নয়\""
-}

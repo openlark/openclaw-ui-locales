@@ -1,0 +1,21 @@
+{
+  "Active session keys and per-session overrides.": "アクティブなセッションキーとセッションごとのオーバーライド。",
+  "Active within \\(minutes\\)": "アクティブ期間（分）",
+  ">Include global<": ">グローバルを含む<",
+  ">Include unknown<": ">不明を含む<",
+  "No sessions found.": "セッションが見つかりません。",
+  "\"\\(optional\\)\"": "\"（オプション）\"",
+  "\\((multiple)\\)": "（複数可）",
+  "  Delete": "  削除",
+  ">Limit<": ">制限<",
+  "`Store: ": "`ストア： ",
+  ">Key<": ">キー<",
+  ">Label<": ">ラベル<",
+  ">Kind<": ">種類<",
+  ">Updated<": ">更新日<",
+  ">Tokens<": ">トークン<",
+  ">Thinking<": ">思考中<",
+  ">Verbose<": ">詳細<",
+  ">Reasoning<": ">推論<",
+  ">Actions<": ">アクション<"
+}

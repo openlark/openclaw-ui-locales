@@ -1,8 +1,0 @@
-{
-  "\"gateway client stopped\"": "\"cliente de la puerta de enlace detenido\"",
-  "gateway closed \\(": "puerta de enlace cerrada (",
-  "\"connect failed\"": "\"fallo de conexión\"",
-  " event handler error:": " error del manejador de eventos:",
-  "\"request failed\"": "\"solicitud fallida\"",
-  "\"gateway not connected\"": "\"puerta de enlace no conectada\""
-}

@@ -1,0 +1,91 @@
+{
+  ">Nodes<": ">節點<",
+  "Paired devices and live links.": "已配對的設備和實時鏈接。",
+  "No nodes found.": "未找到節點。",
+
+  ">Devices<": ">設備<",
+  "Pairing requests \\+ role tokens.": "配對請求 + 角色令牌。",
+  "\"Loading…\" : \"Refresh\"\\}": "\"加載中…\" : \"刷新\"}",
+  ">Pending<": ">待處理<",
+  ">Paired<": ">已配對<",
+  "No paired devices.": "沒有配對的設備。",
+
+  " · requested ": " · 請求的",
+  "   Approve": "   批準",
+  "   Reject": "  拒絕",
+
+  ">Tokens: none<": ">令牌：無<",
+  "   Rotate": "  更新",
+  "   Revoke": "  撤銷",
+
+  ">Exec node binding<": ">執行節點綁定<",
+  "Pin agents to a specific node when using <span class=\"mono\">exec host=node</span>.": "在使用<span class=\"mono\">exec host=node</span>時，将代理綁定到特定節點。",
+  "Switch the Config tab to <strong>Form<\/strong> mode to edit bindings here.": "将配置選項卡切換到<strong>表單<\/strong>模式，以在此編輯綁定。",
+  "Load config to edit bindings.": "加載配置以編輯綁定。",
+  "\"Load config\"": "\"加載配置\"",
+  ">Default binding<": ">默認綁定<",
+  "Used when agents do not override a node binding.": "當代理未覆蓋節點綁定時使用。",
+  ">Any node<": ">任何節點<",
+  "No nodes with system.run available.": "沒有可用 system.run 的節點。",
+
+  ">Target<": ">目标<",
+  " Gateway edits local approvals; node edits the selected node.": "網關編輯本地許可流程；節點編輯所選節點。",
+  
+  ">Host<": ">主機<",
+  ">Security<": ">安全<",
+  "\"default agent\"": "\"默認代理\"",
+  "\"agent\"\\}": "\"代理\"}",
+  "`uses default \\(": "`使用默認 (",
+  "`Using default \\(": "`使用默認 (",
+  "`Override \\(": "`覆蓋 (",
+  " \"any\"\\}": " \"任何\"}",
+  ": `override: ": ": `覆蓋:",
+  ">Binding<": ">綁定<",
+  "\"paired\" : \"unpaired\"\\}": "\"配對\" : \"未配對\"}",
+  "\"connected\" : \"offline\"\\}": "\"已連接\" : \"離線\"}",
+  
+  
+  "\"Deny\"": "\"拒絕\"",
+  "\"Allowlist\"": "\"白名單\"",
+  "\"Off\"": "\"關閉\"",
+  "\"On miss\"": "\"未命中時\"",
+  "\"Always\"": "\"始終\"",
+
+  ">Exec approvals<": ">執行許可<",
+  "Allowlist and approval policy for \\<span class=\"mono\">exec host=gateway/node\\</span>.": "<span class=\"mono\">exec host=gateway/node</span>的白名單和許可策略。",
+  "\"Load approvals\"": "\"許可加載\"",
+  "Load exec approvals to edit allowlists.":"加載執行許可以編輯白名單。",
+  "Gateway edits local approvals; node edits the selected node.": "網關編輯本地許可；節點編輯所選節點。",
+
+  ">Gateway<": ">網關<",
+  ">Node<": ">節點<",
+  ">Select node<": ">選擇節點<",
+  "No nodes advertise exec approvals yet.": "目前尚無節點發布執行許可信息。",
+
+  ">Scope<": ">範圍<",
+  "  Defaults": " 默認值",
+
+  "\"Default security mode.\"": "\"默認安全模式。\"",
+  "`Default: ": "`默認值: ",
+  "  Use default": "  使用默認值",
+  "\"Default prompt policy.\"": "\"默認提示策略。\"",
+  ">Ask<": ">詢問<",
+  ">Ask fallback<": ">詢問回退<",
+  "Applied when the UI prompt is unavailable.": "當界面提示不可用時應用。",
+  ">Fallback<": ">回退<",
+
+  ">Auto-allow skill CLIs<": ">自動允許技能CLIs<",
+  "Allow skill executables listed by the Gateway.": "允許網關列出的技能可執行文件。",
+  "\"on\" \\: \"off\"\\}": "\"開\" : \"關\"}",
+  ": `Override \\(": ": `覆蓋 (",
+
+  
+  ">Allowlist<": ">白名單<",
+  "Case-insensitive glob patterns.": "不區分大小寫的通配符模式。",
+  "  Add pattern": " 添加模式",
+  ">Pattern<": ">模式<",
+  "No allowlist entries yet.": "尚無白名單條目。",
+  "\"New pattern\"": "\"新模式\"",
+  ">Last used: ": ">最後使用:",
+  "  Remove": "  移除"
+}

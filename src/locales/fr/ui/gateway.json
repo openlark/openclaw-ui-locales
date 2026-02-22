@@ -1,8 +1,0 @@
-{
-  "\"gateway client stopped\"": "\"client de la passerelle arrêté\"",
-  "gateway closed \\(": "passerelle fermée (",
-  "\"connect failed\"": "\"échec de la connexion\"",
-  " event handler error:": " erreur du gestionnaire d'événements :",
-  "\"request failed\"": "\"échec de la requête\"",
-  "\"gateway not connected\"": "\"passerelle non connectée\""
-}

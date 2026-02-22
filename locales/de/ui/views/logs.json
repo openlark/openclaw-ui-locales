@@ -1,0 +1,12 @@
+{
+  ">Logs<": ">Protokolle<",
+  "Gateway file logs \\(JSONL\\).": "Gateway-Dateiprotokolle (JSONL).",
+  "\"filtered\"": "\"gefiltert\"",
+  "\"visible\"": "\"sichtbar\"",
+  " Export ": " Exportieren ",
+  "\"Search logs\"": "\"Protokolle durchsuchen\"",
+  ">Auto-follow<": ">Auto-folgen<",
+  "Log output truncated; showing latest chunk.": "Protokollausgabe abgeschnitten; zeige neuesten Teil.",
+  ">Last heartbeat<": ">Letzter Herzschlag<",
+  "No log entries.": "Keine Protokolleinträge."
+}

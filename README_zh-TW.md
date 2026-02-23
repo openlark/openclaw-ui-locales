@@ -40,8 +40,8 @@ Esperanto (Esperanto 世界语)                                eo
 Tiếng Việt (Vietnamese 越南语)                              vi
 Filipino(Filipino 菲律宾语)                                 fi
 বাংলা (Bangla 孟加拉语)                                      bn
-ప్రామాణిక (Telugu 泰卢固语)                                  te 
-तेलुगु (Hindi 印地语)                                         hi
+తెలుగు (Telugu 泰卢固语)                                    te 
+हिन्दी (Hindi 印地语)                                         hi
 العربية (Arabic 阿拉伯语)                                  ar
 فارسی (Persian 波斯语)                                     pa
 ```

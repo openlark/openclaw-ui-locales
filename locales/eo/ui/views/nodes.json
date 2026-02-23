@@ -1,0 +1,91 @@
+{
+  ">Nodes<": ">Nodoj<",
+  "Paired devices and live links.": "Parigitaj aparatoj kaj realtempaj ligiloj.",
+  "No nodes found.": "Neniuj nodoj trovitaj.",
+
+  ">Devices<": ">Aparatoj<",
+  "Pairing requests \\+ role tokens.": "Parigaj petoj + rolaj ĵetonoj.",
+  "\"Loading…\" : \"Refresh\"\\}": "\"Ŝarĝante…\" : \"Refreŝigi\"}",
+  ">Pending<": ">Pritraktataj<",
+  ">Paired<": ">Parigitaj<",
+  "No paired devices.": "Neniuj parigitaj aparatoj.",
+
+  " · requested ": " · petita",
+  "   Approve": "   Aprobi",
+  "   Reject": "  Rifuzi",
+
+  ">Tokens: none<": ">Ĵetonoj: neniu<",
+  "   Rotate": "  Rotacii",
+  "   Revoke": "  Revoki",
+
+  ">Exec node binding<": ">Ligo de plenuma nodo<",
+  "Pin agents to a specific node when using <span class=\"mono\">exec host=node</span>.": "Fiksi agentojn al specifa nodo kiam oni uzas <span class=\"mono\">exec host=node</span>.",
+  "Switch the Config tab to <strong>Form<\/strong> mode to edit bindings here.": "Ŝanĝu la langeton Agordo al <strong>Formulara<\/strong> reĝimo por redakti ligojn ĉi tie.",
+  "Load config to edit bindings.": "Ŝarĝu agordon por redakti ligojn.",
+  "\"Load config\"": "\"Ŝarĝi agordon\"",
+  ">Default binding<": ">Defaŭlta ligo<",
+  "Used when agents do not override a node binding.": "Uzata kiam agentoj ne superregas nodan ligon.",
+  ">Any node<": ">Ajna nodo<",
+  "No nodes with system.run available.": "Neniuj nodoj kun havebla system.run.",
+
+  ">Target<": ">Celo<",
+  " Gateway edits local approvals; node edits the selected node.": " Enirejo redaktas lokajn aprobojn; nodo redaktas la elektitan nodon.",
+  
+  ">Host<": ">Gastigo<",
+  ">Security<": ">Sekureco<",
+  "\"default agent\"": "\"defaŭlta agento\"",
+  "\"agent\"\\}": "\"agento\"}",
+  "`uses default \\(": "`uzas defaŭlton (",
+  "`Using default \\(": "`Uzante defaŭlton (",
+  "`Override \\(": "`Superregi (",
+  " \"any\"\\}": " \"ajna\"}",
+  ": `override: ": ": `superregi:",
+  ">Binding<": ">Ligo<",
+  "\"paired\" : \"unpaired\"\\}": "\"parigita\" : \"ne parigita\"}",
+  "\"connected\" : \"offline\"\\}": "\"konektita\" : \"eksterrete\"}",
+  
+  
+  "\"Deny\"": "\"Rifuzi\"",
+  "\"Allowlist\"": "\"Blanka listo\"",
+  "\"Off\"": "\"Malŝalti\"",
+  "\"On miss\"": "\"Je maltrafo\"",
+  "\"Always\"": "\"Ĉiam\"",
+
+  ">Exec approvals<": ">Plenumaj aproboj<",
+  "Allowlist and approval policy for \\<span class=\"mono\">exec host=gateway/node\\</span>.": "Blanklista kaj aproba politiko por <span class=\"mono\">exec host=gateway/node</span>.",
+  "\"Load approvals\"": "\"Ŝarĝi aprobojn\"",
+  "Load exec approvals to edit allowlists.":"Ŝarĝu plenumajn aprobojn por redakti blankajn listojn.",
+  "Gateway edits local approvals; node edits the selected node.": "Enirejo redaktas lokajn aprobojn; nodo redaktas la elektitan nodon.",
+
+  ">Gateway<": ">Enirejo<",
+  ">Node<": ">Nodo<",
+  ">Select node<": ">Elektu nodon<",
+  "No nodes advertise exec approvals yet.": "Ankoraŭ neniuj nodoj anoncas plenumajn aprobojn.",
+
+  ">Scope<": ">Amplekso<",
+  "  Defaults": " Defaŭltoj",
+
+  "\"Default security mode.\"": "\"Defaŭlta sekureca reĝimo.\"",
+  "`Default: ": "`Defaŭlte: ",
+  "  Use default": "  Uzi defaŭlton",
+  "\"Default prompt policy.\"": "\"Defaŭlta instiga politiko.\"",
+  ">Ask<": ">Demandi<",
+  ">Ask fallback<": ">Demandi rezervon<",
+  "Applied when the UI prompt is unavailable.": "Aplikata kiam la UI-instigo estas nehavebla.",
+  ">Fallback<": ">Rezervo<",
+
+  ">Auto-allow skill CLIs<": ">Aŭtomate permesi kapablajn CLI-ojn<",
+  "Allow skill executables listed by the Gateway.": "Permesi kapablajn plenumeblajn dosierojn listigitajn de la Enirejo.",
+  "\"on\" \\: \"off\"\\}": "\"ŝaltita\" : \"malŝaltita\"}",
+  ": `Override \\(": ": `Superregi (",
+
+  
+  ">Allowlist<": ">Blanka listo<",
+  "Case-insensitive glob patterns.": "Globaj ŝablonoj nesentemaj al uskleco.",
+  "  Add pattern": " Aldoni ŝablonon",
+  ">Pattern<": ">Ŝablono<",
+  "No allowlist entries yet.": "Ankoraŭ neniuj blanklistaj enskriboj.",
+  "\"New pattern\"": "\"Nova ŝablono\"",
+  ">Last used: ": ">Lasta uzo:",
+  "  Remove": "  Forigi"
+}

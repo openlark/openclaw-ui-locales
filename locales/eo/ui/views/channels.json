@@ -1,0 +1,91 @@
+{
+  "Channel health": "Kanalo-sanstato",
+  "Channel status snapshots from the gateway.": "Momentfotoj de kanala stato de la enirejo.",
+  "No snapshot yet.": "Ankoraŭ neniu momentfoto.",
+  "Channel status and configuration.": "Kanalo-stato kaj agordo.",
+  "\"Yes\"": "\"Jes\"",
+  "\"Active\"": "\"Aktiva\"",
+  "\"No\"": "\"Ne\"",
+  ">Running<": ">Rulanta<",
+  ">Connected<": ">Konektita<",
+
+  
+  "Schema unavailable. Use Raw.": "Skemo nehavebla. Uzu krudajn datumojn.",
+  "Channel config schema unavailable.": "Kanal-agorda skemo nehavebla.",
+  "Loading config schema…": "Ŝarĝante agordan skemon…",
+
+  ">Configured<": ">Agordita<",
+  ">Linked<": ">Ligita<",
+  ">Last start<": ">Lasta komenco<",
+  ">Last probe<": ">Lasta sondado<",
+  ">Last connect<": ">Lasta konekto<",
+  ">Last message<": ">Lasta mesaĝo<",
+  ">Last inbound<": ">Lasta envenanta<",
+  ">Auth age<": ">Aĝo de aŭtentigo<",
+  ">Mode<": ">Reĝimo<",
+  ">Credential<": ">Akreditaĵo<",
+  ">Public Key<": ">Publika ŝlosilo<",
+  ">Audience<": ">Aŭdantaro<",
+  ">Profile<": ">Profiles<",
+
+  "No profile set. Click \"Edit Profile\" to add your name, bio, and avatar.": "Neniu profilo agordita. Alklaku \"Redakti Profilon\" por aldoni vian nomon, biografion kaj avataro.",
+  "\"Saving…\"": "\"Konservante…\"",
+  "\"Save\"": "\"Konservi\"",
+  "  probe": " sondado",
+  
+  "  Probe": " Sondado",
+  "\"ok\" \\:": "\"sukceso\" :",
+  "\"failed\"": "\"malsukceso\"",
+  
+  "Decentralized DMs via Nostr relays \\(NIP-04\\).": "Malcentralizitaj privataj mesaĝoj per Nostr-relajsoj (NIP-04).",
+
+
+  "Chat API webhook status and channel configuration.": "Stato de Babil-API-retokohoko kaj kanala agordo.",
+  
+  "macOS bridge status and channel configuration.": "Stato de macOS-ponto kaj kanala agordo.",
+
+  
+  ">Edit Profile<": ">Redakti Profilon<",
+  ">Account: ": ">Konto: ",
+  
+  "\"Username\"": "\"Uzantnomo\"",
+  "\"Short username \\(": "\"Mallonga uzantnomo (",
+  "\"Display Name\"": "\"Vidiga nomo\"",
+  "Your full display name": "Via plena vidiga nomo",
+  "\"Bio\"": "\"Biografio\"",
+  "Tell people about yourself...": "Rakontu al homoj pri vi...",
+  "\"Avatar URL\"": "\"Avatar-URL\"",
+  "A brief bio or description": "Mallonga biografio aŭ priskribo",
+  "\"Banner URL\"": "\"Banner-URL\"",
+  "HTTPS URL to your profile picture": " HTTPS-URL de via profila bildo",
+  "HTTPS URL to a banner image": "HTTPS-URL de banner-bildo",
+  "\"Website\"": "\"Retejo\"",
+  "Your personal website": "Via persona retejo",
+  "\"NIP-05 Identifier\"": "\"NIP-05-identigilo\"",
+  "\"Verifiable identifier ": "\"Verigebla identigilo ",
+  "\"Lightning Address\"": "\"Fulma adreso\"",
+  "\"Lightning address for tips ": "\"Fulma adreso por donacoj ",
+  "\"Saving...\"": "\"Konservante...\"",
+  "Save & Publish": "Konservi kaj publikigi",
+  "\"Importing...\"": "\"Importante...\"",
+  "\"Import from Relays\"": "\"Importi el relajsoj\"",
+  "\"Hide Advanced\"": "\"Kaŝi altnivelajn\"",
+  "\"Show Advanced\"": "\"Montri altnivelajn\"",
+  "  You have unsaved changes": "  Vi havas nekonservitajn ŝanĝojn",
+
+  ">Display Name<": ">Vidiga nomo<",
+  ">About<": ">Pri<",
+
+  ">Accounts ": ">Kontoj ",
+
+  
+  "signal-cli status and channel configuration.": "Stato de signal-cli kaj kanala agordo.",
+  ">Base URL<": ">Baza URL<",
+
+  
+  "Socket mode status and channel configuration.": "Stato de ingo-reĝimo kaj kanala agordo.",
+  
+  "Bot status and channel configuration.": "Stato de roboto kaj kanala agordo.",
+  
+  "Link WhatsApp Web and monitor connection health.": "Ligi WhatsApp-Reton kaj monitori konektan sanstaton."
+}

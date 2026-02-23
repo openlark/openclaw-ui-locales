@@ -1,7 +1,7 @@
 {
   "name": "openclaw-ui-locales",
-  "version": "0.3.6",
-  "description": "A multilingual switching tool specifically designed for the OpenClaw Web control interface. It allows you to seamlessly switch between over 10 languages with a single click.",
+  "version": "0.3.7",
+  "description": "A multilingual switching tool specifically designed for the OpenClaw Web control interface. It allows you to seamlessly switch between multiple languages with a single click, completely eliminating language barriers and enabling you to efficiently control your device in the language you are most familiar with.",
   "type": "module",
   "scripts": {
     "locale": "bun run ./scripts/index.ts",

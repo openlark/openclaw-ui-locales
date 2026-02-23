@@ -1,0 +1,23 @@
+{
+  "Compacting context...": "در حال فشرده‌سازی زمینه...",
+  "Context compacted": "زمینه فشرده شد",
+  "Attachment preview": "پیش‌نمایش پیوست",
+  "Remove attachment": "حذف پیوست",
+  "Add a message or paste more images...": "یک پیام اضافه کنید یا تصاویر بیشتری بچسبانید...",
+  "Message \\(↩ to send, Shift\\+↩ for line breaks, paste images\\)": "پیام (↩ برای ارسال، Shift+↩ برای شکست خط، چسباندن تصاویر)",
+  "Connect to the gateway to start chatting…": "برای شروع چت به دروازه متصل شوید…",
+  "Loading chat…": "در حال بارگیری چت…",
+  "Exit focus mode": "خروج از حالت تمرکز",
+  ">Queued ": ">در صف ",
+  "Image \\(": "تصویر (",
+  "Remove queued message": "حذف پیام در صف",
+  "New messages ": "پیام‌های جدید ",
+  ">Message<": ">پیام<",
+  "\"Stop\"": "\"توقف\"",
+  "New session": "نشست جدید",
+  "\"Queue\"": "\"صف\"",
+  "\"Send\"": "\"ارسال\"",
+  "Showing last ": "نمایش آخرین ",
+  "\\} messages": "} پیام",
+  "\\} hidden": "} مخفی"
+}

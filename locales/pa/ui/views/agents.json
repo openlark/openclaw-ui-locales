@@ -1,0 +1,140 @@
+{
+  ">No configured models<": ">مدل‌های پیکربندی‌شده وجود ندارد<",
+  "\\} configured.<": "} پیکربندی شد.<",
+  "No agents found.": "عاملی یافت نشد.",
+  ">Select an agent<": ">انتخاب عامل<",
+  "Pick an agent to inspect its workspace and tools.": "یک عامل را برای بررسی فضای کاری و ابزارهای آن انتخاب کنید.",
+  "Agent workspace and routing.": "فضای کاری عامل و مسیریابی.",
+  "\"Tools\"": "\"ابزارها\"",
+
+  ">Overview<": ">بررسی اجمالی<",
+  "Workspace paths and identity metadata.": "مسیرهای فضای کاری و فراداده‌های هویت.",
+  ">Workspace<": ">فضای کاری<",
+  ">Primary Model<": ">مدل اصلی<",
+  ">Identity Name<": ">نام هویت<",
+  ">Default<": ">مقدار پیش‌فرض<",
+  ">Identity Emoji<": ">ایموجی هویت<",
+  ">Skills Filter<": ">فیلتر مهارت‌ها<",
+  ">Filter<": ">فیلتر<",
+  ">Model Selection<": ">انتخاب مدل<",
+  ">Primary model": ">مدل اصلی",
+  " \\(default\\)": " (پیش‌فرض)",
+  "Fallbacks \\(comma-separated\\)": "گزینه‌های جایگزین (جداشده با کاما)",
+  "Inherit default \\(": "ارث‌بری پیش‌فرض (",
+  "\"Inherit default\"": "\"ارث‌بری پیش‌فرض\"",
+  ">Fallbacks (comma-separated)<": ">گزینه‌های جایگزین (جداشده با کاما)",
+  "\"Save\"": "\"ذخیره\"",
+  "\"yes\"": "\"بله\"",
+  "\"no\"": "\"خیر\"",
+  
+  "\"Workspace, identity, and model configuration.\"": "\"پیکربندی فضای کاری، هویت و مدل.\"",
+  "Load channels to see live status.": "برای مشاهده وضعیت زنده، کانال‌ها را بارگیری کنید.",
+  "Gateway-wide channel status snapshot.": "عکس فوری از وضعیت کانال در سطح دروازه.",
+  " Last refresh:": " آخرین به‌روزرسانی:",
+  "No channels found.": "کانالی یافت نشد.",
+  "\\} enabled": "} فعال",
+  "Workspace and scheduling targets.": "فضای کاری و اهداف زمان‌بندی.",
+  "Gateway cron status.": "وضعیت کرون دروازه.",
+  ">Next wake<": ">بیدارباش بعدی<",
+  ">Agent Cron Jobs<": ">وظایف کرون عامل<",
+  "Scheduled jobs targeting this agent.": "وظایف زمان‌بندی‌شده برای این عامل.",
+  "No jobs assigned.": "وظیفه‌ای تخصیص داده نشده است.",
+  ">Core Files<": ">فایل‌های اصلی<",
+  "Bootstrap persona, identity, and tool guidance.": "راهنمای شخصیت اولیه، هویت و ابزار.",
+  ">Workspace:": ">فضای کاری:",
+  "  Load the agent workspace files to edit core instructions.": " برای ویرایش دستورالعمل‌های اصلی، فایل‌های فضای کاری عامل را بارگیری کنید.",
+  "No files found.": "فایلی یافت نشد.",
+  "Select a file to edit.": "فایلی را برای ویرایش انتخاب کنید.",
+  "  This file is missing. Saving will create it in the agent workspace.": " این فایل وجود ندارد. ذخیره‌سازی آن را در فضای کاری عامل ایجاد خواهد کرد.",
+  ">Content<": ">محتوا<",
+  ">missing<": ">موجود نیست<",  
+
+  
+  "\"Files\"": "\"فایل‌ها\"",
+  "\"Read file contents\"": "\"خواندن محتویات فایل\"",
+  "\"Create or overwrite files\"": "\"ایجاد یا بازنویسی فایل‌ها\"",
+  "\"Make precise edits\"": "\"انجام ویرایش‌های دقیق\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"وصله فایل‌ها (OpenAI)\"",
+
+  "\"Runtime\"": "\"زمان اجرا\"",
+  "\"Run shell commands\"": "\"اجرای دستورات شل\"",
+  "\"Manage background processes\"": "\"مدیریت فرآیندهای پس‌زمینه\"",
+
+  "\"Web\"": "\"وب\"",
+  "\"Search the web\"": "\"جستجو در وب\"",
+  "\"Fetch web content\"": "\"دریافت محتوای وب\"",
+  
+  "\"Memory\"": "\"حافظه\"",
+  "\"Semantic search\"": "\"جستجوی معنایی\"",
+  "\"Read memory files\"": "\"خواندن فایل‌های حافظه\"",
+  "\"List sessions\"": "\"فهرست نشست‌ها\"",
+
+  "\"Session history\"": "\"تاریخچه نشست\"",
+  "\"Send to session": "\"ارسال به نشست",
+  "\"Spawn sub-agent\"": "\"ایجاد زیرعامل\"",
+  "\"Session status\"": "\"وضعیت نشست\"",
+
+  "\"UI\"": "\"رابط کاربری\"",
+  "\"Control web browser\"": "\"کنترل مرورگر وب\"",
+  "\"Control canvases\"": "\"کنترل بوم‌ها\"",
+
+  "\"Send messages\"": "\"ارسال پیام‌ها\"",
+  
+  "\"Automation\"": "\"خودکارسازی\"",
+  "\"Schedule tasks\"": "\"زمان‌بندی وظایف\"",
+
+  "\"Gateway control\"": "\"کنترل دروازه\"",
+  "\"Nodes \\+ devices\"": "\"گره‌ها + دستگاه‌ها\"",
+  "\"List agents\"": "\"فهرست عامل‌ها\"",
+  
+  "\"Media\"": "\"رسانه\"",
+  "\"Image understanding\"": "\"درک تصویر\"",
+
+  "\"Minimal\"": "\"حداقلی\"",
+  "\"Coding\"": "\"برنامه‌نویسی\"",
+  "\"Messaging\"": "\"پیام‌رسانی\"",
+  "\"Full\"": "\"کامل\"",
+  
+  "\\} selected": "} انتخاب شد",
+  "\"all skills\"": "\"همه مهارت‌ها\"",
+  
+
+  ">Agent Context<": ">زمینه عامل<",
+  "\"no accounts\"": "\"بدون حساب کاربری\"",
+  " connected`": " متصل`",
+  " configured`": " پیکربندی شد`",
+  "\"not configured\"": "\"پیکربندی نشده\"",
+
+  "\"agent override\"": "\"بازنویسی عامل\"",
+  "\"global default\"": "\"پیش‌فرض سراسری\"",
+  "\"default\"": "\"پیش‌فرض\"",
+
+  ">Tool Access<": ">دسترسی به ابزارها<",
+  "  Profile \\+ per-tool overrides for this agent.": " نمایه + بازنویسی‌های هر ابزار برای این عامل.",
+  "> enabled.": "> فعال شد.",
+
+  "  Use All": " استفاده از همه",
+  "  Enable All": " فعال‌سازی همه",
+  "  Disable All": " غیرفعال‌سازی همه",
+  "  Reload Config": " بارگذاری مجدد پیکربندی",
+
+  "  Reload": " بارگذاری مجدد",
+  
+  "Load the gateway config to adjust tool profiles.": "برای تنظیم نمایه‌های ابزار، پیکربندی دروازه را بارگیری کنید.",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "این عامل از یک لیست سفید صریح در پیکربندی استفاده می‌کند. بازنویسی‌های ابزار در برگه «پیکربندی» مدیریت می‌شوند.",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "تنظیم سراسری tools.allow اعمال شده است. بازنویسی‌های عامل نمی‌توانند ابزارهایی را که به صورت سراسری مسدود شده‌اند فعال کنند.",
+
+  ">Profile<": ">نمایه<",
+  ">Source<": ">منبع<",
+  ">unsaved<": ">ذخیره نشده<",
+
+  ">Quick Presets<": ">پیش‌تنظیمات سریع<",
+  "  Inherit": " ارث‌بری",
+
+  "Per-agent skill allowlist and workspace skills.": "لیست سفید مهارت‌های هر عامل و مهارت‌های فضای کاری.",
+  "Load the gateway config to set per-agent skills.": "برای تنظیم مهارت‌های هر عامل، پیکربندی دروازه را بارگیری کنید.",
+  "This agent uses a custom skill allowlist.": "این عامل از یک لیست سفید مهارت سفارشی استفاده می‌کند.",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "همه مهارت‌ها فعال هستند. غیرفعال کردن هر مهارتی یک لیست سفید برای آن عامل ایجاد می‌کند.",
+  "Load skills for this agent to view workspace-specific entries.": "برای مشاهده ورودی‌های خاص فضای کاری، مهارت‌های این عامل را بارگیری کنید."
+
+}

@@ -18,29 +18,33 @@
 
 ## 概览
 
-**OpenClaw UI Locales**是专为OpenClaw Web控制界面打造的多语言切换工具，让您一键在10+国家语言间无缝切换，彻底告别语言障碍，始终用最熟悉的语言高效掌控设备。
+**OpenClaw UI Locales**是专为OpenClaw Web控制界面打造的多语言切换工具，让您一键在多国家语言间无缝切换，彻底告别语言障碍，始终用最熟悉的语言高效掌控设备。
 
 支持的国家语言如下：
 
 ```
-简体中文 (Chinese Simplified)                             zh-CN 
-繁體中文 (Chinese Traditional)                            zh-TW
-English (English 英语)                                    en
-日本語 (Japanese 日语)                                     ja
-한국어 (Korean 韩语)                                       ko
-Français (French 法语)                                    fr
-Deutsch (German 德语)                                     de 
-Italiano(Italian 意大利语)                                 it
-Português (Portuguese 葡萄牙语)                            pt
+简体中文 (Chinese Simplified)                               zh-CN 
+繁體中文 (Chinese Traditional)                              zh-TW
+English (English 英语)                                      en
+日本語 (Japanese 日语)                                      ja
+한국어 (Korean 韩语)                                        ko
+Français (French 法语)                                      fr
+Deutsch (German 德语)                                       de 
+Italiano(Italian 意大利语)                                  it
+Português (Portuguese 葡萄牙语)                             pt
 Português Brazilian (Portuguese Brazilian 巴西葡萄牙语)     pt-BR 
 Español (Spanish 西班牙语)                                  es
+Русский (Russian 俄语)                                      ru
+Esperanto (Esperanto 世界语)                                eo
 Tiếng Việt (Vietnamese 越南语)                              vi
 Filipino(Filipino 菲律宾语)                                 fi
 বাংলা (Bangla 孟加拉语)                                      bn
-ప్రామాణిక (Telugu 泰卢固语)                                   te 
-तेलुगु (Hindi 印地语)                                          hi
-العربية (Arabic 阿拉伯语)                                   ar
+ప్రామాణిక (Telugu 泰卢固语)                                  te 
+तेलुगु (Hindi 印地语)                                         hi
+العربية (Arabic 阿拉伯语)                                  ar
+فارسی (Persian 波斯语)                                     pa
 ```
+
 
 ## 安装
 

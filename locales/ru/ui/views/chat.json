@@ -1,0 +1,23 @@
+{
+  "Compacting context...": "Сжатие контекста...",
+  "Context compacted": "Контекст сжат",
+  "Attachment preview": "Предпросмотр вложения",
+  "Remove attachment": "Удалить вложение",
+  "Add a message or paste more images...": "Добавьте сообщение или вставьте больше изображений...",
+  "Message \\(↩ to send, Shift\\+↩ for line breaks, paste images\\)": "Сообщение (↩ отправить, Shift+↩ перенос строки, вставка изображений)",
+  "Connect to the gateway to start chatting…": "Подключитесь к шлюзу, чтобы начать чат…",
+  "Loading chat…": "Загрузка чата…",
+  "Exit focus mode": "Выйти из режима фокусировки",
+  ">Queued ": ">В очереди ",
+  "Image \\(": "Изображение (",
+  "Remove queued message": "Удалить сообщение из очереди",
+  "New messages ": "Новые сообщения ",
+  ">Message<": ">Сообщение<",
+  "\"Stop\"": "\"Стоп\"",
+  "New session": "Новая сессия",
+  "\"Queue\"": "\"Очередь\"",
+  "\"Send\"": "\"Отправить\"",
+  "Showing last ": "Показаны последние ",
+  "\\} messages": "} сообщений",
+  "\\} hidden": "} скрыто"
+}

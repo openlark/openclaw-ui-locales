@@ -1,0 +1,91 @@
+{
+  "Channel health": "سلامت کانال",
+  "Channel status snapshots from the gateway.": "عکس‌های فوری از وضعیت کانال از طرف دروازه.",
+  "No snapshot yet.": "هنوز عکس فوری وجود ندارد.",
+  "Channel status and configuration.": "وضعیت و پیکربندی کانال.",
+  "\"Yes\"": "\"بله\"",
+  "\"Active\"": "\"فعال\"",
+  "\"No\"": "\"خیر\"",
+  ">Running<": ">در حال اجرا<",
+  ">Connected<": ">متصل<",
+
+  
+  "Schema unavailable. Use Raw.": "طرح‌واره در دسترس نیست. از داده‌های خام استفاده کنید.",
+  "Channel config schema unavailable.": "طرح‌واره پیکربندی کانال در دسترس نیست.",
+  "Loading config schema…": "در حال بارگیری طرح‌واره پیکربندی…",
+
+  ">Configured<": ">پیکربندی شده<",
+  ">Linked<": ">پیوند شده<",
+  ">Last start<": ">آخرین شروع<",
+  ">Last probe<": ">آخرین کاوش<",
+  ">Last connect<": ">آخرین اتصال<",
+  ">Last message<": ">آخرین پیام<",
+  ">Last inbound<": ">آخرین ورودی<",
+  ">Auth age<": ">سن احراز هویت<",
+  ">Mode<": ">حالت<",
+  ">Credential<": ">مدرک اعتبارسنجی<",
+  ">Public Key<": ">کلید عمومی<",
+  ">Audience<": ">مخاطب<",
+  ">Profile<": ">نمایه<",
+
+  "No profile set. Click \"Edit Profile\" to add your name, bio, and avatar.": "نمایه‌ای تنظیم نشده است. برای افزودن نام، بیوگرافی و آواتار خود، روی «ویرایش نمایه» کلیک کنید.",
+  "\"Saving…\"": "\"در حال ذخیره…\"",
+  "\"Save\"": "\"ذخیره\"",
+  "  probe": " کاوش",
+  
+  "  Probe": " کاوش",
+  "\"ok\" \\:": "\"موفق\" :",
+  "\"failed\"": "\"ناموفق\"",
+  
+  "Decentralized DMs via Nostr relays \\(NIP-04\\).": "پیام‌های خصوصی غیرمتمرکز از طریق رله‌های Nostr (NIP-04).",
+
+
+  "Chat API webhook status and channel configuration.": "وضعیت webhook API چت و پیکربندی کانال.",
+  
+  "macOS bridge status and channel configuration.": "وضعیت پل macOS و پیکربندی کانال.",
+
+  
+  ">Edit Profile<": ">ویرایش نمایه<",
+  ">Account: ": ">حساب کاربری: ",
+  
+  "\"Username\"": "\"نام کاربری\"",
+  "\"Short username \\(": "\"نام کاربری کوتاه (",
+  "\"Display Name\"": "\"نام نمایشی\"",
+  "Your full display name": "نام نمایشی کامل شما",
+  "\"Bio\"": "\"بیوگرافی\"",
+  "Tell people about yourself...": "درباره خودتان به دیگران بگویید...",
+  "\"Avatar URL\"": "\"URL آواتار\"",
+  "A brief bio or description": "یک بیوگرافی یا توضیح مختصر",
+  "\"Banner URL\"": "\"URL بنر\"",
+  "HTTPS URL to your profile picture": " URL HTTPS تصویر نمایه شما",
+  "HTTPS URL to a banner image": "URL HTTPS تصویر بنر",
+  "\"Website\"": "\"وب‌سایت\"",
+  "Your personal website": "وب‌سایت شخصی شما",
+  "\"NIP-05 Identifier\"": "\"شناسه NIP-05\"",
+  "\"Verifiable identifier ": "\"شناسه قابل تأیید ",
+  "\"Lightning Address\"": "\"آدرس لایتنینگ\"",
+  "\"Lightning address for tips ": "\"آدرس لایتنینگ برای انعام ",
+  "\"Saving...\"": "\"در حال ذخیره...\"",
+  "Save & Publish": "ذخیره و انتشار",
+  "\"Importing...\"": "\"در حال وارد کردن...\"",
+  "\"Import from Relays\"": "\"وارد کردن از رله‌ها\"",
+  "\"Hide Advanced\"": "\"مخفی کردن پیشرفته\"",
+  "\"Show Advanced\"": "\"نمایش پیشرفته\"",
+  "  You have unsaved changes": "  شما تغییرات ذخیره‌نشده دارید",
+
+  ">Display Name<": ">نام نمایشی<",
+  ">About<": ">درباره<",
+
+  ">Accounts ": ">حساب‌های کاربری ",
+
+  
+  "signal-cli status and channel configuration.": "وضعیت signal-cli و پیکربندی کانال.",
+  ">Base URL<": ">URL پایه<",
+
+  
+  "Socket mode status and channel configuration.": "وضعیت حالت سوکت و پیکربندی کانال.",
+  
+  "Bot status and channel configuration.": "وضعیت ربات و پیکربندی کانال.",
+  
+  "Link WhatsApp Web and monitor connection health.": "اتصال به WhatsApp Web و نظارت بر سلامت اتصال."
+}

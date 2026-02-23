@@ -58,12 +58,15 @@ export async function execLocale() {
     { label: 'Português (Portuguese 葡萄牙语)', value: 'pt' },
     { label: 'Português Brazilian (Portuguese Brazilian 巴西葡萄牙语)', value: 'pt-BR' },
     { label: 'Español (Spanish 西班牙语)', value: 'es' },
+    { label: 'Русский (Russian 俄语)', value: 'ru' },
+    { label: 'Esperanto (Esperanto 世界语)', value: 'eo' },
     { label: 'Tiếng Việt (Vietnamese 越南语)', value: 'vi' },
     { label: 'Filipino(Filipino 菲律宾语)', value: 'fi' },
     { label: 'বাংলা (Bangla 孟加拉语)', value: 'bn' },
     { label: 'ప్రామాణిక (Telugu 泰卢固语)', value: 'te' },
     { label: 'तेलुगु (Hindi 印地语)', value: 'hi' },
     { label: 'العربية (Arabic 阿拉伯语)', value: 'ar' },
+    { label:'فارسی (Persian 波斯语)', value: 'pa' },
   ]
   const language = await select({
     message: 'Please select a language.',

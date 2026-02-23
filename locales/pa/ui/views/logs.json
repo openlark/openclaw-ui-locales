@@ -1,0 +1,12 @@
+{
+  ">Logs<": ">لاگ‌ها<",
+  "Gateway file logs \\(JSONL\\).": "لاگ‌های فایل دروازه (JSONL).",
+  "\"filtered\"": "\"فیلتر شده\"",
+  "\"visible\"": "\"قابل مشاهده\"",
+  " Export ": " خروجی ",
+  "\"Search logs\"": "\"جستجو در لاگ‌ها\"",
+  ">Auto-follow<": ">دنبال‌کردن خودکار<",
+  "Log output truncated; showing latest chunk.": "خروجی لاگ کوتاه شده است؛ نمایش آخرین بخش.",
+  ">Last heartbeat<": ">آخرین ضربان<",
+  "No log entries.": "ورودی لاگ وجود ندارد."
+}

@@ -1,0 +1,91 @@
+{
+  ">Nodes<": ">گره‌ها<",
+  "Paired devices and live links.": "دستگاه‌های جفت‌شده و پیوندهای زنده.",
+  "No nodes found.": "گره‌ای یافت نشد.",
+
+  ">Devices<": ">دستگاه‌ها<",
+  "Pairing requests \\+ role tokens.": "درخواست‌های جفت‌سازی + نشانه‌های نقش.",
+  "\"Loading…\" : \"Refresh\"\\}": "\"در حال بارگیری…\" : \"به‌روزرسانی\"}",
+  ">Pending<": ">در انتظار<",
+  ">Paired<": ">جفت‌شده<",
+  "No paired devices.": "دستگاه جفت‌شده‌ای وجود ندارد.",
+
+  " · requested ": " · درخواست شده",
+  "   Approve": "   تأیید",
+  "   Reject": "  رد",
+
+  ">Tokens: none<": ">نشانه‌ها: هیچکدام<",
+  "   Rotate": "  چرخش",
+  "   Revoke": "  لغو",
+
+  ">Exec node binding<": ">Binding گره اجرا<",
+  "Pin agents to a specific node when using <span class=\"mono\">exec host=node</span>.": "هنگام استفاده از <span class=\"mono\">exec host=node</span>، عامل‌ها را به یک گره خاص pin کنید.",
+  "Switch the Config tab to <strong>Form<\/strong> mode to edit bindings here.": "برای ویرایش bindingها در اینجا، برگه پیکربندی را به حالت <strong>فرم<\/strong> تغییر دهید.",
+  "Load config to edit bindings.": "برای ویرایش bindingها، پیکربندی را بارگیری کنید.",
+  "\"Load config\"": "\"بارگیری پیکربندی\"",
+  ">Default binding<": ">Binding پیش‌فرض<",
+  "Used when agents do not override a node binding.": "زمانی استفاده می‌شود که عامل‌ها یک binding گره را بازنویسی نمی‌کنند.",
+  ">Any node<": ">هر گره‌ای<",
+  "No nodes with system.run available.": "هیچ گره‌ای با system.run در دسترس نیست.",
+
+  ">Target<": ">هدف<",
+  " Gateway edits local approvals; node edits the selected node.": " دروازه تأییدیه‌های محلی را ویرایش می‌کند؛ گره، گره انتخاب‌شده را ویرایش می‌کند.",
+  
+  ">Host<": ">میزبان<",
+  ">Security<": ">امنیت<",
+  "\"default agent\"": "\"عامل پیش‌فرض\"",
+  "\"agent\"\\}": "\"عامل\"}",
+  "`uses default \\(": "`از پیش‌فرض استفاده می‌کند (",
+  "`Using default \\(": "`در حال استفاده از پیش‌فرض (",
+  "`Override \\(": "`بازنویسی (",
+  " \"any\"\\}": " \"هرکدام\"}",
+  ": `override: ": ": `بازنویسی:",
+  ">Binding<": ">Binding<",
+  "\"paired\" : \"unpaired\"\\}": "\"جفت شده\" : \"جفت نشده\"}",
+  "\"connected\" : \"offline\"\\}": "\"متصل\" : \"آفلاین\"}",
+  
+  
+  "\"Deny\"": "\"رد کردن\"",
+  "\"Allowlist\"": "\"لیست سفید\"",
+  "\"Off\"": "\"خاموش\"",
+  "\"On miss\"": "\"در صورت عدم تطابق\"",
+  "\"Always\"": "\"همیشه\"",
+
+  ">Exec approvals<": ">تأییدیه‌های اجرا<",
+  "Allowlist and approval policy for \\<span class=\"mono\">exec host=gateway/node\\</span>.": "خط مشی لیست سفید و تأیید برای <span class=\"mono\">exec host=gateway/node</span>.",
+  "\"Load approvals\"": "\"بارگیری تأییدیه‌ها\"",
+  "Load exec approvals to edit allowlists.":"برای ویرایش لیست‌های سفید، تأییدیه‌های اجرا را بارگیری کنید.",
+  "Gateway edits local approvals; node edits the selected node.": "دروازه تأییدیه‌های محلی را ویرایش می‌کند؛ گره، گره انتخاب‌شده را ویرایش می‌کند.",
+
+  ">Gateway<": ">دروازه<",
+  ">Node<": ">گره<",
+  ">Select node<": ">انتخاب گره<",
+  "No nodes advertise exec approvals yet.": "هنوز هیچ گره‌ای تأییدیه‌های اجرا را اعلام نمی‌کند.",
+
+  ">Scope<": ">حوزه<",
+  "  Defaults": " مقادیر پیش‌فرض",
+
+  "\"Default security mode.\"": "\"حالت امنیتی پیش‌فرض.\"",
+  "`Default: ": "`پیش‌فرض: ",
+  "  Use default": "  استفاده از پیش‌فرض",
+  "\"Default prompt policy.\"": "\"خط مشی提示 پیش‌فرض.\"",
+  ">Ask<": ">پرسیدن<",
+  ">Ask fallback<": ">پرسیدن جایگزین<",
+  "Applied when the UI prompt is unavailable.": "زمانی اعمال می‌شود که提示 رابط کاربری در دسترس نباشد.",
+  ">Fallback<": ">جایگزین<",
+
+  ">Auto-allow skill CLIs<": ">اجازه خودکار به CLIهای مهارت<",
+  "Allow skill executables listed by the Gateway.": "اجازه به فایل‌های اجرایی مهارت فهرست‌شده توسط دروازه.",
+  "\"on\" \\: \"off\"\\}": "\"روشن\" : \"خاموش\"}",
+  ": `Override \\(": ": `بازنویسی (",
+
+  
+  ">Allowlist<": ">لیست سفید<",
+  "Case-insensitive glob patterns.": "الگوهای glob بدون در نظر گرفتن بزرگی و کوچکی حروف.",
+  "  Add pattern": " افزودن الگو",
+  ">Pattern<": ">الگو<",
+  "No allowlist entries yet.": "هنوز ورودی لیست سفید وجود ندارد.",
+  "\"New pattern\"": "\"الگوی جدید\"",
+  ">Last used: ": ">آخرین استفاده:",
+  "  Remove": "  حذف"
+}

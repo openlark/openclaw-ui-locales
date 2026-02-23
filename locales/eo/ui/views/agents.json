@@ -1,0 +1,140 @@
+{
+  ">No configured models<": ">Neniuj agorditaj modeloj<",
+  "\\} configured.<": "} agorditaj.<",
+  "No agents found.": "Neniuj agentoj trovitaj.",
+  ">Select an agent<": ">Elektu agenton<",
+  "Pick an agent to inspect its workspace and tools.": "Elektu agenton por inspekti ĝian laborspacon kaj ilojn.",
+  "Agent workspace and routing.": "Agenta laborspaco kaj vojigo.",
+  "\"Tools\"": "\"Iloj\"",
+
+  ">Overview<": ">Superrigardo<",
+  "Workspace paths and identity metadata.": "Laborspacaj vojoj kaj identecaj metadatumoj.",
+  ">Workspace<": ">Laborspaco<",
+  ">Primary Model<": ">Ĉefa modelo<",
+  ">Identity Name<": ">Identeca nomo<",
+  ">Default<": ">Defaŭlta valoro<",
+  ">Identity Emoji<": ">Identeca emoĝio<",
+  ">Skills Filter<": ">Kapablo-filtrilo<",
+  ">Filter<": ">Filtrilo<",
+  ">Model Selection<": ">Modela elekto<",
+  ">Primary model": ">Ĉefa modelo",
+  " \\(default\\)": " (defaŭlta)",
+  "Fallbacks \\(comma-separated\\)": "Rezervaj opcioj (per komo disigitaj)",
+  "Inherit default \\(": "Heredi defaŭlton (",
+  "\"Inherit default\"": "\"Heredi defaŭlton\"",
+  ">Fallbacks (comma-separated)<": ">Rezervaj opcioj (per komo disigitaj)",
+  "\"Save\"": "\"Konservi\"",
+  "\"yes\"": "\"jes\"",
+  "\"no\"": "\"ne\"",
+  
+  "\"Workspace, identity, and model configuration.\"": "\"Agordo de laborspaco, identeco kaj modelo.\"",
+  "Load channels to see live status.": "Ŝarĝu kanalojn por vidi realtempan staton.",
+  "Gateway-wide channel status snapshot.": "Enirejlarĝa momentfoto de kanala stato.",
+  " Last refresh:": " Lasta refreŝigo:",
+  "No channels found.": "Neniuj kanaloj trovitaj.",
+  "\\} enabled": "} aktivigitaj",
+  "Workspace and scheduling targets.": "Laborspaco kaj planaj celoj.",
+  "Gateway cron status.": "Stato de enireja cron.",
+  ">Next wake<": ">Sekva vekiĝo<",
+  ">Agent Cron Jobs<": ">Agentaj cron-taskoj<",
+  "Scheduled jobs targeting this agent.": "Planitaj taskoj celantaj ĉi tiun agenton.",
+  "No jobs assigned.": "Neniuj taskoj asignitaj.",
+  ">Core Files<": ">Kernaj dosieroj<",
+  "Bootstrap persona, identity, and tool guidance.": "Komenca persono, identeco kaj ila gvidado.",
+  ">Workspace:": ">Laborspaco:",
+  "  Load the agent workspace files to edit core instructions.": " Ŝarĝu la agentajn laborspacajn dosierojn por redakti kernajn instrukciojn.",
+  "No files found.": "Neniuj dosieroj trovitaj.",
+  "Select a file to edit.": "Elektu dosieron por redakti.",
+  "  This file is missing. Saving will create it in the agent workspace.": " Ĉi tiu dosiero mankas. Konservado kreos ĝin en la agenta laborspaco.",
+  ">Content<": ">Enhavo<",
+  ">missing<": ">mankas<",  
+
+  
+  "\"Files\"": "\"Dosieroj\"",
+  "\"Read file contents\"": "\"Legi dosieran enhavon\"",
+  "\"Create or overwrite files\"": "\"Krei aŭ superverki dosierojn\"",
+  "\"Make precise edits\"": "\"Fari precizajn redaktojn\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"Fliki dosierojn (OpenAI)\"",
+
+  "\"Runtime\"": "\"Rultempo\"",
+  "\"Run shell commands\"": "\"Ruli ŝelajn komandojn\"",
+  "\"Manage background processes\"": "\"Administri fonajn procezojn\"",
+
+  "\"Web\"": "\"Retejo\"",
+  "\"Search the web\"": "\"Serĉi en la reto\"",
+  "\"Fetch web content\"": "\"Akiri retan enhavon\"",
+  
+  "\"Memory\"": "\"Memoro\"",
+  "\"Semantic search\"": "\"Semnatika serĉo\"",
+  "\"Read memory files\"": "\"Legi memorajn dosierojn\"",
+  "\"List sessions\"": "\"Listigi seancojn\"",
+
+  "\"Session history\"": "\"Seanca historio\"",
+  "\"Send to session": "\"Sendi al seanco",
+  "\"Spawn sub-agent\"": "\"Generi sub-agenton\"",
+  "\"Session status\"": "\"Seanca stato\"",
+
+  "\"UI\"": "\"Uzanta Interfaco\"",
+  "\"Control web browser\"": "\"Kontroli retumilon\"",
+  "\"Control canvases\"": "\"Kontroli kanvasojn\"",
+
+  "\"Send messages\"": "\"Sendi mesaĝojn\"",
+  
+  "\"Automation\"": "\"Aŭtomatigo\"",
+  "\"Schedule tasks\"": "\"Plani taskojn\"",
+
+  "\"Gateway control\"": "\"Enireja kontrolo\"",
+  "\"Nodes \\+ devices\"": "\"Nodoj + aparatoj\"",
+  "\"List agents\"": "\"Listigi agentojn\"",
+  
+  "\"Media\"": "\"Amaskomunikiloj\"",
+  "\"Image understanding\"": "\"Bilda kompreno\"",
+
+  "\"Minimal\"": "\"Minimuma\"",
+  "\"Coding\"": "\"Kodado\"",
+  "\"Messaging\"": "\"Mesaĝado\"",
+  "\"Full\"": "\"Plena\"",
+  
+  "\\} selected": "} elektita",
+  "\"all skills\"": "\"ĉiuj kapabloj\"",
+  
+
+  ">Agent Context<": ">Agenta kunteksto<",
+  "\"no accounts\"": "\"neniuj kontoj\"",
+  " connected`": " konektita`",
+  " configured`": " agordita`",
+  "\"not configured\"": "\"ne agordita\"",
+
+  "\"agent override\"": "\"agenta superregado\"",
+  "\"global default\"": "\"tutmonda defaŭlto\"",
+  "\"default\"": "\"defaŭlta\"",
+
+  ">Tool Access<": ">Ila aliro<",
+  "  Profile \\+ per-tool overrides for this agent.": " Profilo + por-ila superregado por ĉi tiu agento.",
+  "> enabled.": "> aktivigita.",
+
+  "  Use All": " Uzi ĉiujn",
+  "  Enable All": " Aktivigi ĉiujn",
+  "  Disable All": " Malaktivigi ĉiujn",
+  "  Reload Config": " Reŝargi agordon",
+
+  "  Reload": " Reŝargi",
+  
+  "Load the gateway config to adjust tool profiles.": "Ŝarĝu la enirejan agordon por ĝustigi ilajn profilojn.",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "Ĉi tiu agento uzas eksplicitan blankan liston en agordo. Ilaj superregadoj estas administritaj en la langeto \"Agordo\".",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "Tutmonda tools.allow estas agordita. Agentaj superregadoj ne povas aktivigi ilojn, kiuj estas tutmonde blokitaj.",
+
+  ">Profile<": ">Profiles<",
+  ">Source<": ">Fonto<",
+  ">unsaved<": ">nekonservita<",
+
+  ">Quick Presets<": ">Rapidaj antaŭagordoj<",
+  "  Inherit": " Heredi",
+
+  "Per-agent skill allowlist and workspace skills.": "Por-agenta blanka listo de kapabloj kaj laborspacaj kapabloj.",
+  "Load the gateway config to set per-agent skills.": "Ŝarĝu la enirejan agordon por agordi por-agentajn kapablojn.",
+  "This agent uses a custom skill allowlist.": "Ĉi tiu agento uzas propran blankan liston de kapabloj.",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "Ĉiuj kapabloj estas aktivigitaj. Malaktivigi iun ajn kapablon kreos por-agentan blankan liston.",
+  "Load skills for this agent to view workspace-specific entries.": "Ŝarĝu kapablojn por ĉi tiu agento por vidi laborspac-specifajn enskribojn."
+
+}

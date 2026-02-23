@@ -1,0 +1,91 @@
+{
+  "Channel health": "Состояние канала",
+  "Channel status snapshots from the gateway.": "Снимки состояния каналов от шлюза.",
+  "No snapshot yet.": "Снимков пока нет.",
+  "Channel status and configuration.": "Состояние и конфигурация канала.",
+  "\"Yes\"": "\"Да\"",
+  "\"Active\"": "\"Активен\"",
+  "\"No\"": "\"Нет\"",
+  ">Running<": ">Работает<",
+  ">Connected<": ">Подключено<",
+
+  
+  "Schema unavailable. Use Raw.": "Схема недоступна. Используйте «Сырые данные».",
+  "Channel config schema unavailable.": "Схема конфигурации канала недоступна.",
+  "Loading config schema…": "Загрузка схемы конфигурации…",
+
+  ">Configured<": ">Настроено<",
+  ">Linked<": ">Связано<",
+  ">Last start<": ">Последний запуск<",
+  ">Last probe<": ">Последний зонд<",
+  ">Last connect<": ">Последнее подключение<",
+  ">Last message<": ">Последнее сообщение<",
+  ">Last inbound<": ">Последнее входящее<",
+  ">Auth age<": ">Возраст аутентификации<",
+  ">Mode<": ">Режим<",
+  ">Credential<": ">Учетные данные<",
+  ">Public Key<": ">Открытый ключ<",
+  ">Audience<": ">Аудитория<",
+  ">Profile<": ">Профиль<",
+
+  "No profile set. Click \"Edit Profile\" to add your name, bio, and avatar.": "Профиль не задан. Нажмите «Редактировать профиль», чтобы добавить имя, биографию и аватар.",
+  "\"Saving…\"": "\"Сохранение…\"",
+  "\"Save\"": "\"Сохранить\"",
+  "  probe": " зонд",
+  
+  "  Probe": " Зонд",
+  "\"ok\" \\:": "\"ок\" :",
+  "\"failed\"": "\"не удалось\"",
+  
+  "Decentralized DMs via Nostr relays \\(NIP-04\\).": "Децентрализованные ЛС через ретрансляторы Nostr (NIP-04).",
+
+
+  "Chat API webhook status and channel configuration.": "Статус вебхука Chat API и конфигурация канала.",
+  
+  "macOS bridge status and channel configuration.": "Статус моста macOS и конфигурация канала.",
+
+  
+  ">Edit Profile<": ">Редактировать профиль<",
+  ">Account: ": ">Аккаунт: ",
+  
+  "\"Username\"": "\"Имя пользователя\"",
+  "\"Short username \\(": "\"Короткое имя пользователя (",
+  "\"Display Name\"": "\"Отображаемое имя\"",
+  "Your full display name": "Ваше полное отображаемое имя",
+  "\"Bio\"": "\"Биография\"",
+  "Tell people about yourself...": "Расскажите о себе...",
+  "\"Avatar URL\"": "\"URL аватара\"",
+  "A brief bio or description": "Краткая биография или описание",
+  "\"Banner URL\"": "\"URL баннера\"",
+  "HTTPS URL to your profile picture": " HTTPS URL вашего изображения профиля",
+  "HTTPS URL to a banner image": "HTTPS URL изображения баннера",
+  "\"Website\"": "\"Веб-сайт\"",
+  "Your personal website": "Ваш личный веб-сайт",
+  "\"NIP-05 Identifier\"": "\"Идентификатор NIP-05\"",
+  "\"Verifiable identifier ": "\"Проверяемый идентификатор ",
+  "\"Lightning Address\"": "\"Lightning-адрес\"",
+  "\"Lightning address for tips ": "\"Lightning-адрес для чаевых ",
+  "\"Saving...\"": "\"Сохранение...\"",
+  "Save & Publish": "Сохранить и опубликовать",
+  "\"Importing...\"": "\"Импорт...\"",
+  "\"Import from Relays\"": "\"Импорт с ретрансляторов\"",
+  "\"Hide Advanced\"": "\"Скрыть расширенные\"",
+  "\"Show Advanced\"": "\"Показать расширенные\"",
+  "  You have unsaved changes": "  У вас есть несохраненные изменения",
+
+  ">Display Name<": ">Отображаемое имя<",
+  ">About<": ">О себе<",
+
+  ">Accounts ": ">Аккаунты ",
+
+  
+  "signal-cli status and channel configuration.": "Статус signal-cli и конфигурация канала.",
+  ">Base URL<": ">Базовый URL<",
+
+  
+  "Socket mode status and channel configuration.": "Статус режима сокета и конфигурация канала.",
+  
+  "Bot status and channel configuration.": "Статус бота и конфигурация канала.",
+  
+  "Link WhatsApp Web and monitor connection health.": "Подключите WhatsApp Web и следите за состоянием соединения."
+}

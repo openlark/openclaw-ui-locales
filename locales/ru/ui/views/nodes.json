@@ -1,0 +1,91 @@
+{
+  ">Nodes<": ">Узлы<",
+  "Paired devices and live links.": "Сопряженные устройства и активные ссылки.",
+  "No nodes found.": "Узлы не найдены.",
+
+  ">Devices<": ">Устройства<",
+  "Pairing requests \\+ role tokens.": "Запросы на сопряжение + токены ролей.",
+  "\"Loading…\" : \"Refresh\"\\}": "\"Загрузка…\" : \"Обновить\"}",
+  ">Pending<": ">В ожидании<",
+  ">Paired<": ">Сопряжено<",
+  "No paired devices.": "Нет сопряженных устройств.",
+
+  " · requested ": " · запрошено",
+  "   Approve": "   Одобрить",
+  "   Reject": "  Отклонить",
+
+  ">Tokens: none<": ">Токены: нет<",
+  "   Rotate": "  Обновить",
+  "   Revoke": "  Отозвать",
+
+  ">Exec node binding<": ">Привязка узла выполнения<",
+  "Pin agents to a specific node when using <span class=\"mono\">exec host=node</span>.": "Прикрепите агентов к определенному узлу при использовании <span class=\"mono\">exec host=node</span>.",
+  "Switch the Config tab to <strong>Form<\/strong> mode to edit bindings here.": "Переключите вкладку «Конфигурация» в режим <strong>Форма<\/strong>, чтобы редактировать привязки здесь.",
+  "Load config to edit bindings.": "Загрузите конфигурацию для редактирования привязок.",
+  "\"Load config\"": "\"Загрузить конфигурацию\"",
+  ">Default binding<": ">Привязка по умолчанию<",
+  "Used when agents do not override a node binding.": "Используется, когда агенты не переопределяют привязку узла.",
+  ">Any node<": ">Любой узел<",
+  "No nodes with system.run available.": "Нет узлов с доступным system.run.",
+
+  ">Target<": ">Цель<",
+  " Gateway edits local approvals; node edits the selected node.": " Шлюз редактирует локальные утверждения; узел редактирует выбранный узел.",
+  
+  ">Host<": ">Хост<",
+  ">Security<": ">Безопасность<",
+  "\"default agent\"": "\"агент по умолчанию\"",
+  "\"agent\"\\}": "\"агент\"}",
+  "`uses default \\(": "`использует значение по умолчанию (",
+  "`Using default \\(": "`Используется значение по умолчанию (",
+  "`Override \\(": "`Переопределение (",
+  " \"any\"\\}": " \"любой\"}",
+  ": `override: ": ": `переопределение:",
+  ">Binding<": ">Привязка<",
+  "\"paired\" : \"unpaired\"\\}": "\"сопряжено\" : \"не сопряжено\"}",
+  "\"connected\" : \"offline\"\\}": "\"подключено\" : \"офлайн\"}",
+  
+  
+  "\"Deny\"": "\"Запретить\"",
+  "\"Allowlist\"": "\"Белый список\"",
+  "\"Off\"": "\"Выкл\"",
+  "\"On miss\"": "\"При промахе\"",
+  "\"Always\"": "\"Всегда\"",
+
+  ">Exec approvals<": ">Утверждения выполнения<",
+  "Allowlist and approval policy for \\<span class=\"mono\">exec host=gateway/node\\</span>.": "Политика белого списка и утверждения для <span class=\"mono\">exec host=gateway/node</span>.",
+  "\"Load approvals\"": "\"Загрузить утверждения\"",
+  "Load exec approvals to edit allowlists.":"Загрузите утверждения выполнения для редактирования белых списков.",
+  "Gateway edits local approvals; node edits the selected node.": "Шлюз редактирует локальные утверждения; узел редактирует выбранный узел.",
+
+  ">Gateway<": ">Шлюз<",
+  ">Node<": ">Узел<",
+  ">Select node<": ">Выберите узел<",
+  "No nodes advertise exec approvals yet.": "Узлы пока не анонсируют утверждения выполнения.",
+
+  ">Scope<": ">Область<",
+  "  Defaults": " Значения по умолчанию",
+
+  "\"Default security mode.\"": "\"Режим безопасности по умолчанию.\"",
+  "`Default: ": "`По умолчанию: ",
+  "  Use default": "  Использовать по умолчанию",
+  "\"Default prompt policy.\"": "\"Политика подсказок по умолчанию.\"",
+  ">Ask<": ">Спросить<",
+  ">Ask fallback<": ">Запасной вариант запроса<",
+  "Applied when the UI prompt is unavailable.": "Применяется, когда подсказка интерфейса недоступна.",
+  ">Fallback<": ">Запасной вариант<",
+
+  ">Auto-allow skill CLIs<": ">Авто-разрешение CLI навыков<",
+  "Allow skill executables listed by the Gateway.": "Разрешить исполняемые файлы навыков, перечисленные шлюзом.",
+  "\"on\" \\: \"off\"\\}": "\"вкл\" : \"выкл\"}",
+  ": `Override \\(": ": `Переопределение (",
+
+  
+  ">Allowlist<": ">Белый список<",
+  "Case-insensitive glob patterns.": "Шаблоны glob без учета регистра.",
+  "  Add pattern": " Добавить шаблон",
+  ">Pattern<": ">Шаблон<",
+  "No allowlist entries yet.": "Записей в белом списке пока нет.",
+  "\"New pattern\"": "\"Новый шаблон\"",
+  ">Last used: ": ">Последнее использование:",
+  "  Remove": "  Удалить"
+}

@@ -1,0 +1,140 @@
+{
+  ">No configured models<": ">Нет настроенных моделей<",
+  "\\} configured.<": "} настроено.<",
+  "No agents found.": "Агенты не найдены.",
+  ">Select an agent<": ">Выберите агента<",
+  "Pick an agent to inspect its workspace and tools.": "Выберите агента для просмотра его рабочей области и инструментов.",
+  "Agent workspace and routing.": "Рабочая область агента и маршрутизация.",
+  "\"Tools\"": "\"Инструменты\"",
+
+  ">Overview<": ">Обзор<",
+  "Workspace paths and identity metadata.": "Пути рабочей области и метаданные идентификации.",
+  ">Workspace<": ">Рабочая область<",
+  ">Primary Model<": ">Основная модель<",
+  ">Identity Name<": ">Имя идентификатора<",
+  ">Default<": ">По умолчанию<",
+  ">Identity Emoji<": ">Эмодзи идентификатора<",
+  ">Skills Filter<": ">Фильтр навыков<",
+  ">Filter<": ">Фильтр<",
+  ">Model Selection<": ">Выбор модели<",
+  ">Primary model": ">Основная модель",
+  " \\(default\\)": " (по умолчанию)",
+  "Fallbacks \\(comma-separated\\)": "Резервные варианты (через запятую)",
+  "Inherit default \\(": "Наследовать по умолчанию (",
+  "\"Inherit default\"": "\"Наследовать по умолчанию\"",
+  ">Fallbacks (comma-separated)<": ">Резервные варианты (через запятую)",
+  "\"Save\"": "\"Сохранить\"",
+  "\"yes\"": "\"да\"",
+  "\"no\"": "\"нет\"",
+  
+  "\"Workspace, identity, and model configuration.\"": "\"Конфигурация рабочей области, идентификатора и модели.\"",
+  "Load channels to see live status.": "Загрузите каналы, чтобы увидеть статус в реальном времени.",
+  "Gateway-wide channel status snapshot.": "Снимок состояния каналов всего шлюза.",
+  " Last refresh:": " Последнее обновление:",
+  "No channels found.": "Каналы не найдены.",
+  "\\} enabled": "} включено",
+  "Workspace and scheduling targets.": "Рабочая область и цели планирования.",
+  "Gateway cron status.": "Статус планировщика Cron шлюза.",
+  ">Next wake<": ">Следующее пробуждение<",
+  ">Agent Cron Jobs<": ">Задания Cron агента<",
+  "Scheduled jobs targeting this agent.": "Запланированные задания для этого агента.",
+  "No jobs assigned.": "Задания не назначены.",
+  ">Core Files<": ">Основные файлы<",
+  "Bootstrap persona, identity, and tool guidance.": "Начальная персона, идентификатор и инструкции по инструментам.",
+  ">Workspace:": ">Рабочая область:",
+  "  Load the agent workspace files to edit core instructions.": " Загрузите файлы рабочей области агента для редактирования основных инструкций.",
+  "No files found.": "Файлы не найдены.",
+  "Select a file to edit.": "Выберите файл для редактирования.",
+  "  This file is missing. Saving will create it in the agent workspace.": " Этот файл отсутствует. Сохранение создаст его в рабочей области агента.",
+  ">Content<": ">Содержимое<",
+  ">missing<": ">отсутствует<",  
+
+  
+  "\"Files\"": "\"Файлы\"",
+  "\"Read file contents\"": "\"Читать содержимое файлов\"",
+  "\"Create or overwrite files\"": "\"Создавать или перезаписывать файлы\"",
+  "\"Make precise edits\"": "\"Вносить точные правки\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"Применять патчи к файлам (OpenAI)\"",
+
+  "\"Runtime\"": "\"Среда выполнения\"",
+  "\"Run shell commands\"": "\"Выполнять команды оболочки\"",
+  "\"Manage background processes\"": "\"Управлять фоновыми процессами\"",
+
+  "\"Web\"": "\"Веб\"",
+  "\"Search the web\"": "\"Искать в интернете\"",
+  "\"Fetch web content\"": "\"Получать веб-контент\"",
+  
+  "\"Memory\"": "\"Память\"",
+  "\"Semantic search\"": "\"Семантический поиск\"",
+  "\"Read memory files\"": "\"Читать файлы памяти\"",
+  "\"List sessions\"": "\"Список сессий\"",
+
+  "\"Session history\"": "\"История сессии\"",
+  "\"Send to session": "\"Отправить в сессию",
+  "\"Spawn sub-agent\"": "\"Создать под-агента\"",
+  "\"Session status\"": "\"Статус сессии\"",
+
+  "\"UI\"": "\"Интерфейс\"",
+  "\"Control web browser\"": "\"Управлять веб-браузером\"",
+  "\"Control canvases\"": "\"Управлять холстами\"",
+
+  "\"Send messages\"": "\"Отправлять сообщения\"",
+  
+  "\"Automation\"": "\"Автоматизация\"",
+  "\"Schedule tasks\"": "\"Планировать задачи\"",
+
+  "\"Gateway control\"": "\"Управление шлюзом\"",
+  "\"Nodes \\+ devices\"": "\"Узлы + устройства\"",
+  "\"List agents\"": "\"Список агентов\"",
+  
+  "\"Media\"": "\"Медиа\"",
+  "\"Image understanding\"": "\"Понимание изображений\"",
+
+  "\"Minimal\"": "\"Минимальный\"",
+  "\"Coding\"": "\"Кодирование\"",
+  "\"Messaging\"": "\"Обмен сообщениями\"",
+  "\"Full\"": "\"Полный\"",
+  
+  "\\} selected": "} выбрано",
+  "\"all skills\"": "\"все навыки\"",
+  
+
+  ">Agent Context<": ">Контекст агента<",
+  "\"no accounts\"": "\"нет аккаунтов\"",
+  " connected`": " подключено`",
+  " configured`": " настроено`",
+  "\"not configured\"": "\"не настроено\"",
+
+  "\"agent override\"": "\"переопределение агента\"",
+  "\"global default\"": "\"глобальное значение по умолчанию\"",
+  "\"default\"": "\"по умолчанию\"",
+
+  ">Tool Access<": ">Доступ к инструментам<",
+  "  Profile \\+ per-tool overrides for this agent.": " Профиль + переопределения для каждого инструмента для этого агента.",
+  "> enabled.": "> включено.",
+
+  "  Use All": " Использовать все",
+  "  Enable All": " Включить все",
+  "  Disable All": " Отключить все",
+  "  Reload Config": " Перезагрузить конфигурацию",
+
+  "  Reload": " Перезагрузить",
+  
+  "Load the gateway config to adjust tool profiles.": "Загрузите конфигурацию шлюза для настройки профилей инструментов.",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "Этот агент использует явный белый список в конфигурации. Переопределения инструментов управляются на вкладке «Конфигурация».",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "Установлен глобальный параметр tools.allow. Переопределения агента не могут включить инструменты, которые заблокированы глобально.",
+
+  ">Profile<": ">Профиль<",
+  ">Source<": ">Источник<",
+  ">unsaved<": ">не сохранено<",
+
+  ">Quick Presets<": ">Быстрые пресеты<",
+  "  Inherit": " Наследовать",
+
+  "Per-agent skill allowlist and workspace skills.": "Белый список навыков для каждого агента и навыки рабочей области.",
+  "Load the gateway config to set per-agent skills.": "Загрузите конфигурацию шлюза, чтобы установить навыки для каждого агента.",
+  "This agent uses a custom skill allowlist.": "Этот агент использует пользовательский белый список навыков.",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "Все навыки включены. Отключение любого навыка создаст белый список для этого агента.",
+  "Load skills for this agent to view workspace-specific entries.": "Загрузите навыки для этого агента, чтобы просмотреть записи, специфичные для рабочей области."
+
+}

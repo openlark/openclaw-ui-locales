@@ -1,0 +1,17 @@
+{
+  ">Snapshots<": ">Momentfotoj<",
+  "Status, health, and heartbeat data.": "Datumoj pri stato, sanstato kaj korbato.",
+  " Security audit:": " Sekureca kontrolo:",
+  "\\}. Run": "}. Ruli komandon",
+  "> for details.": "> por detaloj.",
+  ">Last heartbeat<": ">Lasta korbato<",
+  ">Manual RPC<": ">Manlibra RPC<",
+  "Send a raw gateway method with JSON params.": "Sendi krudan enirejan metodon kun JSON-parametroj.",
+  ">Method<": ">Metodo<",
+  ">Params \\(JSON\\)<": ">Parametroj (JSON)<",
+  ">Models<": ">Modeloj<",
+  ">Call<": ">Voki<",
+  "Catalog from models.list.": "Katalogo el models.list.",
+  ">Event Log<": ">Okaza protokolo<",
+  "Latest gateway events.": "Plej novaj enirejaj okazoj."
+}

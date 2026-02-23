@@ -1,0 +1,12 @@
+{
+  ">Logs<": ">Protokoloj<",
+  "Gateway file logs \\(JSONL\\).": "Enirejaj dosieraj protokoloj (JSONL).",
+  "\"filtered\"": "\"filtrita\"",
+  "\"visible\"": "\"videbla\"",
+  " Export ": " Eksporti ",
+  "\"Search logs\"": "\"Serĉi en protokoloj\"",
+  ">Auto-follow<": ">Aŭtomate sekvi<",
+  "Log output truncated; showing latest chunk.": "Protokola eligo detranĉita; montrante lastan parton.",
+  ">Last heartbeat<": ">Lasta korbato<",
+  "No log entries.": "Neniuj protokolaj enskriboj."
+}

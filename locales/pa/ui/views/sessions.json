@@ -1,0 +1,21 @@
+{
+  "Active session keys and per-session overrides.": "کلیدهای نشست فعال و بازنویسی‌های هر نشست.",
+  "Active within \\(minutes\\)": "فعال در طی (دقیقه)",
+  ">Include global<": ">شامل سراسری<",
+  ">Include unknown<": ">شامل ناشناخته<",
+  "No sessions found.": "نشستی یافت نشد.",
+  "\"\\(optional\\)\"": "\"(اختیاری)\"",
+  "\\((multiple)\\)": "(چندتایی)",
+  "  Delete": "  حذف",
+  ">Limit<": ">محدودیت<",
+  "`Store: ": "`ذخیره‌گاه: ",
+  ">Key<": ">کلید<",
+  ">Label<": ">برچسب<",
+  ">Kind<": ">نوع<",
+  ">Updated<": ">به‌روزرسانی شده<",
+  ">Tokens<": ">نشانه‌ها<",
+  ">Thinking<": ">در حال تفکر<",
+  ">Verbose<": ">مفصل<",
+  ">Reasoning<": ">استدلال<",
+  ">Actions<": ">عملیات<"
+}

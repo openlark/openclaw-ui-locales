@@ -1,0 +1,17 @@
+{
+  ">Snapshots<": ">Снимки<",
+  "Status, health, and heartbeat data.": "Данные о статусе, состоянии и пульсе.",
+  " Security audit:": " Аудит безопасности:",
+  "\\}. Run": "}. Выполнить",
+  "> for details.": "> для получения подробной информации.",
+  ">Last heartbeat<": ">Последний пульс<",
+  ">Manual RPC<": ">Ручной RPC<",
+  "Send a raw gateway method with JSON params.": "Отправить сырой метод шлюза с параметрами JSON.",
+  ">Method<": ">Метод<",
+  ">Params \\(JSON\\)<": ">Параметры (JSON)<",
+  ">Models<": ">Модели<",
+  ">Call<": ">Вызов<",
+  "Catalog from models.list.": "Каталог из models.list.",
+  ">Event Log<": ">Журнал событий<",
+  "Latest gateway events.": "Последние события шлюза."
+}

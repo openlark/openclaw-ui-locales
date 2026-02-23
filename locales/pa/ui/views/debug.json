@@ -1,0 +1,17 @@
+{
+  ">Snapshots<": ">عکس‌های فوری<",
+  "Status, health, and heartbeat data.": "داده‌های وضعیت، سلامت و ضربان.",
+  " Security audit:": " ممیزی امنیتی:",
+  "\\}. Run": "}. اجرای دستور",
+  "> for details.": "> برای جزئیات.",
+  ">Last heartbeat<": ">آخرین ضربان<",
+  ">Manual RPC<": ">RPC دستی<",
+  "Send a raw gateway method with JSON params.": "ارسال یک متد خام دروازه با پارامترهای JSON.",
+  ">Method<": ">متد<",
+  ">Params \\(JSON\\)<": ">پارامترها (JSON)<",
+  ">Models<": ">مدل‌ها<",
+  ">Call<": ">فراخوانی<",
+  "Catalog from models.list.": "کاتالوگ از models.list.",
+  ">Event Log<": ">لاگ رویداد<",
+  "Latest gateway events.": "آخرین رویدادهای دروازه."
+}

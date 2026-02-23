@@ -65,7 +65,7 @@ export async function execLocale() {
     { label: 'বাংলা (Bangla 孟加拉语)', value: 'bn' },
     { label: 'తెలుగు (Telugu 泰卢固语)', value: 'te' },
     { label: 'हिन्दी (Hindi 印地语)', value: 'hi' },
-    { label: 'العربية (Arabic 阿拉伯语)', value: 'ar' },
+    { label: 'اللغة العربية (Arabic 阿拉伯语)', value: 'ar' },
     { label:'فارسی (Persian 波斯语)', value: 'pa' },
   ]
   const language = await select({

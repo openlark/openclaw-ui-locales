@@ -1,0 +1,17 @@
+{
+  ">Snapshots<": ">Знімки<",
+  "Status, health, and heartbeat data.": "Дані про статус, стан та пульс.",
+  " Security audit:": " Аудит безпеки:",
+  "\\}. Run": "}. Виконати команду",
+  "> for details.": "> для отримання детальної інформації.",
+  ">Last heartbeat<": ">Останній пульс<",
+  ">Manual RPC<": ">Ручний RPC<",
+  "Send a raw gateway method with JSON params.": "Надіслати необроблений метод шлюзу з параметрами JSON.",
+  ">Method<": ">Метод<",
+  ">Params \\(JSON\\)<": ">Параметри (JSON)<",
+  ">Models<": ">Моделі<",
+  ">Call<": ">Виклик<",
+  "Catalog from models.list.": "Каталог з models.list.",
+  ">Event Log<": ">Журнал подій<",
+  "Latest gateway events.": "Останні події шлюзу."
+}

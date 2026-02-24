@@ -1,0 +1,23 @@
+{
+  "Compacting context...": "Bağlam sıkıştırılıyor...",
+  "Context compacted": "Bağlam sıkıştırıldı",
+  "Attachment preview": "Ek önizlemesi",
+  "Remove attachment": "Eki kaldır",
+  "Add a message or paste more images...": "Bir mesaj ekleyin veya daha fazla resim yapıştırın...",
+  "Message \\(↩ to send, Shift\\+↩ for line breaks, paste images\\)": "Mesaj (göndermek için ↩, satır sonları için Shift+↩, resim yapıştırın)",
+  "Connect to the gateway to start chatting…": "Sohbete başlamak için ağ geçidine bağlanın…",
+  "Loading chat…": "Sohbet yükleniyor…",
+  "Exit focus mode": "Odak modundan çık",
+  ">Queued ": ">Sırada ",
+  "Image \\(": "Resim (",
+  "Remove queued message": "Sıradaki mesajı kaldır",
+  "New messages ": "Yeni mesajlar ",
+  ">Message<": ">Mesaj<",
+  "\"Stop\"": "\"Dur\"",
+  "New session": "Yeni oturum",
+  "\"Queue\"": "\"Sıra\"",
+  "\"Send\"": "\"Gönder\"",
+  "Showing last ": "Son ",
+  "\\} messages": "} mesaj gösteriliyor",
+  "\\} hidden": "} gizli"
+}

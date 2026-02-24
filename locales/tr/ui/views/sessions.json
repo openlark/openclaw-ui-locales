@@ -1,0 +1,21 @@
+{
+  "Active session keys and per-session overrides.": "Aktif oturum anahtarları ve oturum başına geçersiz kılmalar.",
+  "Active within \\(minutes\\)": "Şu kadar süredir aktif (dakika)",
+  ">Include global<": ">Global dahil<",
+  ">Include unknown<": ">Bilinmeyenler dahil<",
+  "No sessions found.": "Oturum bulunamadı.",
+  "\"\\(optional\\)\"": "\"(isteğe bağlı)\"",
+  "\\((multiple)\\)": "(çoklu)",
+  "  Delete": "  Sil",
+  ">Limit<": ">Limit<",
+  "`Store: ": "`Depo: ",
+  ">Key<": ">Anahtar<",
+  ">Label<": ">Etiket<",
+  ">Kind<": ">Tür<",
+  ">Updated<": ">Güncellendi<",
+  ">Tokens<": ">Belirteçler<",
+  ">Thinking<": ">Düşünüyor<",
+  ">Verbose<": ">Ayrıntılı<",
+  ">Reasoning<": ">Muhakeme<",
+  ">Actions<": ">Eylemler<"
+}

@@ -1,0 +1,12 @@
+{
+  ">Logs<": ">Log<",
+  "Gateway file logs \\(JSONL\\).": "Log file gateway (JSONL).",
+  "\"filtered\"": "\"difilter\"",
+  "\"visible\"": "\"terlihat\"",
+  " Export ": " Ekspor ",
+  "\"Search logs\"": "\"Cari log\"",
+  ">Auto-follow<": ">Ikuti otomatis<",
+  "Log output truncated; showing latest chunk.": "Keluaran log dipotong; menampilkan bagian terbaru.",
+  ">Last heartbeat<": ">Detak jantung terakhir<",
+  "No log entries.": "Tidak ada entri log."
+}

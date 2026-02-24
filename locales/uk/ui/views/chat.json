@@ -1,0 +1,23 @@
+{
+  "Compacting context...": "Стиснення контексту...",
+  "Context compacted": "Контекст стиснуто",
+  "Attachment preview": "Попередній перегляд вкладення",
+  "Remove attachment": "Видалити вкладення",
+  "Add a message or paste more images...": "Додайте повідомлення або вставте більше зображень...",
+  "Message \\(↩ to send, Shift\\+↩ for line breaks, paste images\\)": "Повідомлення (↩ для надсилання, Shift+↩ для розриву рядка, вставте зображення)",
+  "Connect to the gateway to start chatting…": "Підключіться до шлюзу, щоб почати чат…",
+  "Loading chat…": "Завантаження чату…",
+  "Exit focus mode": "Вийти з режиму фокусування",
+  ">Queued ": ">У черзі ",
+  "Image \\(": "Зображення (",
+  "Remove queued message": "Видалити повідомлення з черги",
+  "New messages ": "Нові повідомлення ",
+  ">Message<": ">Повідомлення<",
+  "\"Stop\"": "\"Стоп\"",
+  "New session": "Нова сесія",
+  "\"Queue\"": "\"Черга\"",
+  "\"Send\"": "\"Надіслати\"",
+  "Showing last ": "Показано останні ",
+  "\\} messages": "} повідомлень",
+  "\\} hidden": "} приховано"
+}

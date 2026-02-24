@@ -1,0 +1,21 @@
+{
+  "Active session keys and per-session overrides.": "Chei de sesiune active și suprascrieri per sesiune.",
+  "Active within \\(minutes\\)": "Activ în (minute)",
+  ">Include global<": ">Includere globale<",
+  ">Include unknown<": ">Includere necunoscute<",
+  "No sessions found.": "Nicio sesiune găsită.",
+  "\"\\(optional\\)\"": "\"(opțional)\"",
+  "\\((multiple)\\)": "(multiple)",
+  "  Delete": "  Ștergere",
+  ">Limit<": ">Limită<",
+  "`Store: ": "`Stocare: ",
+  ">Key<": ">Cheie<",
+  ">Label<": ">Etichetă<",
+  ">Kind<": ">Tip<",
+  ">Updated<": ">Actualizat<",
+  ">Tokens<": ">Token-uri<",
+  ">Thinking<": ">Gândire<",
+  ">Verbose<": ">Verbose<",
+  ">Reasoning<": ">Raționament<",
+  ">Actions<": ">Acțiuni<"
+}

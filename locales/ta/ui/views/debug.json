@@ -1,0 +1,17 @@
+{
+  ">Snapshots<": ">ஸ்னாப்ஷாட்கள்<",
+  "Status, health, and heartbeat data.": "நிலை, ஆரோக்கியம் மற்றும் இதயத்துடிப்புத் தரவு.",
+  " Security audit:": " பாதுகாப்பு தணிக்கை:",
+  "\\}. Run": "}. கட்டளையை இயக்கு",
+  "> for details.": "> விவரங்களுக்கு.",
+  ">Last heartbeat<": ">கடைசி இதயத்துடிப்பு<",
+  ">Manual RPC<": ">கைமுறை RPC<",
+  "Send a raw gateway method with JSON params.": "JSON அளவுருக்களுடன் ஒரு மூல கேட்வே முறையை அனுப்பவும்.",
+  ">Method<": ">முறை<",
+  ">Params \\(JSON\\)<": ">அளவுருக்கள் (JSON)<",
+  ">Models<": ">மாதிரிகள்<",
+  ">Call<": ">அழைப்பு<",
+  "Catalog from models.list.": "models.list இலிருந்து பட்டியல்.",
+  ">Event Log<": ">நிகழ்வுப் பதிவு<",
+  "Latest gateway events.": "சமீபத்திய கேட்வே நிகழ்வுகள்."
+}

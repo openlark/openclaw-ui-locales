@@ -24,26 +24,31 @@
 支持的國家語言如下：
 
 ```
-简体中文 (Chinese Simplified)                               zh-CN 
-繁體中文 (Chinese Traditional)                              zh-TW
-English (English 英语)                                      en
+اللغة العربية (Arabic 阿拉伯语)                           ar
+বাংলা (Bangla 孟加拉语)                                     bn
+简体中文 (Chinese Simplified)                              zh-CN 
+繁體中文 (Chinese Traditional)                             zh-TW
+English (English 英语)                                     en
+Esperanto (Esperanto 世界语)                               eo
+Filipino(Filipino 菲律宾语)                                fi
+Français (French 法语)                                     fr
+Deutsch (German 德语)                                      de 
+हिन्दी (Hindi 印地语)                                         hi
+Bahasa Indonesia (Indonesian 印度尼西亚语)                  id
+Italiano(Italian 意大利语)                                  it
 日本語 (Japanese 日语)                                      ja
 한국어 (Korean 韩语)                                        ko
-Français (French 法语)                                      fr
-Deutsch (German 德语)                                       de 
-Italiano(Italian 意大利语)                                  it
+فارسی (Persian 波斯语)                                     pa
 Português (Portuguese 葡萄牙语)                             pt
 Português Brazilian (Portuguese Brazilian 巴西葡萄牙语)     pt-BR 
-Español (Spanish 西班牙语)                                  es
+Română (Romanian 罗马尼亚语)                                ro
 Русский (Russian 俄语)                                      ru
-Esperanto (Esperanto 世界语)                                eo
-Tiếng Việt (Vietnamese 越南语)                              vi
-Filipino(Filipino 菲律宾语)                                 fi
-বাংলা (Bangla 孟加拉语)                                      bn
+Español (Spanish 西班牙语)                                  es
+Türkçe (Turkish 土耳其语)                                   tr
 తెలుగు (Telugu 泰卢固语)                                    te 
-हिन्दी (Hindi 印地语)                                         hi
-اللغة العربية (Arabic 阿拉伯语)                            ar
-فارسی (Persian 波斯语)                                     pa
+தமிழ் (Tamil 泰米尔语)                                      ta
+Українська (Ukrainian 乌克兰语)                             uk
+Tiếng Việt (Vietnamese 越南语)                              vi
 ```
 
 ## 安裝

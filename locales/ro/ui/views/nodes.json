@@ -1,0 +1,91 @@
+{
+  ">Nodes<": ">Noduri<",
+  "Paired devices and live links.": "Dispozitive asociate și link-uri live.",
+  "No nodes found.": "Niciun nod găsit.",
+
+  ">Devices<": ">Dispozitive<",
+  "Pairing requests \\+ role tokens.": "Cereri de asociere + token-uri de rol.",
+  "\"Loading…\" : \"Refresh\"\\}": "\"Se încarcă…\" : \"Reîmprospătare\"}",
+  ">Pending<": ">În așteptare<",
+  ">Paired<": ">Asociat<",
+  "No paired devices.": "Niciun dispozitiv asociat.",
+
+  " · requested ": " · solicitat",
+  "   Approve": "   Aprobare",
+  "   Reject": "  Respingere",
+
+  ">Tokens: none<": ">Token-uri: niciunul<",
+  "   Rotate": "  Rotire",
+  "   Revoke": "  Revocare",
+
+  ">Exec node binding<": ">Legătură nod execuție<",
+  "Pin agents to a specific node when using <span class=\"mono\">exec host=node</span>.": "Fixați agenții la un anumit nod când utilizați <span class=\"mono\">exec host=node</span>.",
+  "Switch the Config tab to <strong>Form<\/strong> mode to edit bindings here.": "Comutați fila Configurație în modul <strong>Formular<\/strong> pentru a edita legăturile aici.",
+  "Load config to edit bindings.": "Încărcați configurația pentru a edita legăturile.",
+  "\"Load config\"": "\"Încărcare configurație\"",
+  ">Default binding<": ">Legătură implicită<",
+  "Used when agents do not override a node binding.": "Folosită când agenții nu suprascriu o legătură de nod.",
+  ">Any node<": ">Oricare nod<",
+  "No nodes with system.run available.": "Niciun nod cu system.run disponibil.",
+
+  ">Target<": ">Țintă<",
+  " Gateway edits local approvals; node edits the selected node.": " Gateway editează aprobările locale; nodul editează nodul selectat.",
+  
+  ">Host<": ">Gazdă<",
+  ">Security<": ">Securitate<",
+  "\"default agent\"": "\"agent implicit\"",
+  "\"agent\"\\}": "\"agent\"}",
+  "`uses default \\(": "`folosește implicit (",
+  "`Using default \\(": "`Folosire implicit (",
+  "`Override \\(": "`Suprascriere (",
+  " \"any\"\\}": " \"oricare\"}",
+  ": `override: ": ": `suprascriere:",
+  ">Binding<": ">Legătură<",
+  "\"paired\" : \"unpaired\"\\}": "\"asociat\" : \"neasociat\"}",
+  "\"connected\" : \"offline\"\\}": "\"conectat\" : \"offline\"}",
+  
+  
+  "\"Deny\"": "\"Refuză\"",
+  "\"Allowlist\"": "\"Listă albă\"",
+  "\"Off\"": "\"Oprit\"",
+  "\"On miss\"": "\"La ratare\"",
+  "\"Always\"": "\"Întotdeauna\"",
+
+  ">Exec approvals<": ">Aprobări execuție<",
+  "Allowlist and approval policy for \\<span class=\"mono\">exec host=gateway/node\\</span>.": "Politica listei albe și de aprobare pentru <span class=\"mono\">exec host=gateway/node</span>.",
+  "\"Load approvals\"": "\"Încărcare aprobări\"",
+  "Load exec approvals to edit allowlists.":"Încărcați aprobările de execuție pentru a edita listele albe.",
+  "Gateway edits local approvals; node edits the selected node.": "Gateway editează aprobările locale; nodul editează nodul selectat.",
+
+  ">Gateway<": ">Gateway<",
+  ">Node<": ">Nod<",
+  ">Select node<": ">Selectare nod<",
+  "No nodes advertise exec approvals yet.": "Încă niciun nod nu anunță aprobări de execuție.",
+
+  ">Scope<": ">Domeniu<",
+  "  Defaults": " Implicite",
+
+  "\"Default security mode.\"": "\"Mod securitate implicit.\"",
+  "`Default: ": "`Implicit: ",
+  "  Use default": "  Utilizare implicit",
+  "\"Default prompt policy.\"": "\"Politică solicitare implicită.\"",
+  ">Ask<": ">Întreabă<",
+  ">Ask fallback<": ">Întreabă rezervă<",
+  "Applied when the UI prompt is unavailable.": "Aplicat când solicitarea UI este indisponibilă.",
+  ">Fallback<": ">Rezervă<",
+
+  ">Auto-allow skill CLIs<": ">Permitere automată CLI-uri abilități<",
+  "Allow skill executables listed by the Gateway.": "Permiteți executabilele de abilități listate de Gateway.",
+  "\"on\" \\: \"off\"\\}": "\"pornit\" : \"oprit\"}",
+  ": `Override \\(": ": `Suprascriere (",
+
+  
+  ">Allowlist<": ">Listă albă<",
+  "Case-insensitive glob patterns.": "Modele glob care nu țin cont de majuscule/minuscule.",
+  "  Add pattern": " Adăugare model",
+  ">Pattern<": ">Model<",
+  "No allowlist entries yet.": "Încă nicio intrare în lista albă.",
+  "\"New pattern\"": "\"Model nou\"",
+  ">Last used: ": ">Ultima utilizare:",
+  "  Remove": "  Eliminare"
+}

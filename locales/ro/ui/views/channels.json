@@ -1,0 +1,91 @@
+{
+  "Channel health": "Stare canal",
+  "Channel status snapshots from the gateway.": "Instantaneu al stării canalelor de la gateway.",
+  "No snapshot yet.": "Încă niciun instantaneu.",
+  "Channel status and configuration.": "Stare și configurație canal.",
+  "\"Yes\"": "\"Da\"",
+  "\"Active\"": "\"Activ\"",
+  "\"No\"": "\"Nu\"",
+  ">Running<": ">În execuție<",
+  ">Connected<": ">Conectat<",
+
+  
+  "Schema unavailable. Use Raw.": "Schemă indisponibilă. Utilizați date brute.",
+  "Channel config schema unavailable.": "Schemă configurație canal indisponibilă.",
+  "Loading config schema…": "Se încarcă schema de configurație…",
+
+  ">Configured<": ">Configurat<",
+  ">Linked<": ">Legat<",
+  ">Last start<": ">Ultima pornire<",
+  ">Last probe<": ">Ultima sondare<",
+  ">Last connect<": ">Ultima conectare<",
+  ">Last message<": ">Ultimul mesaj<",
+  ">Last inbound<": ">Ultimul intrat<",
+  ">Auth age<": ">Vechime autentificare<",
+  ">Mode<": ">Mod<",
+  ">Credential<": ">Credențial<",
+  ">Public Key<": ">Cheie publică<",
+  ">Audience<": ">Audiență<",
+  ">Profile<": ">Profil<",
+
+  "No profile set. Click \"Edit Profile\" to add your name, bio, and avatar.": "Niciun profil setat. Faceți clic pe 'Editare Profil' pentru a adăuga numele, biografia și avatarul.",
+  "\"Saving…\"": "\"Se salvează…\"",
+  "\"Save\"": "\"Salvare\"",
+  "  probe": " sondare",
+  
+  "  Probe": " Sondare",
+  "\"ok\" \\:": "\"succes\" :",
+  "\"failed\"": "\"eșuat\"",
+  
+  "Decentralized DMs via Nostr relays \\(NIP-04\\).": "Mesaje private descentralizate prin relee Nostr (NIP-04).",
+
+
+  "Chat API webhook status and channel configuration.": "Stare webhook API Chat și configurație canal.",
+  
+  "macOS bridge status and channel configuration.": "Stare punte macOS și configurație canal.",
+
+  
+  ">Edit Profile<": ">Editare Profil<",
+  ">Account: ": ">Cont: ",
+  
+  "\"Username\"": "\"Nume utilizator\"",
+  "\"Short username \\(": "\"Nume utilizator scurt (",
+  "\"Display Name\"": "\"Nume afișat\"",
+  "Your full display name": "Numele dvs. complet afișat",
+  "\"Bio\"": "\"Biografie\"",
+  "Tell people about yourself...": "Povestiți oamenilor despre dvs....",
+  "\"Avatar URL\"": "\"URL avatar\"",
+  "A brief bio or description": "O scurtă biografie sau descriere",
+  "\"Banner URL\"": "\"URL banner\"",
+  "HTTPS URL to your profile picture": " URL HTTPS către imaginea dvs. de profil",
+  "HTTPS URL to a banner image": "URL HTTPS către o imagine banner",
+  "\"Website\"": "\"Site web\"",
+  "Your personal website": "Site-ul dvs. personal",
+  "\"NIP-05 Identifier\"": "\"Identificator NIP-05\"",
+  "\"Verifiable identifier ": "\"Identificator verificabil ",
+  "\"Lightning Address\"": "\"Adresă Lightning\"",
+  "\"Lightning address for tips ": "\"Adresă Lightning pentru bacșiș ",
+  "\"Saving...\"": "\"Se salvează...\"",
+  "Save & Publish": "Salvare și publicare",
+  "\"Importing...\"": "\"Se importă...\"",
+  "\"Import from Relays\"": "\"Import din relee\"",
+  "\"Hide Advanced\"": "\"Ascundere avansate\"",
+  "\"Show Advanced\"": "\"Afișare avansate\"",
+  "  You have unsaved changes": "  Aveți modificări nesalvate",
+
+  ">Display Name<": ">Nume afișat<",
+  ">About<": ">Despre<",
+
+  ">Accounts ": ">Conturi ",
+
+  
+  "signal-cli status and channel configuration.": "Stare signal-cli și configurație canal.",
+  ">Base URL<": ">URL de bază<",
+
+  
+  "Socket mode status and channel configuration.": "Stare mod socket și configurație canal.",
+  
+  "Bot status and channel configuration.": "Stare bot și configurație canal.",
+  
+  "Link WhatsApp Web and monitor connection health.": "Conectați WhatsApp Web și monitorizați starea conexiunii."
+}

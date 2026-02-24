@@ -1,0 +1,140 @@
+{
+  ">No configured models<": ">உள்ளமைக்கப்பட்ட மாதிரிகள் எதுவும் இல்லை<",
+  "\\} configured.<": "} உள்ளமைக்கப்பட்டது.<",
+  "No agents found.": "முகவர்கள் எதுவும் காணப்படவில்லை.",
+  ">Select an agent<": ">ஒரு முகவரைத் தேர்ந்தெடுக்கவும்<",
+  "Pick an agent to inspect its workspace and tools.": "அதன் பணியிடம் மற்றும் கருவிகளை ஆய்வு செய்ய ஒரு முகவரைத் தேர்வுசெய்க.",
+  "Agent workspace and routing.": "முகவர் பணியிடம் மற்றும் வழித்தடமாற்றம்.",
+  "\"Tools\"": "\"கருவிகள்\"",
+
+  ">Overview<": ">கண்ணோட்டம்<",
+  "Workspace paths and identity metadata.": "பணியிடப் பாதைகள் மற்றும் அடையாள மெட்டாடேட்டா.",
+  ">Workspace<": ">பணியிடம்<",
+  ">Primary Model<": ">முதன்மை மாதிரி<",
+  ">Identity Name<": ">அடையாளப் பெயர்<",
+  ">Default<": ">இயல்புநிலை மதிப்பு<",
+  ">Identity Emoji<": ">அடையாள எமோஜி<",
+  ">Skills Filter<": ">திறன் வடிகட்டி<",
+  ">Filter<": ">வடிகட்டி<",
+  ">Model Selection<": ">மாதிரித் தேர்வு<",
+  ">Primary model": ">முதன்மை மாதிரி",
+  " \\(default\\)": " (இயல்புநிலை)",
+  "Fallbacks \\(comma-separated\\)": "பின்னடைவு விருப்பங்கள் (காற்புள்ளியால் பிரிக்கப்பட்டவை)",
+  "Inherit default \\(": "இயல்புநிலையைப் பெறுக (",
+  "\"Inherit default\"": "\"இயல்புநிலையைப் பெறுக\"",
+  ">Fallbacks (comma-separated)<": ">பின்னடைவு விருப்பங்கள் (காற்புள்ளியால் பிரிக்கப்பட்டவை)",
+  "\"Save\"": "\"சேமி\"",
+  "\"yes\"": "\"ஆம்\"",
+  "\"no\"": "\"இல்லை\"",
+  
+  "\"Workspace, identity, and model configuration.\"": "\"பணியிடம், அடையாளம் மற்றும் மாதிரி உள்ளமைவு.\"",
+  "Load channels to see live status.": "நேரடி நிலையைப் பார்க்க சேனல்களை ஏற்றவும்.",
+  "Gateway-wide channel status snapshot.": "கேட்வே-அகல சேனல் நிலை ஸ்னாப்ஷாட்.",
+  " Last refresh:": " கடைசி புதுப்பித்தல்:",
+  "No channels found.": "சேனல்கள் எதுவும் காணப்படவில்லை.",
+  "\\} enabled": "} இயக்கப்பட்டது",
+  "Workspace and scheduling targets.": "பணியிடம் மற்றும் அட்டவணைப்படுத்தல் இலக்குகள்.",
+  "Gateway cron status.": "கேட்வே க்ரான் நிலை.",
+  ">Next wake<": ">அடுத்த எழுப்பல்<",
+  ">Agent Cron Jobs<": ">முகவர் க்ரான் பணிகள்<",
+  "Scheduled jobs targeting this agent.": "இந்த முகவரை இலக்காகக் கொண்ட திட்டமிடப்பட்ட பணிகள்.",
+  "No jobs assigned.": "பணிகள் எதுவும் ஒதுக்கப்படவில்லை.",
+  ">Core Files<": ">மையக் கோப்புகள்<",
+  "Bootstrap persona, identity, and tool guidance.": "துவக்க நபர், அடையாளம் மற்றும் கருவி வழிகாட்டுதல்.",
+  ">Workspace:": ">பணியிடம்:",
+  "  Load the agent workspace files to edit core instructions.": " மைய வழிமுறைகளைத் திருத்த முகவர் பணியிடக் கோப்புகளை ஏற்றவும்.",
+  "No files found.": "கோப்புகள் எதுவும் காணப்படவில்லை.",
+  "Select a file to edit.": "திருத்த ஒரு கோப்பைத் தேர்ந்தெடுக்கவும்.",
+  "  This file is missing. Saving will create it in the agent workspace.": " இந்தக் கோப்பு காணவில்லை. சேமிப்பது அதை முகவர் பணியிடத்தில் உருவாக்கும்.",
+  ">Content<": ">உள்ளடக்கம்<",
+  ">missing<": ">காணவில்லை<",  
+
+  
+  "\"Files\"": "\"கோப்புகள்\"",
+  "\"Read file contents\"": "\"கோப்பு உள்ளடக்கங்களைப் படி\"",
+  "\"Create or overwrite files\"": "\"கோப்புகளை உருவாக்கு அல்லது மேலெழுது\"",
+  "\"Make precise edits\"": "\"துல்லியமான திருத்தங்களைச் செய்\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"கோப்புகளுக்கு இணைப்பு பொருந்துத்து (OpenAI)\"",
+
+  "\"Runtime\"": "\"இயக்க நேரம்\"",
+  "\"Run shell commands\"": "\"ஷெல் கட்டளைகளை இயக்கு\"",
+  "\"Manage background processes\"": "\"பின்னணி செயல்முறைகளை நிர்வகி\"",
+
+  "\"Web\"": "\"வலை\"",
+  "\"Search the web\"": "\"வலையில் தேடு\"",
+  "\"Fetch web content\"": "\"வலை உள்ளடக்கத்தைப் பெறு\"",
+  
+  "\"Memory\"": "\"நினைவகம்\"",
+  "\"Semantic search\"": "\"சொற்பொருள் தேடல்\"",
+  "\"Read memory files\"": "\"நினைவகக் கோப்புகளைப் படி\"",
+  "\"List sessions\"": "\"அமர்வுகளைப் பட்டியலிடு\"",
+
+  "\"Session history\"": "\"அமர்வு வரலாறு\"",
+  "\"Send to session": "\"அமர்வுக்கு அனுப்பு",
+  "\"Spawn sub-agent\"": "\"துணை முகவரை உருவாக்கு\"",
+  "\"Session status\"": "\"அமர்வு நிலை\"",
+
+  "\"UI\"": "\"பயனர் இடைமுகம்\"",
+  "\"Control web browser\"": "\"வலை உலாவியைக் கட்டுப்படுத்து\"",
+  "\"Control canvases\"": "\"கேன்வாஸ்களைக் கட்டுப்படுத்து\"",
+
+  "\"Send messages\"": "\"செய்திகளை அனுப்பு\"",
+  
+  "\"Automation\"": "\"தன்னியக்கமாக்கல்\"",
+  "\"Schedule tasks\"": "\"பணிகளைத் திட்டமிடு\"",
+
+  "\"Gateway control\"": "\"கேட்வே கட்டுப்பாடு\"",
+  "\"Nodes \\+ devices\"": "\"முனைகள் + சாதனங்கள்\"",
+  "\"List agents\"": "\"முகவர்களைப் பட்டியலிடு\"",
+  
+  "\"Media\"": "\"ஊடகம்\"",
+  "\"Image understanding\"": "\"பட புரிதல்\"",
+
+  "\"Minimal\"": "\"குறைந்தபட்சம்\"",
+  "\"Coding\"": "\"குறியீட்டு முறை\"",
+  "\"Messaging\"": "\"செய்தியனுப்பல்\"",
+  "\"Full\"": "\"முழு\"",
+  
+  "\\} selected": "} தேர்ந்தெடுக்கப்பட்டது",
+  "\"all skills\"": "\"அனைத்து திறன்களும்\"",
+  
+
+  ">Agent Context<": ">முகவர் சூழல்<",
+  "\"no accounts\"": "\"கணக்குகள் இல்லை\"",
+  " connected`": " இணைக்கப்பட்டது`",
+  " configured`": " உள்ளமைக்கப்பட்டது`",
+  "\"not configured\"": "\"உள்ளமைக்கப்படவில்லை\"",
+
+  "\"agent override\"": "\"முகவர் மேலெழுதல்\"",
+  "\"global default\"": "\"உலகளாவிய இயல்புநிலை\"",
+  "\"default\"": "\"இயல்புநிலை\"",
+
+  ">Tool Access<": ">கருவி அணுகல்<",
+  "  Profile \\+ per-tool overrides for this agent.": " இந்த முகவருக்கான சுயவிவரம் + ஒவ்வொரு-கருவி மேலெழுதல்கள்.",
+  "> enabled.": "> இயக்கப்பட்டது.",
+
+  "  Use All": " அனைத்தையும் பயன்படுத்து",
+  "  Enable All": " அனைத்தையும் இயக்கு",
+  "  Disable All": " அனைத்தையும் முடக்கு",
+  "  Reload Config": " உள்ளமைவை மீளேற்று",
+
+  "  Reload": " மீளேற்று",
+  
+  "Load the gateway config to adjust tool profiles.": "கருவி சுயவிவரங்களைச் சரிசெய்ய கேட்வே உள்ளமைவை ஏற்றவும்.",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "இந்த முகவர் உள்ளமைவில் வெளிப்படையான அனுமதிப் பட்டியலைப் பயன்படுத்துகிறது. கருவி மேலெழுதல்கள் 'உள்ளமைவு' தாவலில் நிர்வகிக்கப்படுகின்றன.",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "உலகளாவிய tools.allow அமைக்கப்பட்டுள்ளது. முகவர் மேலெழுதல்கள் உலகளவில் தடுக்கப்பட்ட கருவிகளை இயக்க முடியாது.",
+
+  ">Profile<": ">சுயவிவரம்<",
+  ">Source<": ">மூலம்<",
+  ">unsaved<": ">சேமிக்கப்படவில்லை<",
+
+  ">Quick Presets<": ">விரைவு முன்னமைவுகள்<",
+  "  Inherit": " மரபுரிமையாகப் பெறு",
+
+  "Per-agent skill allowlist and workspace skills.": "ஒவ்வொரு முகவருக்குமான திறன் அனுமதிப் பட்டியல் மற்றும் பணியிடத் திறன்கள்.",
+  "Load the gateway config to set per-agent skills.": "ஒவ்வொரு முகவருக்குமான திறன்களை அமைக்க கேட்வே உள்ளமைவை ஏற்றவும்.",
+  "This agent uses a custom skill allowlist.": "இந்த முகவர் தனிப்பயன் திறன் அனுமதிப் பட்டியலைப் பயன்படுத்துகிறது.",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "அனைத்து திறன்களும் இயக்கப்பட்டுள்ளன. எந்தவொரு திறனையும் முடக்குவது ஒரு முகவருக்கான அனுமதிப் பட்டியலை உருவாக்கும்.",
+  "Load skills for this agent to view workspace-specific entries.": "பணியிடம் சார்ந்த உள்ளீடுகளைக் காண இந்த முகவருக்கான திறன்களை ஏற்றவும்."
+
+}

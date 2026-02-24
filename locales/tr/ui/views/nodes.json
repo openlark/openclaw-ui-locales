@@ -1,0 +1,91 @@
+{
+  ">Nodes<": ">Düğümler<",
+  "Paired devices and live links.": "Eşleştirilmiş cihazlar ve canlı bağlantılar.",
+  "No nodes found.": "Düğüm bulunamadı.",
+
+  ">Devices<": ">Cihazlar<",
+  "Pairing requests \\+ role tokens.": "Eşleştirme istekleri + rol belirteçleri.",
+  "\"Loading…\" : \"Refresh\"\\}": "\"Yükleniyor…\" : \"Yenile\"}",
+  ">Pending<": ">Beklemede<",
+  ">Paired<": ">Eşleştirilmiş<",
+  "No paired devices.": "Eşleştirilmiş cihaz yok.",
+
+  " · requested ": " · istendi",
+  "   Approve": "   Onayla",
+  "   Reject": "  Reddet",
+
+  ">Tokens: none<": ">Belirteç: yok<",
+  "   Rotate": "  Döndür",
+  "   Revoke": "  İptal Et",
+
+  ">Exec node binding<": ">Yürütme düğümü bağlaması<",
+  "Pin agents to a specific node when using <span class=\"mono\">exec host=node</span>.": "<span class=\"mono\">exec host=node</span> kullanırken ajanları belirli bir düğüme sabitleyin.",
+  "Switch the Config tab to <strong>Form<\/strong> mode to edit bindings here.": "Bağlamaları burada düzenlemek için Yapılandırma sekmesini <strong>Form<\/strong> moduna geçirin.",
+  "Load config to edit bindings.": "Bağlamaları düzenlemek için yapılandırmayı yükleyin.",
+  "\"Load config\"": "\"Yapılandırmayı yükle\"",
+  ">Default binding<": ">Varsayılan bağlama<",
+  "Used when agents do not override a node binding.": "Ajanlar bir düğüm bağlamasını geçersiz kılmadığında kullanılır.",
+  ">Any node<": ">Herhangi bir düğüm<",
+  "No nodes with system.run available.": "Kullanılabilir system.run'a sahip düğüm yok.",
+
+  ">Target<": ">Hedef<",
+  " Gateway edits local approvals; node edits the selected node.": " Ağ geçidi yerel onayları düzenler; düğüm seçili düğümü düzenler.",
+  
+  ">Host<": ">Ana Bilgisayar<",
+  ">Security<": ">Güvenlik<",
+  "\"default agent\"": "\"varsayılan ajan\"",
+  "\"agent\"\\}": "\"ajan\"}",
+  "`uses default \\(": "`varsayılanı kullanır (",
+  "`Using default \\(": "`Varsayılan kullanılıyor (",
+  "`Override \\(": "`Geçersiz kıl (",
+  " \"any\"\\}": " \"herhangi\"}",
+  ": `override: ": ": `geçersiz kıl:",
+  ">Binding<": ">Bağlama<",
+  "\"paired\" : \"unpaired\"\\}": "\"eşleştirildi\" : \"eşleştirilmedi\"}",
+  "\"connected\" : \"offline\"\\}": "\"bağlı\" : \"çevrimdışı\"}",
+  
+  
+  "\"Deny\"": "\"Reddet\"",
+  "\"Allowlist\"": "\"İzin listesi\"",
+  "\"Off\"": "\"Kapalı\"",
+  "\"On miss\"": "\"Iska geçince\"",
+  "\"Always\"": "\"Her zaman\"",
+
+  ">Exec approvals<": ">Yürütme onayları<",
+  "Allowlist and approval policy for \\<span class=\"mono\">exec host=gateway/node\\</span>.": "<span class=\"mono\">exec host=gateway/node</span> için izin listesi ve onay politikası.",
+  "\"Load approvals\"": "\"Onayları yükle\"",
+  "Load exec approvals to edit allowlists.":"İzin listelerini düzenlemek için yürütme onaylarını yükleyin.",
+  "Gateway edits local approvals; node edits the selected node.": "Ağ geçidi yerel onayları düzenler; düğüm seçili düğümü düzenler.",
+
+  ">Gateway<": ">Ağ Geçidi<",
+  ">Node<": ">Düğüm<",
+  ">Select node<": ">Düğüm seçin<",
+  "No nodes advertise exec approvals yet.": "Henüz hiçbir düğüm yürütme onayı duyurmuyor.",
+
+  ">Scope<": ">Kapsam<",
+  "  Defaults": " Varsayılanlar",
+
+  "\"Default security mode.\"": "\"Varsayılan güvenlik modu.\"",
+  "`Default: ": "`Varsayılan: ",
+  "  Use default": "  Varsayılanı kullan",
+  "\"Default prompt policy.\"": "\"Varsayılan istem politikası.\"",
+  ">Ask<": ">Sor<",
+  ">Ask fallback<": ">Yedek sor<",
+  "Applied when the UI prompt is unavailable.": "UI istemi kullanılamadığında uygulanır.",
+  ">Fallback<": ">Yedek<",
+
+  ">Auto-allow skill CLIs<": ">Becerilerin CLI'larına otomatik izin ver<",
+  "Allow skill executables listed by the Gateway.": "Ağ Geçidi tarafından listelenen beceri yürütülebilir dosyalarına izin verin.",
+  "\"on\" \\: \"off\"\\}": "\"açık\" : \"kapalı\"}",
+  ": `Override \\(": ": `Geçersiz kıl (",
+
+  
+  ">Allowlist<": ">İzin listesi<",
+  "Case-insensitive glob patterns.": "Büyük/küçük harf duyarsız glob modelleri.",
+  "  Add pattern": " Model ekle",
+  ">Pattern<": ">Model<",
+  "No allowlist entries yet.": "Henüz izin listesi girişi yok.",
+  "\"New pattern\"": "\"Yeni model\"",
+  ">Last used: ": ">Son kullanım:",
+  "  Remove": "  Kaldır"
+}

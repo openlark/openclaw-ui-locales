@@ -1,0 +1,91 @@
+{
+  "Channel health": "Стан каналу",
+  "Channel status snapshots from the gateway.": "Знімки статусу каналів від шлюзу.",
+  "No snapshot yet.": "Знімків ще немає.",
+  "Channel status and configuration.": "Статус та конфігурація каналу.",
+  "\"Yes\"": "\"Так\"",
+  "\"Active\"": "\"Активний\"",
+  "\"No\"": "\"Ні\"",
+  ">Running<": ">Працює<",
+  ">Connected<": ">Підключено<",
+
+  
+  "Schema unavailable. Use Raw.": "Схема недоступна. Використовуйте необроблені дані.",
+  "Channel config schema unavailable.": "Схема конфігурації каналу недоступна.",
+  "Loading config schema…": "Завантаження схеми конфігурації…",
+
+  ">Configured<": ">Налаштовано<",
+  ">Linked<": ">Пов'язано<",
+  ">Last start<": ">Останній запуск<",
+  ">Last probe<": ">Останній зонд<",
+  ">Last connect<": ">Останнє підключення<",
+  ">Last message<": ">Останнє повідомлення<",
+  ">Last inbound<": ">Останнє вхідне<",
+  ">Auth age<": ">Вік автентифікації<",
+  ">Mode<": ">Режим<",
+  ">Credential<": ">Облікові дані<",
+  ">Public Key<": ">Відкритий ключ<",
+  ">Audience<": ">Аудиторія<",
+  ">Profile<": ">Профіль<",
+
+  "No profile set. Click \"Edit Profile\" to add your name, bio, and avatar.": "Профіль не встановлено. Натисніть «Редагувати профіль», щоб додати своє ім'я, біографію та аватар.",
+  "\"Saving…\"": "\"Збереження…\"",
+  "\"Save\"": "\"Зберегти\"",
+  "  probe": " зонд",
+  
+  "  Probe": " Зонд",
+  "\"ok\" \\:": "\"успішно\" :",
+  "\"failed\"": "\"не вдалося\"",
+  
+  "Decentralized DMs via Nostr relays \\(NIP-04\\).": "Децентралізовані приватні повідомлення через ретранслятори Nostr (NIP-04).",
+
+
+  "Chat API webhook status and channel configuration.": "Статус вебхука Chat API та конфігурація каналу.",
+  
+  "macOS bridge status and channel configuration.": "Статус моста macOS та конфігурація каналу.",
+
+  
+  ">Edit Profile<": ">Редагувати профіль<",
+  ">Account: ": ">Обліковий запис: ",
+  
+  "\"Username\"": "\"Ім'я користувача\"",
+  "\"Short username \\(": "\"Коротке ім'я користувача (",
+  "\"Display Name\"": "\"Відображуване ім'я\"",
+  "Your full display name": "Ваше повне відображуване ім'я",
+  "\"Bio\"": "\"Біографія\"",
+  "Tell people about yourself...": "Розкажіть про себе...",
+  "\"Avatar URL\"": "\"URL аватара\"",
+  "A brief bio or description": "Коротка біографія або опис",
+  "\"Banner URL\"": "\"URL банера\"",
+  "HTTPS URL to your profile picture": " HTTPS-URL вашого зображення профілю",
+  "HTTPS URL to a banner image": "HTTPS-URL зображення банера",
+  "\"Website\"": "\"Веб-сайт\"",
+  "Your personal website": "Ваш особистий веб-сайт",
+  "\"NIP-05 Identifier\"": "\"Ідентифікатор NIP-05\"",
+  "\"Verifiable identifier ": "\"Ідентифікатор, що перевіряється ",
+  "\"Lightning Address\"": "\"Lightning-адреса\"",
+  "\"Lightning address for tips ": "\"Lightning-адреса для чайових ",
+  "\"Saving...\"": "\"Збереження...\"",
+  "Save & Publish": "Зберегти та опублікувати",
+  "\"Importing...\"": "\"Імпорт...\"",
+  "\"Import from Relays\"": "\"Імпорт з ретрансляторів\"",
+  "\"Hide Advanced\"": "\"Приховати розширені\"",
+  "\"Show Advanced\"": "\"Показати розширені\"",
+  "  You have unsaved changes": "  У вас є незбережені зміни",
+
+  ">Display Name<": ">Відображуване ім'я<",
+  ">About<": ">Про себе<",
+
+  ">Accounts ": ">Облікові записи ",
+
+  
+  "signal-cli status and channel configuration.": "Статус signal-cli та конфігурація каналу.",
+  ">Base URL<": ">Базовий URL<",
+
+  
+  "Socket mode status and channel configuration.": "Статус режиму сокета та конфігурація каналу.",
+  
+  "Bot status and channel configuration.": "Статус бота та конфігурація каналу.",
+  
+  "Link WhatsApp Web and monitor connection health.": "Підключіть WhatsApp Web та слідкуйте за станом з'єднання."
+}

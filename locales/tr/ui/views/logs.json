@@ -1,0 +1,12 @@
+{
+  ">Logs<": ">Günlükler<",
+  "Gateway file logs \\(JSONL\\).": "Ağ geçidi dosya günlükleri (JSONL).",
+  "\"filtered\"": "\"filtrelenmiş\"",
+  "\"visible\"": "\"görünür\"",
+  " Export ": " Dışa Aktar ",
+  "\"Search logs\"": "\"Günlüklerde ara\"",
+  ">Auto-follow<": ">Otomatik takip<",
+  "Log output truncated; showing latest chunk.": "Günlük çıktısı kesildi; son bölüm gösteriliyor.",
+  ">Last heartbeat<": ">Son kalp atışı<",
+  "No log entries.": "Günlük girdisi yok."
+}

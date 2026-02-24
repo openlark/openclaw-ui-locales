@@ -1,0 +1,140 @@
+{
+  ">No configured models<": ">Немає налаштованих моделей<",
+  "\\} configured.<": "} налаштовано.<",
+  "No agents found.": "Агентів не знайдено.",
+  ">Select an agent<": ">Виберіть агента<",
+  "Pick an agent to inspect its workspace and tools.": "Виберіть агента для перевірки його робочого простору та інструментів.",
+  "Agent workspace and routing.": "Робочий простір агента та маршрутизація.",
+  "\"Tools\"": "\"Інструменти\"",
+
+  ">Overview<": ">Огляд<",
+  "Workspace paths and identity metadata.": "Шляхи робочого простору та метадані ідентифікації.",
+  ">Workspace<": ">Робочий простір<",
+  ">Primary Model<": ">Основна модель<",
+  ">Identity Name<": ">Назва ідентифікатора<",
+  ">Default<": ">Значення за замовчуванням<",
+  ">Identity Emoji<": ">Емодзі ідентифікатора<",
+  ">Skills Filter<": ">Фільтр навичок<",
+  ">Filter<": ">Фільтр<",
+  ">Model Selection<": ">Вибір моделі<",
+  ">Primary model": ">Основна модель",
+  " \\(default\\)": " (за замовчуванням)",
+  "Fallbacks \\(comma-separated\\)": "Резервні варіанти (через кому)",
+  "Inherit default \\(": "Успадкувати за замовчуванням (",
+  "\"Inherit default\"": "\"Успадкувати за замовчуванням\"",
+  ">Fallbacks (comma-separated)<": ">Резервні варіанти (через кому)",
+  "\"Save\"": "\"Зберегти\"",
+  "\"yes\"": "\"так\"",
+  "\"no\"": "\"ні\"",
+  
+  "\"Workspace, identity, and model configuration.\"": "\"Конфігурація робочого простору, ідентифікатора та моделі.\"",
+  "Load channels to see live status.": "Завантажте канали, щоб побачити статус у реальному часі.",
+  "Gateway-wide channel status snapshot.": "Знімок статусу каналів усього шлюзу.",
+  " Last refresh:": " Останнє оновлення:",
+  "No channels found.": "Канали не знайдено.",
+  "\\} enabled": "} увімкнено",
+  "Workspace and scheduling targets.": "Робочий простір та цілі планування.",
+  "Gateway cron status.": "Статус Cron шлюзу.",
+  ">Next wake<": ">Наступне пробудження<",
+  ">Agent Cron Jobs<": ">Завдання Cron агента<",
+  "Scheduled jobs targeting this agent.": "Заплановані завдання для цього агента.",
+  "No jobs assigned.": "Завдань не призначено.",
+  ">Core Files<": ">Основні файли<",
+  "Bootstrap persona, identity, and tool guidance.": "Інструкції щодо початкової персони, ідентифікації та інструментів.",
+  ">Workspace:": ">Робочий простір:",
+  "  Load the agent workspace files to edit core instructions.": " Завантажте файли робочого простору агента, щоб редагувати основні інструкції.",
+  "No files found.": "Файлів не знайдено.",
+  "Select a file to edit.": "Виберіть файл для редагування.",
+  "  This file is missing. Saving will create it in the agent workspace.": " Цей файл відсутній. Збереження створить його в робочому просторі агента.",
+  ">Content<": ">Вміст<",
+  ">missing<": ">відсутній<",  
+
+  
+  "\"Files\"": "\"Файли\"",
+  "\"Read file contents\"": "\"Читати вміст файлів\"",
+  "\"Create or overwrite files\"": "\"Створювати або перезаписувати файли\"",
+  "\"Make precise edits\"": "\"Вносити точні правки\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"Застосовувати патчі до файлів (OpenAI)\"",
+
+  "\"Runtime\"": "\"Середовище виконання\"",
+  "\"Run shell commands\"": "\"Виконувати команди оболонки\"",
+  "\"Manage background processes\"": "\"Керувати фоновими процесами\"",
+
+  "\"Web\"": "\"Веб\"",
+  "\"Search the web\"": "\"Шукати в Інтернеті\"",
+  "\"Fetch web content\"": "\"Отримувати веб-вміст\"",
+  
+  "\"Memory\"": "\"Пам'ять\"",
+  "\"Semantic search\"": "\"Семантичний пошук\"",
+  "\"Read memory files\"": "\"Читати файли пам'яті\"",
+  "\"List sessions\"": "\"Список сесій\"",
+
+  "\"Session history\"": "\"Історія сесії\"",
+  "\"Send to session": "\"Надіслати в сесію",
+  "\"Spawn sub-agent\"": "\"Створити підагента\"",
+  "\"Session status\"": "\"Статус сесії\"",
+
+  "\"UI\"": "\"Інтерфейс користувача\"",
+  "\"Control web browser\"": "\"Керувати веб-переглядачем\"",
+  "\"Control canvases\"": "\"Керувати полотнами\"",
+
+  "\"Send messages\"": "\"Надсилати повідомлення\"",
+  
+  "\"Automation\"": "\"Автоматизація\"",
+  "\"Schedule tasks\"": "\"Планувати завдання\"",
+
+  "\"Gateway control\"": "\"Керування шлюзом\"",
+  "\"Nodes \\+ devices\"": "\"Вузли + пристрої\"",
+  "\"List agents\"": "\"Список агентів\"",
+  
+  "\"Media\"": "\"Медіа\"",
+  "\"Image understanding\"": "\"Розуміння зображень\"",
+
+  "\"Minimal\"": "\"Мінімальний\"",
+  "\"Coding\"": "\"Програмування\"",
+  "\"Messaging\"": "\"Обмін повідомленнями\"",
+  "\"Full\"": "\"Повний\"",
+  
+  "\\} selected": "} вибрано",
+  "\"all skills\"": "\"усі навички\"",
+  
+
+  ">Agent Context<": ">Контекст агента<",
+  "\"no accounts\"": "\"немає облікових записів\"",
+  " connected`": " підключено`",
+  " configured`": " налаштовано`",
+  "\"not configured\"": "\"не налаштовано\"",
+
+  "\"agent override\"": "\"перевизначення агента\"",
+  "\"global default\"": "\"глобальне за замовчуванням\"",
+  "\"default\"": "\"за замовчуванням\"",
+
+  ">Tool Access<": ">Доступ до інструментів<",
+  "  Profile \\+ per-tool overrides for this agent.": " Профіль + перевизначення для кожного інструмента для цього агента.",
+  "> enabled.": "> увімкнено.",
+
+  "  Use All": " Використовувати всі",
+  "  Enable All": " Увімкнути всі",
+  "  Disable All": " Вимкнути всі",
+  "  Reload Config": " Перезавантажити конфігурацію",
+
+  "  Reload": " Перезавантажити",
+  
+  "Load the gateway config to adjust tool profiles.": "Завантажте конфігурацію шлюзу для налаштування профілів інструментів.",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "Цей агент використовує явний білий список у конфігурації. Перевизначення інструментів керуються на вкладці «Конфігурація».",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "Встановлено глобальний параметр tools.allow. Перевизначення агента не можуть увімкнути інструменти, які заблоковані глобально.",
+
+  ">Profile<": ">Профіль<",
+  ">Source<": ">Джерело<",
+  ">unsaved<": ">не збережено<",
+
+  ">Quick Presets<": ">Швидкі пресети<",
+  "  Inherit": " Успадкувати",
+
+  "Per-agent skill allowlist and workspace skills.": "Білий список навичок для кожного агента та навички робочого простору.",
+  "Load the gateway config to set per-agent skills.": "Завантажте конфігурацію шлюзу, щоб встановити навички для кожного агента.",
+  "This agent uses a custom skill allowlist.": "Цей агент використовує спеціальний білий список навичок.",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "Усі навички ввімкнено. Вимкнення будь-якої навички створить білий список для цього агента.",
+  "Load skills for this agent to view workspace-specific entries.": "Завантажте навички для цього агента, щоб переглянути записи, специфічні для робочого простору."
+
+}

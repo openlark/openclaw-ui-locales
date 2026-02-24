@@ -1,0 +1,23 @@
+{
+  "Compacting context...": "Se compactează contextul...",
+  "Context compacted": "Context compactat",
+  "Attachment preview": "Previzualizare atașament",
+  "Remove attachment": "Eliminare atașament",
+  "Add a message or paste more images...": "Adăugați un mesaj sau lipiți mai multe imagini...",
+  "Message \\(↩ to send, Shift\\+↩ for line breaks, paste images\\)": "Mesaj (↩ pentru trimitere, Shift+↩ pentru linie nouă, lipiți imagini)",
+  "Connect to the gateway to start chatting…": "Conectați-vă la gateway pentru a începe chatul…",
+  "Loading chat…": "Se încarcă chatul…",
+  "Exit focus mode": "Ieșire din modul focus",
+  ">Queued ": ">În coadă ",
+  "Image \\(": "Imagine (",
+  "Remove queued message": "Eliminare mesaj din coadă",
+  "New messages ": "Mesaje noi ",
+  ">Message<": ">Mesaj<",
+  "\"Stop\"": "\"Oprire\"",
+  "New session": "Sesiune nouă",
+  "\"Queue\"": "\"Coadă\"",
+  "\"Send\"": "\"Trimitere\"",
+  "Showing last ": "Se afișează ultimele ",
+  "\\} messages": "} mesaje",
+  "\\} hidden": "} ascunse"
+}

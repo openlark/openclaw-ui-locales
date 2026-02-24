@@ -1,0 +1,91 @@
+{
+  ">Nodes<": ">Node<",
+  "Paired devices and live links.": "Perangkat berpasangan dan tautan langsung.",
+  "No nodes found.": "Tidak ada node ditemukan.",
+
+  ">Devices<": ">Perangkat<",
+  "Pairing requests \\+ role tokens.": "Permintaan pemasangan + token peran.",
+  "\"Loading…\" : \"Refresh\"\\}": "\"Memuat…\" : \"Segarkan\"}",
+  ">Pending<": ">Tertunda<",
+  ">Paired<": ">Berpasangan<",
+  "No paired devices.": "Tidak ada perangkat berpasangan.",
+
+  " · requested ": " · diminta",
+  "   Approve": "   Setujui",
+  "   Reject": "  Tolak",
+
+  ">Tokens: none<": ">Token: tidak ada<",
+  "   Rotate": "  Putar",
+  "   Revoke": "  Cabut",
+
+  ">Exec node binding<": ">Binding node eksekusi<",
+  "Pin agents to a specific node when using <span class=\"mono\">exec host=node</span>.": "Sematkan agen ke node tertentu saat menggunakan <span class=\"mono\">exec host=node</span>.",
+  "Switch the Config tab to <strong>Form<\/strong> mode to edit bindings here.": "Alihkan tab Konfigurasi ke mode <strong>Formulir<\/strong> untuk mengedit binding di sini.",
+  "Load config to edit bindings.": "Muat konfigurasi untuk mengedit binding.",
+  "\"Load config\"": "\"Muat konfigurasi\"",
+  ">Default binding<": ">Binding default<",
+  "Used when agents do not override a node binding.": "Digunakan ketika agen tidak menimpa binding node.",
+  ">Any node<": ">Node mana pun<",
+  "No nodes with system.run available.": "Tidak ada node dengan system.run yang tersedia.",
+
+  ">Target<": ">Target<",
+  " Gateway edits local approvals; node edits the selected node.": " Gateway mengedit persetujuan lokal; node mengedit node yang dipilih.",
+  
+  ">Host<": ">Host<",
+  ">Security<": ">Keamanan<",
+  "\"default agent\"": "\"agen default\"",
+  "\"agent\"\\}": "\"agen\"}",
+  "`uses default \\(": "`menggunakan default (",
+  "`Using default \\(": "`Menggunakan default (",
+  "`Override \\(": "`Timpa (",
+  " \"any\"\\}": " \"mana pun\"}",
+  ": `override: ": ": `timpa:",
+  ">Binding<": ">Binding<",
+  "\"paired\" : \"unpaired\"\\}": "\"berpasangan\" : \"tidak berpasangan\"}",
+  "\"connected\" : \"offline\"\\}": "\"terhubung\" : \"luring\"}",
+  
+  
+  "\"Deny\"": "\"Tolak\"",
+  "\"Allowlist\"": "\"Daftar izin\"",
+  "\"Off\"": "\"Mati\"",
+  "\"On miss\"": "\"Saat tidak cocok\"",
+  "\"Always\"": "\"Selalu\"",
+
+  ">Exec approvals<": ">Persetujuan eksekusi<",
+  "Allowlist and approval policy for \\<span class=\"mono\">exec host=gateway/node\\</span>.": "Kebijakan daftar izin dan persetujuan untuk <span class=\"mono\">exec host=gateway/node</span>.",
+  "\"Load approvals\"": "\"Muat persetujuan\"",
+  "Load exec approvals to edit allowlists.":"Muat persetujuan eksekusi untuk mengedit daftar izin.",
+  "Gateway edits local approvals; node edits the selected node.": "Gateway mengedit persetujuan lokal; node mengedit node yang dipilih.",
+
+  ">Gateway<": ">Gateway<",
+  ">Node<": ">Node<",
+  ">Select node<": ">Pilih node<",
+  "No nodes advertise exec approvals yet.": "Belum ada node yang mengiklankan persetujuan eksekusi.",
+
+  ">Scope<": ">Cakupan<",
+  "  Defaults": " Default",
+
+  "\"Default security mode.\"": "\"Mode keamanan default.\"",
+  "`Default: ": "`Default: ",
+  "  Use default": "  Gunakan default",
+  "\"Default prompt policy.\"": "\"Kebijakan prompt default.\"",
+  ">Ask<": ">Tanya<",
+  ">Ask fallback<": ">Tanya cadangan<",
+  "Applied when the UI prompt is unavailable.": "Diterapkan saat prompt UI tidak tersedia.",
+  ">Fallback<": ">Cadangan<",
+
+  ">Auto-allow skill CLIs<": ">Izinkan otomatis CLI keterampilan<",
+  "Allow skill executables listed by the Gateway.": "Izinkan file yang dapat dieksekusi keterampilan yang didaftarkan oleh Gateway.",
+  "\"on\" \\: \"off\"\\}": "\"nyala\" : \"mati\"}",
+  ": `Override \\(": ": `Timpa (",
+
+  
+  ">Allowlist<": ">Daftar izin<",
+  "Case-insensitive glob patterns.": "Pola glob tidak peka huruf besar/kecil.",
+  "  Add pattern": " Tambah pola",
+  ">Pattern<": ">Pola<",
+  "No allowlist entries yet.": "Belum ada entri daftar izin.",
+  "\"New pattern\"": "\"Pola baru\"",
+  ">Last used: ": ">Terakhir digunakan:",
+  "  Remove": "  Hapus"
+}

@@ -1,0 +1,23 @@
+{
+  "Compacting context...": "சூழலைச் சுருக்குகிறது...",
+  "Context compacted": "சூழல் சுருக்கப்பட்டது",
+  "Attachment preview": "இணைப்பு முன்னோட்டம்",
+  "Remove attachment": "இணைப்பை அகற்று",
+  "Add a message or paste more images...": "ஒரு செய்தியைச் சேர்க்கவும் அல்லது மேலும் படங்களை ஒட்டவும்...",
+  "Message \\(↩ to send, Shift\\+↩ for line breaks, paste images\\)": "செய்தி (அனுப்ப ↩, வரி முறிவுகளுக்கு Shift+↩, படங்களை ஒட்டவும்)",
+  "Connect to the gateway to start chatting…": "அரட்டையைத் தொடங்க கேட்வேயுடன் இணைக்கவும்…",
+  "Loading chat…": "அரட்டை ஏற்றப்படுகிறது…",
+  "Exit focus mode": "கவனம் பயன்முறையிலிருந்து வெளியேறு",
+  ">Queued ": ">வரிசையில் ",
+  "Image \\(": "படம் (",
+  "Remove queued message": "வரிசையிலுள்ள செய்தியை அகற்று",
+  "New messages ": "புதிய செய்திகள் ",
+  ">Message<": ">செய்தி<",
+  "\"Stop\"": "\"நிறுத்து\"",
+  "New session": "புதிய அமர்வு",
+  "\"Queue\"": "\"வரிசை\"",
+  "\"Send\"": "\"அனுப்பு\"",
+  "Showing last ": "கடைசியாகக் காட்டப்படுகின்றன ",
+  "\\} messages": "} செய்திகள்",
+  "\\} hidden": "} மறைக்கப்பட்டுள்ளன"
+}

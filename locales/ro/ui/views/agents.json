@@ -1,0 +1,140 @@
+{
+  ">No configured models<": ">Nicio model configurat<",
+  "\\} configured.<": "} configurate.<",
+  "No agents found.": "Niciun agent găsit.",
+  ">Select an agent<": ">Selectați un agent<",
+  "Pick an agent to inspect its workspace and tools.": "Alegeți un agent pentru a-i inspecta spațiul de lucru și instrumentele.",
+  "Agent workspace and routing.": "Spațiu de lucru agent și rutare.",
+  "\"Tools\"": "\"Instrumente\"",
+
+  ">Overview<": ">Prezentare generală<",
+  "Workspace paths and identity metadata.": "Căi spațiu de lucru și metadate identitate.",
+  ">Workspace<": ">Spațiu de lucru<",
+  ">Primary Model<": ">Model principal<",
+  ">Identity Name<": ">Nume identitate<",
+  ">Default<": ">Valoare implicită<",
+  ">Identity Emoji<": ">Emoji identitate<",
+  ">Skills Filter<": ">Filtru abilități<",
+  ">Filter<": ">Filtru<",
+  ">Model Selection<": ">Selecție model<",
+  ">Primary model": ">Model principal",
+  " \\(default\\)": " (implicit)",
+  "Fallbacks \\(comma-separated\\)": "Opțiuni de rezervă (separate prin virgulă)",
+  "Inherit default \\(": "Moștenire implicit (",
+  "\"Inherit default\"": "\"Moștenire implicit\"",
+  ">Fallbacks (comma-separated)<": ">Opțiuni de rezervă (separate prin virgulă)",
+  "\"Save\"": "\"Salvare\"",
+  "\"yes\"": "\"da\"",
+  "\"no\"": "\"nu\"",
+  
+  "\"Workspace, identity, and model configuration.\"": "\"Configurație spațiu de lucru, identitate și model.\"",
+  "Load channels to see live status.": "Încărcați canale pentru a vedea starea în direct.",
+  "Gateway-wide channel status snapshot.": "Instantaneu la nivel de gateway al stării canalelor.",
+  " Last refresh:": " Ultima reîmprospătare:",
+  "No channels found.": "Niciun canal găsit.",
+  "\\} enabled": "} activate",
+  "Workspace and scheduling targets.": "Spațiu de lucru și ținte de programare.",
+  "Gateway cron status.": "Stare cron gateway.",
+  ">Next wake<": ">Următoarea trezire<",
+  ">Agent Cron Jobs<": ">Joburi Cron agent<",
+  "Scheduled jobs targeting this agent.": "Joburi programate care vizează acest agent.",
+  "No jobs assigned.": "Niciun job atribuit.",
+  ">Core Files<": ">Fișiere de bază<",
+  "Bootstrap persona, identity, and tool guidance.": "Ghidare pentru persona inițială, identitate și instrumente.",
+  ">Workspace:": ">Spațiu de lucru:",
+  "  Load the agent workspace files to edit core instructions.": " Încărcați fișierele spațiului de lucru al agentului pentru a edita instrucțiunile de bază.",
+  "No files found.": "Niciun fișier găsit.",
+  "Select a file to edit.": "Selectați un fișier pentru editare.",
+  "  This file is missing. Saving will create it in the agent workspace.": " Acest fișier lipsește. Salvarea îl va crea în spațiul de lucru al agentului.",
+  ">Content<": ">Conținut<",
+  ">missing<": ">lipsește<",  
+
+  
+  "\"Files\"": "\"Fișiere\"",
+  "\"Read file contents\"": "\"Citire conținut fișiere\"",
+  "\"Create or overwrite files\"": "\"Creare sau suprascriere fișiere\"",
+  "\"Make precise edits\"": "\"Efectuare editări precise\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"Aplicare patch-uri fișiere (OpenAI)\"",
+
+  "\"Runtime\"": "\"Mediu execuție\"",
+  "\"Run shell commands\"": "\"Executare comenzi shell\"",
+  "\"Manage background processes\"": "\"Gestionare procese de fundal\"",
+
+  "\"Web\"": "\"Web\"",
+  "\"Search the web\"": "\"Căutare pe web\"",
+  "\"Fetch web content\"": "\"Preluare conținut web\"",
+  
+  "\"Memory\"": "\"Memorie\"",
+  "\"Semantic search\"": "\"Căutare semantică\"",
+  "\"Read memory files\"": "\"Citire fișiere de memorie\"",
+  "\"List sessions\"": "\"Listare sesiuni\"",
+
+  "\"Session history\"": "\"Istoric sesiune\"",
+  "\"Send to session": "\"Trimitere către sesiune",
+  "\"Spawn sub-agent\"": "\"Generare sub-agent\"",
+  "\"Session status\"": "\"Stare sesiune\"",
+
+  "\"UI\"": "\"Interfață utilizator\"",
+  "\"Control web browser\"": "\"Control browser web\"",
+  "\"Control canvases\"": "\"Control panze\"",
+
+  "\"Send messages\"": "\"Trimitere mesaje\"",
+  
+  "\"Automation\"": "\"Automatizare\"",
+  "\"Schedule tasks\"": "\"Programare sarcini\"",
+
+  "\"Gateway control\"": "\"Control gateway\"",
+  "\"Nodes \\+ devices\"": "\"Noduri + dispozitive\"",
+  "\"List agents\"": "\"Listare agenți\"",
+  
+  "\"Media\"": "\"Media\"",
+  "\"Image understanding\"": "\"Înțelegere imagine\"",
+
+  "\"Minimal\"": "\"Minim\"",
+  "\"Coding\"": "\"Programare\"",
+  "\"Messaging\"": "\"Mesagerie\"",
+  "\"Full\"": "\"Complet\"",
+  
+  "\\} selected": "} selectate",
+  "\"all skills\"": "\"toate abilitățile\"",
+  
+
+  ">Agent Context<": ">Context agent<",
+  "\"no accounts\"": "\"fără conturi\"",
+  " connected`": " conectat`",
+  " configured`": " configurat`",
+  "\"not configured\"": "\"neconfigurat\"",
+
+  "\"agent override\"": "\"suprascriere agent\"",
+  "\"global default\"": "\"implicit global\"",
+  "\"default\"": "\"implicit\"",
+
+  ">Tool Access<": ">Acces instrumente<",
+  "  Profile \\+ per-tool overrides for this agent.": " Profil + suprascrieri per instrument pentru acest agent.",
+  "> enabled.": "> activat.",
+
+  "  Use All": " Utilizare toate",
+  "  Enable All": " Activare toate",
+  "  Disable All": " Dezactivare toate",
+  "  Reload Config": " Reîncărcare configurație",
+
+  "  Reload": " Reîncărcare",
+  
+  "Load the gateway config to adjust tool profiles.": "Încărcați configurația gateway pentru a ajusta profilele instrumentelor.",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "Acest agent utilizează o listă albă explicită în configurație. Suprascrierile instrumentelor sunt gestionate în fila 'Configurație'.",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "Parametrul global tools.allow este setat. Suprascrierile agentului nu pot activa instrumente care sunt blocate global.",
+
+  ">Profile<": ">Profil<",
+  ">Source<": ">Sursă<",
+  ">unsaved<": ">nesalvat<",
+
+  ">Quick Presets<": ">Presetări rapide<",
+  "  Inherit": " Moștenire",
+
+  "Per-agent skill allowlist and workspace skills.": "Listă albă de abilități per agent și abilități spațiu de lucru.",
+  "Load the gateway config to set per-agent skills.": "Încărcați configurația gateway pentru a seta abilități per agent.",
+  "This agent uses a custom skill allowlist.": "Acest agent utilizează o listă albă de abilități personalizată.",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "Toate abilitățile sunt activate. Dezactivarea oricărei abilități va crea o listă albă per agent.",
+  "Load skills for this agent to view workspace-specific entries.": "Încărcați abilitățile pentru acest agent pentru a vizualiza intrări specifice spațiului de lucru."
+
+}

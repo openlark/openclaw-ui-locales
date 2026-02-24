@@ -1,0 +1,91 @@
+{
+  ">Nodes<": ">முனைகள்<",
+  "Paired devices and live links.": "இணைக்கப்பட்ட சாதனங்கள் மற்றும் நேரடி இணைப்புகள்.",
+  "No nodes found.": "முனைகள் எதுவும் காணப்படவில்லை.",
+
+  ">Devices<": ">சாதனங்கள்<",
+  "Pairing requests \\+ role tokens.": "இணைத்தல் கோரிக்கைகள் + பங்கு டோக்கன்கள்.",
+  "\"Loading…\" : \"Refresh\"\\}": "\"ஏற்றப்படுகிறது…\" : \"புதுப்பி\"}",
+  ">Pending<": ">நிலுவையில்<",
+  ">Paired<": ">இணைக்கப்பட்டது<",
+  "No paired devices.": "இணைக்கப்பட்ட சாதனங்கள் இல்லை.",
+
+  " · requested ": " · கோரப்பட்டது",
+  "   Approve": "   ஒப்புதல் அளி",
+  "   Reject": "  நிராகரி",
+
+  ">Tokens: none<": ">டோக்கன்கள்: இல்லை<",
+  "   Rotate": "  சுழற்று",
+  "   Revoke": "  ரத்துசெய்",
+
+  ">Exec node binding<": ">Exec முனை பைண்டிங்<",
+  "Pin agents to a specific node when using <span class=\"mono\">exec host=node</span>.": "<span class=\"mono\">exec host=node</span> ஐப் பயன்படுத்தும்போது முகவர்களை ஒரு குறிப்பிட்ட முனையில் பொருத்தவும்.",
+  "Switch the Config tab to <strong>Form<\/strong> mode to edit bindings here.": "பைண்டிங்குகளை இங்கே திருத்த உள்ளமைவு தாவலை <strong>படிவம்<\/strong> முறைக்கு மாற்றவும்.",
+  "Load config to edit bindings.": "பைண்டிங்குகளைத் திருத்த உள்ளமைவை ஏற்றவும்.",
+  "\"Load config\"": "\"உள்ளமைவை ஏற்று\"",
+  ">Default binding<": ">இயல்புநிலை பைண்டிங்<",
+  "Used when agents do not override a node binding.": "முகவர்கள் ஒரு முனை பைண்டிங்கை மேலெழுதாதபோது பயன்படுத்தப்படுகிறது.",
+  ">Any node<": ">எந்த முனையும்<",
+  "No nodes with system.run available.": "system.run கிடைக்கக்கூடிய முனைகள் எதுவும் இல்லை.",
+
+  ">Target<": ">இலக்கு<",
+  " Gateway edits local approvals; node edits the selected node.": " கேட்வே உள்ளூர் ஒப்புதல்களைத் திருத்துகிறது; முனை தேர்ந்தெடுக்கப்பட்ட முனையைத் திருத்துகிறது.",
+  
+  ">Host<": ">ஹோஸ்ட்<",
+  ">Security<": ">பாதுகாப்பு<",
+  "\"default agent\"": "\"இயல்புநிலை முகவர்\"",
+  "\"agent\"\\}": "\"முகவர்\"}",
+  "`uses default \\(": "`இயல்புநிலையைப் பயன்படுத்துகிறது (",
+  "`Using default \\(": "`இயல்புநிலையைப் பயன்படுத்துகிறது (",
+  "`Override \\(": "`மேலெழுது (",
+  " \"any\"\\}": " \"எதுவும்\"}",
+  ": `override: ": ": `மேலெழுது:",
+  ">Binding<": ">பைண்டிங்<",
+  "\"paired\" : \"unpaired\"\\}": "\"இணைக்கப்பட்டது\" : \"இணைக்கப்படவில்லை\"}",
+  "\"connected\" : \"offline\"\\}": "\"இணைக்கப்பட்டது\" : \"ஆஃப்லைன்\"}",
+  
+  
+  "\"Deny\"": "\"மறு\"",
+  "\"Allowlist\"": "\"அனுமதிப் பட்டியல்\"",
+  "\"Off\"": "\"முடக்கு\"",
+  "\"On miss\"": "\"தவறிய போது\"",
+  "\"Always\"": "\"எப்போதும்\"",
+
+  ">Exec approvals<": ">Exec ஒப்புதல்கள்<",
+  "Allowlist and approval policy for \\<span class=\"mono\">exec host=gateway/node\\</span>.": "<span class=\"mono\">exec host=gateway/node</span> க்கான அனுமதிப் பட்டியல் மற்றும் ஒப்புதல் கொள்கை.",
+  "\"Load approvals\"": "\"ஒப்புதல்களை ஏற்று\"",
+  "Load exec approvals to edit allowlists.":"அனுமதிப் பட்டியல்களைத் திருத்த exec ஒப்புதல்களை ஏற்றவும்.",
+  "Gateway edits local approvals; node edits the selected node.": "கேட்வே உள்ளூர் ஒப்புதல்களைத் திருத்துகிறது; முனை தேர்ந்தெடுக்கப்பட்ட முனையைத் திருத்துகிறது.",
+
+  ">Gateway<": ">கேட்வே<",
+  ">Node<": ">முனை<",
+  ">Select node<": ">முனையைத் தேர்ந்தெடுக்கவும்<",
+  "No nodes advertise exec approvals yet.": "இதுவரை எந்த முனைகளும் exec ஒப்புதல்களை அறிவிக்கவில்லை.",
+
+  ">Scope<": ">எல்லை<",
+  "  Defaults": " இயல்புநிலைகள்",
+
+  "\"Default security mode.\"": "\"இயல்புநிலை பாதுகாப்பு முறை.\"",
+  "`Default: ": "`இயல்புநிலை: ",
+  "  Use default": "  இயல்புநிலையைப் பயன்படுத்து",
+  "\"Default prompt policy.\"": "\"இயல்புநிலை வரியுருக் கொள்கை.\"",
+  ">Ask<": ">கேள்<",
+  ">Ask fallback<": ">பின்னடைவைக் கேள்<",
+  "Applied when the UI prompt is unavailable.": "UI வரியுரு கிடைக்காதபோது பயன்படுத்தப்படும்.",
+  ">Fallback<": ">பின்னடைவு<",
+
+  ">Auto-allow skill CLIs<": ">தானியங்கி அனுமதி திறன் CLIகள்<",
+  "Allow skill executables listed by the Gateway.": "கேட்வேயால் பட்டியலிடப்பட்ட திறன் இயக்கக்கூடிய கோப்புகளை அனுமதிக்கவும்.",
+  "\"on\" \\: \"off\"\\}": "\"ஆன்\" : \"ஆஃப்\"}",
+  ": `Override \\(": ": `மேலெழுது (",
+
+  
+  ">Allowlist<": ">அனுமதிப் பட்டியல்<",
+  "Case-insensitive glob patterns.": "எழுத்துப்பெருக்கு உணராத குளோப் மாதிரிகள்.",
+  "  Add pattern": " மாதிரியைச் சேர்",
+  ">Pattern<": ">மாதிரி<",
+  "No allowlist entries yet.": "இதுவரை அனுமதிப் பட்டியல் உள்ளீடுகள் இல்லை.",
+  "\"New pattern\"": "\"புதிய மாதிரி\"",
+  ">Last used: ": ">கடைசியாகப் பயன்படுத்தப்பட்டது:",
+  "  Remove": "  அகற்று"
+}

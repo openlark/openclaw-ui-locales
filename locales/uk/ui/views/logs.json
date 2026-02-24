@@ -1,0 +1,12 @@
+{
+  ">Logs<": ">Журнали<",
+  "Gateway file logs \\(JSONL\\).": "Файлові журнали шлюзу (JSONL).",
+  "\"filtered\"": "\"відфільтровано\"",
+  "\"visible\"": "\"видимо\"",
+  " Export ": " Експорт ",
+  "\"Search logs\"": "\"Пошук у журналах\"",
+  ">Auto-follow<": ">Авто-слідування<",
+  "Log output truncated; showing latest chunk.": "Виведення журналу обрізано; показано останній фрагмент.",
+  ">Last heartbeat<": ">Останній пульс<",
+  "No log entries.": "Немає записів у журналі."
+}

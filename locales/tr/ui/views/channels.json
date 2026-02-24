@@ -1,0 +1,91 @@
+{
+  "Channel health": "Kanal sağlığı",
+  "Channel status snapshots from the gateway.": "Ağ geçidinden kanal durum anlık görüntüleri.",
+  "No snapshot yet.": "Henüz anlık görüntü yok.",
+  "Channel status and configuration.": "Kanal durumu ve yapılandırması.",
+  "\"Yes\"": "\"Evet\"",
+  "\"Active\"": "\"Aktif\"",
+  "\"No\"": "\"Hayır\"",
+  ">Running<": ">Çalışıyor<",
+  ">Connected<": ">Bağlı<",
+
+  
+  "Schema unavailable. Use Raw.": "Şema kullanılamıyor. Ham verileri kullanın.",
+  "Channel config schema unavailable.": "Kanal yapılandırma şeması kullanılamıyor.",
+  "Loading config schema…": "Yapılandırma şeması yükleniyor…",
+
+  ">Configured<": ">Yapılandırılmış<",
+  ">Linked<": ">Bağlantılı<",
+  ">Last start<": ">Son başlatma<",
+  ">Last probe<": ">Son yoklama<",
+  ">Last connect<": ">Son bağlantı<",
+  ">Last message<": ">Son mesaj<",
+  ">Last inbound<": ">Son gelen<",
+  ">Auth age<": ">Kimlik doğrulama yaşı<",
+  ">Mode<": ">Mod<",
+  ">Credential<": ">Kimlik Bilgisi<",
+  ">Public Key<": ">Genel Anahtar<",
+  ">Audience<": ">Hedef Kitle<",
+  ">Profile<": ">Profil<",
+
+  "No profile set. Click \"Edit Profile\" to add your name, bio, and avatar.": "Profil ayarlanmamış. Adınızı, biyografinizi ve avatarınızı eklemek için 'Profili Düzenle'ye tıklayın.",
+  "\"Saving…\"": "\"Kaydediliyor…\"",
+  "\"Save\"": "\"Kaydet\"",
+  "  probe": " yoklama",
+  
+  "  Probe": " Yoklama",
+  "\"ok\" \\:": "\"başarılı\" :",
+  "\"failed\"": "\"başarısız\"",
+  
+  "Decentralized DMs via Nostr relays \\(NIP-04\\).": "Nostr röleleri (NIP-04) aracılığıyla merkezi olmayan özel mesajlar.",
+
+
+  "Chat API webhook status and channel configuration.": "Sohbet API webhook durumu ve kanal yapılandırması.",
+  
+  "macOS bridge status and channel configuration.": "macOS köprü durumu ve kanal yapılandırması.",
+
+  
+  ">Edit Profile<": ">Profili Düzenle<",
+  ">Account: ": ">Hesap: ",
+  
+  "\"Username\"": "\"Kullanıcı Adı\"",
+  "\"Short username \\(": "\"Kısa kullanıcı adı (",
+  "\"Display Name\"": "\"Görünen Ad\"",
+  "Your full display name": "Tam görünen adınız",
+  "\"Bio\"": "\"Biyografi\"",
+  "Tell people about yourself...": "İnsanlara kendinizden bahsedin...",
+  "\"Avatar URL\"": "\"Avatar URL'si\"",
+  "A brief bio or description": "Kısa bir biyografi veya açıklama",
+  "\"Banner URL\"": "\"Banner URL'si\"",
+  "HTTPS URL to your profile picture": " Profil resminizin HTTPS URL'si",
+  "HTTPS URL to a banner image": "Banner resminin HTTPS URL'si",
+  "\"Website\"": "\"Web Sitesi\"",
+  "Your personal website": "Kişisel web siteniz",
+  "\"NIP-05 Identifier\"": "\"NIP-05 Tanımlayıcısı\"",
+  "\"Verifiable identifier ": "\"Doğrulanabilir tanımlayıcı ",
+  "\"Lightning Address\"": "\"Yıldırım Adresi\"",
+  "\"Lightning address for tips ": "\"Bahşişler için yıldırım adresi ",
+  "\"Saving...\"": "\"Kaydediliyor...\"",
+  "Save & Publish": "Kaydet ve Yayınla",
+  "\"Importing...\"": "\"İçe aktarılıyor...\"",
+  "\"Import from Relays\"": "\"Rölelerden İçe Aktar\"",
+  "\"Hide Advanced\"": "\"Gelişmişi Gizle\"",
+  "\"Show Advanced\"": "\"Gelişmişi Göster\"",
+  "  You have unsaved changes": "  Kaydedilmemiş değişiklikleriniz var",
+
+  ">Display Name<": ">Görünen Ad<",
+  ">About<": ">Hakkında<",
+
+  ">Accounts ": ">Hesaplar ",
+
+  
+  "signal-cli status and channel configuration.": "signal-cli durumu ve kanal yapılandırması.",
+  ">Base URL<": ">Temel URL<",
+
+  
+  "Socket mode status and channel configuration.": "Soket modu durumu ve kanal yapılandırması.",
+  
+  "Bot status and channel configuration.": "Bot durumu ve kanal yapılandırması.",
+  
+  "Link WhatsApp Web and monitor connection health.": "WhatsApp Web'i bağlayın ve bağlantı sağlığını izleyin."
+}

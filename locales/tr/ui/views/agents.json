@@ -1,0 +1,140 @@
+{
+  ">No configured models<": ">Yapılandırılmış model yok<",
+  "\\} configured.<": "} yapılandırıldı.<",
+  "No agents found.": "Ajan bulunamadı.",
+  ">Select an agent<": ">Bir ajan seçin<",
+  "Pick an agent to inspect its workspace and tools.": "Çalışma alanını ve araçlarını incelemek için bir ajan seçin.",
+  "Agent workspace and routing.": "Ajan çalışma alanı ve yönlendirme.",
+  "\"Tools\"": "\"Araçlar\"",
+
+  ">Overview<": ">Genel Bakış<",
+  "Workspace paths and identity metadata.": "Çalışma alanı yolları ve kimlik meta verileri.",
+  ">Workspace<": ">Çalışma Alanı<",
+  ">Primary Model<": ">Birincil Model<",
+  ">Identity Name<": ">Kimlik Adı<",
+  ">Default<": ">Varsayılan Değer<",
+  ">Identity Emoji<": ">Kimlik Emojisi<",
+  ">Skills Filter<": ">Beceri Filtresi<",
+  ">Filter<": ">Filtre<",
+  ">Model Selection<": ">Model Seçimi<",
+  ">Primary model": ">Birincil model",
+  " \\(default\\)": " (varsayılan)",
+  "Fallbacks \\(comma-separated\\)": "Yedek seçenekler (virgülle ayrılmış)",
+  "Inherit default \\(": "Varsayılanı devral (",
+  "\"Inherit default\"": "\"Varsayılanı devral\"",
+  ">Fallbacks (comma-separated)<": ">Yedek seçenekler (virgülle ayrılmış)",
+  "\"Save\"": "\"Kaydet\"",
+  "\"yes\"": "\"evet\"",
+  "\"no\"": "\"hayır\"",
+  
+  "\"Workspace, identity, and model configuration.\"": "\"Çalışma alanı, kimlik ve model yapılandırması.\"",
+  "Load channels to see live status.": "Canlı durumu görmek için kanalları yükleyin.",
+  "Gateway-wide channel status snapshot.": "Ağ geçidi genelinde kanal durum anlık görüntüsü.",
+  " Last refresh:": " Son yenileme:",
+  "No channels found.": "Kanal bulunamadı.",
+  "\\} enabled": "} etkin",
+  "Workspace and scheduling targets.": "Çalışma alanı ve zamanlama hedefleri.",
+  "Gateway cron status.": "Ağ geçidi cron durumu.",
+  ">Next wake<": ">Sonraki uyandırma<",
+  ">Agent Cron Jobs<": ">Ajan Cron Görevleri<",
+  "Scheduled jobs targeting this agent.": "Bu ajana yönelik zamanlanmış görevler.",
+  "No jobs assigned.": "Görev atanmamış.",
+  ">Core Files<": ">Çekirdek Dosyalar<",
+  "Bootstrap persona, identity, and tool guidance.": "Başlangıç ​​personası, kimliği ve araç rehberliği.",
+  ">Workspace:": ">Çalışma Alanı:",
+  "  Load the agent workspace files to edit core instructions.": " Çekirdek talimatları düzenlemek için ajan çalışma alanı dosyalarını yükleyin.",
+  "No files found.": "Dosya bulunamadı.",
+  "Select a file to edit.": "Düzenlenecek bir dosya seçin.",
+  "  This file is missing. Saving will create it in the agent workspace.": " Bu dosya eksik. Kaydetmek, onu ajan çalışma alanında oluşturacaktır.",
+  ">Content<": ">İçerik<",
+  ">missing<": ">eksik<",  
+
+  
+  "\"Files\"": "\"Dosyalar\"",
+  "\"Read file contents\"": "\"Dosya içeriğini oku\"",
+  "\"Create or overwrite files\"": "\"Dosya oluştur veya üzerine yaz\"",
+  "\"Make precise edits\"": "\"Hassas düzenlemeler yap\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"Dosyalara yama uygula (OpenAI)\"",
+
+  "\"Runtime\"": "\"Çalışma Zamanı\"",
+  "\"Run shell commands\"": "\"Kabuk komutlarını çalıştır\"",
+  "\"Manage background processes\"": "\"Arka plan işlemlerini yönet\"",
+
+  "\"Web\"": "\"Web\"",
+  "\"Search the web\"": "\"Web'de ara\"",
+  "\"Fetch web content\"": "\"Web içeriğini getir\"",
+  
+  "\"Memory\"": "\"Bellek\"",
+  "\"Semantic search\"": "\"Anlamsal arama\"",
+  "\"Read memory files\"": "\"Bellek dosyalarını oku\"",
+  "\"List sessions\"": "\"Oturumları listele\"",
+
+  "\"Session history\"": "\"Oturum geçmişi\"",
+  "\"Send to session": "\"Oturuma gönder",
+  "\"Spawn sub-agent\"": "\"Alt ajan oluştur\"",
+  "\"Session status\"": "\"Oturum durumu\"",
+
+  "\"UI\"": "\"Kullanıcı Arayüzü\"",
+  "\"Control web browser\"": "\"Web tarayıcısını kontrol et\"",
+  "\"Control canvases\"": "\"Tuvalleri kontrol et\"",
+
+  "\"Send messages\"": "\"Mesaj gönder\"",
+  
+  "\"Automation\"": "\"Otomasyon\"",
+  "\"Schedule tasks\"": "\"Görevleri zamanla\"",
+
+  "\"Gateway control\"": "\"Ağ geçidi kontrolü\"",
+  "\"Nodes \\+ devices\"": "\"Düğümler + cihazlar\"",
+  "\"List agents\"": "\"Ajanları listele\"",
+  
+  "\"Media\"": "\"Medya\"",
+  "\"Image understanding\"": "\"Görüntü anlama\"",
+
+  "\"Minimal\"": "\"Minimum\"",
+  "\"Coding\"": "\"Kodlama\"",
+  "\"Messaging\"": "\"Mesajlaşma\"",
+  "\"Full\"": "\"Tam\"",
+  
+  "\\} selected": "} seçildi",
+  "\"all skills\"": "\"tüm beceriler\"",
+  
+
+  ">Agent Context<": ">Ajan Bağlamı<",
+  "\"no accounts\"": "\"hesap yok\"",
+  " connected`": " bağlı`",
+  " configured`": " yapılandırıldı`",
+  "\"not configured\"": "\"yapılandırılmamış\"",
+
+  "\"agent override\"": "\"ajan geçersiz kılma\"",
+  "\"global default\"": "\"genel varsayılan\"",
+  "\"default\"": "\"varsayılan\"",
+
+  ">Tool Access<": ">Araç Erişimi<",
+  "  Profile \\+ per-tool overrides for this agent.": " Bu ajan için profil + araç başına geçersiz kılmalar.",
+  "> enabled.": "> etkin.",
+
+  "  Use All": " Tümünü Kullan",
+  "  Enable All": " Tümünü Etkinleştir",
+  "  Disable All": " Tümünü Devre Dışı Bırak",
+  "  Reload Config": " Yapılandırmayı Yeniden Yükle",
+
+  "  Reload": " Yeniden Yükle",
+  
+  "Load the gateway config to adjust tool profiles.": "Araç profillerini ayarlamak için ağ geçidi yapılandırmasını yükleyin.",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "Bu ajan, yapılandırmada açık bir izin listesi kullanıyor. Araç geçersiz kılmaları 'Yapılandırma' sekmesinde yönetilir.",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "Genel tools.allow ayarlanmış. Ajan geçersiz kılmaları, genel olarak engellenen araçları etkinleştiremez.",
+
+  ">Profile<": ">Profil<",
+  ">Source<": ">Kaynak<",
+  ">unsaved<": ">kaydedilmemiş<",
+
+  ">Quick Presets<": ">Hızlı Ön Ayarlar<",
+  "  Inherit": " Devral",
+
+  "Per-agent skill allowlist and workspace skills.": "Ajan başına beceri izin listesi ve çalışma alanı becerileri.",
+  "Load the gateway config to set per-agent skills.": "Ajan başına becerileri ayarlamak için ağ geçidi yapılandırmasını yükleyin.",
+  "This agent uses a custom skill allowlist.": "Bu ajan özel bir beceri izin listesi kullanıyor.",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "Tüm beceriler etkin. Herhangi bir beceriyi devre dışı bırakmak, ajan başına bir izin listesi oluşturacaktır.",
+  "Load skills for this agent to view workspace-specific entries.": "Çalışma alanına özel girdileri görüntülemek için bu ajanın becerilerini yükleyin."
+
+}

@@ -1,0 +1,26 @@
+{
+  ">Skills<": ">Beceriler<",
+  "Bundled, managed, and workspace skills.": "Paketlenmiş, yönetilen ve çalışma alanı becerileri.",
+  "\"Search skills\"": "\"Beceri ara\"",
+  "No skills found.": "Beceri bulunamadı.",
+  "\\} shown": "} gösteriliyor",
+  "\"Installing…\"": "\"Yükleniyor…\"",
+  ">API key<": ">API anahtarı<",
+  "  Save key": " Anahtarı kaydet",
+  
+  "\"Workspace Skills\"": "\"Çalışma Alanı Becerileri\"",
+  "\"Built-in Skills\"": "\"Dahili Beceriler\"",
+  "\"Installed Skills\"": "\"Yüklenmiş Beceriler\"",
+  "\"Extra Skills\"": "\"Ekstra Beceriler\"",
+  "\"Other Skills\"": "\"Diğer Beceriler\"",
+
+
+  "\"blocked by allowlist\"": "\"izin listesi tarafından engellendi\"",
+
+  "\"eligible\"": "\"uygun\"",
+  "\"blocked\"": "\"engellendi\"",
+
+  ">disabled<": ">devre dışı<",
+  ">Missing: ": ">Eksik:",
+  ">Reason:": ">Sebep:"
+}

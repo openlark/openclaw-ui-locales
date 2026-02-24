@@ -1,0 +1,91 @@
+{
+  "Channel health": "சேனல் ஆரோக்கியம்",
+  "Channel status snapshots from the gateway.": "கேட்வேயில் இருந்து சேனல் நிலை ஸ்னாப்ஷாட்கள்.",
+  "No snapshot yet.": "இன்னும் ஸ்னாப்ஷாட் இல்லை.",
+  "Channel status and configuration.": "சேனல் நிலை மற்றும் உள்ளமைவு.",
+  "\"Yes\"": "\"ஆம்\"",
+  "\"Active\"": "\"செயலில்\"",
+  "\"No\"": "\"இல்லை\"",
+  ">Running<": ">இயங்குகிறது<",
+  ">Connected<": ">இணைக்கப்பட்டது<",
+
+  
+  "Schema unavailable. Use Raw.": "ஸ்கீமா கிடைக்கவில்லை. மூலத் தரவைப் பயன்படுத்தவும்.",
+  "Channel config schema unavailable.": "சேனல் உள்ளமைவு ஸ்கீமா கிடைக்கவில்லை.",
+  "Loading config schema…": "உள்ளமைவு ஸ்கீமா ஏற்றப்படுகிறது…",
+
+  ">Configured<": ">உள்ளமைக்கப்பட்டது<",
+  ">Linked<": ">இணைக்கப்பட்டது<",
+  ">Last start<": ">கடைசி தொடக்கம்<",
+  ">Last probe<": ">கடைசி ஆய்வு<",
+  ">Last connect<": ">கடைசி இணைப்பு<",
+  ">Last message<": ">கடைசி செய்தி<",
+  ">Last inbound<": ">கடைசி உள்வரும்<",
+  ">Auth age<": ">அங்கீகார வயது<",
+  ">Mode<": ">முறை<",
+  ">Credential<": ">சான்றுறுதி<",
+  ">Public Key<": ">பொது விசை<",
+  ">Audience<": ">பார்வையாளர்கள்<",
+  ">Profile<": ">சுயவிவரம்<",
+
+  "No profile set. Click \"Edit Profile\" to add your name, bio, and avatar.": "சுயவிவரம் அமைக்கப்படவில்லை. உங்கள் பெயர், சுயவிவரம் மற்றும் அவதாரத்தைச் சேர்க்க 'சுயவிவரத்தைத் திருத்து' என்பதைக் கிளிக் செய்யவும்.",
+  "\"Saving…\"": "\"சேமிக்கப்படுகிறது…\"",
+  "\"Save\"": "\"சேமி\"",
+  "  probe": " ஆய்வு",
+  
+  "  Probe": " ஆய்வு",
+  "\"ok\" \\:": "\"வெற்றி\" :",
+  "\"failed\"": "\"தோல்வி\"",
+  
+  "Decentralized DMs via Nostr relays \\(NIP-04\\).": "Nostr ரிலேக்கள் மூலம் பரவலாக்கப்பட்ட தனிப்பட்ட செய்திகள் (NIP-04).",
+
+
+  "Chat API webhook status and channel configuration.": "அரட்டை API வெப்ஹூக் நிலை மற்றும் சேனல் உள்ளமைவு.",
+  
+  "macOS bridge status and channel configuration.": "macOS பால நிலை மற்றும் சேனல் உள்ளமைவு.",
+
+  
+  ">Edit Profile<": ">சுயவிவரத்தைத் திருத்து<",
+  ">Account: ": ">கணக்கு: ",
+  
+  "\"Username\"": "\"பயனர்பெயர்\"",
+  "\"Short username \\(": "\"குறுகிய பயனர்பெயர் (",
+  "\"Display Name\"": "\"காட்சிப் பெயர்\"",
+  "Your full display name": "உங்கள் முழுக் காட்சிப் பெயர்",
+  "\"Bio\"": "\"சுயவிவரம்\"",
+  "Tell people about yourself...": "உங்களைப் பற்றி மக்களிடம் சொல்லுங்கள்...",
+  "\"Avatar URL\"": "\"அவதார் URL\"",
+  "A brief bio or description": "ஒரு சுருக்கமான சுயவிவரம் அல்லது விளக்கம்",
+  "\"Banner URL\"": "\"பேனர் URL\"",
+  "HTTPS URL to your profile picture": " உங்கள் சுயவிவரப் படத்தின் HTTPS URL",
+  "HTTPS URL to a banner image": "பேனர் படத்தின் HTTPS URL",
+  "\"Website\"": "\"வலைத்தளம்\"",
+  "Your personal website": "உங்கள் தனிப்பட்ட வலைத்தளம்",
+  "\"NIP-05 Identifier\"": "\"NIP-05 அடையாளங்காட்டி\"",
+  "\"Verifiable identifier ": "\"சரிபார்க்கக்கூடிய அடையாளங்காட்டி ",
+  "\"Lightning Address\"": "\"லைட்னிங் முகவரி\"",
+  "\"Lightning address for tips ": "\"உதவித்தொகைக்கான லைட்னிங் முகவரி ",
+  "\"Saving...\"": "\"சேமிக்கப்படுகிறது...\"",
+  "Save & Publish": "சேமித்து வெளியிடு",
+  "\"Importing...\"": "\"இறக்குமதி செய்யப்படுகிறது...\"",
+  "\"Import from Relays\"": "\"ரிலேக்களிலிருந்து இறக்குமதி செய்\"",
+  "\"Hide Advanced\"": "\"மேம்பட்டதை மறை\"",
+  "\"Show Advanced\"": "\"மேம்பட்டதைக் காட்டு\"",
+  "  You have unsaved changes": "  நீங்கள் சேமிக்கப்படாத மாற்றங்களைக் கொண்டுள்ளீர்கள்",
+
+  ">Display Name<": ">காட்சிப் பெயர்<",
+  ">About<": ">பற்றி<",
+
+  ">Accounts ": ">கணக்குகள் ",
+
+  
+  "signal-cli status and channel configuration.": "signal-cli நிலை மற்றும் சேனல் உள்ளமைவு.",
+  ">Base URL<": ">அடிப்படை URL<",
+
+  
+  "Socket mode status and channel configuration.": "சாக்கெட் முறை நிலை மற்றும் சேனல் உள்ளமைவு.",
+  
+  "Bot status and channel configuration.": "போட் நிலை மற்றும் சேனல் உள்ளமைவு.",
+  
+  "Link WhatsApp Web and monitor connection health.": "WhatsApp Web ஐ இணைத்து இணைப்பு ஆரோக்கியத்தைக் கண்காணிக்கவும்."
+}

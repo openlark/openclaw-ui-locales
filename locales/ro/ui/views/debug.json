@@ -1,0 +1,17 @@
+{
+  ">Snapshots<": ">Instantanee<",
+  "Status, health, and heartbeat data.": "Date despre stare, sănătate și puls.",
+  " Security audit:": " Audit de securitate:",
+  "\\}. Run": "}. Executare comandă",
+  "> for details.": "> pentru detalii.",
+  ">Last heartbeat<": ">Ultimul puls<",
+  ">Manual RPC<": ">RPC manual<",
+  "Send a raw gateway method with JSON params.": "Trimiteți o metodă gateway brută cu parametri JSON.",
+  ">Method<": ">Metodă<",
+  ">Params \\(JSON\\)<": ">Parametri (JSON)<",
+  ">Models<": ">Modele<",
+  ">Call<": ">Apel<",
+  "Catalog from models.list.": "Catalog din models.list.",
+  ">Event Log<": ">Jurnal evenimente<",
+  "Latest gateway events.": "Ultimele evenimente gateway."
+}

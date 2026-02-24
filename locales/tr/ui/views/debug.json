@@ -1,0 +1,17 @@
+{
+  ">Snapshots<": ">Anlık Görüntüler<",
+  "Status, health, and heartbeat data.": "Durum, sağlık ve kalp atışı verileri.",
+  " Security audit:": " Güvenlik denetimi:",
+  "\\}. Run": "}. Komutu çalıştır",
+  "> for details.": "> ayrıntılar için.",
+  ">Last heartbeat<": ">Son kalp atışı<",
+  ">Manual RPC<": ">Manuel RPC<",
+  "Send a raw gateway method with JSON params.": "JSON parametreleriyle ham bir ağ geçidi yöntemi gönderin.",
+  ">Method<": ">Yöntem<",
+  ">Params \\(JSON\\)<": ">Parametreler (JSON)<",
+  ">Models<": ">Modeller<",
+  ">Call<": ">Çağrı<",
+  "Catalog from models.list.": "models.list'ten katalog.",
+  ">Event Log<": ">Olay Günlüğü<",
+  "Latest gateway events.": "Son ağ geçidi olayları."
+}

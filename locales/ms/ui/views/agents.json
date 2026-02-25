@@ -1,0 +1,140 @@
+{
+  ">No configured models<": ">Tiada model dikonfigurasi<",
+  "\\} configured.<": "} dikonfigurasi.<",
+  "No agents found.": "Tiada ejen ditemui.",
+  ">Select an agent<": ">Pilih ejen<",
+  "Pick an agent to inspect its workspace and tools.": "Pilih ejen untuk memeriksa ruang kerja dan alatnya.",
+  "Agent workspace and routing.": "Ruang kerja ejen dan penghalaan.",
+  "\"Tools\"": "\"Alat\"",
+
+  ">Overview<": ">Gambaran Keseluruhan<",
+  "Workspace paths and identity metadata.": "Laluan ruang kerja dan metadata identiti.",
+  ">Workspace<": ">Ruang Kerja<",
+  ">Primary Model<": ">Model Utama<",
+  ">Identity Name<": ">Nama Identiti<",
+  ">Default<": ">Nilai Lalai<",
+  ">Identity Emoji<": ">Emoji Identiti<",
+  ">Skills Filter<": ">Penapis Kemahiran<",
+  ">Filter<": ">Penapis<",
+  ">Model Selection<": ">Pemilihan Model<",
+  ">Primary model": ">Model utama",
+  " \\(default\\)": " (lalai)",
+  "Fallbacks \\(comma-separated\\)": "Pilihan fallback (dipisahkan koma)",
+  "Inherit default \\(": "Warisi lalai (",
+  "\"Inherit default\"": "\"Warisi lalai\"",
+  ">Fallbacks (comma-separated)<": ">Pilihan fallback (dipisahkan koma)",
+  "\"Save\"": "\"Simpan\"",
+  "\"yes\"": "\"ya\"",
+  "\"no\"": "\"tidak\"",
+  
+  "\"Workspace, identity, and model configuration.\"": "\"Konfigurasi ruang kerja, identiti, dan model.\"",
+  "Load channels to see live status.": "Muatkan saluran untuk melihat status langsung.",
+  "Gateway-wide channel status snapshot.": "Snapshot status saluran seluruh geteway.",
+  " Last refresh:": " Segaran terakhir:",
+  "No channels found.": "Tiada saluran ditemui.",
+  "\\} enabled": "} diaktifkan",
+  "Workspace and scheduling targets.": "Ruang kerja dan sasaran penjadualan.",
+  "Gateway cron status.": "Status cron geteway.",
+  ">Next wake<": ">Jaga seterusnya<",
+  ">Agent Cron Jobs<": ">Tugasan Cron Ejen<",
+  "Scheduled jobs targeting this agent.": "Tugasan berjadual yang menyasarkan ejen ini.",
+  "No jobs assigned.": "Tiada tugasan diberikan.",
+  ">Core Files<": ">Fail Teras<",
+  "Bootstrap persona, identity, and tool guidance.": "Panduan persona, identiti, dan alat permulaan.",
+  ">Workspace:": ">Ruang Kerja:",
+  "  Load the agent workspace files to edit core instructions.": " Muatkan fail ruang kerja ejen untuk mengedit arahan teras.",
+  "No files found.": "Tiada fail ditemui.",
+  "Select a file to edit.": "Pilih fail untuk diedit.",
+  "  This file is missing. Saving will create it in the agent workspace.": " Fail ini tiada. Menyimpan akan menciptanya dalam ruang kerja ejen.",
+  ">Content<": ">Kandungan<",
+  ">missing<": ">hilang<",  
+
+  
+  "\"Files\"": "\"Fail\"",
+  "\"Read file contents\"": "\"Baca kandungan fail\"",
+  "\"Create or overwrite files\"": "\"Cipta atau tulis ganti fail\"",
+  "\"Make precise edits\"": "\"Buat suntingan tepat\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"Tampal fail (OpenAI)\"",
+
+  "\"Runtime\"": "\"Masa Jalan\"",
+  "\"Run shell commands\"": "\"Jalankan arahan shell\"",
+  "\"Manage background processes\"": "\"Urus proses latar belakang\"",
+
+  "\"Web\"": "\"Web\"",
+  "\"Search the web\"": "\"Cari di web\"",
+  "\"Fetch web content\"": "\"Ambil kandungan web\"",
+  
+  "\"Memory\"": "\"Memori\"",
+  "\"Semantic search\"": "\"Carian semantik\"",
+  "\"Read memory files\"": "\"Baca fail memori\"",
+  "\"List sessions\"": "\"Senarai sesi\"",
+
+  "\"Session history\"": "\"Sejarah sesi\"",
+  "\"Send to session": "\"Hantar ke sesi",
+  "\"Spawn sub-agent\"": "\"Hasilkan sub-ejen\"",
+  "\"Session status\"": "\"Status sesi\"",
+
+  "\"UI\"": "\"Antara Muka Pengguna\"",
+  "\"Control web browser\"": "\"Kawal pelayar web\"",
+  "\"Control canvases\"": "\"Kawal kanvas\"",
+
+  "\"Send messages\"": "\"Hantar mesej\"",
+  
+  "\"Automation\"": "\"Automasi\"",
+  "\"Schedule tasks\"": "\"Jadual tugasan\"",
+
+  "\"Gateway control\"": "\"Kawalan geteway\"",
+  "\"Nodes \\+ devices\"": "\"Nod + peranti\"",
+  "\"List agents\"": "\"Senarai ejen\"",
+  
+  "\"Media\"": "\"Media\"",
+  "\"Image understanding\"": "\"Pemahaman imej\"",
+
+  "\"Minimal\"": "\"Minimum\"",
+  "\"Coding\"": "\"Pengekodan\"",
+  "\"Messaging\"": "\"Pemesejan\"",
+  "\"Full\"": "\"Penuh\"",
+  
+  "\\} selected": "} dipilih",
+  "\"all skills\"": "\"semua kemahiran\"",
+  
+
+  ">Agent Context<": ">Konteks Ejen<",
+  "\"no accounts\"": "\"tiada akaun\"",
+  " connected`": " disambung`",
+  " configured`": " dikonfigurasi`",
+  "\"not configured\"": "\"tidak dikonfigurasi\"",
+
+  "\"agent override\"": "\"penggantian ejen\"",
+  "\"global default\"": "\"lalai global\"",
+  "\"default\"": "\"lalai\"",
+
+  ">Tool Access<": ">Akses Alat<",
+  "  Profile \\+ per-tool overrides for this agent.": " Profil + penggantian setiap alat untuk ejen ini.",
+  "> enabled.": "> diaktifkan.",
+
+  "  Use All": " Gunakan Semua",
+  "  Enable All": " Aktifkan Semua",
+  "  Disable All": " Nyahaktifkan Semua",
+  "  Reload Config": " Muat Semula Konfigurasi",
+
+  "  Reload": " Muat Semula",
+  
+  "Load the gateway config to adjust tool profiles.": "Muatkan konfigurasi geteway untuk melaraskan profil alat.",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "Ejen ini menggunakan senarai benarkan eksplisit dalam konfigurasi. Penggantian alat diuruskan dalam tab 'Konfigurasi'.",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "Global tools.allow ditetapkan. Penggantian ejen tidak boleh mengaktifkan alat yang disekat secara global.",
+
+  ">Profile<": ">Profil<",
+  ">Source<": ">Sumber<",
+  ">unsaved<": ">tidak disimpan<",
+
+  ">Quick Presets<": ">Praset Pantas<",
+  "  Inherit": " Warisi",
+
+  "Per-agent skill allowlist and workspace skills.": "Senarai benarkan kemahiran setiap ejen dan kemahiran ruang kerja.",
+  "Load the gateway config to set per-agent skills.": "Muatkan konfigurasi geteway untuk menetapkan kemahiran setiap ejen.",
+  "This agent uses a custom skill allowlist.": "Ejen ini menggunakan senarai benarkan kemahiran tersuai.",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "Semua kemahiran diaktifkan. Menyahaktifkan mana-mana kemahiran akan mencipta senarai benarkan setiap ejen.",
+  "Load skills for this agent to view workspace-specific entries.": "Muatkan kemahiran untuk ejen ini bagi melihat entri khusus ruang kerja."
+
+}

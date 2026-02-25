@@ -1,0 +1,91 @@
+{
+  ">Nodes<": ">Nod<",
+  "Paired devices and live links.": "Peranti berpasangan dan pautan langsung.",
+  "No nodes found.": "Tiada nod ditemui.",
+
+  ">Devices<": ">Peranti<",
+  "Pairing requests \\+ role tokens.": "Permintaan berpasangan + token peranan.",
+  "\"Loading…\" : \"Refresh\"\\}": "\"Memuatkan…\" : \"Segar\"}",
+  ">Pending<": ">Menunggu<",
+  ">Paired<": ">Berpasangan<",
+  "No paired devices.": "Tiada peranti berpasangan.",
+
+  " · requested ": " · diminta",
+  "   Approve": "   Lulus",
+  "   Reject": "  Tolak",
+
+  ">Tokens: none<": ">Token: tiada<",
+  "   Rotate": "  Putar",
+  "   Revoke": "  Batalkan",
+
+  ">Exec node binding<": ">Pengikatan nod Exec<",
+  "Pin agents to a specific node when using <span class=\"mono\">exec host=node</span>.": "Sematkan ejen ke nod tertentu semasa menggunakan <span class=\"mono\">exec host=node</span>.",
+  "Switch the Config tab to <strong>Form<\/strong> mode to edit bindings here.": "Tukar tab Konfigurasi ke mod <strong>Borang<\/strong> untuk mengedit pengikatan di sini.",
+  "Load config to edit bindings.": "Muatkan konfigurasi untuk mengedit pengikatan.",
+  "\"Load config\"": "\"Muat konfigurasi\"",
+  ">Default binding<": ">Pengikatan lalai<",
+  "Used when agents do not override a node binding.": "Digunakan apabila ejen tidak menggantikan pengikatan nod.",
+  ">Any node<": ">Mana-mana nod<",
+  "No nodes with system.run available.": "Tiada nod dengan system.run tersedia.",
+
+  ">Target<": ">Sasaran<",
+  " Gateway edits local approvals; node edits the selected node.": " Geteway mengedit kelulusan tempatan; nod mengedit nod yang dipilih.",
+  
+  ">Host<": ">Hos<",
+  ">Security<": ">Keselamatan<",
+  "\"default agent\"": "\"ejen lalai\"",
+  "\"agent\"\\}": "\"ejen\"}",
+  "`uses default \\(": "`guna lalai (",
+  "`Using default \\(": "`Menggunakan lalai (",
+  "`Override \\(": "`Ganti (",
+  " \"any\"\\}": " \"mana-mana\"}",
+  ": `override: ": ": `ganti:",
+  ">Binding<": ">Pengikatan<",
+  "\"paired\" : \"unpaired\"\\}": "\"berpasangan\" : \"tidak berpasangan\"}",
+  "\"connected\" : \"offline\"\\}": "\"disambung\" : \"luar talian\"}",
+  
+  
+  "\"Deny\"": "\"Tolak\"",
+  "\"Allowlist\"": "\"Senarai benarkan\"",
+  "\"Off\"": "\"Mati\"",
+  "\"On miss\"": "\"Saat terlepas\"",
+  "\"Always\"": "\"Sentiasa\"",
+
+  ">Exec approvals<": ">Kelulusan Exec<",
+  "Allowlist and approval policy for \\<span class=\"mono\">exec host=gateway/node\\</span>.": "Polisi senarai benarkan dan kelulusan untuk <span class=\"mono\">exec host=gateway/node</span>.",
+  "\"Load approvals\"": "\"Muat kelulusan\"",
+  "Load exec approvals to edit allowlists.":"Muatkan kelulusan exec untuk mengedit senarai benarkan.",
+  "Gateway edits local approvals; node edits the selected node.": "Geteway mengedit kelulusan tempatan; nod mengedit nod yang dipilih.",
+
+  ">Gateway<": ">Geteway<",
+  ">Node<": ">Nod<",
+  ">Select node<": ">Pilih nod<",
+  "No nodes advertise exec approvals yet.": "Tiada nod lagi yang mengiklankan kelulusan exec.",
+
+  ">Scope<": ">Skop<",
+  "  Defaults": " Lalai",
+
+  "\"Default security mode.\"": "\"Mod keselamatan lalai.\"",
+  "`Default: ": "`Lalai: ",
+  "  Use default": "  Guna lalai",
+  "\"Default prompt policy.\"": "\"Polisi gesaan lalai.\"",
+  ">Ask<": ">Tanya<",
+  ">Ask fallback<": ">Tanya fallback<",
+  "Applied when the UI prompt is unavailable.": "Digunakan apabila gesaan UI tidak tersedia.",
+  ">Fallback<": ">Fallback<",
+
+  ">Auto-allow skill CLIs<": ">Benar auto CLI kemahiran<",
+  "Allow skill executables listed by the Gateway.": "Benarkan boleh laksana kemahiran yang disenaraikan oleh Geteway.",
+  "\"on\" \\: \"off\"\\}": "\"hidup\" : \"mati\"}",
+  ": `Override \\(": ": `Ganti (",
+
+  
+  ">Allowlist<": ">Senarai benarkan<",
+  "Case-insensitive glob patterns.": "Corak glob tidak peka huruf besar/kecil.",
+  "  Add pattern": " Tambah corak",
+  ">Pattern<": ">Corak<",
+  "No allowlist entries yet.": "Belum ada entri senarai benarkan.",
+  "\"New pattern\"": "\"Corak baharu\"",
+  ">Last used: ": ">Terakhir digunakan:",
+  "  Remove": "  Alih keluar"
+}

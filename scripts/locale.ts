@@ -61,6 +61,7 @@ export async function execLocale() {
     { label: 'Italiano(Italian 意大利语)', value: 'it' },
     { label: '日本語 (Japanese 日语)', value: 'ja' },
     { label: '한국어 (Korean 韩语)', value: 'ko' },
+    { label: 'Bahasa Melayu (Malay 马来语)', value: 'ms' },
     { label: 'فارسی (Persian 波斯语)', value: 'pa' },
     { label: 'Português (Portuguese 葡萄牙语)', value: 'pt' },
     { label: 'Português do Brasil (Portuguese Brazilian 巴西葡萄牙语)', value: 'pt-BR' },

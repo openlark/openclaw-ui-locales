@@ -1,0 +1,12 @@
+{
+  ">Logs<": ">Log<",
+  "Gateway file logs \\(JSONL\\).": "Log fail geteway (JSONL).",
+  "\"filtered\"": "\"ditapis\"",
+  "\"visible\"": "\"kelihatan\"",
+  " Export ": " Eksport ",
+  "\"Search logs\"": "\"Cari log\"",
+  ">Auto-follow<": ">Ikut auto<",
+  "Log output truncated; showing latest chunk.": "Output log dipotong; menunjukkan bahagian terkini.",
+  ">Last heartbeat<": ">Denyutan jantung terakhir<",
+  "No log entries.": "Tiada entri log."
+}

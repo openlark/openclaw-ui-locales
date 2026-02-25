@@ -1,0 +1,17 @@
+{
+  ">Snapshots<": ">Snapshot<",
+  "Status, health, and heartbeat data.": "Data status, kesihatan, dan denyutan jantung.",
+  " Security audit:": " Audit keselamatan:",
+  "\\}. Run": "}. Jalankan arahan",
+  "> for details.": "> untuk butiran.",
+  ">Last heartbeat<": ">Denyutan jantung terakhir<",
+  ">Manual RPC<": ">RPC Manual<",
+  "Send a raw gateway method with JSON params.": "Hantar kaedah geteway mentah dengan parameter JSON.",
+  ">Method<": ">Kaedah<",
+  ">Params \\(JSON\\)<": ">Parameter (JSON)<",
+  ">Models<": ">Model<",
+  ">Call<": ">Panggil<",
+  "Catalog from models.list.": "Katalog daripada models.list.",
+  ">Event Log<": ">Log Peristiwa<",
+  "Latest gateway events.": "Peristiwa geteway terkini."
+}

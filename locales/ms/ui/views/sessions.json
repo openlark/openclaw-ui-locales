@@ -1,0 +1,21 @@
+{
+  "Active session keys and per-session overrides.": "Kunci sesi aktif dan penggantian setiap sesi.",
+  "Active within \\(minutes\\)": "Aktif dalam (minit)",
+  ">Include global<": ">Sertakan global<",
+  ">Include unknown<": ">Sertakan tidak diketahui<",
+  "No sessions found.": "Tiada sesi ditemui.",
+  "\"\\(optional\\)\"": "\"(pilihan)\"",
+  "\\((multiple)\\)": "(pelbagai)",
+  "  Delete": "  Padam",
+  ">Limit<": ">Had<",
+  "`Store: ": "`Stor: ",
+  ">Key<": ">Kunci<",
+  ">Label<": ">Label<",
+  ">Kind<": ">Jenis<",
+  ">Updated<": ">Dikemas kini<",
+  ">Tokens<": ">Token<",
+  ">Thinking<": ">Berfikir<",
+  ">Verbose<": ">Verbose<",
+  ">Reasoning<": ">Penalaran<",
+  ">Actions<": ">Tindakan<"
+}

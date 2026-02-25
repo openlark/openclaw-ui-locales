@@ -1,0 +1,91 @@
+{
+  "Channel health": "Kesihatan saluran",
+  "Channel status snapshots from the gateway.": "Snapshot status saluran daripada geteway.",
+  "No snapshot yet.": "Belum ada snapshot.",
+  "Channel status and configuration.": "Status dan konfigurasi saluran.",
+  "\"Yes\"": "\"Ya\"",
+  "\"Active\"": "\"Aktif\"",
+  "\"No\"": "\"Tidak\"",
+  ">Running<": ">Berjalan<",
+  ">Connected<": ">Disambung<",
+
+  
+  "Schema unavailable. Use Raw.": "Skema tidak tersedia. Gunakan data mentah.",
+  "Channel config schema unavailable.": "Skema konfigurasi saluran tidak tersedia.",
+  "Loading config schema…": "Memuatkan skema konfigurasi…",
+
+  ">Configured<": ">Dikonfigurasi<",
+  ">Linked<": ">Dipautkan<",
+  ">Last start<": ">Permulaan terakhir<",
+  ">Last probe<": ">Probe terakhir<",
+  ">Last connect<": ">Sambungan terakhir<",
+  ">Last message<": ">Mesej terakhir<",
+  ">Last inbound<": ">Masuk terakhir<",
+  ">Auth age<": ">Umur Pengesahan<",
+  ">Mode<": ">Mod<",
+  ">Credential<": ">Kelayakan<",
+  ">Public Key<": ">Kunci Awam<",
+  ">Audience<": ">Khalayak<",
+  ">Profile<": ">Profil<",
+
+  "No profile set. Click \"Edit Profile\" to add your name, bio, and avatar.": "Tiada profil ditetapkan. Klik 'Edit Profil' untuk menambah nama, bio, dan avatar anda.",
+  "\"Saving…\"": "\"Menyimpan…\"",
+  "\"Save\"": "\"Simpan\"",
+  "  probe": " probe",
+  
+  "  Probe": " Probe",
+  "\"ok\" \\:": "\"berjaya\" :",
+  "\"failed\"": "\"gagal\"",
+  
+  "Decentralized DMs via Nostr relays \\(NIP-04\\).": "DM terdesentralisasi melalui geganti Nostr (NIP-04).",
+
+
+  "Chat API webhook status and channel configuration.": "Status webhook API Sembang dan konfigurasi saluran.",
+  
+  "macOS bridge status and channel configuration.": "Status jambatan macOS dan konfigurasi saluran.",
+
+  
+  ">Edit Profile<": ">Edit Profil<",
+  ">Account: ": ">Akaun: ",
+  
+  "\"Username\"": "\"Nama Pengguna\"",
+  "\"Short username \\(": "\"Nama pengguna pendek (",
+  "\"Display Name\"": "\"Nama Paparan\"",
+  "Your full display name": "Nama paparan penuh anda",
+  "\"Bio\"": "\"Bio\"",
+  "Tell people about yourself...": "Beritahu orang tentang diri anda...",
+  "\"Avatar URL\"": "\"URL Avatar\"",
+  "A brief bio or description": "Bio atau penerangan ringkas",
+  "\"Banner URL\"": "\"URL Sepanduk\"",
+  "HTTPS URL to your profile picture": " URL HTTPS ke gambar profil anda",
+  "HTTPS URL to a banner image": "URL HTTPS ke gambar sepanduk",
+  "\"Website\"": "\"Laman Web\"",
+  "Your personal website": "Laman web peribadi anda",
+  "\"NIP-05 Identifier\"": "\"Pengecam NIP-05\"",
+  "\"Verifiable identifier ": "\"Pengecam boleh disahkan ",
+  "\"Lightning Address\"": "\"Alamat Lightning\"",
+  "\"Lightning address for tips ": "\"Alamat Lightning untuk tip ",
+  "\"Saving...\"": "\"Menyimpan...\"",
+  "Save & Publish": "Simpan & Terbitkan",
+  "\"Importing...\"": "\"Mengimport...\"",
+  "\"Import from Relays\"": "\"Import daripada Geganti\"",
+  "\"Hide Advanced\"": "\"Sembunyi Lanjutan\"",
+  "\"Show Advanced\"": "\"Tunjuk Lanjutan\"",
+  "  You have unsaved changes": "  Anda mempunyai perubahan belum disimpan",
+
+  ">Display Name<": ">Nama Paparan<",
+  ">About<": ">Perihal<",
+
+  ">Accounts ": ">Akaun ",
+
+  
+  "signal-cli status and channel configuration.": "Status signal-cli dan konfigurasi saluran.",
+  ">Base URL<": ">URL Asas<",
+
+  
+  "Socket mode status and channel configuration.": "Status mod soket dan konfigurasi saluran.",
+  
+  "Bot status and channel configuration.": "Status bot dan konfigurasi saluran.",
+  
+  "Link WhatsApp Web and monitor connection health.": "Pautkan WhatsApp Web dan pantau kesihatan sambungan."
+}

@@ -1,0 +1,140 @@
+{
+  ">No configured models<": ">Δεν υπάρχουν διαμορφωμένα μοντέλα<",
+  "\\} configured.<": "} διαμορφώθηκαν.<",
+  "No agents found.": "Δεν βρέθηκαν πράκτορες.",
+  ">Select an agent<": ">Επιλέξτε έναν πράκτορα<",
+  "Pick an agent to inspect its workspace and tools.": "Επιλέξτε έναν πράκτορα για να επιθεωρήσετε τον χώρο εργασίας και τα εργαλεία του.",
+  "Agent workspace and routing.": "Χώρος εργασίας πράκτορα και δρομολόγηση.",
+  "\"Tools\"": "\"Εργαλεία\"",
+
+  ">Overview<": ">Επισκόπηση<",
+  "Workspace paths and identity metadata.": "Διαδρομές χώρου εργασίας και μεταδεδομένα ταυτότητας.",
+  ">Workspace<": ">Χώρος εργασίας<",
+  ">Primary Model<": ">Κύριο μοντέλο<",
+  ">Identity Name<": ">Όνομα ταυτότητας<",
+  ">Default<": ">Προεπιλεγμένη τιμή<",
+  ">Identity Emoji<": ">Emoji ταυτότητας<",
+  ">Skills Filter<": ">Φίλτρο δεξιοτήτων<",
+  ">Filter<": ">Φίλτρο<",
+  ">Model Selection<": ">Επιλογή μοντέλου<",
+  ">Primary model": ">Κύριο μοντέλο",
+  " \\(default\\)": " (προεπιλογή)",
+  "Fallbacks \\(comma-separated\\)": "Εναλλακτικές επιλογές (διαχωρισμένες με κόμμα)",
+  "Inherit default \\(": "Κληρονόμηση προεπιλογής (",
+  "\"Inherit default\"": "\"Κληρονόμηση προεπιλογής\"",
+  ">Fallbacks (comma-separated)<": ">Εναλλακτικές επιλογές (διαχωρισμένες με κόμμα)",
+  "\"Save\"": "\"Αποθήκευση\"",
+  "\"yes\"": "\"ναι\"",
+  "\"no\"": "\"όχι\"",
+  
+  "\"Workspace, identity, and model configuration.\"": "\"Διαμόρφωση χώρου εργασίας, ταυτότητας και μοντέλου.\"",
+  "Load channels to see live status.": "Φορτώστε κανάλια για να δείτε ζωντανή κατάσταση.",
+  "Gateway-wide channel status snapshot.": "Στιγμιότυπο κατάστασης καναλιών σε όλη την πύλη.",
+  " Last refresh:": " Τελευταία ανανέωση:",
+  "No channels found.": "Δεν βρέθηκαν κανάλια.",
+  "\\} enabled": "} ενεργοποιήθηκε",
+  "Workspace and scheduling targets.": "Χώρος εργασίας και στόχοι προγραμματισμού.",
+  "Gateway cron status.": "Κατάσταση cron πύλης.",
+  ">Next wake<": ">Επόμενη αφύπνιση<",
+  ">Agent Cron Jobs<": ">Χρονοπρογραμματισμένες εργασίες πράκτορα<",
+  "Scheduled jobs targeting this agent.": "Προγραμματισμένες εργασίες που στοχεύουν αυτόν τον πράκτορα.",
+  "No jobs assigned.": "Δεν έχουν ανατεθεί εργασίες.",
+  ">Core Files<": ">Βασικά αρχεία<",
+  "Bootstrap persona, identity, and tool guidance.": "Καθοδήγηση αρχικής προσωπικότητας, ταυτότητας και εργαλείων.",
+  ">Workspace:": ">Χώρος εργασίας:",
+  "  Load the agent workspace files to edit core instructions.": " Φορτώστε τα αρχεία χώρου εργασίας του πράκτορα για να επεξεργαστείτε τις βασικές οδηγίες.",
+  "No files found.": "Δεν βρέθηκαν αρχεία.",
+  "Select a file to edit.": "Επιλέξτε ένα αρχείο για επεξεργασία.",
+  "  This file is missing. Saving will create it in the agent workspace.": " Αυτό το αρχείο λείπει. Η αποθήκευση θα το δημιουργήσει στον χώρο εργασίας του πράκτορα.",
+  ">Content<": ">Περιεχόμενο<",
+  ">missing<": ">λείπει<",  
+
+  
+  "\"Files\"": "\"Αρχεία\"",
+  "\"Read file contents\"": "\"Ανάγνωση περιεχομένων αρχείου\"",
+  "\"Create or overwrite files\"": "\"Δημιουργία ή αντικατάσταση αρχείων\"",
+  "\"Make precise edits\"": "\"Πραγματοποίηση ακριβών επεξεργασιών\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"Εφαρμογή ενημερώσεων σε αρχεία (OpenAI)\"",
+
+  "\"Runtime\"": "\"Χρόνος εκτέλεσης\"",
+  "\"Run shell commands\"": "\"Εκτέλεση εντολών κελύφους\"",
+  "\"Manage background processes\"": "\"Διαχείριση διεργασιών παρασκηνίου\"",
+
+  "\"Web\"": "\"Ιστός\"",
+  "\"Search the web\"": "\"Αναζήτηση στο διαδίκτυο\"",
+  "\"Fetch web content\"": "\"Λήψη περιεχομένου ιστού\"",
+  
+  "\"Memory\"": "\"Μνήμη\"",
+  "\"Semantic search\"": "\"Σημασιολογική αναζήτηση\"",
+  "\"Read memory files\"": "\"Ανάγνωση αρχείων μνήμης\"",
+  "\"List sessions\"": "\"Λίστα συνεδριών\"",
+
+  "\"Session history\"": "\"Ιστορικό συνεδρίας\"",
+  "\"Send to session": "\"Αποστολή σε συνεδρία",
+  "\"Spawn sub-agent\"": "\"Δημιουργία υπο-πράκτορα\"",
+  "\"Session status\"": "\"Κατάσταση συνεδρίας\"",
+
+  "\"UI\"": "\"Διεπαφή χρήστη\"",
+  "\"Control web browser\"": "\"Έλεγχος προγράμματος περιήγησης ιστού\"",
+  "\"Control canvases\"": "\"Έλεγχος καμβάδων\"",
+
+  "\"Send messages\"": "\"Αποστολή μηνυμάτων\"",
+  
+  "\"Automation\"": "\"Αυτοματοποίηση\"",
+  "\"Schedule tasks\"": "\"Προγραμματισμός εργασιών\"",
+
+  "\"Gateway control\"": "\"Έλεγχος πύλης\"",
+  "\"Nodes \\+ devices\"": "\"Κόμβοι + συσκευές\"",
+  "\"List agents\"": "\"Λίστα πρακτόρων\"",
+  
+  "\"Media\"": "\"Πολυμέσα\"",
+  "\"Image understanding\"": "\"Κατανόηση εικόνας\"",
+
+  "\"Minimal\"": "\"Ελάχιστο\"",
+  "\"Coding\"": "\"Κωδικοποίηση\"",
+  "\"Messaging\"": "\"Ανταλλαγή μηνυμάτων\"",
+  "\"Full\"": "\"Πλήρες\"",
+  
+  "\\} selected": "} επιλέχθηκε",
+  "\"all skills\"": "\"όλες οι δεξιότητες\"",
+  
+
+  ">Agent Context<": ">Πλαίσιο πράκτορα<",
+  "\"no accounts\"": "\"δεν υπάρχουν λογαριασμοί\"",
+  " connected`": " συνδέθηκε`",
+  " configured`": " διαμορφώθηκε`",
+  "\"not configured\"": "\"δεν έχει διαμορφωθεί\"",
+
+  "\"agent override\"": "\"παράκαμψη πράκτορα\"",
+  "\"global default\"": "\"καθολική προεπιλογή\"",
+  "\"default\"": "\"προεπιλογή\"",
+
+  ">Tool Access<": ">Πρόσβαση εργαλείων<",
+  "  Profile \\+ per-tool overrides for this agent.": " Προφίλ + παρακάμψεις ανά εργαλείο για αυτόν τον πράκτορα.",
+  "> enabled.": "> ενεργοποιήθηκε.",
+
+  "  Use All": " Χρήση όλων",
+  "  Enable All": " Ενεργοποίηση όλων",
+  "  Disable All": " Απενεργοποίηση όλων",
+  "  Reload Config": " Επαναφόρτωση διαμόρφωσης",
+
+  "  Reload": " Επαναφόρτωση",
+  
+  "Load the gateway config to adjust tool profiles.": "Φορτώστε τη διαμόρφωση πύλης για να προσαρμόσετε τα προφίλ εργαλείων.",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "Αυτός ο πράκτορας χρησιμοποιεί μια ρητή λίστα επιτρεπόμενων στη διαμόρφωση. Οι παρακάμψεις εργαλείων διαχειρίζονται στην καρτέλα 'Διαμόρφωση'.",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "Το καθολικό tools.allow έχει οριστεί. Οι παρακάμψεις πράκτορα δεν μπορούν να ενεργοποιήσουν εργαλεία που είναι καθολικά αποκλεισμένα.",
+
+  ">Profile<": ">Προφίλ<",
+  ">Source<": ">Πηγή<",
+  ">unsaved<": ">δεν αποθηκεύτηκε<",
+
+  ">Quick Presets<": ">Γρήγορες προεπιλογές<",
+  "  Inherit": " Κληρονόμηση",
+
+  "Per-agent skill allowlist and workspace skills.": "Λίστα επιτρεπόμενων δεξιοτήτων ανά πράκτορα και δεξιότητες χώρου εργασίας.",
+  "Load the gateway config to set per-agent skills.": "Φορτώστε τη διαμόρφωση πύλης για να ορίσετε δεξιότητες ανά πράκτορα.",
+  "This agent uses a custom skill allowlist.": "Αυτός ο πράκτορας χρησιμοποιεί μια προσαρμοσμένη λίστα επιτρεπόμενων δεξιοτήτων.",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "Όλες οι δεξιότητες είναι ενεργοποιημένες. Η απενεργοποίηση οποιασδήποτε δεξιότητας θα δημιουργήσει μια λίστα επιτρεπόμενων ανά πράκτορα.",
+  "Load skills for this agent to view workspace-specific entries.": "Φορτώστε δεξιότητες για αυτόν τον πράκτορα για να δείτε καταχωρήσεις συγκεκριμένες για τον χώρο εργασίας."
+
+}

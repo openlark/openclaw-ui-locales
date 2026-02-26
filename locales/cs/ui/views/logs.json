@@ -1,0 +1,12 @@
+{
+  ">Logs<": ">Protokoly<",
+  "Gateway file logs \\(JSONL\\).": "Souborové protokoly brány (JSONL).",
+  "\"filtered\"": "\"filtrováno\"",
+  "\"visible\"": "\"viditelné\"",
+  " Export ": " Export ",
+  "\"Search logs\"": "\"Hledat v protokolech\"",
+  ">Auto-follow<": ">Automatické sledování<",
+  "Log output truncated; showing latest chunk.": "Výstup protokolu byl zkrácen; zobrazuje se nejnovější část.",
+  ">Last heartbeat<": ">Poslední puls<",
+  "No log entries.": "Žádné záznamy v protokolu."
+}

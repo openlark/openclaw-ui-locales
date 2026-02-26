@@ -28,9 +28,12 @@
 | বাংলা (Bangla 孟加拉语) | bn |
 | 简体中文 (Chinese Simplified) | zh-CN |
 | 繁體中文 (Chinese Traditional) | zh-TW |
+| čeština (Czech 捷克语) | cs |
+| ελληνικά (Greek 希腊语) | el |
 | English (English 英语) | en |
 | Esperanto (Esperanto 世界语) | eo |
-| Filipino(Filipino 菲律宾语) | fi|
+| uomi (Finnish 芬兰语) | fi|
+| Filipino(Filipino 菲律宾语) | fil|
 | Français (French 法语) | fr |
 | Deutsch (German 德语) | de |
 | हिन्दी (Hindi 印地语) | hi |
@@ -40,6 +43,7 @@
 | 한국어 (Korean 韩语) | ko |
 | Bahasa Melayu (Malay 马来语) | ms |
 | فارسی (Persian 波斯语) | pa |
+| polski (Polish 波兰语) | pl |
 | Português (Portuguese 葡萄牙语) | pt |
 | Português Brazilian (Portuguese Brazilian 巴西葡萄牙语) | pt-BR |
 | Română (Romanian 罗马尼亚语) | ro |

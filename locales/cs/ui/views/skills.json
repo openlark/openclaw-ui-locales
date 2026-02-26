@@ -1,0 +1,26 @@
+{
+  ">Skills<": ">Dovednosti<",
+  "Bundled, managed, and workspace skills.": "Sdružené, spravované dovednosti a dovednosti pracovního prostoru.",
+  "\"Search skills\"": "\"Hledat dovednosti\"",
+  "No skills found.": "Nebyly nalezeny žádné dovednosti.",
+  "\\} shown": "} zobrazeno",
+  "\"Installing…\"": "\"Instalace…\"",
+  ">API key<": ">Klíč API<",
+  "  Save key": " Uložit klíč",
+  
+  "\"Workspace Skills\"": "\"Dovednosti pracovního prostoru\"",
+  "\"Built-in Skills\"": "\"Vestavěné dovednosti\"",
+  "\"Installed Skills\"": "\"Nainstalované dovednosti\"",
+  "\"Extra Skills\"": "\"Extra dovednosti\"",
+  "\"Other Skills\"": "\"Ostatní dovednosti\"",
+
+
+  "\"blocked by allowlist\"": "\"blokováno seznamem povolených\"",
+
+  "\"eligible\"": "\"způsobilý\"",
+  "\"blocked\"": "\"blokováno\"",
+
+  ">disabled<": ">zakázáno<",
+  ">Missing: ": ">Chybí:",
+  ">Reason:": ">Důvod:"
+}

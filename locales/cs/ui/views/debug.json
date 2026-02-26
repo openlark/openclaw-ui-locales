@@ -1,0 +1,17 @@
+{
+  ">Snapshots<": ">Snímky<",
+  "Status, health, and heartbeat data.": "Data o stavu, zdraví a pulsu.",
+  " Security audit:": " Bezpečnostní audit:",
+  "\\}. Run": "}. Spustit příkaz",
+  "> for details.": "> pro podrobnosti.",
+  ">Last heartbeat<": ">Poslední puls<",
+  ">Manual RPC<": ">Ruční RPC<",
+  "Send a raw gateway method with JSON params.": "Odešlete nezpracovanou metodu brány s parametry JSON.",
+  ">Method<": ">Metoda<",
+  ">Params \\(JSON\\)<": ">Parametry (JSON)<",
+  ">Models<": ">Modely<",
+  ">Call<": ">Volání<",
+  "Catalog from models.list.": "Katalog z models.list.",
+  ">Event Log<": ">Protokol událostí<",
+  "Latest gateway events.": "Nejnovější události brány."
+}

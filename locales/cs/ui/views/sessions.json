@@ -1,0 +1,21 @@
+{
+  "Active session keys and per-session overrides.": "Aktivní klíče sezení a přepsání pro každé sezení.",
+  "Active within \\(minutes\\)": "Aktivní během (minut)",
+  ">Include global<": ">Zahrnout globální<",
+  ">Include unknown<": ">Zahrnout neznámé<",
+  "No sessions found.": "Nebyla nalezena žádná sezení.",
+  "\"\\(optional\\)\"": "\"(volitelné)\"",
+  "\\((multiple)\\)": "(více)",
+  "  Delete": "  Smazat",
+  ">Limit<": ">Limit<",
+  "`Store: ": "`Úložiště: ",
+  ">Key<": ">Klíč<",
+  ">Label<": ">Štítek<",
+  ">Kind<": ">Druh<",
+  ">Updated<": ">Aktualizováno<",
+  ">Tokens<": ">Tokeny<",
+  ">Thinking<": ">Přemýšlení<",
+  ">Verbose<": ">Podrobný<",
+  ">Reasoning<": ">Uvažování<",
+  ">Actions<": ">Akce<"
+}

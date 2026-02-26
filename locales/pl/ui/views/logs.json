@@ -1,0 +1,12 @@
+{
+  ">Logs<": ">Logi<",
+  "Gateway file logs \\(JSONL\\).": "Logi plikowe bramy (JSONL).",
+  "\"filtered\"": "\"przefiltrowane\"",
+  "\"visible\"": "\"widoczne\"",
+  " Export ": " Eksportuj ",
+  "\"Search logs\"": "\"Szukaj w logach\"",
+  ">Auto-follow<": ">Automatyczne śledzenie<",
+  "Log output truncated; showing latest chunk.": "Wyjście logu zostało obcięte; pokazywany jest najnowszy fragment.",
+  ">Last heartbeat<": ">Ostatni puls<",
+  "No log entries.": "Brak wpisów w logu."
+}

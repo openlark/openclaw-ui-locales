@@ -1,0 +1,26 @@
+{
+  ">Skills<": ">Mga Skill<",
+  "Bundled, managed, and workspace skills.": "Mga bundled, managed, at workspace skill.",
+  "\"Search skills\"": "\"Maghanap ng skill\"",
+  "No skills found.": "Walang nakitang skill.",
+  "\\} shown": "} ipinakita",
+  "\"Installing…\"": "\"Ini-install…\"",
+  ">API key<": ">API key<",
+  "  Save key": "  I-save ang key",
+  
+  "\"Workspace Skills\"": "\"Mga Skill sa Workspace\"",
+  "\"Built-in Skills\"": "\"Built-in na Skill\"",
+  "\"Installed Skills\"": "\"Naka-install na Skill\"",
+  "\"Extra Skills\"": "\"Karagdagang Skill\"",
+  "\"Other Skills\"": "\"Iba pang Skill\"",
+
+
+  "\"blocked by allowlist\"": "\"na-block ng allowlist\"",
+
+  "\"eligible\"": "\"kwalipikado\"",
+  "\"blocked\"": "\"na-block\"",
+
+  ">disabled<": ">hindi pinagana<",
+  ">Missing: ": ">Nawawala:",
+  ">Reason:": ">Dahilan:"
+}

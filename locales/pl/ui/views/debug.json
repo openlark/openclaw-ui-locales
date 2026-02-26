@@ -1,0 +1,17 @@
+{
+  ">Snapshots<": ">Migawki<",
+  "Status, health, and heartbeat data.": "Dane o statusie, stanie i pulsie.",
+  " Security audit:": " Audyt bezpieczeństwa:",
+  "\\}. Run": "}. Uruchom polecenie",
+  "> for details.": "> aby uzyskać szczegóły.",
+  ">Last heartbeat<": ">Ostatni puls<",
+  ">Manual RPC<": ">Ręczne RPC<",
+  "Send a raw gateway method with JSON params.": "Wyślij surową metodę bramy z parametrami JSON.",
+  ">Method<": ">Metoda<",
+  ">Params \\(JSON\\)<": ">Parametry (JSON)<",
+  ">Models<": ">Modele<",
+  ">Call<": ">Wywołanie<",
+  "Catalog from models.list.": "Katalog z models.list.",
+  ">Event Log<": ">Dziennik zdarzeń<",
+  "Latest gateway events.": "Najnowsze zdarzenia bramy."
+}

@@ -1,0 +1,91 @@
+{
+  ">Nodes<": ">Uzly<",
+  "Paired devices and live links.": "Spárovaná zařízení a živé odkazy.",
+  "No nodes found.": "Nebyly nalezeny žádné uzly.",
+
+  ">Devices<": ">Zařízení<",
+  "Pairing requests \\+ role tokens.": "Žádosti o párování + tokeny rolí.",
+  "\"Loading…\" : \"Refresh\"\\}": "\"Načítání…\" : \"Obnovit\"}",
+  ">Pending<": ">Čeká na vyřízení<",
+  ">Paired<": ">Spárováno<",
+  "No paired devices.": "Žádná spárovaná zařízení.",
+
+  " · requested ": " · požadováno",
+  "   Approve": "   Schválit",
+  "   Reject": "  Zamítnout",
+
+  ">Tokens: none<": ">Tokeny: žádné<",
+  "   Rotate": "  Otočit",
+  "   Revoke": "  Odvolat",
+
+  ">Exec node binding<": ">Vazba na uzel Exec<",
+  "Pin agents to a specific node when using <span class=\"mono\">exec host=node</span>.": "Připněte agenty ke konkrétnímu uzlu při použití <span class=\"mono\">exec host=node</span>.",
+  "Switch the Config tab to <strong>Form<\/strong> mode to edit bindings here.": "Pro úpravu vazeb zde přepněte kartu Konfigurace do režimu <strong>Formulář<\/strong>.",
+  "Load config to edit bindings.": "Načtěte konfiguraci pro úpravu vazeb.",
+  "\"Load config\"": "\"Načíst konfiguraci\"",
+  ">Default binding<": ">Výchozí vazba<",
+  "Used when agents do not override a node binding.": "Používá se, když agenti nepřepíší vazbu na uzel.",
+  ">Any node<": ">Libovolný uzel<",
+  "No nodes with system.run available.": "Nejsou k dispozici žádné uzly s system.run.",
+
+  ">Target<": ">Cíl<",
+  " Gateway edits local approvals; node edits the selected node.": " Brána upravuje místní schválení; uzel upravuje vybraný uzel.",
+  
+  ">Host<": ">Hostitel<",
+  ">Security<": ">Zabezpečení<",
+  "\"default agent\"": "\"výchozí agent\"",
+  "\"agent\"\\}": "\"agent\"}",
+  "`uses default \\(": "`používá výchozí (",
+  "`Using default \\(": "`Použití výchozího (",
+  "`Override \\(": "`Přepsání (",
+  " \"any\"\\}": " \"libovolný\"}",
+  ": `override: ": ": `přepsat:",
+  ">Binding<": ">Vazba<",
+  "\"paired\" : \"unpaired\"\\}": "\"spárováno\" : \"nespárováno\"}",
+  "\"connected\" : \"offline\"\\}": "\"připojeno\" : \"offline\"}",
+  
+  
+  "\"Deny\"": "\"Zamítnout\"",
+  "\"Allowlist\"": "\"Seznam povolených\"",
+  "\"Off\"": "\"Vypnuto\"",
+  "\"On miss\"": "\"Při netrefení\"",
+  "\"Always\"": "\"Vždy\"",
+
+  ">Exec approvals<": ">Schválení Exec<",
+  "Allowlist and approval policy for \\<span class=\"mono\">exec host=gateway/node\\</span>.": "Politika seznamu povolených a schvalování pro <span class=\"mono\">exec host=gateway/node</span>.",
+  "\"Load approvals\"": "\"Načíst schválení\"",
+  "Load exec approvals to edit allowlists.":"Načtěte schválení exec pro úpravu seznamů povolených.",
+  "Gateway edits local approvals; node edits the selected node.": "Brána upravuje místní schválení; uzel upravuje vybraný uzel.",
+
+  ">Gateway<": ">Brána<",
+  ">Node<": ">Uzel<",
+  ">Select node<": ">Vyberte uzel<",
+  "No nodes advertise exec approvals yet.": "Zatím žádné uzly neinzerují schválení exec.",
+
+  ">Scope<": ">Rozsah<",
+  "  Defaults": " Výchozí hodnoty",
+
+  "\"Default security mode.\"": "\"Výchozí režim zabezpečení.\"",
+  "`Default: ": "`Výchozí: ",
+  "  Use default": "  Použít výchozí",
+  "\"Default prompt policy.\"": "\"Výchozí politika výzev.\"",
+  ">Ask<": ">Zeptat se<",
+  ">Ask fallback<": ">Zeptat se záložní<",
+  "Applied when the UI prompt is unavailable.": "Použije se, když není k dispozici výzva uživatelského rozhraní.",
+  ">Fallback<": ">Záložní<",
+
+  ">Auto-allow skill CLIs<": ">Automaticky povolit CLI dovedností<",
+  "Allow skill executables listed by the Gateway.": "Povolit spustitelné soubory dovedností uvedené bránou.",
+  "\"on\" \\: \"off\"\\}": "\"zapnuto\" : \"vypnuto\"}",
+  ": `Override \\(": ": `Přepsání (",
+
+  
+  ">Allowlist<": ">Seznam povolených<",
+  "Case-insensitive glob patterns.": "Glob vzory nerozlišující velikost písmen.",
+  "  Add pattern": " Přidat vzor",
+  ">Pattern<": ">Vzor<",
+  "No allowlist entries yet.": "Zatím žádné položky v seznamu povolených.",
+  "\"New pattern\"": "\"Nový vzor\"",
+  ">Last used: ": ">Naposledy použito:",
+  "  Remove": "  Odebrat"
+}

@@ -1,26 +1,26 @@
 {
-  ">Skills<": ">Mga Skill<",
-  "Bundled, managed, and workspace skills.": "Mga bundled, managed, at workspace skill.",
-  "\"Search skills\"": "\"Maghanap ng skill\"",
-  "No skills found.": "Walang nakitang skill.",
-  "\\} shown": "} ipinakita",
-  "\"Installing…\"": "\"Ini-install…\"",
-  ">API key<": ">API key<",
-  "  Save key": "  I-save ang key",
+  ">Skills<": ">Taidot<",
+  "Bundled, managed, and workspace skills.": "Sisällytetyt, hallinnoidut ja työtilan taidot.",
+  "\"Search skills\"": "\"Etsi taitoja\"",
+  "No skills found.": "Taitoja ei löytynyt.",
+  "\\} shown": "} näytetty",
+  "\"Installing…\"": "\"Asennetaan…\"",
+  ">API key<": ">API-avain<",
+  "  Save key": " Tallenna avain",
   
-  "\"Workspace Skills\"": "\"Mga Skill sa Workspace\"",
-  "\"Built-in Skills\"": "\"Built-in na Skill\"",
-  "\"Installed Skills\"": "\"Naka-install na Skill\"",
-  "\"Extra Skills\"": "\"Karagdagang Skill\"",
-  "\"Other Skills\"": "\"Iba pang Skill\"",
+  "\"Workspace Skills\"": "\"Työtilan taidot\"",
+  "\"Built-in Skills\"": "\"Sisäänrakennetut taidot\"",
+  "\"Installed Skills\"": "\"Asennetut taidot\"",
+  "\"Extra Skills\"": "\"Lisätaidot\"",
+  "\"Other Skills\"": "\"Muut taidot\"",
 
 
-  "\"blocked by allowlist\"": "\"na-block ng allowlist\"",
+  "\"blocked by allowlist\"": "\"sallittujen lista esti\"",
 
-  "\"eligible\"": "\"kwalipikado\"",
-  "\"blocked\"": "\"na-block\"",
+  "\"eligible\"": "\"kelpoinen\"",
+  "\"blocked\"": "\"estetty\"",
 
-  ">disabled<": ">hindi pinagana<",
-  ">Missing: ": ">Nawawala:",
-  ">Reason:": ">Dahilan:"
+  ">disabled<": ">pois käytöstä<",
+  ">Missing: ": ">Puuttuu:",
+  ">Reason:": ">Syy:"
 }

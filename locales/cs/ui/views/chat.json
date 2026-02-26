@@ -1,0 +1,23 @@
+{
+  "Compacting context...": "Probíhá komprese kontextu...",
+  "Context compacted": "Kontext byl komprimován",
+  "Attachment preview": "Náhled přílohy",
+  "Remove attachment": "Odebrat přílohu",
+  "Add a message or paste more images...": "Přidejte zprávu nebo vložte další obrázky...",
+  "Message \\(↩ to send, Shift\\+↩ for line breaks, paste images\\)": "Zpráva (↩ pro odeslání, Shift+↩ pro nový řádek, vložte obrázky)",
+  "Connect to the gateway to start chatting…": "Pro zahájení chatu se připojte k bráně…",
+  "Loading chat…": "Načítání chatu…",
+  "Exit focus mode": "Ukončit režim soustředění",
+  ">Queued ": ">Ve frontě ",
+  "Image \\(": "Obrázek (",
+  "Remove queued message": "Odebrat zprávu z fronty",
+  "New messages ": "Nové zprávy ",
+  ">Message<": ">Zpráva<",
+  "\"Stop\"": "\"Zastavit\"",
+  "New session": "Nové sezení",
+  "\"Queue\"": "\"Fronta\"",
+  "\"Send\"": "\"Odeslat\"",
+  "Showing last ": "Zobrazují se poslední ",
+  "\\} messages": "} zprávy",
+  "\\} hidden": "} skryto"
+}

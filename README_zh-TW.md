@@ -27,20 +27,24 @@
 | :---: | :---: |
 | اللغة العربية (Arabic 阿拉伯語) | ar |
 | বাংলা (Bangla 孟加拉語) | bn |
-| 簡體中文 (Chinese Simplified) | zh-CN |
+| 简体中文 (Chinese Simplified) | zh-CN |
 | 繁體中文 (Chinese Traditional) | zh-TW |
+| čeština (Czech 捷克語) | cs |
+| ελληνικά (Greek 希臘語) | el |
 | English (English 英語) | en |
 | Esperanto (Esperanto 世界語) | eo |
-| Filipino(Filipino 菲律賓語) | fi|
+| uomi (Finnish 芬蘭語) | fi|
+| Filipino(Filipino 菲律賓語) | fil|
 | Français (French 法語) | fr |
 | Deutsch (German 德語) | de |
 | हिन्दी (Hindi 印地語) | hi |
-| Bahasa Indonesia (Indonesian 印度尼西亞語) | id |
-| Italiano(Italian 意大利語) | it |
+| Bahasa Indonesia (Indonesian 印尼語) | id |
+| Italiano(Italian 義大利語) | it |
 | 日本語 (Japanese 日語) | ja |
 | 한국어 (Korean 韓語) | ko |
 | Bahasa Melayu (Malay 馬來語) | ms |
 | فارسی (Persian 波斯語) | pa |
+| polski (Polish 波蘭語) | pl |
 | Português (Portuguese 葡萄牙語) | pt |
 | Português Brazilian (Portuguese Brazilian 巴西葡萄牙語) | pt-BR |
 | Română (Romanian 羅馬尼亞語) | ro |

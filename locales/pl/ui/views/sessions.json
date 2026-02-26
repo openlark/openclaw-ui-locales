@@ -1,0 +1,21 @@
+{
+  "Active session keys and per-session overrides.": "Aktywne klucze sesji i nadpisania dla poszczególnych sesji.",
+  "Active within \\(minutes\\)": "Aktywne w ciągu (minut)",
+  ">Include global<": ">Uwzględnij globalne<",
+  ">Include unknown<": ">Uwzględnij nieznane<",
+  "No sessions found.": "Nie znaleziono sesji.",
+  "\"\\(optional\\)\"": "\"(opcjonalnie)\"",
+  "\\((multiple)\\)": "(wiele)",
+  "  Delete": "  Usuń",
+  ">Limit<": ">Limit<",
+  "`Store: ": "`Magazyn: ",
+  ">Key<": ">Klucz<",
+  ">Label<": ">Etykieta<",
+  ">Kind<": ">Rodzaj<",
+  ">Updated<": ">Zaktualizowano<",
+  ">Tokens<": ">Tokeny<",
+  ">Thinking<": ">Myślenie<",
+  ">Verbose<": ">Rozszerzony<",
+  ">Reasoning<": ">Rozumowanie<",
+  ">Actions<": ">Akcje<"
+}

@@ -1,0 +1,17 @@
+{
+  ">Snapshots<": ">Στιγμιότυπα<",
+  "Status, health, and heartbeat data.": "Δεδομένα κατάστασης, υγείας και παλμού.",
+  " Security audit:": " Έλεγχος ασφαλείας:",
+  "\\}. Run": "}. Εκτέλεση εντολής",
+  "> for details.": "> για λεπτομέρειες.",
+  ">Last heartbeat<": ">Τελευταίος παλμός<",
+  ">Manual RPC<": ">Μη αυτόματο RPC<",
+  "Send a raw gateway method with JSON params.": "Στείλτε μια ακατέργαστη μέθοδο πύλης με παραμέτρους JSON.",
+  ">Method<": ">Μέθοδος<",
+  ">Params \\(JSON\\)<": ">Παράμετροι (JSON)<",
+  ">Models<": ">Μοντέλα<",
+  ">Call<": ">Κλήση<",
+  "Catalog from models.list.": "Κατάλογος από το models.list.",
+  ">Event Log<": ">Αρχείο καταγραφής συμβάντων<",
+  "Latest gateway events.": "Τελευταία συμβάντα πύλης."
+}

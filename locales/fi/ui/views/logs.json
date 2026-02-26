@@ -1,12 +1,12 @@
 {
-  ">Logs<": ">Mga Log<",
-  "Gateway file logs \\(JSONL\\).": "Gateway file logs (JSONL).",
-  "\"filtered\"": "\"na-filter\"",
-  "\"visible\"": "\"nakikita\"",
-  " Export ": " I-export ",
-  "\"Search logs\"": "\"Maghanap sa logs\"",
-  ">Auto-follow<": ">Auto-follow<",
-  "Log output truncated; showing latest chunk.": "Na-truncate ang output ng log; ipinapakita ang pinakabagong chunk.",
-  ">Last heartbeat<": ">Huling heartbeat<",
-  "No log entries.": "Walang log entries."
+  ">Logs<": ">Lokit<",
+  "Gateway file logs \\(JSONL\\).": "Yhdyskäytävän tiedostolokit (JSONL).",
+  "\"filtered\"": "\"suodatettu\"",
+  "\"visible\"": "\"näkyvissä\"",
+  " Export ": " Vie ",
+  "\"Search logs\"": "\"Etsi lokeista\"",
+  ">Auto-follow<": ">Automaattinen seuranta<",
+  "Log output truncated; showing latest chunk.": "Lokin tulostus katkaistu; näytetään uusin osa.",
+  ">Last heartbeat<": ">Viimeisin syke<",
+  "No log entries.": "Ei lokimerkintöjä."
 }

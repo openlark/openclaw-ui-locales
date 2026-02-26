@@ -1,0 +1,140 @@
+{
+  ">No configured models<": ">Žádné nakonfigurované modely<",
+  "\\} configured.<": "} nakonfigurováno.<",
+  "No agents found.": "Nebyl nalezen žádný agent.",
+  ">Select an agent<": ">Vyberte agenta<",
+  "Pick an agent to inspect its workspace and tools.": "Vyberte agenta pro kontrolu jeho pracovního prostoru a nástrojů.",
+  "Agent workspace and routing.": "Pracovní prostor agenta a směrování.",
+  "\"Tools\"": "\"Nástroje\"",
+
+  ">Overview<": ">Přehled<",
+  "Workspace paths and identity metadata.": "Cesty pracovního prostoru a metadata identity.",
+  ">Workspace<": ">Pracovní prostor<",
+  ">Primary Model<": ">Primární model<",
+  ">Identity Name<": ">Název identity<",
+  ">Default<": ">Výchozí hodnota<",
+  ">Identity Emoji<": ">Emoji identity<",
+  ">Skills Filter<": ">Filtr dovedností<",
+  ">Filter<": ">Filtr<",
+  ">Model Selection<": ">Výběr modelu<",
+  ">Primary model": ">Primární model",
+  " \\(default\\)": " (výchozí)",
+  "Fallbacks \\(comma-separated\\)": "Náhradní možnosti (oddělené čárkou)",
+  "Inherit default \\(": "Dědit výchozí (",
+  "\"Inherit default\"": "\"Dědit výchozí\"",
+  ">Fallbacks (comma-separated)<": ">Náhradní možnosti (oddělené čárkou)",
+  "\"Save\"": "\"Uložit\"",
+  "\"yes\"": "\"ano\"",
+  "\"no\"": "\"ne\"",
+  
+  "\"Workspace, identity, and model configuration.\"": "\"Konfigurace pracovního prostoru, identity a modelu.\"",
+  "Load channels to see live status.": "Načtěte kanály pro zobrazení živého stavu.",
+  "Gateway-wide channel status snapshot.": "Snímek stavu kanálů v celé bráně.",
+  " Last refresh:": " Poslední obnovení:",
+  "No channels found.": "Nebyly nalezeny žádné kanály.",
+  "\\} enabled": "} povoleno",
+  "Workspace and scheduling targets.": "Pracovní prostor a cíle plánování.",
+  "Gateway cron status.": "Stav cron brány.",
+  ">Next wake<": ">Další probuzení<",
+  ">Agent Cron Jobs<": ">Cron úlohy agenta<",
+  "Scheduled jobs targeting this agent.": "Naplánované úlohy cílené na tohoto agenta.",
+  "No jobs assigned.": "Nebyly přiřazeny žádné úlohy.",
+  ">Core Files<": ">Základní soubory<",
+  "Bootstrap persona, identity, and tool guidance.": "Počáteční persona, identita a vedení nástrojů.",
+  ">Workspace:": ">Pracovní prostor:",
+  "  Load the agent workspace files to edit core instructions.": " Načtěte soubory pracovního prostoru agenta pro úpravu základních instrukcí.",
+  "No files found.": "Nebyly nalezeny žádné soubory.",
+  "Select a file to edit.": "Vyberte soubor k úpravě.",
+  "  This file is missing. Saving will create it in the agent workspace.": " Tento soubor chybí. Uložením se vytvoří v pracovním prostoru agenta.",
+  ">Content<": ">Obsah<",
+  ">missing<": ">chybí<",  
+
+  
+  "\"Files\"": "\"Soubory\"",
+  "\"Read file contents\"": "\"Číst obsah souborů\"",
+  "\"Create or overwrite files\"": "\"Vytvářet nebo přepisovat soubory\"",
+  "\"Make precise edits\"": "\"Provádět přesné úpravy\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"Patchovat soubory (OpenAI)\"",
+
+  "\"Runtime\"": "\"Běhové prostředí\"",
+  "\"Run shell commands\"": "\"Spouštět příkazy shellu\"",
+  "\"Manage background processes\"": "\"Spravovat procesy na pozadí\"",
+
+  "\"Web\"": "\"Web\"",
+  "\"Search the web\"": "\"Hledat na webu\"",
+  "\"Fetch web content\"": "\"Načíst webový obsah\"",
+  
+  "\"Memory\"": "\"Paměť\"",
+  "\"Semantic search\"": "\"Sémantické vyhledávání\"",
+  "\"Read memory files\"": "\"Číst paměťové soubory\"",
+  "\"List sessions\"": "\"Vypsat sezení\"",
+
+  "\"Session history\"": "\"Historie sezení\"",
+  "\"Send to session": "\"Odeslat do sezení",
+  "\"Spawn sub-agent\"": "\"Vytvořit subagenta\"",
+  "\"Session status\"": "\"Stav sezení\"",
+
+  "\"UI\"": "\"Uživatelské rozhraní\"",
+  "\"Control web browser\"": "\"Ovládat webový prohlížeč\"",
+  "\"Control canvases\"": "\"Ovládat plátna\"",
+
+  "\"Send messages\"": "\"Odesílat zprávy\"",
+  
+  "\"Automation\"": "\"Automatizace\"",
+  "\"Schedule tasks\"": "\"Plánovat úkoly\"",
+
+  "\"Gateway control\"": "\"Ovládání brány\"",
+  "\"Nodes \\+ devices\"": "\"Uzly + zařízení\"",
+  "\"List agents\"": "\"Vypsat agenty\"",
+  
+  "\"Media\"": "\"Média\"",
+  "\"Image understanding\"": "\"Porozumění obrazu\"",
+
+  "\"Minimal\"": "\"Minimální\"",
+  "\"Coding\"": "\"Kódování\"",
+  "\"Messaging\"": "\"Zasílání zpráv\"",
+  "\"Full\"": "\"Plný\"",
+  
+  "\\} selected": "} vybráno",
+  "\"all skills\"": "\"všechny dovednosti\"",
+  
+
+  ">Agent Context<": ">Kontext agenta<",
+  "\"no accounts\"": "\"žádné účty\"",
+  " connected`": " připojeno`",
+  " configured`": " nakonfigurováno`",
+  "\"not configured\"": "\"nenakonfigurováno\"",
+
+  "\"agent override\"": "\"přepsání agenta\"",
+  "\"global default\"": "\"globální výchozí\"",
+  "\"default\"": "\"výchozí\"",
+
+  ">Tool Access<": ">Přístup k nástrojům<",
+  "  Profile \\+ per-tool overrides for this agent.": " Profil + přepsání pro každý nástroj pro tohoto agenta.",
+  "> enabled.": "> povoleno.",
+
+  "  Use All": " Použít vše",
+  "  Enable All": " Povolit vše",
+  "  Disable All": " Zakázat vše",
+  "  Reload Config": " Znovu načíst konfiguraci",
+
+  "  Reload": " Znovu načíst",
+  
+  "Load the gateway config to adjust tool profiles.": "Načtěte konfiguraci brány pro úpravu profilů nástrojů.",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "Tento agent používá v konfiguraci explicitní seznam povolených položek. Přepsání nástrojů se spravuje na kartě 'Konfigurace'.",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "Je nastaven globální tools.allow. Přepsání agentem nemůže povolit nástroje, které jsou globálně blokovány.",
+
+  ">Profile<": ">Profil<",
+  ">Source<": ">Zdroj<",
+  ">unsaved<": ">neuloženo<",
+
+  ">Quick Presets<": ">Rychlá přednastavení<",
+  "  Inherit": " Dědit",
+
+  "Per-agent skill allowlist and workspace skills.": "Seznam povolených dovedností pro každého agenta a dovednosti pracovního prostoru.",
+  "Load the gateway config to set per-agent skills.": "Načtěte konfiguraci brány pro nastavení dovedností pro každého agenta.",
+  "This agent uses a custom skill allowlist.": "Tento agent používá vlastní seznam povolených dovedností.",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "Všechny dovednosti jsou povoleny. Zakázání jakékoli dovednosti vytvoří seznam povolených pro tohoto agenta.",
+  "Load skills for this agent to view workspace-specific entries.": "Načtěte dovednosti pro tohoto agenta pro zobrazení položek specifických pro pracovní prostor."
+
+}

@@ -1,0 +1,17 @@
+{
+  ">Snapshots<": ">Mga Snapshot<",
+  "Status, health, and heartbeat data.": "Data ng katayuan, kalusugan, at heartbeat.",
+  " Security audit:": " Security audit:",
+  "\\}. Run": "}. Patakbuhin ang",
+  "> for details.": "> para sa detalye.",
+  ">Last heartbeat<": ">Huling heartbeat<",
+  ">Manual RPC<": ">Manual na RPC<",
+  "Send a raw gateway method with JSON params.": "Magpadala ng raw gateway method na may JSON params.",
+  ">Method<": ">Method<",
+  ">Params \\(JSON\\)<": ">Params (JSON)<",
+  ">Models<": ">Models<",
+  ">Call<": ">Tawag<",
+  "Catalog from models.list.": "Catalog mula sa models.list.",
+  ">Event Log<": ">Event Log<",
+  "Latest gateway events.": "Pinakabagong gateway event."
+}

@@ -1,0 +1,140 @@
+{
+  ">No configured models<": ">Brak skonfigurowanych modeli<",
+  "\\} configured.<": "} skonfigurowano.<",
+  "No agents found.": "Nie znaleziono agentów.",
+  ">Select an agent<": ">Wybierz agenta<",
+  "Pick an agent to inspect its workspace and tools.": "Wybierz agenta, aby sprawdzić jego obszar roboczy i narzędzia.",
+  "Agent workspace and routing.": "Obszar roboczy agenta i routing.",
+  "\"Tools\"": "\"Narzędzia\"",
+
+  ">Overview<": ">Przegląd<",
+  "Workspace paths and identity metadata.": "Ścieżki obszaru roboczego i metadane tożsamości.",
+  ">Workspace<": ">Obszar roboczy<",
+  ">Primary Model<": ">Model podstawowy<",
+  ">Identity Name<": ">Nazwa tożsamości<",
+  ">Default<": ">Wartość domyślna<",
+  ">Identity Emoji<": ">Emoji tożsamości<",
+  ">Skills Filter<": ">Filtr umiejętności<",
+  ">Filter<": ">Filtr<",
+  ">Model Selection<": ">Wybór modelu<",
+  ">Primary model": ">Model podstawowy",
+  " \\(default\\)": " (domyślnie)",
+  "Fallbacks \\(comma-separated\\)": "Opcje rezerwowe (oddzielone przecinkami)",
+  "Inherit default \\(": "Dziedzicz domyślne (",
+  "\"Inherit default\"": "\"Dziedzicz domyślne\"",
+  ">Fallbacks (comma-separated)<": ">Opcje rezerwowe (oddzielone przecinkami)",
+  "\"Save\"": "\"Zapisz\"",
+  "\"yes\"": "\"tak\"",
+  "\"no\"": "\"nie\"",
+  
+  "\"Workspace, identity, and model configuration.\"": "\"Konfiguracja obszaru roboczego, tożsamości i modelu.\"",
+  "Load channels to see live status.": "Załaduj kanały, aby zobaczyć status na żywo.",
+  "Gateway-wide channel status snapshot.": "Migawka statusu kanałów w całej bramie.",
+  " Last refresh:": " Ostatnie odświeżenie:",
+  "No channels found.": "Nie znaleziono kanałów.",
+  "\\} enabled": "} włączone",
+  "Workspace and scheduling targets.": "Obszar roboczy i cele harmonogramowania.",
+  "Gateway cron status.": "Status cron bramy.",
+  ">Next wake<": ">Następne wybudzenie<",
+  ">Agent Cron Jobs<": ">Zadania Cron agenta<",
+  "Scheduled jobs targeting this agent.": "Zaplanowane zadania kierowane do tego agenta.",
+  "No jobs assigned.": "Nie przypisano żadnych zadań.",
+  ">Core Files<": ">Pliki podstawowe<",
+  "Bootstrap persona, identity, and tool guidance.": "Początkowa persona, tożsamość i wskazówki dotyczące narzędzi.",
+  ">Workspace:": ">Obszar roboczy:",
+  "  Load the agent workspace files to edit core instructions.": " Załaduj pliki obszaru roboczego agenta, aby edytować podstawowe instrukcje.",
+  "No files found.": "Nie znaleziono plików.",
+  "Select a file to edit.": "Wybierz plik do edycji.",
+  "  This file is missing. Saving will create it in the agent workspace.": " Ten plik nie istnieje. Zapisanie spowoduje jego utworzenie w obszarze roboczym agenta.",
+  ">Content<": ">Treść<",
+  ">missing<": ">brakuje<",  
+
+  
+  "\"Files\"": "\"Pliki\"",
+  "\"Read file contents\"": "\"Odczytaj zawartość plików\"",
+  "\"Create or overwrite files\"": "\"Utwórz lub nadpisz pliki\"",
+  "\"Make precise edits\"": "\"Dokonuj precyzyjnych edycji\"",
+  "\"Patch files \\(OpenAI\\)\"": "\"Stosuj łatki do plików (OpenAI)\"",
+
+  "\"Runtime\"": "\"Środowisko wykonawcze\"",
+  "\"Run shell commands\"": "\"Wykonuj polecenia powłoki\"",
+  "\"Manage background processes\"": "\"Zarządzaj procesami w tle\"",
+
+  "\"Web\"": "\"Sieć\"",
+  "\"Search the web\"": "\"Szukaj w sieci\"",
+  "\"Fetch web content\"": "\"Pobierz treść ze sieci\"",
+  
+  "\"Memory\"": "\"Pamięć\"",
+  "\"Semantic search\"": "\"Wyszukiwanie semantyczne\"",
+  "\"Read memory files\"": "\"Odczytuj pliki pamięci\"",
+  "\"List sessions\"": "\"Wyświetl sesje\"",
+
+  "\"Session history\"": "\"Historia sesji\"",
+  "\"Send to session": "\"Wyślij do sesji",
+  "\"Spawn sub-agent\"": "\"Utwórz podagenta\"",
+  "\"Session status\"": "\"Status sesji\"",
+
+  "\"UI\"": "\"Interfejs użytkownika\"",
+  "\"Control web browser\"": "\"Steruj przeglądarką internetową\"",
+  "\"Control canvases\"": "\"Steruj canvasami\"",
+
+  "\"Send messages\"": "\"Wysyłaj wiadomości\"",
+  
+  "\"Automation\"": "\"Automatyzacja\"",
+  "\"Schedule tasks\"": "\"Planuj zadania\"",
+
+  "\"Gateway control\"": "\"Sterowanie bramą\"",
+  "\"Nodes \\+ devices\"": "\"Węzły + urządzenia\"",
+  "\"List agents\"": "\"Wyświetl agentów\"",
+  
+  "\"Media\"": "\"Media\"",
+  "\"Image understanding\"": "\"Rozumienie obrazu\"",
+
+  "\"Minimal\"": "\"Minimalny\"",
+  "\"Coding\"": "\"Kodowanie\"",
+  "\"Messaging\"": "\"Komunikacja\"",
+  "\"Full\"": "\"Pełny\"",
+  
+  "\\} selected": "} wybrano",
+  "\"all skills\"": "\"wszystkie umiejętności\"",
+  
+
+  ">Agent Context<": ">Kontekst agenta<",
+  "\"no accounts\"": "\"brak kont\"",
+  " connected`": " połączono`",
+  " configured`": " skonfigurowano`",
+  "\"not configured\"": "\"nieskonfigurowane\"",
+
+  "\"agent override\"": "\"nadpisanie agenta\"",
+  "\"global default\"": "\"domyślne globalne\"",
+  "\"default\"": "\"domyślne\"",
+
+  ">Tool Access<": ">Dostęp do narzędzi<",
+  "  Profile \\+ per-tool overrides for this agent.": " Profil + nadpisania dla poszczególnych narzędzi dla tego agenta.",
+  "> enabled.": "> włączone.",
+
+  "  Use All": " Użyj wszystkich",
+  "  Enable All": " Włącz wszystkie",
+  "  Disable All": " Wyłącz wszystkie",
+  "  Reload Config": " Przeładuj konfigurację",
+
+  "  Reload": " Przeładuj",
+  
+  "Load the gateway config to adjust tool profiles.": "Załaduj konfigurację bramy, aby dostosować profile narzędzi.",
+  "  This agent is using an explicit allowlist in config. Tool overrides are managed in the Config tab.": "Ten agent używa w konfiguracji jawnej listy dozwolonych. Nadpisania narzędzi są zarządzane w zakładce 'Konfiguracja'.",
+  "  Global tools.allow is set. Agent overrides cannot enable tools that are globally blocked.": "Ustawiono globalne tools.allow. Nadpisania agenta nie mogą włączyć narzędzi, które są globalnie zablokowane.",
+
+  ">Profile<": ">Profil<",
+  ">Source<": ">Źródło<",
+  ">unsaved<": ">niezapisane<",
+
+  ">Quick Presets<": ">Szybkie ustawienia wstępne<",
+  "  Inherit": " Dziedzicz",
+
+  "Per-agent skill allowlist and workspace skills.": "Lista dozwolonych umiejętności dla każdego agenta i umiejętności obszaru roboczego.",
+  "Load the gateway config to set per-agent skills.": "Załaduj konfigurację bramy, aby ustawić umiejętności dla każdego agenta.",
+  "This agent uses a custom skill allowlist.": "Ten agent używa niestandardowej listy dozwolonych umiejętności.",
+  "All skills are enabled. Disabling any skill will create a per-agent allowlist.": "Wszystkie umiejętności są włączone. Wyłączenie dowolnej umiejętności utworzy listę dozwolonych dla tego agenta.",
+  "Load skills for this agent to view workspace-specific entries.": "Załaduj umiejętności dla tego agenta, aby wyświetlić wpisy specyficzne dla obszaru roboczego."
+
+}

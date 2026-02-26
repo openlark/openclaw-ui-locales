@@ -1,0 +1,91 @@
+{
+  "Channel health": "Stav kanálu",
+  "Channel status snapshots from the gateway.": "Snímky stavu kanálů z brány.",
+  "No snapshot yet.": "Zatím žádný snímek.",
+  "Channel status and configuration.": "Stav a konfigurace kanálu.",
+  "\"Yes\"": "\"Ano\"",
+  "\"Active\"": "\"Aktivní\"",
+  "\"No\"": "\"Ne\"",
+  ">Running<": ">Běží<",
+  ">Connected<": ">Připojeno<",
+
+  
+  "Schema unavailable. Use Raw.": "Schéma nedostupné. Použijte nezpracovaná data.",
+  "Channel config schema unavailable.": "Schéma konfigurace kanálu není k dispozici.",
+  "Loading config schema…": "Načítání schématu konfigurace…",
+
+  ">Configured<": ">Nakonfigurováno<",
+  ">Linked<": ">Propojeno<",
+  ">Last start<": ">Poslední spuštění<",
+  ">Last probe<": ">Poslední sonda<",
+  ">Last connect<": ">Poslední připojení<",
+  ">Last message<": ">Poslední zpráva<",
+  ">Last inbound<": ">Poslední příchozí<",
+  ">Auth age<": ">Stáří autentizace<",
+  ">Mode<": ">Režim<",
+  ">Credential<": ">Pověření<",
+  ">Public Key<": ">Veřejný klíč<",
+  ">Audience<": ">Cílová skupina<",
+  ">Profile<": ">Profil<",
+
+  "No profile set. Click \"Edit Profile\" to add your name, bio, and avatar.": "Není nastaven žádný profil. Kliknutím na 'Upravit profil' přidáte své jméno, bio a avatar.",
+  "\"Saving…\"": "\"Ukládá se…\"",
+  "\"Save\"": "\"Uložit\"",
+  "  probe": " sonda",
+  
+  "  Probe": " Sonda",
+  "\"ok\" \\:": "\"úspěch\" :",
+  "\"failed\"": "\"neúspěch\"",
+  
+  "Decentralized DMs via Nostr relays \\(NIP-04\\).": "Decentralizované soukromé zprávy přes Nostr relaye (NIP-04).",
+
+
+  "Chat API webhook status and channel configuration.": "Stav webhooku Chat API a konfigurace kanálu.",
+  
+  "macOS bridge status and channel configuration.": "Stav mostu macOS a konfigurace kanálu.",
+
+  
+  ">Edit Profile<": ">Upravit profil<",
+  ">Account: ": ">Účet: ",
+  
+  "\"Username\"": "\"Uživatelské jméno\"",
+  "\"Short username \\(": "\"Krátké uživatelské jméno (",
+  "\"Display Name\"": "\"Zobrazované jméno\"",
+  "Your full display name": "Vaše celé zobrazované jméno",
+  "\"Bio\"": "\"Bio\"",
+  "Tell people about yourself...": "Řekněte lidem o sobě...",
+  "\"Avatar URL\"": "\"URL avataru\"",
+  "A brief bio or description": "Stručné bio nebo popis",
+  "\"Banner URL\"": "\"URL banneru\"",
+  "HTTPS URL to your profile picture": " HTTPS URL vašeho profilového obrázku",
+  "HTTPS URL to a banner image": "HTTPS URL obrázku banneru",
+  "\"Website\"": "\"Webová stránka\"",
+  "Your personal website": "Vaše osobní webová stránka",
+  "\"NIP-05 Identifier\"": "\"Identifikátor NIP-05\"",
+  "\"Verifiable identifier ": "\"Ověřitelný identifikátor ",
+  "\"Lightning Address\"": "\"Lightning adresa\"",
+  "\"Lightning address for tips ": "\"Lightning adresa pro spropitné ",
+  "\"Saving...\"": "\"Ukládání...\"",
+  "Save & Publish": "Uložit a publikovat",
+  "\"Importing...\"": "\"Importování...\"",
+  "\"Import from Relays\"": "\"Import z relayů\"",
+  "\"Hide Advanced\"": "\"Skrýt pokročilé\"",
+  "\"Show Advanced\"": "\"Zobrazit pokročilé\"",
+  "  You have unsaved changes": "  Máte neuložené změny",
+
+  ">Display Name<": ">Zobrazované jméno<",
+  ">About<": ">O mně<",
+
+  ">Accounts ": ">Účty ",
+
+  
+  "signal-cli status and channel configuration.": "Stav signal-cli a konfigurace kanálu.",
+  ">Base URL<": ">Základní URL<",
+
+  
+  "Socket mode status and channel configuration.": "Stav socketového režimu a konfigurace kanálu.",
+  
+  "Bot status and channel configuration.": "Stav robota a konfigurace kanálu.",
+  
+  "Link WhatsApp Web and monitor connection health.": "Propojte WhatsApp Web a sledujte stav připojení."
+}

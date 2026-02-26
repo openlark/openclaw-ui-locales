@@ -1,0 +1,23 @@
+{
+  "Compacting context...": "Συμπίεση περιβάλλοντος...",
+  "Context compacted": "Το περιβάλλον συμπιέστηκε",
+  "Attachment preview": "Προεπισκόπηση συνημμένου",
+  "Remove attachment": "Αφαίρεση συνημμένου",
+  "Add a message or paste more images...": "Προσθέστε ένα μήνυμα ή επικολλήστε περισσότερες εικόνες...",
+  "Message \\(↩ to send, Shift\\+↩ for line breaks, paste images\\)": "Μήνυμα (↩ για αποστολή, Shift+↩ για αλλαγή γραμμής, επικολλήστε εικόνες)",
+  "Connect to the gateway to start chatting…": "Συνδεθείτε στην πύλη για να ξεκινήσετε συνομιλία…",
+  "Loading chat…": "Φόρτωση συνομιλίας…",
+  "Exit focus mode": "Έξοδος από λειτουργία εστίασης",
+  ">Queued ": ">Σε αναμονή ",
+  "Image \\(": "Εικόνα (",
+  "Remove queued message": "Αφαίρεση μηνύματος σε αναμονή",
+  "New messages ": "Νέα μηνύματα ",
+  ">Message<": ">Μήνυμα<",
+  "\"Stop\"": "\"Διακοπή\"",
+  "New session": "Νέα συνεδρία",
+  "\"Queue\"": "\"Ουρά\"",
+  "\"Send\"": "\"Αποστολή\"",
+  "Showing last ": "Εμφάνιση τελευταίων ",
+  "\\} messages": "} μηνυμάτων",
+  "\\} hidden": "} κρυφά"
+}

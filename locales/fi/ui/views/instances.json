@@ -1,8 +1,8 @@
 {
-  ">Connected Instances<": ">Nakakonektang Instance<",
-  "\"unknown host\"": "\"hindi kilalang host\"",
-  "\"Loading…\"": "\"Naglo-load…\"",
-  "\"Refresh\"": "\"I-refresh\"",
-  ">Last input ": ">Huling input ",
-  ">Reason ": ">Dahilan "
+  ">Connected Instances<": ">Yhdistetyt instanssit<",
+  "\"unknown host\"": "\"tuntematon isäntä\"",
+  "\"Loading…\"": "\"Ladataan… \"",
+  "\"Refresh\"": "\"Päivitä\"",
+  ">Last input ": ">Viimeisin syöte ",
+  ">Reason ": ">Syy "
 }

@@ -84,6 +84,16 @@ npm run locale
 | <img src="https://j9d.cn/static/qr/wechat.png" width="150" alt="WeChat QR Code" /> | <img src="https://j9d.cn/static/qr/feishu.png" width="150" alt="Feishu QR Code" /> | <img src="https://j9d.cn/static/qr/dingtalk.png" width="150" alt="Dingtalk QR Code" /> |
 ---
 
+## 赞助
+
+感谢每位大哥的支持。
+
+
+|  微信 | 支付宝  | 
+| :---: | :---: |
+| <img src="https://j9d.cn/static/pay/wechat.png" width="150" alt="WeChat" /> | <img src="https://j9d.cn/static/pay/alipay.png" width="150" alt="Alipay" /> |
+---
+
 ## 转换不同语言的UI界面
 
 ### 简体中文版UI界面

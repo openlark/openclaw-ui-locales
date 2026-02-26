@@ -84,6 +84,17 @@ npm run locale
 
 ---
 
+## 贊助
+
+感謝每位大哥的支持。
+
+
+| 微信 | 支付寶 |
+| :---: | :---: |
+| <img src="https://j9d.cn/static/pay/wechat.png" width="150" alt="WeChat" /> | <img src="https://j9d.cn/static/pay/alipay.png" width="150" alt="Alipay" /> |
+
+---
+
 ## 轉換不同語言的 UI 介面
 
 ### 簡體中文版 UI 介面

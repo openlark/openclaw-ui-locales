@@ -5,6 +5,7 @@
 <h1 align="center">OpenClaw UI Locales</h1>
 
  English  |  [简体中文](./README_zh-CN.md)  |  [繁體中文](./README_zh-TW.md)
+ 
 
 <p align="center">
   <strong>Boundless mastery, seamless communication</strong>
@@ -15,6 +16,7 @@
   <a href="./docs/install.md">OpenClaw Install</a> 
 </p>
 
+<a href="https://liberapay.com/openlark/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 
 ## Overview
 
@@ -80,16 +82,6 @@ Join our community to connect with other users, get support, and share your expe
 | Enterprise WeChat | Feishu  | Dingtalk |
 | :---: | :---: | :---: |
 | <img src="https://j9d.cn/static/qr/wechat.png" width="150" alt="WeChat QR Code" /> | <img src="https://j9d.cn/static/qr/feishu.png" width="150" alt="Feishu QR Code" /> | <img src="https://j9d.cn/static/qr/dingtalk.png" width="150" alt="Dingtalk QR Code" /> |
----
-
-## Sponsor
-
-Thanks to every big brother for the support.
-
-
-|  WeChat | Alipay  | 
-| :---: | :---: |
-| <img src="https://j9d.cn/static/pay/wechat.png" width="150" alt="WeChat" /> | <img src="https://j9d.cn/static/pay/alipay.png" width="150" alt="Alipay" /> |
 ---
 
 ## Switching UI Interfaces to Different Languages
